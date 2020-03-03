@@ -20,7 +20,7 @@ This course teaches general knowledge about theory, application, design, and eva
 
 The course targets professionals working in finance, the sport industry, the creative industry, in journalism, education and in the public sector. It will enable them to describe a visualisation problem, to explore the data using data visualisation, to discuss and design appropriate visualisation concepts, and to implement and critically reflect on them. 
 
-The course is designed for an interdisciplinary audience, targeting participants with a background in design, data analysis, and other areas. Participants can chose from a variety of [topics](./topics.html) during the course; some topics are manadatory others can be chosen from.
+The course is designed for an interdisciplinary audience, targeting participants with a background in design, data analysis, and other areas. Participants can chose from a variety of [topics](./content.html) during the course; some topics are manadatory others can be chosen from.
 
 General __programming skills are not required__ but those with a good understanding of JavaScript or python can learn how to use visualisation libraries such as D3.js, [https://d3js.org](https://d3js.org). The final assessment will require participants to work on an open visualisation project of their choice, which can, e.g., include their own data. The end goal will be to produce one of the following: an 
 * an infographic, 

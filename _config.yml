@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: "DataVis for Professionals"
+logo: "images/datavispro-logo.png"
+relative_links:
+  enabled: true
+  collections: true

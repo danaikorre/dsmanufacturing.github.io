@@ -49,7 +49,8 @@ The final assessment will require participants to work on an open visualisation 
         <li>an infographic, </li>
         <li>an interactive visualisation (e.g., using d3.js, <a href="https://plot.ly">Plotly</a>) </li>
       </ul>
-  </tr><tr>
+  </tr>
+  <tr>
     <td  style = "horizontal-align:center;"  colspan = 2><img src = "images/interactivity.png" alt = "interactivity - coupled networks &amp; matrices width = 550"</td>
    </tr><tr>
    <td style = "vertical-align:top;">

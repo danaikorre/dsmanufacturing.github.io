@@ -18,7 +18,7 @@ Contextual knowledge plays a key role in data interpretation and use. While this
 
 ### Learning Outcomes
 1. **Analyse:** Describe a challenge for a visualisation project and the reasons why visualisation is required. 
-2. Break down the project considering its context (target audience, usage scenario), potential tasks that the visualisation should facilitate, and the characteristics of the data set.
+2. **Structure:** Break down the project considering its context (target audience, usage scenario), potential tasks that the visualisation should facilitate, and the characteristics of the data set.
 3. **Design+Implement:** Create a visualisation through one of various media (website, interactive, infographic, etc.) and through a self-selected set of tools (e.g., Tableau, D3.js), to match the earlier identified challenge.
 4. **Evaluation:** Critically reflect on a visualisation design and suggest constructive solutions. 
 5. **Apply:** Competently apply a wide range of visualisation techniques and tools, also knowing their particular features and drawbacks.
@@ -31,14 +31,14 @@ Contextual knowledge plays a key role in data interpretation and use. While this
 ## Course Summary
 
 This course teaches general knowledge about theory, application, design, and evaluation of visualisations. The goal of the course is to enable participants to understand the potential of visualisation for exploration, analysis, and communication.  
-<!-- img src = "images/data_to_vis_to_action.png" alt = "data to visualisation to information to action" / -->
+<img src = "images/data_to_vis_to_action.png" alt = "data to visualisation to information to action">
 
 The course targets professionals working in, among others, finance, the sports industry, the creative industry, in journalism, education and in the public sector. It will enable participants to describe a visualisation problem, to explore the data using data visualisation, to discuss and design appropriate visualisation concepts, and to implement and critically reflect on them. 
 
 The course is designed for an interdisciplinary audience, targeting participants with a background in design, data analysis, and other areas. In addition to core, manadatory [topics](./content.html) that aim to develop visual literacy, participants can chose from a variety of optional, more specialised topics during the course.
 
 General __programming skills are not required__ but those with a good understanding of JavaScript, python or R can learn how to use visualisation libraries such as D3.js, [https://d3js.org](https://d3js.org). The course will give you an overview of a range of commercial and open source tools to help you decide what works best for your project and skills.  
-<!-- img src = "images/tools_bcg_matrix.png" alt = "annotated tool selection" / -->
+<img src = "images/tools_bcg_matrix.png" alt = "annotated tool selection"/>
 
 The final assessment will require participants to work on an open visualisation project of their choice, which can, e.g., include their own data or use open data. The end goal could be any of, but not limited to, the following: 
 

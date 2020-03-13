@@ -19,7 +19,7 @@ Contextual knowledge plays a key role in data interpretation and use. While this
 ### Learning Outcomes
 1. **Analyse:** Describe a challenge for a visualisation project and the reasons why visualisation is required. 
 2. Break down the project considering its context (target audience, usage scenario), potential tasks that the visualisation should facilitate, and the characteristics of the data set.
-3. **Design:** Create a visualisation through one of various media (website, interactive, infographic, etc.) and through a self-selected set of tools, to match the earlier identified challenge.
+3. **Design+Implement:** Create a visualisation through one of various media (website, interactive, infographic, etc.) and through a self-selected set of tools (e.g., Tableau, D3.js), to match the earlier identified challenge.
 4. **Evaluation:** Critically reflect on a visualisation design and suggest constructive solutions. 
 5. **Apply:** Competently apply a wide range of visualisation techniques and tools, also knowing their particular features and drawbacks.
 
@@ -30,7 +30,7 @@ Contextual knowledge plays a key role in data interpretation and use. While this
 
 ## Course Summary
 
-This course teaches general knowledge about theory, application, design, and evaluation of visualisations. The goal of the course is to enable participants to understand the potential of visualisation for exploration, analysis, and communication.,  
+This course teaches general knowledge about theory, application, design, and evaluation of visualisations. The goal of the course is to enable participants to understand the potential of visualisation for exploration, analysis, and communication.  
 <!-- img src = "images/data_to_vis_to_action.png" alt = "data to visualisation to information to action" / -->
 
 The course targets professionals working in, among others, finance, the sports industry, the creative industry, in journalism, education and in the public sector. It will enable participants to describe a visualisation problem, to explore the data using data visualisation, to discuss and design appropriate visualisation concepts, and to implement and critically reflect on them. 

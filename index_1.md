@@ -15,7 +15,7 @@ It teaches the fundamentals of
 * tools for data visualisation (e.g., Tableau, Rawgraphs, D3.js).
 
 Contextual knowledge plays a key role in data interpretation and use. While this may be harnessed to create more meaningful, insightful visualisations, context may also be exploited to unfairly influence or actively mislead - topics that will be covered during the course. 
-We encourage BYOD -- that you bring and work on your own data project (we can sign non-disclosure agreements). Alternatively, class examples will include open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), [COVID-19](https://github.com/CSSEGISandData/COVID-19) and gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about), [](https://github.com/fathominfo/noceilings-data)), and [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland).
+We encourage BYOD -- that you bring and work on your own data project (we can sign non-disclosure agreements). Alternatively, class examples will include open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), [COVID-19](https://github.com/CSSEGISandData/COVID-19) and gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) ([github repository](https://github.com/fathominfo/noceilings-data)), and [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland).
 
 ### Takeaways
 * Certificate to reflect a credit-bearing course at Masters-level (SCQF Level 11)
@@ -38,13 +38,20 @@ The final assessment will require participants to work on an open visualisation 
 
 <table>
   <tr>
-    <td style = "vertical-align:top;">
+    <td style = "vertical-align:top;" colspan = 2>
       <ul>
         <li>an infographic, </li>
-        <li>an interactive visualisation (e.g., using d3.js, [Plotly](https://plot.ly)) or </li>
-        <li>a data-driven, visual story or narrative such as a [data comic](http://datacomics.net).</li>
+        <li>an interactive visualisation (e.g., using d3.js, <a href="https://plot.ly">Plotly</a>) </li>
       </ul>
-    <td style = "vertical-align:center; width:150px;"><img src = "images/assessment_examples.png" width = 100/></td>
+  </tr><tr>
+    <td  style = "horizontal-align:center;"  colspan = 2><img src = "images/interactivity.png" alt = "interactivity - coupled networks &amp; matrices"</td>
+   </tr><tr>
+   <td style = "vertical-align:top;">
+      <ul>
+        <li>a <a href="http://datacomics.net">data comic</a> or other data-driven, visual story or narrative.</li>
+      </ul>
+    </td>
+    <td style = "vertical-align:center; width:150px;"><img src = "images/visual_storytelling.png" width = 350 alt = "visual storytelling" /></td>
   </tr>
 </table>
 

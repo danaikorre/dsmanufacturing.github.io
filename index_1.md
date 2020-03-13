@@ -2,12 +2,12 @@
 
 This online course teaches how to
 * visually explore data
-* criticise data visualizations, 
-* design visualizations, and 
+* criticise data visualisations, 
+* design visualisations, and 
 * implement data visualisations. 
 
 It teaches the fundamentals of 
-* human perception and data visualization, 
+* human perception and data visualisation, 
 * exploratory data analysis and 
 * the importance of interaction in exploration, 
 * techniques for data visualisation (networks, temporal data, geographic data, etc..), 
@@ -17,22 +17,29 @@ It teaches the fundamentals of
 Contextual knowledge plays a key role in data interpretation and use. While this may be harnessed to create more meaningful, insightful visualisations, context may also be exploited to unfairly influence or actively mislead - topics that will be covered during the course. 
 We encourage BYOD -- that you bring and work on your own data project (we can sign non-disclosure agreements). Alternatively, class examples will include open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), [COVID-19](https://github.com/CSSEGISandData/COVID-19) and gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) ([github repository](https://github.com/fathominfo/noceilings-data)), and [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland).
 
-### Takeaways
-* Certificate to reflect a credit-bearing course at Masters-level (SCQF Level 11)
-* Visual representation of your dataset that enables you to answer the questions you defined around it before and during the course.
+### Learning Outcomes
+1. Analyse: Describe a challenge for a visualisation project and the reasons why visualisation is required. 
+2. Break down the project considering its context (target audience, usage scenario), potential tasks that the visualisation should facilitate, and the characteristics of the data set.
+3. Design: Create a visualisation through one of various media (website, interactive, infographic, etc.) and through a self-selected set of tools, to match the earlier identified challenge.
+4. Evaluation: Critically reflect on a visualisation design and suggest constructive solutions. 
+5. Apply: Competently apply  a wide range of visualisation techniques and tools, also knowing their particular features and drawbacks.
+
+### Takeaways 
+* A certificate to reflect a credit-bearing course at Masters-level (SCQF Level 11)
+* Visual representation of your dataset that enables you to answer the challenge you defined around it before and during the course.
 * Skills to develop further visual literacy to support data-driven work.
 
 ## Course Summary
 
 This course teaches general knowledge about theory, application, design, and evaluation of visualisations. The goal of the course is to enable participants to understand the potential of visualisation for exploration, analysis, and communication.,  
-![data to visualisation to information to action]({{ site.baseurl }}/images/data_to_vis_to_action.png "data to visualisation to information to action")
+<!-- img src = "images/data_to_vis_to_action.png" alt = "data to visualisation to information to action" / -->
 
 The course targets professionals working in, among others, finance, the sports industry, the creative industry, in journalism, education and in the public sector. It will enable participants to describe a visualisation problem, to explore the data using data visualisation, to discuss and design appropriate visualisation concepts, and to implement and critically reflect on them. 
 
 The course is designed for an interdisciplinary audience, targeting participants with a background in design, data analysis, and other areas. In addition to core, manadatory [topics](./content.html) that aim to develop visual literacy, participants can chose from a variety of optional, more specialised topics during the course.
 
 General __programming skills are not required__ but those with a good understanding of JavaScript, python or R can learn how to use visualisation libraries such as D3.js, [https://d3js.org](https://d3js.org). The course will give you an overview of a range of commercial and open source tools to help you decide what works best for your project and skills.  
-![annotated tool selection]({{ site.baseurl }}/images/tools_bcg_matrix.png "annotated tool selection")
+<!-- img src = "images/tools_bcg_matrix.png" alt = "annotated tool selection" / -->
 
 The final assessment will require participants to work on an open visualisation project of their choice, which can, e.g., include their own data or use open data. The end goal could be any of, but not limited to, the following: 
 
@@ -44,11 +51,11 @@ The final assessment will require participants to work on an open visualisation 
         <li>an interactive visualisation (e.g., using d3.js, <a href="https://plot.ly">Plotly</a>) </li>
       </ul>
   </tr><tr>
-    <td  style = "horizontal-align:center;"  colspan = 2><img src = "images/interactivity.png" alt = "interactivity - coupled networks &amp; matrices"</td>
+    <td  style = "horizontal-align:center;"  colspan = 2><img src = "images/interactivity.png" alt = "interactivity - coupled networks &amp; matrices width = 550"</td>
    </tr><tr>
    <td style = "vertical-align:top;">
       <ul>
-        <li>a <a href="http://datacomics.net">data comic</a> or other data-driven, visual story or narrative.</li>
+        <li>a data-driven, visual story or narrative such as a <a href="http://datacomics.net">data comic</a>.</li>
       </ul>
     </td>
     <td style = "vertical-align:center; width:150px;"><img src = "images/visual_storytelling.png" width = 350 alt = "visual storytelling" /></td>

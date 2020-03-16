@@ -44,7 +44,7 @@ The final assessment will require participants to work on an open visualisation 
 
 <table>
   <tr>
-    <td style = "vertical-align:top;" colspan = 2>
+    <td style = "vertical-align:top;" colspan = "2">
       <ul>
         <li>an infographic, </li>
         <li>an interactive visualisation (e.g., using d3.js, <a href="https://plot.ly">Plotly</a>) </li>
@@ -52,9 +52,10 @@ The final assessment will require participants to work on an open visualisation 
     </td>
   </tr>
   <tr>
-    <td  style = "horizontal-align:center;"  colspan = 2><img src = "images/interactivity.png" alt = "interactivity - coupled networks &amp; matrices width = 550"</td>
-   </tr><tr>
-   <td style = "vertical-align:top;">
+    <td  style = "horizontal-align:center;"  colspan = "2"><img src = "images/interactivity.png" alt = "interactivity - coupled networks &amp; matrices" width = 550 />
+    </td>
+  </tr><tr>
+    <td style = "vertical-align:top;">
       <ul>
         <li>a data-driven, visual story or narrative such as a <a href="http://datacomics.net">data comic</a>.</li>
       </ul>

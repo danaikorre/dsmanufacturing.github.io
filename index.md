@@ -44,6 +44,12 @@ The final assessment will require participants to work on an open visualisation 
 
 <table>
   <tr>
+    <td style="vertical-align:top;width:100px;"><img src="images/interactivity.png"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td style = "vertical-align:top;" colspan = "2">
       <ul>
         <li>an infographic, </li>

@@ -21,7 +21,7 @@ Contextual knowledge plays a key role in data interpretation and use. While this
 2. **Structure:** Break down the project considering its context (target audience, usage scenario), potential tasks that the visualisation should facilitate, and the characteristics of the data set.
 3. **Design+Implement:** Create a visualisation through one of various media (website, interactive, infographic, etc.) and through a self-selected set of tools (e.g., Tableau, D3.js), to match the earlier identified challenge.
 4. **Evaluation:** Critically reflect on a visualisation design and suggest constructive solutions. 
-5. **Apply:** Competently apply a wide range of visualisation techniques and tools, also knowing their particular features and drawbacks.
+5. **Apply:** Competently apply a wide range of visualisation techniques and tools, also knowing their particular features and drawbacks.le
 
 ### Takeaways 
 * A **certificate** to reflect a 10 credit-bearing course at Masters-level (SCQF Level 11)
@@ -49,6 +49,7 @@ The final assessment will require participants to work on an open visualisation 
         <li>an infographic, </li>
         <li>an interactive visualisation (e.g., using d3.js, <a href="https://plot.ly">Plotly</a>) </li>
       </ul>
+    </td>
   </tr>
   <tr>
     <td  style = "horizontal-align:center;"  colspan = 2><img src = "images/interactivity.png" alt = "interactivity - coupled networks &amp; matrices width = 550"</td>

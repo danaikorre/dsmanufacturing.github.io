@@ -38,7 +38,7 @@ The course targets professionals working in, among others, finance, the sports i
 The course is designed for an interdisciplinary audience, targeting participants with a background in design, data analysis, and other areas. In addition to core, manadatory [topics](./content.html) that aim to develop visual literacy, participants can chose from a variety of optional, more specialised topics during the course.
 
 General __programming skills are not required__ but those with a good understanding of JavaScript, python or R can learn how to use visualisation libraries such as D3.js, [https://d3js.org](https://d3js.org). The course will give you an overview of a range of commercial and open source tools to help you decide what works best for your project and skills.  
-<img src = "images/tools_bcg_matrix.png" alt = "annotated tool selection"/ >
+<img src = "images/tools_bcg_matrix.png" alt = "annotated tool selection"></img>
 
 The final assessment will require participants to work on an open visualisation project of their choice, which can, e.g., include their own data or use open data. The end goal could be any of, but not limited to, the following: 
 

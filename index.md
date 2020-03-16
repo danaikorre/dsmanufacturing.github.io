@@ -56,7 +56,7 @@ The final assessment will require participants to work on an open visualisation 
 </table>
 <table>
   <tr>
-    <td style = "vertical-align:top;width:400px;">
+    <td style = "vertical-align:top;width:200px;">
       <ul>
         <li>a data-driven, visual story or narrative such as a <a href="http://datacomics.net">data comic</a>.</li>
       </ul>

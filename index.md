@@ -33,7 +33,7 @@ Contextual knowledge plays a key role in data interpretation and use. While this
 This course teaches general knowledge about theory, application, design, and evaluation of visualisations. The goal of the course is to enable participants to understand the potential of visualisation for exploration, analysis, and communication.  
 <img src = "images/data_to_vis_to_action.png" alt = "data to visualisation to information to action"></img>
 
-The course targets professionals working in, among others, finance, the sports industry, the creative industry, in journalism, education and in the public sector. It will enable participants to describe a visualisation problem, to explore the data using data visualisation, to discuss and design appropriate visualisation concepts, and to implement and critically reflect on them. 
+The course targets professionals working in, among others, finance, the sports industry, the creative industry, in journalism, education and in the public sector. It will enable participants to describe a visualisation problem, to explore the data using data visualisation, to discuss and design appropriate visualisation concepts, and to implement and critically reflect on them. The bi-disciplinary approach, from the Computer Science and Social Sciences perspectives, aims to increase accessibility and ensures both grounding in technical understanding and application across sectors.  
 
 The course is designed for an interdisciplinary audience, targeting participants with a background in design, data analysis, and other areas. In addition to core, manadatory [topics](./content.html) that aim to develop visual literacy, participants can chose from a variety of optional, more specialised topics during the course.
 

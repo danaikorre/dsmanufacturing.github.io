@@ -60,7 +60,7 @@ The final assessment will require participants to work on an open visualisation 
         <li>a data-driven, visual story or narrative such as a <a href="http://datacomics.net">data comic</a>.</li>
       </ul>
     </td>
-    <td style = "vertical-align:center; width:150px;"><img src = "images/visual_storytelling.png" width = 350 /></td>
+    <td style = "vertical-align:center; width:150px;"><img src = "images/visual_storytelling.png" width = 350></img></td>
   </tr>
 </table>
 

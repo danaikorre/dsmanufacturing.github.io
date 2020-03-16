@@ -44,7 +44,25 @@ The final assessment will require participants to work on an open visualisation 
 
 <table>
   <tr>
-    <td style="vertical-align:top;width:100px;"><img src="images/interactivity.png"/></td>
+    <td style="vertical-align:top;">
+      <ul>
+        <li>an infographic, </li>
+        <li>an interactive visualisation (e.g., using d3.js, <a href="https://plot.ly">Plotly</a>) </li>
+      </ul>
+    </td>
+  </tr><tr>
+    <td style="vertical-align:top;"><img src="images/interactivity.png"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style = "vertical-align:top;">
+      <ul>
+        <li>a data-driven, visual story or narrative such as a <a href="http://datacomics.net">data comic</a>.</li>
+      </ul>
+    </td>
+    <td style="vertical-align:top;width:400px;"><img src="images/visual_storytelling.png"/></td>
   </tr>
 </table>
 

@@ -50,11 +50,13 @@ The final assessment will require participants to work on an open visualisation 
         <li>an interactive visualisation (e.g., using d3.js, <a href="https://plot.ly">Plotly</a>) </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td  style = "horizontal-align:center;" ><img src = "images/interactivity.png" alt = "interactivity - coupled networks &amp; matrices" width = 550 />
-    </td>
   </tr><tr>
+    <td  style = "horizontal-align:center;" colspan = "2"><img src = "images/interactivity.png" alt = "interactivity - coupled networks &amp; matrices" width = 550></img>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td style = "vertical-align:top;">
       <ul>
         <li>a data-driven, visual story or narrative such as a <a href="http://datacomics.net">data comic</a>.</li>

@@ -52,7 +52,7 @@ The final assessment will require participants to work on an open visualisation 
     </td>
   </tr>
   <tr>
-    <td  style = "horizontal-align:center;"  colspan = "2"><img src = "images/interactivity.png" alt = "interactivity - coupled networks &amp; matrices" width = 550 />
+    <td  style = "horizontal-align:center;" ><img src = "images/interactivity.png" alt = "interactivity - coupled networks &amp; matrices" width = 550 />
     </td>
   </tr><tr>
     <td style = "vertical-align:top;">

@@ -51,44 +51,20 @@ The final assessment will require participants to work on an open visualisation 
       </ul>
     </td>
   </tr><tr>
-    <td style="vertical-align:top;"><img src="images/interactivity.png"/></td>
+    <td style="vertical-align:top;"><img src="images/interactivity.png" alt = "interactivity - coupled networks &amp; matrices" /></td>
   </tr>
 </table>
-
 <table>
   <tr>
-    <td style = "vertical-align:top;">
+    <td style = "vertical-align:bottom;width:400px;">
       <ul>
         <li>a data-driven, visual story or narrative such as a <a href="http://datacomics.net">data comic</a>.</li>
       </ul>
     </td>
-    <td style="vertical-align:top;width:400px;"><img src="images/visual_storytelling.png"/></td>
+    <td style="vertical-align:top"><img src="images/visual_storytelling.png" width = 350/></td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td style = "vertical-align:top;" colspan = "2">
-      <ul>
-        <li>an infographic, </li>
-        <li>an interactive visualisation (e.g., using d3.js, <a href="https://plot.ly">Plotly</a>) </li>
-      </ul>
-    </td>
-  </tr><tr>
-    <td  style = "horizontal-align:center;" colspan = "2"><img src = "images/interactivity.png" alt = "interactivity - coupled networks &amp; matrices" width = 550></img>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td style = "vertical-align:top;">
-      <ul>
-        <li>a data-driven, visual story or narrative such as a <a href="http://datacomics.net">data comic</a>.</li>
-      </ul>
-    </td>
-    <td style = "vertical-align:center; width:150px;"><img src = "images/visual_storytelling.png" width = 350></img></td>
-  </tr>
-</table>
 
 Individual help and feedback will be provided through forums and email, drop-in online-sessions, and local workshops in Edinburgh. 
 

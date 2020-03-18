@@ -24,10 +24,6 @@
 </ul>
    </td>
   </tr>
-</table>  
-  
-
-<table>
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="images/aba-sah.jpg"/></td>
     <td style="vertical-align:top;">

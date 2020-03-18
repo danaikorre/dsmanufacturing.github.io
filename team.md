@@ -13,7 +13,7 @@
   <li><a href="http://datacomics.net">Data Comics</a></li>
 </ul>
 
-Research Interests: 
+<br />Research Interests: 
 <ul>
   <li>Network Visualization</li>
   <li>Visualization of spatio-temporal data</li>
@@ -27,20 +27,26 @@ Research Interests:
 </table>  
   
 
+<table>
+  <tr>
+    <td style="vertical-align:top;width:100px;"><img src="images/aba-sah.jpg" width = 300/></td>
+    <td style="vertical-align:top;">
+      <b>Aba-Sah Dadzie, PhD,</b> joined the Visual+Interactive Data group at the University of Edinburgh to work on design and delivery of an online course in data visualisation targeted at professionals working across Scotland. With a background also in Human-Computer Interaction she works at the intersection between research in visual analytics and application to interaction with today's big data and the digital economy.
 
-__Aba-Sah Dadzie, PhD__, joined the Visual+Interactive Data group at the University of Edinburgh to work on design and delivery of an online course in data visualisation targeted at professionals working across Scotland. With a background also in Human-Computer Interaction she works at the intersection between research in visual analytics and application to interaction with today's big data and the digital economy.
-
+<br />
 Research Interests:
-  <ul>
-    <li>Visual analytics</li>
-    <li>High-dimensional visualisation</li>
-    <li>Visualisation-driven participatory design</li>
-    <li>Storytelling with data</li><br />
-    <li>Citizen data science and public understanding of science</li>
-    <li>Semantic web technology</li>
-    <li>Social media analytics</li>
-  </ul>
-  
+    <ul>
+      <li>Visual analytics</li>
+      <li>High-dimensional visualisation</li>
+      <li>Visualisation-driven participatory design</li>
+      <li>Storytelling with data</li><br />
+      <li>Citizen data science and public understanding of science</li>
+      <li>Semantic web technology</li>
+      <li>Social media analytics</li>
+    </ul>
+   </td>
+  </tr>
+</table>
   
 __Gian Marco Campagnolo, PhD__, Lecturer at University of Edinburgh
 

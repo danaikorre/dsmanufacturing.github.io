@@ -29,7 +29,7 @@
 
 <table>
   <tr>
-    <td style="vertical-align:top;width:100px;"><img src="images/aba-sah.jpg" width = 300/></td>
+    <td style="vertical-align:top;width:100px;"><img src="images/aba-sah.jpg"/></td>
     <td style="vertical-align:top;">
       <b>Aba-Sah Dadzie, PhD,</b> joined the Visual+Interactive Data group at the University of Edinburgh to work on design and delivery of an online course in data visualisation targeted at professionals working across Scotland. With a background also in Human-Computer Interaction she works at the intersection between research in visual analytics and application to interaction with today's big data and the digital economy.
 

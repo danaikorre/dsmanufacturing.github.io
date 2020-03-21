@@ -21,11 +21,11 @@ This course is **not**
 This course **WILL**
 * help you to develop analytical thinking and engage with your data,
 * teach you how to handle ambiguity in your data,
-* help you to complement your domain expertise with creativity for problem solving,
+* help you to complement your domain expertise with creativity for problem solving and knowledge discovery,
 * teach how to assess and match your data needs to functionality and tools for data visualisation (with examples drawn from a variety of tools including Tableau, Rawgraphs, D3.js).
 
 
-Contextual knowledge plays a key role in data interpretation and use. While this may be harnessed to create more meaningful, insightful visualisations, context may also be exploited to unfairly influence or actively mislead - topics that will be covered during the course. We encourage **BYOD---bring and work on your own data project** (we can sign non-disclosure agreements). Alternatively, class examples will include open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), [COVID-19](https://github.com/CSSEGISandData/COVID-19) and gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) ([github repository](https://github.com/fathominfo/noceilings-data)), and [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland).
+Contextual knowledge plays a key role in data interpretation and use. While this may be harnessed to create more meaningful, insightful visualisations, context may also be exploited to unfairly influence or actively mislead - topics that will be covered during the course. We encourage **BYOD---bring and work on your own data project** (we can sign non-disclosure agreements). Alternatively, class examples will include open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), [COVID-19](https://github.com/CSSEGISandData/COVID-19) and gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) --- [github repository](https://github.com/fathominfo/noceilings-data)), and [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland).
 
 ### Learning Outcomes
 1. **Analyse:** Describe a challenge for a visualisation project and the reasons why visualisation is required. 
@@ -95,10 +95,10 @@ The course delivery is meant to be as flexible as possible to accommodate each p
 
 Tutorials and talks will be held at the University of Edinburgh and live-streamd and recorded for an online audience. 
 
-Prior to course start, we aim to work with selected participants to shape the course to best accomodate specific needs of working professionals. If you would like to contribute to these sessions please indicate this when registering interest.
-
 
 __[Register interest](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest)__
+
+Prior to course start, we aim to work with selected participants to shape the course to best accomodate specific needs of working professionals. If you would like to contribute to these sessions please indicate this when [registering interest](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest).
 
 ## Course Delivery Information
 * Start Date: 15 June 2020

@@ -21,7 +21,7 @@ Contextual knowledge plays a key role in data interpretation and use. While this
 2. **Structure:** Break down the project considering its context (target audience, usage scenario), potential tasks that the visualisation should facilitate, and the characteristics of the data set.
 3. **Design+Implement:** Create a visualisation through one of various media (website, interactive, infographic, etc.) and through a self-selected set of tools (e.g., Tableau, D3.js), to match the earlier identified challenge.
 4. **Evaluation:** Critically reflect on a visualisation design and suggest constructive solutions. 
-5. **Apply:** Competently apply a wide range of visualisation techniques and tools, also knowing their particular features and drawbacks.le
+5. **Apply:** Competently apply a wide range of visualisation techniques and tools, also knowing their particular features and drawbacks.
 
 ### Takeaways 
 * A **certificate** to reflect a 10 credit-bearing course at Masters-level (SCQF Level 11)
@@ -41,7 +41,7 @@ This course teaches general knowledge about theory, application, design, and eva
 
 The course targets professionals working in, among others, finance, the sports industry, the creative industry, in journalism, education and in the public sector. It will enable participants to describe a visualisation problem, to explore the data using data visualisation, to discuss and design appropriate visualisation concepts, and to implement and critically reflect on them. The bi-disciplinary approach, from the Computer Science and Social Sciences perspectives, aims to increase accessibility and ensures both grounding in technical understanding and application across sectors.  
 
-The course is designed for an interdisciplinary audience, targeting participants with a background in design, data analysis, and other areas. In addition to core, manadatory [topics](./content.html) that aim to develop visual literacy, participants can chose from a variety of optional, more specialised topics during the course.
+The course is designed for an interdisciplinary audience, targeting participants with a background in design, data analysis, and other areas. In addition to core, mandatory [topics](./content.html) that aim to develop visual literacy, participants can chose from a variety of optional, more specialised topics during the course.
 
 General __programming skills are not required__ but those with a good understanding of JavaScript, python or R can learn how to use visualisation libraries such as D3.js, [https://d3js.org](https://d3js.org). The course will give you an overview of a range of commercial and open source tools to help you decide what works best for your project and skills.  
 <table>
@@ -80,9 +80,9 @@ The final assessment will require participants to work on an open visualisation 
 
 In addition to self-directed, online learning, individual help and feedback will be provided through forums and email, drop-in online-sessions, and local workshops in Edinburgh. 
 
-Tutorials and talks will be held at the University of Edinburgh, and along with external seminars, will be live-streamd and recorded for an online audience. 
+Tutorials and talks will be held at the University of Edinburgh, and along with external seminars, will be live-streamed and recorded for an online audience. 
 
 We aim to ensure course delivery is as flexible as possible to accommodate each participant’s work schedule. Course content is delivered through recorded online video lectures, suggested readings, online tutorials, quizzes, exercises that can be handed in to obtain feedback as well as optional advanced modules.
 
-Prior to course start, we aim to work with selected participants to shape the course to best accomodate specific needs of working professionals. If you would like to contribute to these sessions please indicate this when [registering interest](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest).
+Prior to course start, we aim to work with selected participants to shape the course to best accommodate specific needs of working professionals. If you would like to contribute to these sessions please indicate this when [registering interest](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest).
 Alternatively, please <!-- fill in a brief questionnaire and provide an --> <a href="mailto:datavisonline@gmail.com">e-mail us</a>.

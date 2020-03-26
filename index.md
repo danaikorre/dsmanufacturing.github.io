@@ -13,6 +13,11 @@ It teaches the fundamentals of
 * techniques for data visualisation (networks, temporal data, geographic data, etc..), 
 * storytelling and communication.
 
+With an aim to build skills that allow participants to directly apply their learning, the course features
+* seminars by guest speakers from academia and industry illustrating application of data visualisation in a variety of fields and the benefits this brings to creating value and gaining a competitive edge
+* mini tutorials for a selection of free, open source and commercial data visualisation and visual analytics tools
+* dedicated support for defining a data visualisation brief, creating a design to meet the requirements identified, and, within the constraints of the course. building a visualisation-driven solution.
+
 Browse further detail on the __[course structure](organisation.md)__
 
 ## [Register interest](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest)

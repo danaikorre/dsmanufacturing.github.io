@@ -48,7 +48,7 @@ If you __do not__ meet the minimum academic requirement, you may still be consid
 
 * a basic knowledge of programming in Python or JavaScript.
 * experience using Adobe Illustrator or equivalent
-* experience creating basic visualisations in Excel, Tableau or PowerBI
+* experience creating basic visualisations in, e.g., Excel, SAS, Tableau or PowerBI
 
 If you are unsure whether you meet these criteria please send your CV to [bayes-training@ed.ac.uk](bayes-training@ed.ac.uk).
 

@@ -18,11 +18,23 @@ With an aim to build skills that allow participants to directly apply their lear
 * mini tutorials for a selection of free, open source and commercial data visualisation and visual analytics tools
 * dedicated support for defining a data visualisation brief, creating a design to meet the requirements identified, and, within the constraints of the course. building a visualisation-driven solution.
 
+### Learning Outcomes
+1. **Analyse:** Describe a challenge for a visualisation project and the reasons why visualisation is required. 
+2. **Structure:** Break down the project considering its context (target audience, usage scenario), potential tasks that the visualisation should facilitate, and the characteristics of the data set.
+3. **Design+Implement:** Create a visualisation through one of various media (website, interactive, infographic, etc.) and through a self-selected set of tools (e.g., Tableau, D3.js), to match the earlier identified challenge.
+4. **Evaluation:** Critically reflect on a visualisation design and suggest constructive solutions. 
+5. **Apply:** Competently apply a wide range of visualisation techniques and tools, also knowing their particular features and drawbacks.
+
+### Takeaways 
+* A **certificate** to reflect a 10 credit-bearing course at Masters-level (SCQF Level 11)
+* **Visual representation** of your dataset that enables you to answer the challenge you defined around it before and during the course.
+* **Skills** to develop further visual literacy to support data-driven work.
+
 Browse further detail on the __[course structure](organisation.md)__
 
 ## [Register interest](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest)
 
-Prior to course start, we aim to work with selected participants to shape the course to best accomodate specific needs of working professionals. If you would like to contribute to these sessions please indicate this when [registering interest](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest).
+Prior to course start, we aim to work with selected participants to shape the course to best accommodate specific needs of working professionals. If you would like to contribute to these sessions please indicate this when [registering interest](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest).
 
 ## Course Delivery Information
 * Start Date: 15 June 2020

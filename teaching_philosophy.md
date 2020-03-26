@@ -1,4 +1,4 @@
-# Teaching Approach / hilosophy
+# Teaching Approach / Philosophy
 
 Visual literacy and culture, visualisation design and target audience all account for differences in interpretation and use of visualisations. How do you design to ensure your audience receives the message you intend to deliver?
 

@@ -14,8 +14,8 @@ It teaches the fundamentals of
 * storytelling and communication.
 
 With an aim to build skills that allow participants to directly apply their learning, the course features
-* seminars by guest speakers from academia and industry illustrating application of data visualisation in a variety of fields and the benefits this brings to creating value and gaining a competitive edge
-* mini tutorials for a selection of free, open source and commercial data visualisation and visual analytics tools
+* seminars by guest speakers from academia and industry illustrating application of data visualisation in a variety of fields and the benefits this brings to creating value and gaining a competitive edge,
+* mini tutorials for a selection of free, open source and commercial data visualisation and visual analytics tools, to demonstrate the range of features available, skills required and user support, for deriving insight into data through visual exploration and analysis,
 * dedicated support to define a data visualisation brief, ideally using participants' own data, create a design to meet the requirements identified, and, within the constraints of the course, build a visualisation-driven solution.
 
 ### Learning Outcomes

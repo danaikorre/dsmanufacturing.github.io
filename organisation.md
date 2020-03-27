@@ -84,5 +84,4 @@ Tutorials and talks will be held at the University of Edinburgh, and along with 
 
 We aim to ensure course delivery is as flexible as possible to accommodate each participant’s work schedule. Course content is delivered through recorded online video lectures, suggested readings, online tutorials, quizzes, exercises that can be handed in to obtain feedback as well as optional advanced modules.
 
-Prior to course start, we aim to work with selected participants to shape the course to best accommodate specific needs of working professionals. If you would like to contribute to these sessions please indicate this when [registering interest](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest).
-Alternatively, please <!-- fill in a [brief questionnaire](https://forms.gle/4Z6wTZkoHMsNL5Yu5) or --> <a href="mailto:datavisonline@gmail.com">e-mail us</a>.
+Prior to course start, we aim to work with selected participants to shape the course to best accommodate specific needs of working professionals. If you would like to contribute to these sessions please indicate this when [registering interest](https://forms.gle/4Z6wTZkoHMsNL5Yu5), or [e-mail us](https://forms.gle/4Z6wTZkoHMsNL5Yu5).

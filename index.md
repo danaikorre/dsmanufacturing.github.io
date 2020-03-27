@@ -32,9 +32,9 @@ With an aim to build skills that allow participants to directly apply their lear
 
 Browse further detail on the __[course structure](organisation.md)__
 
-## [Register interest](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest)
+## [Register interest](https://forms.gle/4Z6wTZkoHMsNL5Yu5)
 
-Prior to course start, we aim to work with selected participants to shape the course to best accommodate specific needs of working professionals. If you would like to contribute to these sessions please indicate this when [registering interest](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest).
+Prior to course start, we aim to work with selected participants to shape the course to best accommodate specific needs of working professionals. If you would like to contribute to these sessions please indicate this when [registering interest](https://forms.gle/4Z6wTZkoHMsNL5Yu5).
 
 ## Course Delivery Information
 * Start Date: 15 June 2020

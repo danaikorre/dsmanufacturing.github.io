@@ -16,6 +16,7 @@ It covers the fundamentals of
 * storytelling and communication,
 * tools for data visualization,
 * evaluation.
+* programming skills are not required but those with a good understanding of JavaScript, python or R can learn how to use visualisation libraries such as D3.js, https://d3js.org
 
 With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __mini tutorials__, __drop-in sessions__,  __complimentary online teaching material__, and  __seminars by guest speakers__. Know more about the [Course organization](organisation.html) and its [schedule](content.html) 
 

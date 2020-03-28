@@ -1,22 +1,30 @@
-# Data Visualisation for Professionals
+# Online course in Data Visualisation for Professionals
+
+The [University of Edinburgh](https://www.ed.ac.uk) is hosting a university-certified _10 credits_ online course in data visualziation from __June 15- July 17 (5 weeks)__, dedicated to professionals in, among others, finance, the sports industry, the creative industry, in journalism, education and in the public sector.
 
 This online course teaches how to
-* visually explore data
-* criticise data visualisations, 
-* design visualisations, and 
-* implement data visualisations. 
+* visually __explore__ data
+* __criticise__ data visualisations, 
+* __design__ visualisations, and 
+* __implement__ data visualisations. 
 
-It teaches the fundamentals of 
+It covers the fundamentals of 
 * human perception and data visualisation, 
-* exploratory data analysis and 
+* exploratory data analysis,
 * the importance of interaction in exploration, 
 * techniques for data visualisation (networks, temporal data, geographic data, etc..), 
-* storytelling and communication.
+* storytelling and communication,
+* tools for data visualization,
+* evaluation.
 
 With an aim to build skills that allow participants to directly apply their learning, the course features
-* seminars by guest speakers from academia and industry illustrating application of data visualisation in a variety of fields and the benefits this brings to creating value and gaining a competitive edge,
-* mini tutorials for a selection of free, open source and commercial data visualisation and visual analytics tools, to demonstrate the range of features available, skills required and user support, for deriving insight into data through visual exploration and analysis,
-* dedicated support to define a data visualisation brief, ideally using participants' own data, create a design to meet the requirements identified, and, within the constraints of the course, build a visualisation-driven solution.
+* __seminars by guest speakers__ from academia and industry illustrating application of data visualisation in a variety of fields and the benefits this brings to creating value and gaining a competitive edge,
+* __video lectures__ and __reading materials__
+* __mini tutorials__ for a selection of free, open source and commercial data visualisation and visual analytics tools, to demonstrate the range of features available, skills required and user support, for deriving insight into data through visual exploration and analysis,
+* __dedicated support__ to define a data visualisation brief, ideally using participants' own data, create a design to meet the requirements identified, and, within the constraints of the course, build a visualisation-driven solution.
+* __Complimentary teaching material__
+
+Know more about the [Course organization](https://datavis-online.github.io/organisation.html). 
 
 ### Learning Outcomes
 1. **Analyse:** Describe a challenge for a visualisation project and the reasons why visualisation is required. 

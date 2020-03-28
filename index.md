@@ -17,9 +17,7 @@ It covers the fundamentals of
 * tools for data visualization,
 * evaluation.
 
-With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __mini tutorials__, __drop-in sessions__,  __complimentary online teaching material__, and  __seminars by guest speakers__.
-
-Know more about the [Course organization](https://datavis-online.github.io/organisation.html). 
+With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __mini tutorials__, __drop-in sessions__,  __complimentary online teaching material__, and  __seminars by guest speakers__. Know more about the [Course organization](organisation.html) and its [schedule](content.html) 
 
 ### Learning Outcomes
 1. **Analyse:** Describe a challenge for a visualisation project and the reasons why visualisation is required. 

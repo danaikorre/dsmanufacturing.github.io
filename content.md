@@ -12,7 +12,7 @@ The course is expected to require a total __time investment of 10-15h / week__, 
 
 ## The course features ## 
 
-* Recorded __video lectures__, organized into small _5-10min_ videos and which can be watched on one's own pace. 
+* Recorded __video lectures__, organised into small _5-10min_ videos and which can be watched on one's own pace. 
 * __Reading materials__ in form of text book chapters and (easy to understand) scientific papers, associated to topics and lectures.  
 * Except for Week 1 and 2, __participants chose from a set of optional sub-topics__ (see below)
 * Individual sub-topics are tested in __mini-quizzes__ 
@@ -29,7 +29,7 @@ The course is expected to require a total __time investment of 10-15h / week__, 
 Each week is structured in to two sessions covering 2 different topics.
 
 * __Weeks 1 and 2__ focus on __mandatory topics__ to provide a general understanding of the main concepts in data visualisation design.  
-* __Week 3__ focuses on __visualziation techniques__ for specific data types as relational data, temporal data, geographical, etc.
+* __Week 3__ focuses on __visualisation techniques__ for specific data types as relational data, temporal data, geographical, etc.
 * __Week 4__ looks at the __application areas__ for data visualisation in a variety of scenarios with an aim to help participants identify and select from different solutions for the challenges defined.
 * __Week 5__ concludes the course with a set of __advanced topics__, from which participants will select options to focus on, ideally in line with their project. 
 

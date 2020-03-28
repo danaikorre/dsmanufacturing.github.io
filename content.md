@@ -1,12 +1,38 @@
 # Course Content
 
-Please note the schedule is a guide only, and **subject to change**. Options courses and hand-on tutorials especially may be adapted to meet more closely the needs of participants. Invited seminars will be presented by a range of speakers from academia, different industry sectors and the third sector.
+The schedule is a guide and **subject to change**. Options courses and hand-on tutorials especially may be adapted to meet more closely the needs of participants. 
 
-All course material will be accessible online. This will be supplemented by hands-on sessions in a virtual classroom. While not compulsory, participants are encouraged to take full advantage of these sessions to engage in discussions with peers and invited subject matter and domain experts, and to obtain first-hand access to tutorials and direct feedback on assignments.
+The course is expected to require a total __time investment of 12h / week__, roughly split into
 
-Weeks 1&ndash;3 will focus on mandatory topics that provide a general understanding of the main concepts in data visualisation. With an aim to help participants identify and select from different solutions for the challenges defined, week 4 will look at application of data visualisation in a variety of scenarios. The course will conclude in week 5 with a set of advanced topics, from which participants will select options to focus on, ideally in line with their project. 
+* 2h video material
+* 2h reading
+* 4h tutoial (optional)
+* 2h Q&A sessions (optional)
+* 2h individual project work
 
-## WEEK 1: BASIC / FOUNDATIONS
+The course features:
+* recorded __video lectures__, organized in small 5-10min videos and which can be watched on one's own pace. 
+* __reading materials__ in form of text book chapters and (easy to understand) scientific papers, associated to topics and lectures.  
+* Except for Week 1 and 2, __participants chose from a set of optional sub-topics__ (see below)
+* Individual sub-topics are tested in __mini-quizzes__ 
+* questions about topics can be discussed in general __Q&A sessions__, twice a week. 
+* __2h live tutorials__ are provided for 
+  * design and critiquing exercises, as well as
+  * for a selection of free, open source and commercial data visualisation and visual analytics tools, to demonstrate the range of features available, skills required and user support, for deriving insight into data through visual exploration and analysis. While not compulsory, participants are encouraged to take full advantage of these sessions to engage in discussions with peers and invited subject matter and domain experts, and to obtain first-hand access to tutorials and direct feedback on assignments.
+* __Drop-in support__ helps with data visualisation brief, ideally using participants’ own data, create a design to meet the requirements identified, and, within the constraints of the course, build a visualisation-driven solution.
+* __Complimentary teaching material__ in the form of interactive websites will be provided to participants throughout the course.
+* Each week features a __1h life seminar by a guest speaker__ from academia and industry illustrating application of data visualisation in a variety of fields and the benefits this brings to creating value and gaining a competitive edge,
+
+
+* __Weeks 1 and 2 focus on mandatory topics__ to provide a general understanding of the main concepts in data visualisation design.  
+* __Week 3__ focuses on visualziation techniques for specific data types as relational data, temporal data, geographical, etc.
+* __Week 4__ looks at the application of data visualisation in a variety of scenarios with an aim to help participants identify and select from different solutions for the challenges defined.
+* __Week 5__ concludes the course with a set of advanced topics, from which participants will select options to focus on, ideally in line with their project. 
+
+
+## WEEK 1: FOUNDATIONS
+
+Weeks 1 & 2 focuses on mandatory topics to provide a general understanding of the main concepts in data visualisation design. 
 
 * success stories
 * perception &amp; cognition
@@ -33,6 +59,8 @@ Weeks 1&ndash;3 will focus on mandatory topics that provide a general understand
 
 ## WEEK 3: TECHNIQUES:
 
+Week 3 focuses on visualziation techniques for specific data types.
+
 * statistical visualisation / basic charts
 * trees and hierarchies / focus+context
 * network visualisation
@@ -44,6 +72,8 @@ Weeks 1&ndash;3 will focus on mandatory topics that provide a general understand
 
 ## WEEK 4: APPLICATIONS
 
+Week 4 looks at the application of data visualisation in a variety of scenarios with an aim to help participants identify and select from different solutions for the challenges defined.
+
 * digital humanities
 * finance &amp; accounting
 * sports
@@ -54,6 +84,8 @@ Weeks 1&ndash;3 will focus on mandatory topics that provide a general understand
 
 
 ## Week 5: ADVANCED
+
+Week 5 concludes the course with a set of advanced topics, from which participants will select options to focus on, ideally in line with their project. 
 
 * data-driven storytelling
 * interaction techniques

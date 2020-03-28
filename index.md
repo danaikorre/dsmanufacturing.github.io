@@ -17,12 +17,7 @@ It covers the fundamentals of
 * tools for data visualization,
 * evaluation.
 
-With an aim to build skills that allow participants to directly apply their learning, the course features
-* __seminars by guest speakers__ from academia and industry illustrating application of data visualisation in a variety of fields and the benefits this brings to creating value and gaining a competitive edge,
-* __video lectures__ and __reading materials__
-* __mini tutorials__ for a selection of free, open source and commercial data visualisation and visual analytics tools, to demonstrate the range of features available, skills required and user support, for deriving insight into data through visual exploration and analysis,
-* __dedicated support__ to define a data visualisation brief, ideally using participants' own data, create a design to meet the requirements identified, and, within the constraints of the course, build a visualisation-driven solution.
-* __Complimentary teaching material__
+With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __mini tutorials__, __drop-in sessions__,  __complimentary online teaching material__, and  __seminars by guest speakers__.
 
 Know more about the [Course organization](https://datavis-online.github.io/organisation.html). 
 

@@ -40,7 +40,7 @@ Prior to course start, we aim to work with selected participants to shape the co
 ## Course Delivery Information
 * Start Date: 15 June 2020
 * Course Duration: 5 weeks, complementing self-directed online learning with two hand-on sessions per week via a virtual classroom
-* Total Hours: 100 (Lecture Hours 20; Tutorial Hours 16; Independent Study Hours 72) 
+* Total Hours: 50-100 (Lecture Hours 10; Tutorial Hours 20; Independent Study Hours 30-70) 
 * Method of Assessment: Coursework 100%
 
 ## Entry Requirements

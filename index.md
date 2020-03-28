@@ -1,6 +1,6 @@
 # Online course in Data Visualisation for Professionals
 
-The [University of Edinburgh](https://www.ed.ac.uk) is hosting a university-certified _10 credits_ online course in data visualisation with flexible schedule. The course runs from __June 15-July 17 (5 weeks)__ and is primarily dedicated to professionals in, among others, finance, the sports industry, the creative industry, in journalism, education and in the public sector.
+The [University of Edinburgh](https://www.ed.ac.uk) is hosting a university-certified _10 credit_ online course in data visualisation with flexible schedule. The course runs from __June 15-July 17 (5 weeks)__ and is primarily dedicated to professionals in, among others, finance, the sports industry, the creative industry, journalism, education and the public sector.
 
 This online course teaches how to
 * visually __explore__ data
@@ -16,9 +16,9 @@ It covers the fundamentals of
 * storytelling and communication,
 * tools for data visualisation,
 * evaluation.
-* programming skills are not required but those with a good understanding of JavaScript, python or R can learn how to use visualisation libraries such as D3.js, https://d3js.org
+* programming skills are not required, but those with a good understanding of JavaScript, python or R can learn how to use visualisation libraries such as D3.js, https://d3js.org
 
-With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __mini tutorials__, __drop-in sessions__,  __complimentary online teaching material__, and  __seminars by guest speakers__. Know more about the [Course organisation](organisation.html) and its [schedule](content.html) 
+With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __mini tutorials__, __drop-in sessions__,  __complementary online teaching material__, and  __seminars by guest speakers__. More about the [course organisation](organisation.html) and its [schedule](content.html) ...
 
 ### Learning Outcomes
 1. **Analyse:** Describe a challenge for a visualisation project and the reasons why visualisation is required. 

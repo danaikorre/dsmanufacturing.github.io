@@ -42,7 +42,8 @@ Prior to course start, we aim to work with selected participants to shape the co
 * Start Date: 15 June 2020
 * Course Duration: 5 weeks, complementing self-directed online learning with two hand-on sessions per week via a virtual classroom
 * Total Hours: 50-100 (Lecture Hours 10; Tutorial Hours 20; Independent Study Hours 30-70) 
-* Method of Assessment: Coursework 100%
+* Method of Assessment: Coursework 100%, which is the submission of your final project. 
+* The course does not give grades, but rather a PASS/FAIL.
 
 ## Entry Requirements
 A UK 2:1 honours degree, or its international equivalent.  

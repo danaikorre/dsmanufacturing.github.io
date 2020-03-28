@@ -2,7 +2,7 @@
 
 This online course aims to equip participants with the skills to use visualisation to uncover insight, to improve question answering, information discovery, to support informed decision-making and the creation of value from data.
 
-The course is **not** 
+The course is **NOT** 
 * about creating dashboards,
 * a [D3](https://d3js.org), [Leaflet](https://leafletjs.com), [GGplot](https://ggplot2.tidyverse.org) or other visualisation library programming course,
 * a Tableau, PowerBI, SAS or other commercial visualisation tool course.

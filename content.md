@@ -1,4 +1,4 @@
-# Course Content
+# Topics & Schedule 
 
 The schedule is a guide and **subject to change**. Optional courses and hand-on tutorials especially may be adapted to meet more closely the needs of participants. 
 

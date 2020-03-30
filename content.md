@@ -23,6 +23,7 @@ The course is expected to require a total __time investment of 10-15h / week__, 
 * __Drop-in support__ to help with data visualisation brief, ideally using participants’ own data, create a design to meet the requirements identified, and, within the constraints of the course, build a visualisation-driven solution.
 * __Complementary teaching material__ in the form of interactive websites will be provided to participants throughout the course.
 * Each week features a __1h life seminar by a guest speaker__ from academia and industry illustrating application of data visualisation in a variety of fields and the benefits this brings to creating value and gaining a competitive edge,
+* A __dedicated Slack/Teams channel__ will support networking and discussions.
 
 # Schedule
 

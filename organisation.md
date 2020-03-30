@@ -1,4 +1,4 @@
-# Data Visualisation for Professionals
+# Course Description
 
 This online course aims to equip participants with the skills to use visualisation to uncover insight, to improve question answering, information discovery, to support informed decision-making and the creation of value from data.
 

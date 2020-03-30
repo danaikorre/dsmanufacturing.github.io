@@ -1,6 +1,6 @@
 # Online course in Data Visualisation for Professionals
 
-The [University of Edinburgh](https://www.ed.ac.uk) is hosting a university-certified _10 credit_ online course in data visualisation with flexible schedule. The course runs from __June 15-July 17 (5 weeks)__ and is primarily dedicated to professionals in, among others, finance, the sports industry, the creative industry, journalism, education and the public sector.
+The [University of Edinburgh](https://www.ed.ac.uk) is hosting a university-certified _10-credit_ online course in data visualisation with flexible schedule. The course runs from __June 15-July 17 (5 weeks)__ and is primarily dedicated to professionals in, among others, finance, the sports industry, the creative industry, journalism, education and the public sector.
 
 This online course teaches how to
 * visually __explore__ data
@@ -16,7 +16,6 @@ It covers the fundamentals of
 * storytelling and communication,
 * tools for data visualisation,
 * evaluation.
-* programming skills are not required, but those with a good understanding of JavaScript, python or R can learn how to use visualisation libraries such as D3.js, https://d3js.org
 
 With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __mini tutorials__, __drop-in sessions__,  __complementary online teaching material__, and  __seminars by guest speakers__. More about the [course organisation](organisation.html) and its [schedule](content.html) ...
 
@@ -40,18 +39,19 @@ Prior to course start, we aim to work with selected participants to shape the co
 
 ## Course Delivery Information
 * Start Date: 15 June 2020
-* Course Duration: 5 weeks, complementing self-directed online learning with two hand-on sessions per week via a virtual classroom
+* Course Duration: 5 weeks, complementing self-directed online learning with two hands-on sessions per week via a virtual classroom
 * Total Hours: 50-100 (Lecture Hours 10; Tutorial Hours 20; Independent Study Hours 30-70) 
 * Method of Assessment: Coursework 100%, which is the submission of your final project. 
 * The course does not give grades, but rather a PASS/FAIL.
 
 ## Entry Requirements
 A UK 2:1 honours degree, or its international equivalent.  
-If you __do not__ meet the minimum academic requirement, you may still be considered if you have relevant work experience preferably with:
+If you __do not__ meet the minimum academic requirement, you may still be considered if you have relevant work experience preferably with one or more of:
 
-* a basic knowledge of programming in Python or JavaScript.
-* experience using Adobe Illustrator or equivalent
-* experience creating basic visualisations in, e.g., Excel, SAS, Tableau or PowerBI
+* basic knowledge of programming in Python or JavaScript,
+* experience using Adobe Illustrator or equivalent,
+* experience creating basic visualisations in, e.g., Excel, SAS, Tableau or PowerBI,
+* or other similar experience working with data
 
 If you are unsure whether you meet these criteria please send your CV to [bayes-training@ed.ac.uk](bayes-training@ed.ac.uk).
 

@@ -56,7 +56,7 @@ If you __do not__ meet the minimum academic requirement, you may still be consid
 If you are unsure whether you meet these criteria please send your CV to [bayes-training@ed.ac.uk](bayes-training@ed.ac.uk).
 
 ## Financial Support
-Browse [eligibility requirements for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), or contact [bayes-training@ed.ac.uk](bayes-training@ed.ac.uk) for more detail for further information on funding options and fee waivers.
+People normally resident in Scotland or the EU may be eligible for funding; please see [eligibility requirements for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), or contact [bayes-training@ed.ac.uk](bayes-training@ed.ac.uk) for more detail for further information on funding options and fee waivers.
 
 ## English Language Requirements
 You must demonstrate English language competency at a level that will enable you to succeed in your studies, regardless of your nationality or country of residence.

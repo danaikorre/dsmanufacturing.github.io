@@ -1,6 +1,6 @@
 # Online course in Data Visualisation for Professionals
 
-The [University of Edinburgh](https://www.ed.ac.uk) is hosting a university-certified _10-credit_ online course in data visualisation with flexible schedule. The course runs from __June 15-July 17 (5 weeks)__ and is primarily dedicated to professionals in, among others, finance, the sports industry, the creative industry, journalism, education and the public sector.
+The [University of Edinburgh](https://www.ed.ac.uk) is hosting a university-certified, _10-credit_, online course in data visualisation with flexible schedule. The course runs from __June 15-July 17 (5 weeks)__ and is primarily dedicated to professionals in, among others, finance, the sports industry, the creative industry, journalism, education and the public sector.
 
 This online course teaches how to
 * visually __explore__ data
@@ -31,7 +31,7 @@ With an aim to build skills that allow participants to directly apply their lear
 * **Visual representation** of your dataset that enables you to answer the challenge you defined around it before and during the course.
 * **Skills** to develop further visual literacy to support data-driven work.
 
-Browse further detail on the __[course structure](organisation.md)__
+Browse further detail on the __[course structure](organisation.md)__.
 
 ## [Register interest](https://forms.gle/4Z6wTZkoHMsNL5Yu5)
 
@@ -56,7 +56,7 @@ If you __do not__ meet the minimum academic requirement, you may still be consid
 If you are unsure whether you meet these criteria please send your CV to [bayes-training@ed.ac.uk](bayes-training@ed.ac.uk).
 
 ## Financial Support
-Contact [bayes-training@ed.ac.uk](bayes-training@ed.ac.uk) for information on funding options and fee waivers.
+Browse [eligibility requirements for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), or contact [bayes-training@ed.ac.uk](bayes-training@ed.ac.uk) for more detail for further information on funding options and fee waivers.
 
 ## English Language Requirements
 You must demonstrate English language competency at a level that will enable you to succeed in your studies, regardless of your nationality or country of residence.

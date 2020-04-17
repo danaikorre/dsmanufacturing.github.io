@@ -4,7 +4,7 @@
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="images/me.png"/></td>
     <td style="vertical-align:top;">
-      <b><!-- a href="bach.html" -->Benjamin Bach, PhD<!-- /a -->,</b> is a Lecturer (Assistant Prof.) in Design Informatics and Visualization at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.
+      <b><!-- a href="bach.html" -->Benjamin Bach, PhD<!-- /a -->,</b> is a Lecturer (Assistant Prof.) in Design Informatics and Visualization at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations. He is part of the [Visual+Interactive Data Group](interactivedata.github.io) at the University of Edinburgh.
 
 <ul>
   <li>Web: <a href="http://benjbach.me">http://benjbach.me</a></li>
@@ -27,7 +27,7 @@
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="images/aba-sah.jpg"/></td>
     <td style="vertical-align:top;">
-      <b>Aba-Sah Dadzie, PhD,</b> joined the Visual+Interactive Data group at the University of Edinburgh to work on design and delivery of an online course in data visualisation targeted at professionals working across Scotland. With a background also in Human-Computer Interaction she works at the intersection between research in visual analytics and application to interaction with today's big data and the digital economy.
+      <b>Aba-Sah Dadzie, PhD,</b> joined the Visual+Interactive Data group at the University of Edinburgh to work on design and delivery of an online course in data visualisation targeted at professionals working across Scotland. With a background also in Human-Computer Interaction she works at the intersection between research in visual analytics and application to interaction with today's big data and the digital economy. Aba-Sah is part of the [Visual+Interactive Data Group](interactivedata.github.io) at the University of Edinburgh.
 
 <br />
 Research Interests:

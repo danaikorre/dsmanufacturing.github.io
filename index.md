@@ -35,7 +35,7 @@ Browse further detail on the __[course structure](organisation.md)__.
 
 ## [Submit Application](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=1002)
 
-Applications are now being accepted for the course. Please note that you **must** state that you are registering for the course on ***Data Visualisation for Professionals*** in the "Supporting Statement" section of the application.
+Applications are now being accepted for the course. Please note that you **must** state that you are registering for the course ***Data Visualisation for Professionals*** in the "Supporting Statement" section of the application.
 
 ## Tasters
 

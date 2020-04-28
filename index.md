@@ -33,9 +33,13 @@ With an aim to build skills that allow participants to directly apply their lear
 
 Browse further detail on the __[course structure](organisation.md)__.
 
-## [Register interest](https://forms.gle/4Z6wTZkoHMsNL5Yu5)
+## [Submit Application](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=1002)
 
-Prior to course start, we aim to work with selected participants to shape the course to best accommodate specific needs of working professionals. If you would like to contribute to these sessions please indicate this when [registering interest](https://forms.gle/4Z6wTZkoHMsNL5Yu5).
+Applications are now being accepted for the course. Please note that you **must** state that you are registering for the course on ***Data Visualisation for Professionals*** in the "Supporting Statement" section of the application.
+
+## Tasters
+
+Prior to course start, we are working with participants to shape the course to best accommodate the specific needs of working professionals. We are currently carrying out interviews with participants who registered interest over the last month, and are feeding the information being collected into preparation of a virtual workshop. If you would like to take part in these taster sessions please indicate this using the brief [interest survey](https://forms.gle/4Z6wTZkoHMsNL5Yu5).
 
 ## Course Delivery Information
 * Start Date: 15 June 2020
@@ -56,7 +60,7 @@ If you __do not__ meet the minimum academic requirement, you may still be consid
 If you are unsure whether you meet these criteria please send your CV to [bayes-training@ed.ac.uk](bayes-training@ed.ac.uk).
 
 ## Financial Support
-Participants normally resident in Scotland or the EU may be eligible for funding; please see [eligibility requirements for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), or contact [bayes-training@ed.ac.uk](bayes-training@ed.ac.uk) for more detail on funding options and fee waivers.
+The *Scottish Funding Council (SFC) Upskilling Fund* is providing fee waivers; participants normally resident in Scotland or the EU may be eligible for funding. Please see [eligibility requirements for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), or contact [bayes-training@ed.ac.uk](bayes-training@ed.ac.uk) for more detail.
 
 ## English Language Requirements
 You must demonstrate English language competency at a level that will enable you to succeed in your studies, regardless of your nationality or country of residence.

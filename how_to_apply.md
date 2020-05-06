@@ -1,3 +1,7 @@
+# Course forms
+
+## Completing [course application form]
+
 A single [form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply) is in use for a set of courses under the Bayes Centre's *Data Skills Workforce Development* portfolio, and must therefore satisfy all course requirements and also the University of Edinburgh's formal requirements for course applications. We provide a few pointers to common questions from applicants. Bearing in mind also that we have an atypical target student group, we also highlight sections where our requirements may differ from the standard. 
 
 ### Sections 1&ndash;3 

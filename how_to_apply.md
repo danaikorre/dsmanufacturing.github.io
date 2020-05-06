@@ -57,4 +57,4 @@ If you do NOT qualify for a waiver please [e-mail Bayes](mailto:bayes-training@e
 
 ### 8&ndash; Referees
 
-You may be required to provide a referee &ndash; this may be your current or a previous employer, or a colleague familiar with your work. While a formal letterhead is preferable, considering the restrictions of the current lockdown a reference by e-mail, preferably from an organisational address, that also states the working relationship with your referee may be submitted. 
+You may be required to provide a referee &ndash; this may be your current or a previous employer, or a  colleague who knows you in a work capacity. While a formal letterhead is preferable, considering the restrictions of the current lockdown a reference by e-mail, preferably from an organisational address, that also states the working relationship with your referee may be submitted. 

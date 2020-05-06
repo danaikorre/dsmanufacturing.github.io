@@ -57,10 +57,10 @@ If you __do not__ meet the minimum academic requirement, you may still be consid
 * experience creating basic visualisations in, e.g., Excel, SAS, Tableau or PowerBI,
 * or other similar experience working with data
 
-If you are unsure whether you meet these criteria please send your CV to [bayes-training@ed.ac.uk](bayes-training@ed.ac.uk).
+If you are unsure whether you meet these criteria please send your CV to [bayes-training@ed.ac.uk](mailto:bayes-training@ed.ac.uk).
 
 ## Financial Support
-The *Scottish Funding Council (SFC) Upskilling Fund* is providing fee waivers; participants normally resident in Scotland or the EU may be eligible for funding. Please see [eligibility requirements for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), or contact [bayes-training@ed.ac.uk](bayes-training@ed.ac.uk) for more detail.
+The *Scottish Funding Council (SFC) Upskilling Fund* is providing fee waivers; participants normally resident in Scotland or the EU may be eligible for funding. Please see [eligibility requirements for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), or contact [bayes-training@ed.ac.uk](mailto:bayes-training@ed.ac.uk) for more detail.
 
 ## English Language Requirements
 You must demonstrate English language competency at a level that will enable you to succeed in your studies, regardless of your nationality or country of residence.

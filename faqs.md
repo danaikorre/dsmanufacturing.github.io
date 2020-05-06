@@ -1,20 +1,20 @@
 # FAQs
 
-## Completing [course application form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply)
+## Eligivbility requirements
 
-A single [form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply) is in use for a set of courses under the Bayes Centre's *Data Skills Workforce Development* portfolio, and must therefore satisfy all course requirements and also the University of Edinburgh's formal requirements for course applications. We provide a few pointers to common questions from applicants. Bearing in mind also that we have an atypical target student group, we also highlight sections where our requirements may differ from the standard. 
+Please note that the key requirement for eligibility is interest in the topic. You must have some work experience beyond school but do not need to currently be in employment. References for the [application form]() may use a current, previous employer or a colleague who can 
 
-### Sections 1&ndash;3 
-cover basic personal details &ndash; the form will indicate fields that qare required. 
 
-### Section 4 &ndash; Programme 
+## Completing course application form
 
-We highlight below only those sections that are mandatory. You may leave the other sections blank or enter **N/A** 
+[Application form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply)
 
-#### Personal Statement 
 
-You **MUST** state that you are registering for the course ***'Data Visualisation for Professionals'*** here. 
+## BYOD - Bring Your Own Data for Projects
 
-### Relevant Knowledge/Training Skills
+You are not reuired to share your data with anyone other than course tutors who will sign NDAs as required. 
 
-Please also include a brief summary, describing how you qualify to take the course &ndash; the form provides some detail about what is required here. The university requires this for processing the applications. 
+
+## Forum Discussions
+
+Etiquette & mute/unmute

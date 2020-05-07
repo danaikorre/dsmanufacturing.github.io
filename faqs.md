@@ -19,11 +19,11 @@ The [course application is open](https://www.ed.ac.uk/bayes/about-us/our-work/ed
 
 ## Final projects
 
-# BYOD &ndash; Bring Your Own Data 
+### BYOD &ndash; Bring Your Own Data 
 
 We encourage participants to come with an idea and/or data for their project, from work or of personal interest. Where ncessary we wil provide support for working with sensitive data, including the use of NDAs, anonymisation of data or the generation of synthethic data from your source data. 
 
-We will address projects and input data in the first week's tutorials. However, [e-mail us](mailto:datavisonline@gmail.com) if you wish to discuss your ideas prior to course start. 
+We will address projects and input data in the first week's tutorials. Please [complete a short survey](https://forms.gle/4Z6wTZkoHMsNL5Yu5) and provide your contact details or [e-mail us](mailto:datavisonline@gmail.com) if you wish to discuss your ideas prior to course start. 
 <p>&nbsp;</p>
 
 

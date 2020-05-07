@@ -8,7 +8,7 @@ This section provides more detail on the different forms linked to the course:
     * centralised [course application form](#course_applications)
   * Register interest in [other data skills courses](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest) and to receive updates about the Bayes Centre's [*Data Skills Workforce Development*](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development) portfolio
 
-Please [e-mail us](mailto:datavisonline@gmail.com) if you've any questions not addressed here. 
+Please [e-mail us](mailto:datavisonline@gmail.com) if you've any questions not addressed here or in the [FAQs](faqs.md). 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 

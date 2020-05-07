@@ -2,15 +2,18 @@
 
 This section provides more detail on the different forms linked to the course:
   
-  * Register interest in [surveys & taster sessions](https://forms.gle/4Z6wTZkoHMsNL5Yu5) for the data visualisation course
-  * [Assessment of eligibilty for funding](#funding_applications)
-  * Centralised course [application form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply)
+  * Register interest in [surveys & taster sessions](#register_interest_datavis_course) for the data visualisation course
+  * Guide to completing: 
+    * [assessment of eligibilty for funding](#funding_applications)
+    * centralised [course application form](#course_applications)
   * Register interest in [other data skills courses](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest) and to receive updates about the Bayes Centre's [*Data Skills Workforce Development*](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development) portfolio
 
 Please [e-mail us](mailto:datavisonline@gmail.com) if you've any questions not addressed here. 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+
+<a name = "register_interest_datavis_course"></a>
 ## Register interest in surveys and taster sessions
 
 As part of our course design we are [collecting information](https://forms.gle/4Z6wTZkoHMsNL5Yu5) about participants' motivations and expectations, along with prior experience in visualiation. The form may also be used to [register interest in hands-on taster sessions](https://forms.gle/4Z6wTZkoHMsNL5Yu5) planned to take place toward the end of May.
@@ -25,6 +28,8 @@ Waivers are granted on a first-come. While the funding cap has not yet been reac
 Applications are currently being processed; if you meet the basic requirements and have not yet received a response for an application for assessment you should receive one in due course. You may complete a course application in the meantime &ndash; please note this in the funding section and the applications will be linked. 
 <p>&nbsp;</p>
 
+
+<a name = "course_applications"></a>
 ## Completing course application form
 
 A single [form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply) is in use for a set of courses within the Bayes Centre's *Data Skills Workforce Development* portfolio; the form must therefore satisfy all courses' requirements and also the University of Edinburgh's formal requirements for applications. Bearing in mind that the data visualisation course has an atypical target student group, we highlight mandatory sections and where our requirements may differ from the standard, and provide answers to common questions from applicants. Please [e-mail us](mailto:datavisonline@gmail.com) if you have any other questions. 

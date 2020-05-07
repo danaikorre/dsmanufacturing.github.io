@@ -2,21 +2,22 @@
 
 This section provides more detail on the different forms linked to the course:
   
-  * [Register interest in surveys & taster sessions](https://forms.gle/4Z6wTZkoHMsNL5Yu5)
+  * [Register interest in [surveys & taster sessions](https://forms.gle/4Z6wTZkoHMsNL5Yu5)
   * [Assessment of eligibilty for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding)
   * Centralised course [application form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply)
-  * [Register interest in other courses](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest) and to receive updates about the Bayes Centre's *Data Skills Workforce Development* portfolio
+  * [Register interest in other data skills courses](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest) and to receive updates about the Bayes Centre's *Data Skills Workforce Development* portfolio
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 ## Register interest in surveys and taster sessions
 
 As part of our course design we are [collecting information](https://forms.gle/4Z6wTZkoHMsNL5Yu5) about participants' motivations and expectations, along with prior experience in visualiation. The form may also be used to [register interest in hands-on taster sessions](https://forms.gle/4Z6wTZkoHMsNL5Yu5) planned to take place toward the end of May.
-
+<p>&nbsp;</p>
 
 ## Eligibility for funding
 
 The Scottish Funding Council (SFC) is providing a number of fee waivers; people normally resident in Scotland or the rest of the EU (for at least 3 years) may qualify for funding &ndash; more detail on eligibility is available and [access to an assessment form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding).
-
+<p>&nbsp;</p>
 
 ## Completing course application form
 

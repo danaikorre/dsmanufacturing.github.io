@@ -23,6 +23,13 @@ The [course application is open](https://www.ed.ac.uk/bayes/about-us/our-work/ed
 
 We encourage participants to come with an idea and/or data for their project, from work or of personal interest. Where ncessary we wil provide support for working with sensitive data, including the use of NDAs, anonymisation of data or the generation of synthethic data from your source data. 
 
-We will address projects and input data in the first week's tutorials. Please [complete a short survey](https://forms.gle/4Z6wTZkoHMsNL5Yu5) and provide your contact details or [e-mail us](mailto:datavisonline@gmail.com) if you wish to discuss your ideas prior to course start. 
+Please note you do not need to have an idea formulated in advance; we will address projects and input data in the first week's tutorials. We will also provide pointers to open, public datasets.
+
+Please [complete a short survey](https://forms.gle/4Z6wTZkoHMsNL5Yu5) and provide your contact details or [e-mail us](mailto:datavisonline@gmail.com) if you wish to discuss ideas prior to course start. 
 <p>&nbsp;</p>
 
+
+## Forum Discussions
+
+We aim to provide a moderated discussion forum to support peer learning, alongside the virtual classroom which may be used for smaller, informal discussions outwith timetabled tutorials. 
+<p>&nbsp;</p>

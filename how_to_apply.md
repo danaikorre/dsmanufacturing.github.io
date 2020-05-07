@@ -6,6 +6,8 @@ This section provides more detail on the different forms linked to the course:
   * [Assessment of eligibilty for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding)
   * Centralised course [application form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply)
   * Register interest in [other data skills courses](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest) and to receive updates about the Bayes Centre's [*Data Skills Workforce Development*](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development) portfolio
+
+Please [e-mail us](mailto:datavisonline@gmail.com) if you've any questions not addressed here. 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 

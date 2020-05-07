@@ -26,8 +26,3 @@ We encourage participants to come with an idea and/or data for their project, fr
 We will address projects and input data in the first week's tutorials. Please [complete a short survey](https://forms.gle/4Z6wTZkoHMsNL5Yu5) and provide your contact details or [e-mail us](mailto:datavisonline@gmail.com) if you wish to discuss your ideas prior to course start. 
 <p>&nbsp;</p>
 
-
-## Forum Discussions
-
-Etiquette & mute/unmute
-<p>&nbsp;</p>

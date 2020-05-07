@@ -2,10 +2,10 @@
 
 This section provides more detail on the different forms linked to the course:
   
-  * [Register interest in [surveys & taster sessions](https://forms.gle/4Z6wTZkoHMsNL5Yu5)
+  * Register interest in [surveys & taster sessions](https://forms.gle/4Z6wTZkoHMsNL5Yu5) for the data visualisation course
   * [Assessment of eligibilty for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding)
   * Centralised course [application form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply)
-  * [Register interest in other data skills courses](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest) and to receive updates about the Bayes Centre's *Data Skills Workforce Development* portfolio
+  * Register interest in [other data skills courses](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest) and to receive updates about the Bayes Centre's [*Data Skills Workforce Development*](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development) portfolio
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -21,7 +21,7 @@ The Scottish Funding Council (SFC) is providing a number of fee waivers; people 
 
 ## Completing course application form
 
-A single [form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply) is in use for a set of courses within the Bayes Centre's *Data Skills Workforce Development* portfolio; the form must therefore satisfy all courses' requirements and also the University of Edinburgh's formal requirements for course applications. Bearing in mind that the data visualisation course has an atypical target student group, we highlight mandatory sections and where our requirements may differ from the standard, and provide answers to common questions from applicants. Please [e-mail us](mailto:datavisonline@gmail.com) if you have any other questions. 
+A single [form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply) is in use for a set of courses within the Bayes Centre's *Data Skills Workforce Development* portfolio; the form must therefore satisfy all courses' requirements and also the University of Edinburgh's formal requirements for applications. Bearing in mind that the data visualisation course has an atypical target student group, we highlight mandatory sections and where our requirements may differ from the standard, and provide answers to common questions from applicants. Please [e-mail us](mailto:datavisonline@gmail.com) if you have any other questions. 
 
 Please select start date 1 June to open the application form. Applications will be processed on a rolling basis. We recommend applying as early as poosible and at least a week in advance of the course start (15 June).
 
@@ -58,7 +58,7 @@ If you do not have a degree or other tertiary qualification please enter ***N/A*
 If you have made an application for a fee waiver please state this. If you used a different e-mail from that for this application please provide that here so that the two applications may be linked. 
 If you meet the [eligibility requirements for a waiver](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding) but have not yet applied for one please indicate here whether or not you wish to be considered for one. 
 
-If you do NOT qualify for a waiver please [e-mail Bayes](mailto:bayes-training@ed.ac.uk) for more information on paying for a place.
+If you do NOT qualify for a waiver please [e-mail Bayes](mailto:bayes-training@ed.ac.uk) for more information about paying for a place.
 
 
 ### 8&ndash; Referees

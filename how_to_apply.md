@@ -34,7 +34,7 @@ Applications are currently being processed; if you meet the basic requirements a
 
 A single [form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply) is in use for a set of courses within the Bayes Centre's *Data Skills Workforce Development* portfolio; the form must therefore satisfy all courses' requirements and also the University of Edinburgh's formal requirements for applications. Bearing in mind that the data visualisation course has an atypical target student group, we highlight mandatory sections and where our requirements may differ from the standard, and provide answers to common questions from applicants. Please [e-mail us](mailto:datavisonline@gmail.com) if you have any other questions. 
 
-Please select start date 1 June to open the application form. Applications will be processed on a rolling basis. We recommend applying as early as poosible and at least a week in advance of the course start (15 June).
+Please select start date *1 June* to open the application form. Applications will be processed on a rolling basis. We recommend applying as early as poosible and at least a week in advance of the course start (**15 June**).
 
 
 ### Sections 1&ndash;3 

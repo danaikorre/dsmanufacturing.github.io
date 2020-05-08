@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 We list here answers to questions from applicants and more detail about discussions on key topics raised during interviews with potential course applicants. This is a live document and will be updated regularly; please [e-mail us](mailto:datavisonline@gmail.com) if you have any questions not addressed here. 
-<p>&nbsp;</p> 
+
 
 
 ## Formal course application 
@@ -38,7 +38,7 @@ We encourage participants to come with an idea and/or data for their project, fr
 Please note you do not need to have an idea formulated in advance; we will address projects and input data in the first week's tutorials. We will also provide pointers to open, public datasets.
 
 Please [complete a short survey](https://forms.gle/4Z6wTZkoHMsNL5Yu5) and provide your contact details or [e-mail us](mailto:datavisonline@gmail.com) if you wish to discuss ideas prior to course start. 
-<p>&nbsp;</p>
+
 
 ### How can I work with sensitive and private data during the course? 
 

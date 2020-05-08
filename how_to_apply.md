@@ -34,7 +34,7 @@ Applications are currently being processed; if you meet the basic requirements a
 
 A single [form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply) is in use for a set of courses within the Bayes Centre's *Data Skills Workforce Development* portfolio; the form must therefore satisfy all courses' requirements and also the University of Edinburgh's formal requirements for applications. Bearing in mind that the data visualisation course has an atypical target student group, we highlight mandatory sections and where our requirements may differ from the standard, and provide answers to common questions from applicants. Please [e-mail us](mailto:datavisonline@gmail.com) if you have any other questions. 
 
-Below, instructions on how to fill the University's application form. 
+Guidelines follow on how to fill in the University's application form. 
 
 ### Starting data
 Please select start date *1 June* to open the application form. Applications will be processed on a rolling basis. We recommend applying as early as poosible and _at least a week in advance of the course start_ (**15 June**).
@@ -75,7 +75,7 @@ If you meet the [eligibility requirements for a waiver](https://www.ed.ac.uk/bay
 If you do NOT qualify for a waiver please [e-mail Bayes](mailto:bayes-training@ed.ac.uk) for more information about paying for a place.
 
 
-### 8&ndash; Referees
+### Section 8&ndash; Referees
 
 You may be required to provide a referee &ndash; this may be your current or a previous employer, a  colleague who knows you in a work or more informal capacity. While a formal letterhead is preferable, considering the restrictions of the current lockdown a reference by e-mail, preferably from an organisational address, that also states the working relationship with your referee may be submitted.  
 

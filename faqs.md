@@ -26,7 +26,6 @@ To apply for a fee waiver, [apply here](https://www.ed.ac.uk/bayes/about-us/our-
 Applications are _not_ managed by the organisers of this visualisation course but centrally through the University of Edinburgh. The [course application is open](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply). 
 
 We have provided [answers to common questions](how_to_apply.md) from applicants on the application process, along with detail on eligiblity for fee waivers.
-<p>&nbsp;</p>
 
 
 ## Project work and hand-on sessions

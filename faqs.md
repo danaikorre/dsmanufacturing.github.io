@@ -55,6 +55,7 @@ Please note that if you choose not to attend tutorials you **must** still follow
 We anticipate most participants will carry out individual projects. However, you may work in small groups, e.g., colleagues in the same company may wish to collaborate to complete a larger task, or self-forming groups may bring together different perspectives to develop a more complex project than could be completed individually within the constraints of the course. 
 
 Please note that in either case each participant will complete a brief, individual reflection exercise to accompany their project.
+<p>&nbsp;</p>
 
 
 ## Forum Discussions

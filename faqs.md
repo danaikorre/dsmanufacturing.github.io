@@ -28,7 +28,7 @@ Applications are _not_ managed by the organisers of this visualisation course bu
 We have provided [answers to common questions](how_to_apply.md) from applicants on the application process, along with detail on eligibility for fee waivers.
 <p>&nbsp;</p>
 
-## Project work and hand-on sessions
+## Project work and hands-on sessions
 
 ### BYOD &ndash; Bring Your Own Data 
 
@@ -46,16 +46,21 @@ To take full advantage of the (optional) hands-on tutorial sessions, you may wis
 
 ### What is going to happen in the tutorials? 
 
-The tutorials, while optional, are considered the backbone activity of the course. The tutorials are designed around the project work and to deepen understanding of concepts discussed in lectures. They are practical, hands-on sessions, to help you to develop, share and evaluate ideas you have for your project.  
+The tutorials, while optional, are considered the backbone activity of the course. Tutorials map to each week's lecture topics, to deepen understanding of concepts discussed and map theory and guidelines to practical application using your project data and ideas. They are practical, hands-on sessions to help you to develop, share and evaluate ideas you have for your project.  
 
 Please note that if you choose not to attend tutorials you **must** still follow the tutorial scripts; these are linked to brief reflection exercises that guide you through the process of completing your final project. 
 
-### Can I work alone on my project, or do I have to work in groups? 
+### Can I work alone on my project, or do I have to work in a group? 
 
-We anticipate most participants will carry out individual projects. However, you may work in small groups, e.g., colleagues in the same company may wish to collaborate to complete a larger task, or self-forming groups may bring together different perspectives to develop a more complex project than could be completed individually within the constraints of the course. 
+We anticipate most participants will carry out individual projects. However, you may work in small groups, for example, colleagues in the same company may wish to collaborate to complete a larger task, or self-forming groups may bring together different perspectives to develop a more complex project than could be completed individually within the constraints of the course. 
 
 Please note that in either case each participant will complete a brief, individual reflection exercise to accompany their project.
 <p>&nbsp;</p>
+
+
+## Course Assessment
+
+Overall assessment will combine results from the mini quizzes attached to each week's lecture videos, brief reflection exercises linked to tutorials and your final project. To structure the learning process participants will receive general and one-on-one feedback as the course progresses.
 
 
 ## Forum Discussions

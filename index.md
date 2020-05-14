@@ -1,6 +1,6 @@
 # Online course in Data Visualisation for Professionals
 
-[](figures/teaser.png)
+[!](figures/teaser.png)
 
 The [University of Edinburgh](https://www.ed.ac.uk) is hosting a university-certified, _10-credit_, online course in data visualisation with flexible schedule. The course runs from __June 15-July 17 (5 weeks)__ and is primarily dedicated to professionals in, among others, finance, the sports industry, the creative industry, journalism, education and the public sector.
 

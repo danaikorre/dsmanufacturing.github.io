@@ -28,12 +28,20 @@ Applications are _not_ managed by the organisers of this visualisation course bu
 We have provided [answers to common questions](how_to_apply.md) from applicants on the application process, along with detail on eligibility for fee waivers.
 <p>&nbsp;</p>
 
-## Project work and hands-on sessions
+## Hands-on sessions and project work
+
+### What is going to happen in the tutorials? 
+
+The tutorials, while optional, are considered the backbone activity of the course. Tutorials map to each week's lecture topics, to deepen understanding of concepts discussed and map theory and guidelines to practical application using your project data and ideas. They are practical, hands-on sessions to help you to develop, share and evaluate ideas you have for your project.  
+
+Please note that if you choose not to attend tutorials you **must** still follow the tutorial scripts; these are linked to brief reflection exercises that guide you through the process of completing your final project. 
+<p>&nbsp;</p>
+
 
 ### BYOD &ndash; Bring Your Own Data 
 
 We encourage participants to come with an idea and/or data for their project, from work or of personal interest.  
-Please note you do not need to have an idea formulated in advance; we will address projects and input data in the first week's tutorials. We will also provide pointers to open, public datasets.
+Please note you do not need to have an idea formulated in advance; we will address projects and input data in the first week's tutorials. We will also provide [pointers to public, open datasets](organisation.md#byod).
 
 Please [complete a short survey](https://forms.gle/4Z6wTZkoHMsNL5Yu5) and provide your contact details or [e-mail us](mailto:datavisonline@gmail.com) if you wish to discuss ideas prior to course start. 
 
@@ -43,12 +51,6 @@ Please [complete a short survey](https://forms.gle/4Z6wTZkoHMsNL5Yu5) and provid
 Where necessary we will provide support for working with sensitive data, including the use of __non-disclosure agreements__ (NDAs), anonymisation of data or the generation of synthetic data from your source data. 
 
 To take full advantage of the (optional) hands-on tutorial sessions, you may wish to share some aspects and visualisations about your data, to obtain peer and tutor feedback. We will provide guidance for doing so without revealing sensitive information. 
-
-### What is going to happen in the tutorials? 
-
-The tutorials, while optional, are considered the backbone activity of the course. Tutorials map to each week's lecture topics, to deepen understanding of concepts discussed and map theory and guidelines to practical application using your project data and ideas. They are practical, hands-on sessions to help you to develop, share and evaluate ideas you have for your project.  
-
-Please note that if you choose not to attend tutorials you **must** still follow the tutorial scripts; these are linked to brief reflection exercises that guide you through the process of completing your final project. 
 
 ### Can I work alone on my project, or do I have to work in a group? 
 
@@ -65,5 +67,5 @@ Overall assessment will combine results from the mini quizzes attached to each w
 
 ## Forum Discussions
 
-We aim to provide a moderated discussion forum to support peer learning, alongside the virtual classroom which may be used for smaller, informal discussions outwith timetabled tutorials. 
+We aim to provide a moderated discussion forum to support peer learning and informal networking, alongside the virtual classroom which may be used for smaller, informal discussions outwith timetabled tutorials. 
 <p>&nbsp;</p>

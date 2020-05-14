@@ -62,7 +62,8 @@ Please note that in either case each participant will complete a brief, individu
 
 ## Course Assessment
 
-Overall assessment will combine results from the mini quizzes attached to each week's lecture videos, brief reflection exercises linked to tutorials and your final project. To structure the learning process participants will receive general and one-on-one feedback as the course progresses.
+The course is certified by the University of Edinburgh; it therefore has a formal assessment component. Overall assessment will combine results from the mini quizzes attached to each week's lecture videos, brief reflection exercises linked to tutorials and your final project. To structure the learning process participants will receive general and one-on-one feedback as the course progresses.
+<p>&nbsp;</p>
 
 
 ## Forum Discussions

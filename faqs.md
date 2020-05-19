@@ -26,7 +26,12 @@ To apply for a fee waiver, [apply here](https://www.ed.ac.uk/bayes/about-us/our-
 Applications are _not_ managed by the organisers of this visualisation course but centrally through the University of Edinburgh. The [course application is open](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply). 
 
 We have provided [answers to common questions](how_to_apply.md) from applicants on the application process, along with detail on eligibility for fee waivers.
+
+### Can I also take another course in Bayes' _Data Skills Workforce Development_ portfolio?
+
+Because formal course applications are currently tied to funding support, fee waivers are normally restricted to one per applicant for each run of the [_Workforce Development_ portfolio](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development). However, the current disruption to work, normal schedules and processes means that exceptions may be made on a case by case basis. Please contact the [Bayes Centre](mailto:bayes-training@ed.ac.uk) if you wish to apply for another course in addition to this one. 
 <p>&nbsp;</p>
+
 
 ## Hands-on sessions and project work
 

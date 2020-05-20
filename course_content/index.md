@@ -39,7 +39,7 @@ Discussion Board
     </td>
   </tr><tr style = "vertical-align:top;">
     <td>2-1</td>
-    <td rowspan = 2 style = "vertical-align:top;">
+    <td rowspan = "2" style = "vertical-align:top;">
       <a href="lectures.md#2-1">Foundations II: Design &amp; tools</a><br/>
     </td><td>
       <a href="tutorials.md#2-1">Design &ndash; Sketching</a><br/>

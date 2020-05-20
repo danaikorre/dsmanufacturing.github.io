@@ -14,8 +14,8 @@ Discussion Board
 <table>
   <tr>
     <th>Session</th>
-    <th>Lecture</th>
-    <th>Tutorial</th>
+    <th>Lectures</th>
+    <th>Tutorials</th>
     <th>Reflection Exercises</th>
   </tr><tr style = "vertical-align:top;">
     <td>1-1</td>

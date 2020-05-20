@@ -68,7 +68,7 @@ Additional material:
 <a name = "1-1b"></a>
 ### Tutorial1-1b: Visualisation Lies (1 hour)
 
-1. [Discussion 1]() (~20min)
+1. [Discussion 1](https://bit.ly/tutorial1-1b) (~20min)
     * Communicating through distortion vs. Visualisation lies  
       e.g., [tube](http://content.tfl.gov.uk/standard-tube-map.pdf) & subway maps vs [overground walking maps](
 https://www.whatdotheyknow.com/request/224813/response/560395/attach/3/London%20Connections%20Map.pdf)
@@ -81,25 +81,24 @@ https://www.whatdotheyknow.com/request/224813/response/560395/attach/3/London%20
 
 
 1. Activity 1 (30min)
-  * ***Within your group***
-  * Find one example each of
-    - a visualisation distorted to highlight a key message or more effectively convey information
-    - a visualisation that distorts the underlying data or view to communicate a message not representative of the data content
-    * you may take examples from the lecture notes or any other source. Please make sure you correctly attribute the original visualisation.
-  * What are the issues with each? What is the potential impact of acting on the information conveyed?
-  * What, if any, are the benefits of each?
-  * Is it possible to communicate the message intended without distorting data content or otherwise actively misleading?
-    - if so, how would you redesign each to communicate the story intended or actual data content?
+    * ***Within your group***
+    * Find one example each of:
+        - a visualisation distorted to highlight a key message or more effectively convey information
+        - a visualisation that distorts the underlying data or view to communicate a message not representative of the data content  
+    Note: you may take examples from the lecture notes or any other source. Please make sure you correctly attribute the original visualisation.
+    * What are the issues with each? What is the potential impact of acting on the information conveyed?
+    * What, if any, are the benefits of each?
+    * Is it possible to communicate the message intended without distorting data content or otherwise actively misleading?
+        - if so, how would you redesign each to communicate the story intended or actual data content?
     
-Upload annotated, redesign sketches to the shared tutorial space.
+Upload annotated, redesign sketches to the [shared tutorial space](https://bit.ly/tutorial1-1b-shared).
 
+
+#### Resources:
   
-Dataset for stocks vs flows: https://fred.stlouisfed.org/series/NPPTTL
-(Total Nonfarm Private Payroll Employment (NPPTTL))
+* [Dataset for stocks vs flows-(https://fred.stlouisfed.org/series/NPPTTL) &nbsp; (Total Nonfarm Private Payroll Employment (NPPTTL))
 
-Resources:
-
-https://www.businessinsider.com/the-27-worst-charts-of-all-time-2013-6?international=true&r=US&IR=T#and-not-to-rain-on-the-parade-but-this-chart-from-the-human-rights-campaign-about-access-to-marriage-in-the-us-is-highly-misleading-thats-30-of-the-height-of-the-cake-we-think-but-its-certainly-not-the-area-of-the-cake-which-is-how-its-typically-interpreted-so-it-looks-like-a-bigger-portion-than-it-realistically-is-17
+* Walt Hickey (2013), [The 27 Worst Charts Of All Time](https://www.businessinsider.com/the-27-worst-charts-of-all-time-2013-6), 
 https://viz.wtf
 
 Cairo, A. (2014) 'Ethical Infographics', IRE Journal, 37(2), pp. 25–27.

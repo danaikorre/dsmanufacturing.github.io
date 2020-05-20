@@ -42,6 +42,13 @@ We will use the [Blackboard Collaborate virtual classrom](http://www.ed.ac.uk/is
 We will provide information on accessing and/or installing any other software used in tutorials as and when needed. This is not required as we will provide live demos where necessary. If you wish to try a new tool, some may be accessed from a web browser. Installing desktop tools will remain optional. 
 
 
+### What level of technology proficiency do I need?
+&
+We have a range of potential participants with proficiency ranging from basic &ndash; who use office-based tools, to people who make use of one or more dedicated visualisation tools, to people with some knowledge of programming. We will provide support to all participants regardless of technology proficiency, to acquire understanding of basic and more advanced visualisation concepts, and link those to practical application. 
+
+Each participant will have the opportunity to focus on a sub-set of advanced visualisation options, based on their project definition and other skills desired for work or personal interests. 
+
+
 ### What is going to happen in the tutorials? 
 
 The tutorials, while optional, are considered the backbone activity of the course. Tutorials map to each week's lecture topics, to deepen understanding of concepts discussed and map theory and guidelines to practical application using your project data and ideas. They are practical, hands-on sessions to help you to develop, share and evaluate ideas you have for your project.  

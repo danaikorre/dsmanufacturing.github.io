@@ -35,6 +35,13 @@ Because formal course applications are currently tied to funding support, fee wa
 
 ## Hands-on sessions and project work
 
+### What software do I need for the course?
+
+We will use the [Blackboard Collaborate virtual classrom](http://www.ed.ac.uk/is/collaborate) for interactive sessions (tutorials and lecture Q&amp;As). To join you will need an internet connection that can support web conferencing and a web browser. Blackboard will also normally work on a mobile device via its app. 
+
+We will provide information on accessing and/or installing any other software used in tutorials as and when needed. This is not required as we will provide live demos where necessary. If you wish to try a new tool, some may be accessed from a web browser. Installing desktop tools will remain optional. 
+
+
 ### What is going to happen in the tutorials? 
 
 The tutorials, while optional, are considered the backbone activity of the course. Tutorials map to each week's lecture topics, to deepen understanding of concepts discussed and map theory and guidelines to practical application using your project data and ideas. They are practical, hands-on sessions to help you to develop, share and evaluate ideas you have for your project.  

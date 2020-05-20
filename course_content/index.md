@@ -1,13 +1,13 @@
 # Course Content &amp; Learning Outcomes
 
-## Learning Outcomes
-
-
 [Lectures](lectures.md)  
 [Tutorials](tutorials.md)  
 [Reflection Exercises](reflection_exercises.md)
 
-Discussion Board
+[Discussion Board]()
+
+## Learning Outcomes
+
 
 ## Course Organisation
 

@@ -55,7 +55,7 @@ Discussion Board
     </td>
   </tr><tr style = "vertical-align:top;">
     <td>3-1</td>
-    <td rowspan = 2 style = "vertical-align:top;">
+    <td rowspan = "2" style = "vertical-align:top;">
       <a href="lectures.md#3-1">Foundations III: Techniques</a><br/>
     </td><td>
       <a href="tutorials.md#3-1">EDA &ndash; project data</a><br/>
@@ -70,7 +70,7 @@ Discussion Board
     </td>
   </tr><tr style = "vertical-align:top;">
   <td>4-1</td>
-    <td rowspan = 2 style = "vertical-align:top;">
+    <td rowspan = "2" style = "vertical-align:top;">
       <a href="lectures.md#4-1">Advanced I: Applications</a><br/>
     </td><td>
       <a href="tutorials.md#4-1">Programming Clinic &amp; Advanced topics</a>
@@ -84,7 +84,7 @@ Discussion Board
     </td>
   </tr><tr style = "vertical-align:top;">
     <td>5-1</td>
-    <td rowspan = 2 style = "vertical-align:top;">
+    <td rowspan = "2" style = "vertical-align:top;">
       <a href="lectures.md#5-1">Advanced II: Options</a><br/>
     </td><td>
       <a href="tutorials.md#5-1">Implementation &ndash; project</a>

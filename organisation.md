@@ -70,7 +70,7 @@ The final assessment will require participants to work on an open visualisation 
   <tr>
     <td style = "vertical-align:top;width:200px;">
       <ul>
-        <li>a data-driven, visual story or narrative such as a <a href="http://datacomics.net">data comic</a>.</li>
+        <li>a data-driven, visual story or narrative such as a <a href="http://datacomics.net">data comic</a>, or a set of visual instructions using a <a href="https://visualizationcheatsheets.github.io">cheat sheet</a>.</li>
       </ul>
     </td>
     <td style="vertical-align:top"><img src="images/visual_storytelling.png" alt = "data storytelling using sketches" /></td>

@@ -1,9 +1,9 @@
 
 # Course Content &amp; Learning Outcomes
 
-[Lectures](lectures.md)
-[Tutorials](tutorials.md)
-[Reflection Exercises](reflection_exercises.md)
+[Lectures](lectures.md)  
+[Tutorials](tutorials.md)  
+[Reflection Exercises](reflection_exercises.md)  
 
 [Discussion Board]()
 

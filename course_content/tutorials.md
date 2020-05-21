@@ -57,7 +57,7 @@
     * Why, when and how do context and domain knowledge/expertise influence visualisation design?
 <p>&nbsp;</p>
 
-#### Resources
+#### Additional resources
 
 1. Background & original exercise at: [45 Ways to Communicate Two Quantities](https://en.rockcontent.com/blog/45-ways-to-communicate-two-quantities)
 1. Use case &ndash; multi-perpective design ideas: [Context-Driven Activity Apps @Fathom](https://medium.com/fathominfo/context-driven-activity-apps-e4a150650bf9)
@@ -96,7 +96,7 @@ https://www.whatdotheyknow.com/request/224813/response/560395/attach/3/London%20
 Upload your annotated, redesign sketches to the [shared tutorial space](https://bit.ly/tutorial1-1b_sfcdv).
 <p>&nbsp;</p>
 
-#### Resources:
+#### Additional resources &amp; links:
   
 * [Dataset for stocks vs flows example](https://fred.stlouisfed.org/series/NPPTTL) &nbsp; (Total Nonfarm Private Payroll Employment (NPPTTL))
 * Cairo, A. (2014) 'Ethical Infographics', IRE Journal, 37(2), pp. 25–27.
@@ -104,7 +104,6 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 *  Walt Hickey (2013) [The 27 Worst Charts Of All Time](https://www.businessinsider.com/the-27-worst-charts-of-all-time-2013-6), 
 * [Best practices for attribution &ndash; Creative Commons](https://wiki.creativecommons.org/wiki/best_practices_for_attribution)
 
-**Additional links:**
 1. [https://viz.wtf](https://viz.wtf)
 1. [https://visualisingadvocacy.org/node/643.html](https://visualisingadvocacy.org/node/643.html)
 1. [https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies](https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies)
@@ -139,7 +138,7 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 <p>&nbsp;</p>    
   
 
-#### Resources:
+#### Additional resources:
 
 <a name = "ref-nrs-2019pop_estimates"></a> 
 1. [Mid-2019 Population Estimates Scotland](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2019)
@@ -183,70 +182,68 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 <p>&nbsp;</p>
 
 
-### General guidelines
+### General guidelines for defining brief
 
-1. Task / Challenge / Issue
-  * exploring data to find ???
-  * answering specific questions, e.g., for decision-making, strategy formulation
-  * confirming a hypothesis, e.g., customers prefer X feature / brand
-  * reporting - informing about X, e.g., growth against customer demographics
-  * telling a story - similar to reporting, but may have a more general audience
-  * other?
+1. **Task / Challenge / Issue**
+    * exploring data to find ???
+    * answering specific questions, e.g., for decision-making, strategy formulation
+    * confirming a hypothesis, e.g., customers prefer X feature / brand
+    * reporting - informing about X, e.g., growth against customer demographics
+    * telling a story - similar to reporting, but may have a more general audience
+    * other?
 
-1. Target users
-  * yourself
-  * your team
-  * internal users, e.g., senior management, the wider organisation
-  * external users, e.g., customers
-  
-  * user characteristics
-    - technical vs. non-technical
-    - big picture (high-level overview) vs. detail
-    - domain / task knowledge?
-    - time-conscious or pressured?
+1. **Target users**
+    * yourself
+    * your team
+    * internal users, e.g., senior management, the wider organisation
+    * external users, e.g., customers
 
-1. Presentation
+    * user characteristics
+        - technical vs. non-technical
+        - big picture (high-level overview) vs. detail
+        - domain / task knowledge?
+        - time-conscious or pressured?
+
+1. **Presentation format &amp; end use**
   e.g., as a report, presentation, interactive visualisation
   * context - sector / domain, culture, knowledge
 
-1. Project data
-  - size
-  - format / storage type, e.g., plain text files, formatted reports, images, spreadsheets, remote database
-  - complexity, e.g., multi-dimensional, text and numbers, disconnected / siloed data
-  - static vs. dynamic?
-  - own data vs. "external"? what is core? what will improve on visualisation, communication and exploration of content? any restrictions due to ownership, validity, privacy or commercial or other sensitivity?
-  * data preparation
+1. **Data** 
+    - size
+    - format / storage type, e.g., plain text files, formatted reports, images, spreadsheets, remote database
+    - complexity, e.g., multi-dimensional, text and numbers, disconnected / siloed data
+    - static vs. dynamic?
+    - own data vs. "external"? what is core? what will improve on visualisation, communication and exploration of content? any restrictions due to ownership, validity, privacy or commercial or other sensitivity?
+        * data preparation
 
-1. Data skills / capability
-  - what skills do you have?
-  - what skills do you want to learn / apply?
+1. **Developer data skills / capability**
+    - what skills do you have?
+    - what skills do you want to learn / apply?
   
-1. Constraints
-  - time
-  - data
-  - skills (you and your target users)
-  - domain norms
-  - target environment - including technology
-  - who else are you reliant on, e.g., for domain or task knowledge, data, access to technology, access to target users?
-  - other?
+1. **Constraints**
+    - time
+    - data
+    - skills (you and your target users)
+    - domain norms
+    - target environment - including technology
+    - who else are you reliant on, e.g., for domain or task knowledge, data, access to technology, access to target users?
+    - other?
 
 
-NOTE:
+**NOTE:**
 1. no mention here of visualisation type or approach - this comes later. For now, think about what you want to do, not how.
-2. visualisation projects require user- and task-centred design
-  - place your user(s) and task(s) at the centre of your project definition
-  - you will iterate n (n >> 1) times before you finally deliver your specification, design and project
+1. visualisation projects require user- and task-centred design
+    - place your user(s) and task(s) at the centre of your project definition
+    - you will iterate n (n >> 1) times before you finally deliver your specification, design and project
     - this may include more work on data acquisition and preparation
-  - someone will ultimately evaluate your solution - does it meet your specification?
-    * if you don't your users (still) will!
-    * how will you evaluate your solution? what will you need to measure usability and utility for intended users, tasks and the environment in which it will be used?
+    - someone will ultimately evaluate your solution - does it meet your specification?
+        * if you don't your users (still) will!
+        * how will you evaluate your solution? what will you need to measure usability and utility for intended users, tasks and the environment in which it will be used?
 
-#### Resources:
+#### Additional resources:
 
-1. https://mschermann.github.io/data_viz_reader
-2. https://www.ibm.com/design/v1/language/experience/data-visualization
-
-
+1. [A Reader on Data Visualization](https://mschermann.github.io/data_viz_reader) (Michael Schermann, 2019)
+2. [Art meets science &ndash; IBM's Data visualization guidelines](https://www.ibm.com/design/v1/language/experience/data-visualization)
 <p>&nbsp;</p>
 
 ***

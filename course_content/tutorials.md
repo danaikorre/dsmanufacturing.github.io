@@ -49,7 +49,7 @@
     * Based on additional context - meaning of numbers, repeat exercise ***as a group***.  
   You may draw on the whiteboard or share another drawing app from any participant's computer. Please save your design and upload to the [tutorial workspace](https://bit.ly/tutorial1-1a_sfcdv). Note: if using the whiteboard maximise your screen and take a screen grab.
 
-1. Discussion 2: 10-15min
+1. Discussion 2 (10-15min)
     * ***In the main classroom***
     * Discuss commonalities and variation between 2 sets of results (with and without context)
         - Why did ideas change? Or not?
@@ -107,7 +107,7 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 * [Best practices for attribution &ndash; Creative Commons](https://wiki.creativecommons.org/wiki/best_practices_for_attribution)
 
 **Additional links:**
-1. https://viz.wt
+1. <https://viz.wt>
 1. https://visualisingadvocacy.org/node/643.html
 1. https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies
 1. https://www.nationalgeographic.com/news/2015/06/150619-data-points-five-ways-to-lie-with-charts
@@ -124,7 +124,7 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 <a name = "1-1c"></a>
 ### Tutorial1-1c Basic Charts
 
-This exercise uses data from National Records Scotland's 2019 population estimates[^1] and the time series data
+* This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series) data.
 
 Activity 1: 15min
   * Within your groups -
@@ -145,9 +145,9 @@ Discussion: 15min
 
 Resources:
 
-[^1]: This is my awesome footnote.
- 
- 1. https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2019
+<a name = "ref-nrs-2019pop_estimates"></a> 
+1. https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2019
+<a name = "ref-nrs-2019time_series"></a> 
 2. https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/population-estimates-time-series-data
 3. https://source.opennews.org/articles/what-i-learned-recreating-one-chart-using-24-tools
 

@@ -47,7 +47,7 @@
 
 1. Activity 2 (3min)
     * Based on additional context - meaning of numbers, repeat exercise ***as a group***.  
-  You may draw on the whiteboard or share another drawing app from any participant's computer. Please save your design and upload to the [tutorial workspace](https://bit.ly/tutorial1-1a_sfcdv). Note: if using the whiteboard maximise your screen and take a screen grab.
+  You may draw on the whiteboard or share another drawing app from any participant's computer. Please save your design and upload to the [tutorial workspace](https://bit.ly/tutorial1-1a_sfcdv). Note &mdash; if using the whiteboard maximise your screen and take a screen grab.
 
 1. Discussion 2 (10-15min)
     * ***In the main classroom***
@@ -155,32 +155,35 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 <a name="1-2a"></a>
 ### Tutorial1-2a: (Formulating) visualisation brief
 
-1. Activity 1: 10min
-  * On your own - think about
+1. Activity 1 (10min)
+    * ***On your own*** &ndash; think about
     - What is the (Big) Question?
     - What do you Want to Communicate?
     - Who are you Communicating it to?
     - What is the Purpose of your Visualisation?
 
-Discussion 1: 15min
-  * Whole class
+1. Discussion 1 (15min)
+    * ***In the main classroom***
     - review initial ideas based on guidelines
     - challenges / constraints
     - innovative ideas
     - volunteers to present their ideas OR use class example
 
-Reflection exercise 1: 20min
-  * On your own or within your groups -
+1. Reflection exercise 1 (20min)
+    * ***On your own (if you've sensitive data) or within your groups***
     - review your initial ideas
     - update your brief
-    * reflection / discussions may be based around data type, task types, target users, norms in sectors/domains, innovation in task and/or solution(s) proposed, options for evaluating solution
+    Note: reflection / discussions may be based around data type, task types, target users, norms in sectors/domains, innovation in task and/or solution(s) proposed, options for evaluating a solution.
     
-Discussion 1: 10min
-  * Whole class
+1. Discussion 2 (10min)
+    * ***In the main classroom***
     - questions?
     - constraints or challenges recognised?
     - brief summary of reflection exercise and submission date
+<p>&nbsp;</p>
 
+
+### General guidelines
 
 1. Task / Challenge / Issue
   * exploring data to find ???
@@ -190,7 +193,7 @@ Discussion 1: 10min
   * telling a story - similar to reporting, but may have a more general audience
   * other?
 
-2. Target users
+1. Target users
   * yourself
   * your team
   * internal users, e.g., senior management, the wider organisation
@@ -202,11 +205,11 @@ Discussion 1: 10min
     - domain / task knowledge?
     - time-conscious or pressured?
 
-3. Presentation
+1. Presentation
   e.g., as a report, presentation, interactive visualisation
   * context - sector / domain, culture, knowledge
 
-4. Project data
+1. Project data
   - size
   - format / storage type, e.g., plain text files, formatted reports, images, spreadsheets, remote database
   - complexity, e.g., multi-dimensional, text and numbers, disconnected / siloed data
@@ -214,11 +217,11 @@ Discussion 1: 10min
   - own data vs. "external"? what is core? what will improve on visualisation, communication and exploration of content? any restrictions due to ownership, validity, privacy or commercial or other sensitivity?
   * data preparation
 
-5. Data skills / capability
+1. Data skills / capability
   - what skills do you have?
   - what skills do you want to learn / apply?
   
-6. Constraints
+1. Constraints
   - time
   - data
   - skills (you and your target users)

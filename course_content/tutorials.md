@@ -73,14 +73,13 @@
 ### Tutorial1-1b: Visualisation Lies (1 hour)
 
 1. Discussion 1 (~20min)
-    * [Discussion slides](https://bit.ly/tutorial1-1b)
+    * [Slides](https://bit.ly/tutorial1-1b)  
+    
     * Communicating through distortion vs. Visualisation lies  
       e.g., [tube](http://content.tfl.gov.uk/standard-tube-map.pdf) & subway maps vs [overground walking maps](
 https://www.whatdotheyknow.com/request/224813/response/560395/attach/3/London%20Connections%20Map.pdf)
-
     * Misleading visualisations? Ambiguity?  
       e.g., [Stock vs flow diagrams](https://www.anderson.ucla.edu/faculty-and-research/anderson-review/stock-flows)
-
     * Outright lies & distortion to convey message contrary to data content  
       e.g., [Explaining fuel price rises under India's PM Modi](https://thewire.in/economy/bjps-statistical-analysis-fuel-prices)
 
@@ -105,6 +104,7 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 * Cairo, A. (2014) 'Ethical Infographics', IRE Journal, 37(2), pp. 25–27.
     Key takeaway: " Increasing understanding while minimizing harm."
 *  Walt Hickey (2013) [The 27 Worst Charts Of All Time](https://www.businessinsider.com/the-27-worst-charts-of-all-time-2013-6), 
+* [Best practices for attribution &ndash; Creative Commons](https://wiki.creativecommons.org/wiki/best_practices_for_attribution)
 
 **Additional links:**
 1. https://viz.wt
@@ -116,12 +116,15 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
   
   
 <p>&nbsp;</p>
+
 ***
+
 <p>&nbsp;</p>
+
 <a name = "1-1c"></a>
 ### Tutorial1-1c Basic Charts
 
-This exercise uses data from National Records Scotland's 2019 population estimate and the time series data
+This exercise uses data from National Records Scotland's 2019 population estimates[^1] and the time series data
 
 Activity 1: 15min
   * Within your groups -
@@ -137,20 +140,25 @@ Discussion: 15min
     - Who is your target user? What influence did this have?
     - simple vs complex visualisations
     - coupled visualisations
-    
+<p>&nbsp;</p>    
   
 
 Resources:
 
-1. https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2019
+[^1]: This is my awesome footnote.
+ 
+ 1. https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2019
 2. https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/population-estimates-time-series-data
 3. https://source.opennews.org/articles/what-i-learned-recreating-one-chart-using-24-tools
 
 
   
 <p>&nbsp;</p>
+
 ***
+
 <p>&nbsp;</p>
+
 <a name="1-2a"></a>
 ### Tutorial1-2a: (Formulating) visualisation brief
 
@@ -244,8 +252,11 @@ NOTE:
 
 
 <p>&nbsp;</p>
+
 ***
+
 <p>&nbsp;</p>
+
 <a name="1-2b"></a>
 ### Tutorial1-2b: Visual, exploratory data analysis (EDA)
 

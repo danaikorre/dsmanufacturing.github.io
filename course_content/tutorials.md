@@ -16,13 +16,14 @@
 <p>&nbsp;</p>
 
 [Week 1](#week_1)  
-* T1-1a: [45 ways](#1-1a)  
-* T1-1b: [Visualisation lies](#1-1b)  
+* Session 1-1
+    * T1-1a: [45 ways](#1-1a)  
+    * T1-1b: [Visualisation lies](#1-1b)  
+* Session 1-2
+    * T1-2a: [Formulating data visualisation brief](#1-2a)
+    * T1-2b: [Visual, exploratory data analysis (EDA)](#1-2b)
 
 [Week 2](#week_2)  
-* T1-2a: [Formulating data visualisation brief](#1-2a)
-* T1-2b: [Visual, exploratory data analysis (EDA)](#1-2b)
-
 [Week 3](#week_3)  
 [Week 4](#week_4)  
 [Week 5](#week_5)  
@@ -75,12 +76,11 @@
     
     * Communicating through distortion vs. Visualisation lies  
       e.g., [tube](http://content.tfl.gov.uk/standard-tube-map.pdf) & subway maps vs [overground walking maps](
-https://www.whatdotheyknow.com/request/224813/response/560395/attach/3/London%20Connections%20Map.pdf)
+https://www.whatdotheyknow.com/request/224813/response/560395/attach/3/London%20Connections%20Map.pdf)  
     * Misleading visualisations? Ambiguity?  
-      e.g., [Stock vs flow diagrams](https://www.anderson.ucla.edu/faculty-and-research/anderson-review/stock-flows)
+      e.g., [Stock vs flow diagrams](https://www.anderson.ucla.edu/faculty-and-research/anderson-review/stock-flows)  
     * Outright lies & distortion to convey message contrary to data content  
       e.g., [Explaining fuel price rises under India's PM Modi](https://thewire.in/economy/bjps-statistical-analysis-fuel-prices)
-
 
 1. Activity 1 (30min)
     * ***Within your group***
@@ -95,6 +95,7 @@ https://www.whatdotheyknow.com/request/224813/response/560395/attach/3/London%20
     
 Upload your annotated, redesign sketches to the [shared tutorial space](https://bit.ly/tutorial1-1b_sfcdv).
 <p>&nbsp;</p>
+
 
 #### Additional resources &amp; links:
   
@@ -128,7 +129,7 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
         1. population distribution by age and/or sex in 2019
         1. population change by age group over the last 10 years
         1. the top and bottom 10% in population change by council area over the last year
-
+        
 1. Discussion (15min)
     * ***In the main classroom***
     * Discuss ideas
@@ -142,7 +143,7 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 
 <a name = "ref-nrs-2019pop_estimates"></a> 
 1. [Mid-2019 Population Estimates Scotland](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2019)
-<a name = "ref-nrs-2019time_series"></a> 
+<a name = "ref-nrs-2019time_series"></a>
 1. [Population Estimates Time Series Data (NRS Apr 2020)](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/population-estimates-time-series-data)
 1. Lisa Charlotte Rost (2016) [What I Learned Recreating One Chart Using 24 Tools](https://source.opennews.org/articles/what-i-learned-recreating-one-chart-using-24-tools)
 <p>&nbsp;</p>

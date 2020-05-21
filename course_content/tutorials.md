@@ -64,8 +64,11 @@
 
 
 <p>&nbsp;</p>
+
 ***
+
 <p>&nbsp;</p>
+
 <a name = "1-1b"></a>
 ### Tutorial1-1b: Visualisation Lies (1 hour)
 
@@ -103,11 +106,11 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
     Key takeaway: " Increasing understanding while minimizing harm."
 *  Walt Hickey (2013) [The 27 Worst Charts Of All Time](https://www.businessinsider.com/the-27-worst-charts-of-all-time-2013-6), 
 
-Additional links
-1. [https://viz.wtf](https://viz.wtf)
+**Additional links:**
+1. https://viz.wt
 1. https://visualisingadvocacy.org/node/643.html
 1. https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies
-1. https://www.nationalgeographic.com/news/2015/06/150619-data-points-five-ways-to-lie-with-charts links
+1. https://www.nationalgeographic.com/news/2015/06/150619-data-points-five-ways-to-lie-with-charts
 1. https://www.nationalgeographic.com/news/2015/09/150922-data-points-visualization-eye-candy-efficiency
 1. https://eagereyes.org/basics/putting-data-into-context
   

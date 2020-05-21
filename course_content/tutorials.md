@@ -234,7 +234,7 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
     - other?
 
 
-**NOTE:**  
+**Note:**  
 1. no mention here of visualisation type or approach - this comes later. For now, think about what you want to do, not how.
 1. visualisation projects require user- and task-centred design
     - place your user(s) and task(s) at the centre of your project definition

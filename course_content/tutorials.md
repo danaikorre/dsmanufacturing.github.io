@@ -8,12 +8,15 @@
     - Note that group activities will be set up to ensure private or otherwise sensitive data and interests are not shared.
     - If you have special requirements that necessitate moving from a specified group please speak to a course tutor in the first instance.
 1. With the exception of individual project work, activities carried out during tutorials will be uploaded to a shared online space to facilitate wider discussion and reflection on learning. Each tutorial script will include instructions on access to the session's space. Work uploaded should be labelled with your student ID or group number and date. Please do not include your name(s) or other personally identifiable information.
-    - [Blackboard Collaborate](https://www.ed.ac.uk/information-services/learning-technology/communication) tools:
-        - whiteboard - no inbuilt save mechanism - maximise screen and take a snapshot
-        - slideshow
-        - file sharing
-        - chat
+1. We will use [Blackboard Collaborate's](https://www.ed.ac.uk/information-services/learning-technology/communication) virtual classroom for all interactive sessions. You will receive by e-mail an access link. Tools included:
+    - whiteboard - no inbuilt save mechanism - maximise screen and take a snapshot
+    - slideshow
+    - file sharing
+    - chat.
 <p>&nbsp;</p>
+
+
+## Index
 
 [Week 1](#week_1)  
 * Session 1-1
@@ -231,7 +234,7 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
     - other?
 
 
-**NOTE:**
+**NOTE:**  
 1. no mention here of visualisation type or approach - this comes later. For now, think about what you want to do, not how.
 1. visualisation projects require user- and task-centred design
     - place your user(s) and task(s) at the centre of your project definition

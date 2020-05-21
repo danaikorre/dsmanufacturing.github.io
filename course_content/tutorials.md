@@ -61,8 +61,6 @@
 
 1. Background & original exercise at: [45 Ways to Communicate Two Quantities](https://en.rockcontent.com/blog/45-ways-to-communicate-two-quantities)
 1. Use case &ndash; multi-perpective design ideas: [Context-Driven Activity Apps @Fathom](https://medium.com/fathominfo/context-driven-activity-apps-e4a150650bf9)
-
-
 <p>&nbsp;</p>
 
 ***
@@ -96,7 +94,7 @@ https://www.whatdotheyknow.com/request/224813/response/560395/attach/3/London%20
         - if so, how would you redesign each to communicate the story intended or actual data content?
     
 Upload your annotated, redesign sketches to the [shared tutorial space](https://bit.ly/tutorial1-1b_sfcdv).
-
+<p>&nbsp;</p>
 
 #### Resources:
   
@@ -107,14 +105,12 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 * [Best practices for attribution &ndash; Creative Commons](https://wiki.creativecommons.org/wiki/best_practices_for_attribution)
 
 **Additional links:**
-1. <https://viz.wt>
-1. https://visualisingadvocacy.org/node/643.html
-1. https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies
-1. https://www.nationalgeographic.com/news/2015/06/150619-data-points-five-ways-to-lie-with-charts
-1. https://www.nationalgeographic.com/news/2015/09/150922-data-points-visualization-eye-candy-efficiency
-1. https://eagereyes.org/basics/putting-data-into-context
-  
-  
+1. [https://viz.wtf](https://viz.wtf)
+1. [https://visualisingadvocacy.org/node/643.html](https://visualisingadvocacy.org/node/643.html)
+1. [https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies](https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies)
+1. [https://www.nationalgeographic.com/news/2015/06/150619-data-points-five-ways-to-lie-with-charts](https://www.nationalgeographic.com/news/2015/06/150619-data-points-five-ways-to-lie-with-charts)
+1. [https://www.nationalgeographic.com/news/2015/09/150922-data-points-visualization-eye-candy-efficiency]( https://www.nationalgeographic.com/news/2015/09/150922-data-points-visualization-eye-candy-efficiency)
+1. [https://eagereyes.org/basics/putting-data-into-context](https://eagereyes.org/basics/putting-data-into-context)
 <p>&nbsp;</p>
 
 ***
@@ -124,35 +120,32 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 <a name = "1-1c"></a>
 ### Tutorial1-1c Basic Charts
 
-* This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series) data.
+* This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.
 
-Activity 1: 15min
-  * Within your groups -
-  * Sketch (free-hand) up to 3 chart types for the datasets to show how you would use the data to illustrate:
-    1. population change over the last century
-    2. population distribution by age and/or sex in 2019
-    3. population change by age group over the last 10 years
-    4. the top and bottom 10% in population change by council area over the last year
+1. Activity 1 (15min)
+    * ***Within your groups***
+    * Sketch (free-hand) up to 3 chart types for the datasets to show how you would use the data to illustrate:
+        1. population change over the last century
+        1. population distribution by age and/or sex in 2019
+        1. population change by age group over the last 10 years
+        1. the top and bottom 10% in population change by council area over the last year
 
-Discussion: 15min
-  * In the main classroom -
-  * Discuss ideas
-    - Who is your target user? What influence did this have?
-    - simple vs complex visualisations
-    - coupled visualisations
+1. Discussion (15min)
+    * ***In the main classroom***
+    * Discuss ideas
+        - Who is your target user? What influence did this have?
+        - simple vs complex visualisations
+        - coupled visualisations
 <p>&nbsp;</p>    
   
 
-Resources:
+#### Resources:
 
 <a name = "ref-nrs-2019pop_estimates"></a> 
-1. https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2019
+1. [Mid-2019 Population Estimates Scotland](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2019)
 <a name = "ref-nrs-2019time_series"></a> 
-2. https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/population-estimates-time-series-data
-3. https://source.opennews.org/articles/what-i-learned-recreating-one-chart-using-24-tools
-
-
-  
+1. [Population Estimates Time Series Data (NRS Apr 2020)](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/population-estimates-time-series-data)
+1. Lisa Charlotte Rost (2016) [What I Learned Recreating One Chart Using 24 Tools](https://source.opennews.org/articles/what-i-learned-recreating-one-chart-using-24-tools)
 <p>&nbsp;</p>
 
 ***

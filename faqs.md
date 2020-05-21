@@ -44,7 +44,7 @@ We will provide information on accessing and/or installing any other software us
 
 ### What level of technology proficiency do I need?
 
-We have a range of potential participants with proficiency ranging from basic &ndash; who use office-based tools, to people who make use of one or more dedicated visualisation tools, to people with some knowledge of programming. We will provide support to all participants regardless of technology proficiency, to acquire understanding of basic and more advanced visualisation concepts, and link those to practical application. 
+We have a range of potential participants with proficiency ranging from basic &ndash; using mainly office-based tools, to people who use dedicated visualisation tools, to people with some knowledge of programming. We will provide support to all participants regardless of technology proficiency, to acquire understanding of basic and more advanced visualisation concepts, and link those to practical application. 
 
 Each participant will have the opportunity to focus on a sub-set of advanced visualisation options, based on their project definition and other skills desired for work or personal interests. 
 

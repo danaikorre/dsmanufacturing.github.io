@@ -16,6 +16,7 @@
 <p>&nbsp;</p>
 
 
+<a name = "index"></a>
 ## Index
 
 [Week 1](#week_1)  
@@ -30,6 +31,11 @@
 [Week 3](#week_3)  
 [Week 4](#week_4)  
 [Week 5](#week_5)  
+<p>&nbsp;</p>
+
+[Lectures](lectures.md)  
+[Reflection Exercises](reflection_exercises.md)
+<p>&nbsp;</p>
 
 
 <a name = "week_1"></a>
@@ -66,6 +72,8 @@
 1. Background & original exercise at: [45 Ways to Communicate Two Quantities](https://en.rockcontent.com/blog/45-ways-to-communicate-two-quantities)
 1. Use case &ndash; multi-perpective design ideas: [Context-Driven Activity Apps @Fathom](https://medium.com/fathominfo/context-driven-activity-apps-e4a150650bf9)
 <p>&nbsp;</p>
+
+back to [index](#index)
 
 ***
 
@@ -116,6 +124,8 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 1. [https://eagereyes.org/basics/putting-data-into-context](https://eagereyes.org/basics/putting-data-into-context)
 <p>&nbsp;</p>
 
+back to [index](#index)
+
 ***
 
 <p>&nbsp;</p>
@@ -150,6 +160,8 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 1. [Population Estimates Time Series Data (NRS Apr 2020)](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/population-estimates-time-series-data)
 1. Lisa Charlotte Rost (2016) [What I Learned Recreating One Chart Using 24 Tools](https://source.opennews.org/articles/what-i-learned-recreating-one-chart-using-24-tools)
 <p>&nbsp;</p>
+
+back to [index](#index)
 
 ***
 
@@ -250,9 +262,11 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 2. [Art meets science &ndash; IBM's Data visualization guidelines](https://www.ibm.com/design/v1/language/experience/data-visualization)
 <p>&nbsp;</p>
 
+back to [index](#index)
+
 ***
 
-<p>&nbsp;</p>
+<!-- p>&nbsp;</p>
 
 <a name="1-2b"></a>
 ### Tutorial1-2b: Visual, exploratory data analysis (EDA)
@@ -277,3 +291,5 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 
 <a name = "week_5"></a>
 ## Week 5
+
+-->

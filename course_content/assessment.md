@@ -4,7 +4,7 @@ This course is accredited; on successful completion you will receive a certifica
 
 It therefore has a formal assessment component comprising
   * mini quizzes attached to key lecture topics
-  * brief [reflection exercises](reflection_exercises) linked to the tutorials
+  * brief reflection exercises linked to the tutorials  <!-- [reflection exercises](reflection_exercises) linked to the tutorials -->  
   * a final project that enables you to answer, using your data visualisation choice, the challenge you define.
 
 

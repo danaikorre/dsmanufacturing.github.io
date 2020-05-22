@@ -2,9 +2,9 @@
 # Course Content 
 <!-- &amp; Learning Outcomes -->
 
-[Lectures](lectures.md)
-[Tutorials](tutorials.md)
-[Reflection Exercises](assessment.md#reflection_exercises)
+[Lectures](lectures.md)  
+[Tutorials](tutorials.md)  
+[Reflection Exercises](assessment.md#reflection_exercises)  
 
 [Discussion Board](datavisonline.slack.com)
 

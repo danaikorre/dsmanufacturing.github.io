@@ -2,7 +2,7 @@
 # Course Content 
 <!-- &amp; Learning Outcomes -->
 
-[Lectures](lectures.md)  
+Lectures  <!-- [Lectures](lectures.md)  -->  
 [Tutorials](tutorials.md)  
 [Reflection Exercises](assessment.md#reflection_exercises)  
 
@@ -22,8 +22,8 @@
   </tr><tr style = "vertical-align:top;">
     <td>1-1</td>
     <td>
-      <a href="lectures.md#1-1a">Course introduction</a><br/>
-      <a href="lectures.md#1-1b">Foundations Ia: Basic concepts</a>
+      <!-- a href="lectures.md#1-1a" -->Course introduction<!-- /a --><br/>
+      <!-- a href="lectures.md#1-1b"!-- >Foundations Ia: Basic concepts<!-- /a -->
     </td><td>
       <a href="tutorials.md#1-1a">45 ways</a><br/>
       <a href="tutorials.md#1-1b">Visualisation lies</a><br/>
@@ -33,7 +33,7 @@
   </tr><tr style = "vertical-align:top;">
     <td>1-2</td>
     <td>
-      <a href="lectures.md#1-2">Foundations Ib: Basic concepts</a><br/>
+      <!-- a href="lectures.md#1-2" -->Foundations Ib: Basic concepts<!-- /a --><br/>
     </td><td>
       <a href="tutorials.md#1-2a">Formulating data visualisation brief</a><br/>
       <a href="tutorials.md#1-2b">Visual, exploratory data analysis (EDA)</a>

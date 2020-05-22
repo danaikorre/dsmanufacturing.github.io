@@ -33,6 +33,7 @@ It therefore has a formal assessment component comprising
 [Week 5](#week_5)  
 <p>&nbsp;</p>
 
+[Schedule](index.md)
 [Lectures](lectures.md)  
 [Tutorials](utorials.md)
 <p>&nbsp;</p>
@@ -47,3 +48,5 @@ It therefore has a formal assessment component comprising
 <a name = "week_1"></a>
 ## Week 1
  -->
+
+back to [schedule](index.md)

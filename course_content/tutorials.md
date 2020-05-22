@@ -28,10 +28,12 @@
     * T1-2a: [Formulating data visualisation brief](#1-2a)
     * T1-2b: [EDA &ndash; Exploratory Data Analysis](#1-2b)
 
+<!-- 
 [Week 2](#week_2)  
 [Week 3](#week_3)  
 [Week 4](#week_4)  
-[Week 5](#week_5)  
+[Week 5](#week_5) 
+->>
 <p>&nbsp;</p>
 
 [Lectures](lectures.md)  

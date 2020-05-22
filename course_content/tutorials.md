@@ -23,9 +23,10 @@
 * Session 1-1
     * T1-1a: [45 ways](#1-1a)  
     * T1-1b: [Visualisation lies](#1-1b)  
+    * T1-1c: [Basic Charts](#1-1c)
 * Session 1-2
     * T1-2a: [Formulating data visualisation brief](#1-2a)
-    * T1-2b: [Visual, exploratory data analysis (EDA)](#1-2b)
+    * T1-2b: [EDA &ndash; Exploratory Data Analysis](#1-2b)
 
 [Week 2](#week_2)  
 [Week 3](#week_3)  
@@ -131,7 +132,7 @@ back to [index](#index)
 <p>&nbsp;</p>
 
 <a name = "1-1c"></a>
-### Tutorial1-1c Basic Charts
+### Tutorial1-1c: Basic Charts
 
 * This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.
 
@@ -266,15 +267,66 @@ back to [index](#index)
 
 ***
 
-<!-- p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <a name="1-2b"></a>
-### Tutorial1-2b: Visual, exploratory data analysis (EDA)
+### Tutorial1-2b: EDA &ndash; Exploratory Data Analysis using Two Tools (1 hour)
+
+* This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.
+
+1. Discussion 1 (10 min)
+    * ***In the main classroom***
+    - introduction to 3 different tools for visualising data
+
+1. Activity 1 (15 mins)
+    * ***Individually***
+    - Using Rawgraphs and a tool of your choice
+        - select an aspect of the data you want to explore
+        - create 2 different charts in each tool that communicate the insight your derived
+        - save your results as a snapshot and upload to the tutorial's shared space
+    
+1. Discussion 2 (5 min)
+    - ***In the main classroom***
+    - poll
+        - tools selected
+        - charts selected
+            * what influenced your choice?
+
+1. Reflection 1 (15 min)
+    * ***Within your groups***
+    - How effective are the visualizations you chose?
+    - What would need to be improved?
+        - based on your approach to generating the visualisation, e.g., colour scheme, chart type, layout, data elements
+
+    - What insights did you uncover?
+        - were these new or unexpected?
+        - did they confirm what you had already observed from the data or knew prior to the exercise?
+        - how confident are you in your findings? Why or why not?
+
+    - How effective are the tools you used?
+        - Which features and workflows worked well? Why?
+        - What challenges did you encounter? Why?
+        - How do your tool choices compare? e.g., intuitiveness for exploration, ability to communicate results, responsiveness
+    
+1. Discussion (10 min)
+    - ***In the main classroom***
+    - 1 per group &ndash; share insights derived and how these were reinforced or further questioned as a result of the group reflection (on the tools and results obtained)
+
+#### Resources:
+
+1. [*Visual+interactive data group's* tool list](https://visualinteractivedata.github.io/res-tools.html)
+2. [*Interactive Things Studio's* visualisation resource](https://datavisualization.ch)
+3. [*Visualising Data's* tool list](https://www.visualisingdata.com/resources)
+<p>&nbsp;</p>
+
+back to [index](#index)
+  
+***
 
 <p>&nbsp;</p>
 
 
-<a name = "week_2"></a>
+<!-- a name = "week_2"></a>
 ## Week 2
 <p>&nbsp;</p>
 

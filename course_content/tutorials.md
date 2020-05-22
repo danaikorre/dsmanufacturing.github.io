@@ -34,7 +34,7 @@
 <p>&nbsp;</p>
 
 [Lectures](lectures.md)  
-[Reflection Exercises](reflection_exercises.md)
+[Reflection Exercises](assessment.md#reflection_exercises)
 <p>&nbsp;</p>
 
 

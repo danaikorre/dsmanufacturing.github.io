@@ -6,7 +6,7 @@
 [Tutorials](tutorials.md)  
 [Reflection Exercises](assessment.md#reflection_exercises)  
 
-[Discussion Board](datavisonline.slack.com)
+[Discussion Board](https://datavisonline.slack.com)
 
 <!-- ## Learning Outcomes -->
 

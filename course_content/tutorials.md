@@ -37,7 +37,7 @@
 <p>&nbsp;</p>
 
 [Schedule](index.md)  
-<!-- [Lectures](lectures.md) -->  
+Lectures  <!-- [Lectures](lectures.md) -->  
 [Reflection Exercises](assessment.md#reflection_exercises)
 <p>&nbsp;</p>
 

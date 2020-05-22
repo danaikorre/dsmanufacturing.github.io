@@ -10,27 +10,22 @@ It therefore has a formal assessment component comprising
 
 ## General Submission Guidelines
 
-1. Submission of (individual) quizzes and exercises assignments must be labelled using your exam number only; please ensure you do not include any personally identifiable information. Group exercises should list goup ID, date and exercise number.
+1. Submission of (individual) quizzes and exercises assignments must be labelled using your exam number only; please ensure you do not include any personally identifiable information. Group exercises should use group ID, date and exercise number.
 <!-- Your exam number is the number that starts with B on your student card. -->
 
 1. Quizzes will require selection from a multi-choice list and/or require a brief written answer.
 1. Reflection exercises must contain ~200 and no more than 500 words, and fit on a single side of A4 paper. 
   * keep descriptions brief and to the point. Use bulleted lists rather than prose to provide detail for key points.
   * number all figures and further annotate sketches and diagrams as required. 
-  * you may use a non-traditional, visualisation-based (rather than text-based) method to submit reflection exercises, provided they communicate the infroamtion required effectively.
+  * you may use a non-traditional, visualisation-based (rather than text-based) method to submit reflection exercises, provided it communicates the information required effectively.
 
-<p>&nbsp;</p>
+<!-- p>&nbsp;</p>
 
 <a name = "index"></a>
 ## Index
 
 [Week 1](#week_1)  
-* Session 1-1
-    * T1-1a: [45 ways](#1-1a)  
-    * T1-1b: [Visualisation lies](#1-1b)  
-* Session 1-2
-    * T1-2a: [Formulating data visualisation brief](#1-2a)
-    * T1-2b: [Visual, exploratory data analysis (EDA)](#1-2b)
+* [Project brief](#Project brief)
 
 [Week 2](#week_2)  
 [Week 3](#week_3)  
@@ -42,12 +37,13 @@ It therefore has a formal assessment component comprising
 [Tutorials](utorials.md)
 <p>&nbsp;</p>
 
-
+ -->
 <!-- a name = "quizzes"></a>
 ## Quizzes -->
 
-<a name = "reflection_exercises"></a>
+<!-- a name = "reflection_exercises"></a>
 ## Reflection Exercises
 
 <a name = "week_1"></a>
 ## Week 1
+ -->

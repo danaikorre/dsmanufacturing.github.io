@@ -18,8 +18,10 @@
 [Week 5](#week_5)  
 <p>&nbsp;</p>
 
+
+[Schedule](index.md)
 [Tutorials](tutorials.md)  
-[Reflection Exercises](reflection_exercises.md)
+[Reflection Exercises](assessment.md#reflection_exercises)
 
 <p>&nbsp;</p>
 
@@ -117,5 +119,6 @@ back to [index](#index)
 
 back to [index](#index)
 
+back to [schedule](index.md)
 ***
 

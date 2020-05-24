@@ -121,7 +121,7 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 * [Best practices for attribution &ndash; Creative Commons](https://wiki.creativecommons.org/wiki/best_practices_for_attribution)
 
 1. [Junk Charts](https://docs.google.com/document/d/1-IwXtp2cGhzSne20MI32YTtMOlgiz0nztgKZmuCcZOk/edit?usp=sharing)
-1. https://viz.wtf
+1. ( https://viz.wtf )
 1. [https://visualisingadvocacy.org/node/643.html](https://visualisingadvocacy.org/node/643.html)
 1. [https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies](https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies)
 1. [https://www.nationalgeographic.com/news/2015/06/150619-data-points-five-ways-to-lie-with-charts](https://www.nationalgeographic.com/news/2015/06/150619-data-points-five-ways-to-lie-with-charts)

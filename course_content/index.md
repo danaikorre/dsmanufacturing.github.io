@@ -102,3 +102,10 @@
     </td>
   </tr>
 </table>
+
+***
+
+## Timetable
+<!-- ![timetable](../images/pilot_week_timetable.png) -->
+<img src = "../images/pilot_week_timetable.png" alt = "timetable" height = "450" />
+

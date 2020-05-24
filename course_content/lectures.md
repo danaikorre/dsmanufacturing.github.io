@@ -67,8 +67,6 @@
    <tr>
       <td>Data Vis pipeline</td>
       <td><img src = "../images/data_vis_pipeline.png" height = 250 /></td>
-   </tr><tr>
-      <td colspan = 2>Challenge -> visual encoding -> visualization -> understanding</td>
   </tr>
 </table>
 <!-- ![Data Vis pipeline](../images/data_vis_pipeline.png | width=250) -->

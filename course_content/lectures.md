@@ -66,7 +66,7 @@
 <table>
    <tr>
       <td>Data Vis pipeline</td>
-      <td><img src = "../images/data_vis_pipeline.png" height = 250 /></td>
+      <td><img src = "../images/data_vis_pipeline.png" alt = "data vis pipeline" height = "250" /></td>
   </tr>
 </table>
 <!-- ![Data Vis pipeline](../images/data_vis_pipeline.png | width=250) -->

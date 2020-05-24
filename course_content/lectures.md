@@ -1,4 +1,4 @@
-# Lectures
+# Lecture Material
 
 
 <a name = "index"></a>

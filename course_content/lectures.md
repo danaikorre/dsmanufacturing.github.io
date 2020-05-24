@@ -128,7 +128,7 @@ back to [index](#index)
 
 ***
 
-<p>&nbsp;</p>
+<!-- p>&nbsp;</p>
 
 
 <a name = "week_2"></a>
@@ -177,6 +177,7 @@ back to [index](#index)
 <p>&nbsp;</p>
 
 back to [index](#index)
+-->
 
 back to [schedule](index.md)
 ***

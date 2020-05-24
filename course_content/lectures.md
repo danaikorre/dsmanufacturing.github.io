@@ -5,21 +5,18 @@
 ## Index
 
 [Week 1](#week_1)  
-* Session 1-1
-    * [](#1-1a)  
-    * [](#1-1b)  
-* Session 1-2
-    * [](#1-2a)
-    * [](#1-2b)
+   * [Session 1-1: Introduction](#1-1)  
+   * [Session 1-2: Working with Visualizations](#1-2)
 
-[Week 2](#week_2)  
+<!-- [Week 2](#week_2)  
 [Week 3](#week_3)  
 [Week 4](#week_4)  
-[Week 5](#week_5)  
+[Week 5](#week_5) 
+-->
 <p>&nbsp;</p>
 
 
-[Schedule](index.md)
+[Schedule](index.md)  
 [Tutorials](tutorials.md)  
 [Reflection Exercises](assessment.md#reflection_exercises)
 
@@ -28,12 +25,12 @@
 ***
 
 <a name = "week_1"></a>
-## Week 1
+## Week 1: Foundations: Core Concepts
 
-<a name = "1-1a"></a>
+<a name = "1-1"></a>
 ### Session 1.1: Introduction
   [Lecture slides](https://docs.google.com/presentation/d/1SQMdG2dBko0qA_2VlOIGsUGZWugrBVHD2AhOc8nR-ds/edit?usp=sharing)  
-  [Video]()
+  [Video]()  
   [Quizzes]()
     
 #### Session topics
@@ -57,10 +54,44 @@
     * Formal definition
 
 
-<a name = "1-1b"></a>
+<a name = "1-2"></a>
 ### Session 1.2: Working with Visualizations
-    [Lecture slides](https://docs.google.com/presentation/d/1RKodbqoGrg59Ogi0aclTO0bmpZraq3q62jTDSqyAhrI/edit?usp=sharing)
-    [Video]()
+
+  [Lecture slides]()  
+  [Video]()  
+  [Quizzes]()
+
+#### Session topics
+
+<table>
+   <tr>
+      <td>Data Vis pipeline</td>
+      <td><img src = "../images/data_vis_pipeline.png" height = 250 /></td>
+   </tr><tr>
+      <td colspan = 2>Challenge -> visual encoding -> visualization -> understanding</td>
+  </tr>
+</table>
+<!-- ![Data Vis pipeline](../images/data_vis_pipeline.png | width=250) -->
+
+
+* Design thinking
+   * Human-centered research
+   * Double diamond
+   * Iterative design
+* Data Challenge
+* Exploration vs. Explanation
+* Exploratory Data Visualization
+   * **Schema**
+   * Multiple views
+   * Interaction
+   * High-level tasks
+      * Hypothesis generation
+      * Trends
+      * Outliers
+      * Clusters
+* Explanation
+* Critical Analysis
+* Evaluation
 
 <p>&nbsp;</p>
 
@@ -73,7 +104,7 @@ back to [index](#index)
 
 
 <a name = "week_2"></a>
-## Week 2
+## Week 2: Design &amp; Tools
 
 <p>&nbsp;</p>
 

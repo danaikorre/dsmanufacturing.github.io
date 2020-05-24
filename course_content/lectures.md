@@ -32,6 +32,20 @@
   [Lecture slides](https://docs.google.com/presentation/d/1SQMdG2dBko0qA_2VlOIGsUGZWugrBVHD2AhOc8nR-ds/edit?usp=sharing)  
   [Video]()  
   [Quizzes]()
+  
+#### Reading list
+
+**Core:**  
+* Tamara Munzner (2014) Visualization Analysis and Design, chapter 1: What’s Vis, and Why Do it?
+* Pandey et al., (2015) [How deceptive are deceptive visualizations? An empirical analysis of common distortion techniques](https://doi.org/10.1145/2702123.2702608)
+* Alberto Cairo (2013) The Functional Art: An introduction to information graphics and visualization (Voices That Matter), chapter 1: Why Visualize: From Information to Wisdom
+
+**Further reading:**  
+* Alberto Cairo (2013) The Functional Art
+  * Chapter 2: Forms and Functions: Visualization as Technology
+  * Chapter 3: Visualizing for the Mind
+* Andy Kirk (2019) Data Visualization: A Handbook for Data Driven Design, chapter 1: Defining Data Visualization
+  * see also the [digital companion site](http://book.visualisingdata.com) 
     
 #### Session topics
 
@@ -60,6 +74,11 @@
   [Lecture slides]()  
   [Video]()  
   [Quizzes]()
+  
+#### Reading list
+
+**Core:**  
+* Tamara Munzner (2014) Visualization Analysis and Design, chapter 4: Analysis: Four Levels for Validation
 
 #### Session topics
 

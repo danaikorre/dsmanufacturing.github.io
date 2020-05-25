@@ -30,7 +30,7 @@
 
 <a name = "1-1"></a>
 ### Session 1.1: Introduction
-  <!-- [Lecture slides](https://docs.google.com/presentation/d/1SQMdG2dBko0qA_2VlOIGsUGZWugrBVHD2AhOc8nR-ds/edit?usp=sharing)  
+  <!-- [Lecture slides](files/1.1-introduction.pdf)  
   [Video]()  
   [Quizzes]()
 -->
@@ -76,7 +76,7 @@
 <a name = "1-2"></a>
 ### Session 1.2: Working with Visualizations
 
-  <!-- [Lecture slides]()  
+  <!-- [Lecture slides](files/1.2-working_with_visualizations.pdf)  
   [Video]()  
   [Quizzes]()
 -->

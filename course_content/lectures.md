@@ -26,10 +26,10 @@
 ***
 
 <a name = "week_1"></a>
-## Week 1: Foundations: Core Concepts
+## Week 1: Foundations
 
 <a name = "1-1"></a>
-### Session 1.1: Introduction
+### Session 1.1: Introduction to Data Visualization
   [Lecture slides](files/1.1-introduction.pdf)  <!-- [[Video]()  -->
   [Quiz](https://forms.gle/qZbJthpG3iTRHzev9)
 
@@ -38,8 +38,8 @@
 * [Datavis-1.1-2 What is visualization? (18:30)](https://drive.google.com/file/d/1LcYdvrtrlm6zi5W2CQjUF0h1RDe-lfte/view?usp=sharing)
 * [Datavis-1.1-3 Defining Visualization? (0:58)](https://drive.google.com/file/d/1TAaR6XKO80mMYByiekonSVWDFYLb_jQM/view?usp=sharing)
 * [Datavis-1.1-4 Why are we using visualization? (11:57)](https://drive.google.com/file/d/1Cje2GbjPc6OsLBgLdCpV8yDy7fI7TFMr/view?usp=sharing)
-* Datavis-1.1-5 Visualization Literacy (24:42) (uploading...)
-* [Datavis-1.1-6 Wrapup (1:30)](https://drive.google.com/file/d/1WjlC7m0rVHY94gkWb-9ilRTfu209HtyZ/view?usp=sharing)
+* [Datavis-1.1-5 Visualization Literacy (24:42)](https://drive.google.com/file/d/16JmUyVOSMj9ztvKjsBm5X33Tg5b0diwy/view?usp=sharing)
+* [Datavis-1.1-6 Wrap up (1:30)](https://drive.google.com/file/d/1WjlC7m0rVHY94gkWb-9ilRTfu209HtyZ/view?usp=sharing)
 
   
 #### Reading list

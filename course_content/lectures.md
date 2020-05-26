@@ -72,9 +72,6 @@
 * Visualization lies
 * Visualization literacy
     * Bertin's tasks: Low-level/high-level 
-* Visualizing complexity 
-    * Barchart -> complex visualizations
-    * Show the power of 'real vis'
 * Defining visualization
     * Formal definition
 <p>&nbsp;</p>

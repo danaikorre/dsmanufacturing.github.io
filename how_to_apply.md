@@ -1,6 +1,6 @@
 # Course forms
 
-Applications for the course are not handled through the organiser team but centrally through the University of Edinburgh. As any application follows the standard university application proceedure, this section provides more detail on the different forms involved:
+Applications for the course are not handled through the organising team, but centrally through the University of Edinburgh. As any application follows the standard university application proceedure, this section provides more detail on the different forms involved:
   
   * Register interest in [surveys & taster sessions](#register_interest_datavis_course) for the data visualisation course
   * Guide to completing: 

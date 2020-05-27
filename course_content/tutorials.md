@@ -287,7 +287,7 @@ back to [index](#index)
     - Using Rawgraphs and a tool of your choice
         - select an aspect of the data you want to explore
         - create 2 different charts in each tool that communicate the insight your derived
-        - save your results as a snapshot and upload to the tutorial's shared space
+        - save your results as a snapshot and upload to the [tutorial's shared space](https://bit.ly/tutorial1-2b_sfcdv)
     
 1. Discussion 2 (5 min)
     - ***In the main classroom***

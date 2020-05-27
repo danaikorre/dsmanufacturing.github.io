@@ -6,8 +6,9 @@
 [Tutorials](tutorials.md)  
 [Reflection Exercises](assessment.md#reflection_exercises)  
 
+[Book 1-on-1](https://datavisonline.youcanbook.me)  
 [Discussion Board](https://datavisonline.slack.com)  
-[VisGuides open discussion forum](https://visguides.org/) about visualisation guidelines  
+[VisGuides open discussion forum](https://visguides.org/) &ndash; about visualisation guidelines  
 
 <!-- [Book 1-on-1s](datavisonline.youcanbook.me) -->
 

@@ -87,7 +87,7 @@
 * [Datavis-1.2-1 Outline (1:29)](https://drive.google.com/file/d/1O15PGttUFkCdKQo0XVEFB7iCDME2XkXx/view?usp=sharing)
 * [Datavis-1.2-2 The Visualization Pipeline (12:32)](https://drive.google.com/file/d/154Pho6WP-2So2LZ1fN1_Cw4pmMw4i7t1/view?usp=sharing)
 * [Datavis-1.2-3 Design Thinking (20:33)](https://drive.google.com/file/d/1QbZKKV6n6Bjlq0ksxkantDpNlFiGyqAJ/view?usp=sharing)
-* [Datavis-1.2-4 Visualization Challenge (7:50)](uploading...)
+* [Datavis-1.2-4 Visualization Challenge (7:50)](https://drive.google.com/file/d/1raIkwNR7AdAig_l2ms--r-3mqW4uuWfM/view?usp=sharing)
 * [Datavis-1.2-5 Exploratory Data Analysis (3:36)](https://drive.google.com/file/d/1DUKwgRFACkUN-riYrU4ynujJ_zEMIoSY/view?usp=sharing)
 * [Datavis-1.2-6 Wrap up (1:44)](https://drive.google.com/file/d/1xYdOqP_Awt6CdwwtvdW6jJ0xCoSXugUF/view?usp=sharing)
 
@@ -113,25 +113,14 @@
 <!-- ![Data Vis pipeline](../images/data_vis_pipeline.png | width=250) -->
 
 
+* Visualization Pipeline
 * Design thinking
    * Human-centered research
    * Double diamond
    * Iterative design
-* Data Challenge
-* Exploration vs. Explanation
+* Data Visualization Challenge
 * Exploratory Data Visualization
-   * **Schema**
-   * Multiple views
-   * Interaction
-   * High-level tasks
-      * Hypothesis generation
-      * Trends
-      * Outliers
-      * Clusters
-* Explanation
-* Critical Analysis
-* Evaluation
-
+ 
 <p>&nbsp;</p>
 
 back to [index](#index)

@@ -83,6 +83,14 @@
   [Lecture slides](files/1.2-working_with_visualizations.pdf)  <!-- [Video]()  -->
   [Quiz](https://forms.gle/hkprcLMTVo17XzPr5)
 
+#### Video lectures
+* [Datavis-1.2-1 Outline (1:29)](https://drive.google.com/file/d/1O15PGttUFkCdKQo0XVEFB7iCDME2XkXx/view?usp=sharing)
+* [Datavis-1.2-2 The Visualization Pipeline (12:32)](https://drive.google.com/file/d/154Pho6WP-2So2LZ1fN1_Cw4pmMw4i7t1/view?usp=sharing)
+* [Datavis-1.2-3 Design Thinking (20:33)](https://drive.google.com/file/d/1QbZKKV6n6Bjlq0ksxkantDpNlFiGyqAJ/view?usp=sharing)
+* [Datavis-1.2-4 Visualization Challenge (7:50)](uploading...)
+* [Datavis-1.2-5 Exploratory Data Analysis (3:36)](https://drive.google.com/file/d/1DUKwgRFACkUN-riYrU4ynujJ_zEMIoSY/view?usp=sharing)
+* [Datavis-1.2-6 Wrap up (1:44)](https://drive.google.com/file/d/1xYdOqP_Awt6CdwwtvdW6jJ0xCoSXugUF/view?usp=sharing)
+
   
 #### Reading list
 

@@ -1,6 +1,6 @@
 # Course forms
 
-Applications to the course are not handled through the organiser team but centrally through the University of Edinburgh. As any application follows the standard university application proceedure, this section provides more detail on the different forms involved:
+Applications for the course are not handled through the organiser team but centrally through the University of Edinburgh. As any application follows the standard university application proceedure, this section provides more detail on the different forms involved:
   
   * Register interest in [surveys & taster sessions](#register_interest_datavis_course) for the data visualisation course
   * Guide to completing: 
@@ -16,7 +16,7 @@ Please [e-mail us](mailto:datavisonline@gmail.com) if you've any questions not a
 <a name = "register_interest_datavis_course"></a>
 ## Register interest in surveys and taster sessions
 
-As part of our course design we are [collecting information](https://forms.gle/4Z6wTZkoHMsNL5Yu5) about participants' motivations and expectations, along with prior experience in visualiation. The form may also be used to [register interest in hands-on taster sessions](https://forms.gle/4Z6wTZkoHMsNL5Yu5) planned to take place toward the end of May.
+As part of our course design we are [collecting information](https://forms.gle/4Z6wTZkoHMsNL5Yu5) about participants' motivations and expectations, along with prior experience in visualiation. The form may also be used to [register interest in hands-on taster sessions](https://forms.gle/4Z6wTZkoHMsNL5Yu5).
 <p>&nbsp;</p>
 
 <a name = "funding_applications"></a>

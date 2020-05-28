@@ -301,7 +301,7 @@ back to [index](#index)
 
 1. Reflection 1 (15 min)
     * ***Within your groups***
-    - How effective are the visualizations you chose?
+    - How effective are the visualizations you chose? Consider the following questions:
     - What would need to be improved?
         - based on your approach to generating the visualisation, e.g., colour scheme, chart type, layout, data elements
 

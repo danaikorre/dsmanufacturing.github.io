@@ -222,10 +222,10 @@ Note: reflection / discussions may be based around data type, task types, target
     * external users, e.g., current and potential customers
     * the general public
 
-    * user characteristics
+    * ***user characteristics***
         - technical vs. non-technical
         - (varying degrees of) domain / task knowledge?
-            - domain expert / specialist vs. non-specialist
+            - domain expert / specialist vs. non-specialist  
         - big picture (high-level overview) vs. detail
         - time-conscious or pressured?
 

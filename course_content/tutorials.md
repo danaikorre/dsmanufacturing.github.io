@@ -116,7 +116,7 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
   
 * [Dataset for stocks vs flows example](https://fred.stlouisfed.org/series/NPPTTL) &nbsp; (Total Nonfarm Private Payroll Employment (NPPTTL))
 * Cairo, A. (2014) 'Ethical Infographics', IRE Journal, 37(2), pp. 25–27.
-    Key takeaway: " Increasing understanding while minimizing harm."
+    *Key takeaway: " Increasing understanding while minimizing harm."*
 *  Walt Hickey (2013) [The 27 Worst Charts Of All Time](https://www.businessinsider.com/the-27-worst-charts-of-all-time-2013-6), 
 * [Best practices for attribution &ndash; Creative Commons](https://wiki.creativecommons.org/wiki/best_practices_for_attribution)
 

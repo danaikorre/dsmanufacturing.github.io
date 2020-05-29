@@ -219,25 +219,28 @@ Note: reflection / discussions may be based around data type, task types, target
     * yourself
     * your team
     * internal users, e.g., senior management, the wider organisation
-    * external users, e.g., customers
+    * external users, e.g., current and potential customers
+    * the general public
 
     * user characteristics
         - technical vs. non-technical
+        - (varying degrees of) domain / task knowledge?
+            - domain expert / specialist vs. non-specialist
         - big picture (high-level overview) vs. detail
-        - domain / task knowledge?
         - time-conscious or pressured?
 
 1. **Presentation format &amp; end use**
-  e.g., as a report, presentation, interactive visualisation
-  * context - sector / domain, culture, knowledge
+  * e.g., as a report, presentation, other static or interactive visualisation
+  * context of use &ndash; within a specific sector / domain; influence of culture, knowledge
 
 1. **Data** 
     - size
     - format / storage type, e.g., plain text files, formatted reports, images, spreadsheets, remote database
     - complexity, e.g., multi-dimensional, text and numbers, disconnected / siloed data
     - static vs. dynamic?
-    - own data vs. "external"? what is core? what will improve on visualisation, communication and exploration of content? any restrictions due to ownership, validity, privacy or commercial or other sensitivity?
-        * data preparation
+    - own data vs. "external"? 
+        * what is core? what will improve on visualisation, communication and exploration of content? any restrictions due to ownership, validity, privacy or commercial or other sensitivity?
+        * costs associated with data preparation (resources, skill, time)
 
 1. **Developer data skills / capability**
     - what skills do you have?
@@ -247,8 +250,8 @@ Note: reflection / discussions may be based around data type, task types, target
     - time
     - data
     - skills (you and your target users)
-    - domain norms
-    - target environment - including technology
+    - domain and cultural norms
+    - target environment, including technology available
     - who else are you reliant on, e.g., for domain or task knowledge, data, access to technology, access to target users?
     - other?
 

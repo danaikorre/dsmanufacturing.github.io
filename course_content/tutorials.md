@@ -192,7 +192,7 @@ back to [index](#index)
 1. Reflection exercise 1 (20min)
     * ***On your own (if you've sensitive data) or within your groups***
     - review your initial ideas
-    - update your brief
+    - update your brief  
     Note: reflection / discussions may be based around data type, task types, target users, norms in sectors/domains, innovation in task and/or solution(s) proposed, options for evaluating a solution.
     
 1. Discussion 2 (10min)

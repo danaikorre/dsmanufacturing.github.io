@@ -180,7 +180,8 @@ back to [index](#index)
     - What is the (Big) Question?
     - What do you Want to Communicate?
     - Who are you Communicating it to?
-    - What is the Purpose of your Visualisation?
+    - What is the Purpose of your Visualisation?  
+Note: the [guidelines](#guidelines_defining_project_brief) below may be useful in helping you reflect on what must go into your brief. 
 
 1. Discussion 1 (15min)
     * ***In the main classroom***
@@ -203,6 +204,7 @@ Note: reflection / discussions may be based around data type, task types, target
 <p>&nbsp;</p>
 
 
+<a name="guidelines_defining_project_brief"></a>
 ### General guidelines for defining brief
 
 1. **Task / Challenge / Issue**

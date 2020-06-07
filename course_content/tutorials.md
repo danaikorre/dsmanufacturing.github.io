@@ -3,6 +3,8 @@
 ## General Guidelines
 
 1. Tutorials will **start on time**. Please sign in ~5min in advance to minimise disruption to the rest of the class. Most sessions will start with a brief central classroom discussion, Q&A and/or prep for the session's activities.
+    - There will be a tutor in the room at least 10min before start, this is a good time to double check technical requirements,  ask any questions specific to the session's structure or highlight special adjustments you may need for the session. 
+    - Especially because we can only partially simulate a physical classroom, it is also perfectly fine during this period to use the chat functionality to catch up or chat informally with tutors and other participants.
 1. We ask that you remain within the session (T-a or T-b) you select at the start of the course. However, if your personal circumstances impact your attendance please speak to a course tutor about switching to a different schedule.
 1. Most activities will have a combination of group and individual work. Most group work will have participants assigned to specific groups, mainly to ensure relatively even distribution of domain/sector or technical experience across groups. To support exchange of ideas and perspectives, as well as networking, group membership will change across tutorials.
     - Note that group activities will be set up to ensure private or otherwise sensitive data and interests are not shared.
@@ -138,10 +140,11 @@ back to [index](#index)
 <a name = "1-1c"></a>
 ### Tutorial1-1c: Basic Charts
 
-* This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.
+* This is an add-on exercise you may wish to try in your own time. We will cover similar exercises as part of other tutorials as the course progresses.
+* Th exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.
 
 1. Activity 1 (15min)
-    * ***Within your groups***
+    * ***On your own or with a group***
     * Sketch (free-hand) up to 3 chart types for the datasets to show how you would use the data to illustrate:
         1. population change over the last century
         1. population distribution by age and/or sex in 2019
@@ -150,7 +153,7 @@ back to [index](#index)
         
 1. Discussion (15min)
     * ***In the main classroom***
-    * Discuss ideas
+    * Discuss ideas (if on your own you may find it useful to reflect on these points)
         - Who is your target user? What influence did this have?
         - simple vs complex visualisations
         - coupled visualisations
@@ -282,6 +285,7 @@ back to [index](#index)
 ### Tutorial1-2b: EDA &ndash; Exploratory Data Analysis using Two Tools (1 hour)
 
 * This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.
+    - Please note that as is typical for EDA activity, the dataset is formatted based on the provider's defined format, structure and presentation styles. This means that it may not necessarily be formatted to suit any one tool's input requirements. A component of all EDA exercises is therefore to reformat and restructure data as required for your tool(s) of choice. 
 
 1. Discussion 1 (10 min)
     * ***In the main classroom***
@@ -292,9 +296,10 @@ back to [index](#index)
 
 1. Activity 1 (15 mins)
     * ***Individually***
-    - Using Rawgraphs and a tool of your choice
+    - Using RAWGaphs and a tool of your choice
         - select an aspect of the data you want to explore
-        - create 2 different charts in each tool that communicate the insight your derived
+            - where necessary reformat and/or restructure data for input
+        - create 2 different charts in each tool that communicate the insight you derived
         - save your results as a snapshot and upload to the [tutorial's shared space](https://bit.ly/tutorial1-2b_sfcdv)
     
 1. Discussion 2 (5 min)

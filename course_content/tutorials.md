@@ -1,5 +1,8 @@
 # Tutorials
 
+**Please remember that while strongly encouraged, participation in tutorials and all other interactive sessions are OPTIONAL**.  
+Please note the following guidelines, which take into account feedback from interaction with participants and the constraints inherent to a virtual classroom. Please note also you **MUST** submit all [assignments](assessment.md) whether you attend tutorials or not. 
+
 ## General Guidelines
 
 1. Tutorials will **start on time**. Please sign in ~5min in advance to minimise disruption to the rest of the class. Most sessions will start with a brief central classroom discussion, Q&A and/or prep for the session's activities.
@@ -10,12 +13,17 @@
     - Note that group activities will be set up to ensure private or otherwise sensitive data and interests are not shared.
     - If you have special requirements that necessitate moving from a specified group please speak to a course tutor in the first instance.
 1. With the exception of individual project work, activities carried out during tutorials will be uploaded to a shared online space to facilitate wider discussion and reflection on learning. Each tutorial script will include instructions on access to the session's space. Work uploaded should be labelled with your student ID or group number and date. Please do not include your name(s) or other personally identifiable information.
-1. We will use [Blackboard Collaborate's](https://www.ed.ac.uk/information-services/learning-technology/communication) virtual classroom for all interactive sessions. You will receive by e-mail an access link. Tools included:
+1. Some activities are marked as optional; these are additional exercises to reinforce knowledge in other sessions. You may try these out on your own. 
+1. Please note the scripts for each tutorial are a guide to each session only; interactive sessions will for the most part adopt a *flipped classroom* approach, and focus on discussion adapted to the class's needs, without detracting from the key learning requirements set.
+
+### Virtual classroom &amp; resources
+* We will use [Blackboard Collaborate's](https://www.ed.ac.uk/information-services/learning-technology/communication) virtual classroom for all interactive sessions. You will receive by e-mail an access link. Tools included:
     - whiteboard - no inbuilt save mechanism - maximise screen and take a snapshot
     - slideshow
     - file sharing
     - chat.
 <p>&nbsp;</p>
+
 
 
 <a name = "index"></a>
@@ -25,16 +33,16 @@
 * Session 1-1
     * T1-1a: [45 ways](#1-1a)  
     * T1-1b: [Visualisation lies](#1-1b)  
-    * T1-1c: [Basic Charts](#1-1c)
+    * T1-1c: [Basic Charts](#1-1c) **[OPTIONAL]**
 * Session 1-2
     * T1-2a: [Formulating data visualisation brief](#1-2a)
     * T1-2b: [EDA &ndash; Exploratory Data Analysis](#1-2b)
 
 <!-- 
-[Week 2](#week_2)  
-[Week 3](#week_3)  
-[Week 4](#week_4)  
-[Week 5](#week_5) 
+[Week 2](tutorials_week_2.md)  
+[Week 3](tutorials_week_3.md)  
+[Week 4](tutorials_week_4.md)  
+[Week 5](tutorials_week_5.md) 
 -->
 <p>&nbsp;</p>
 

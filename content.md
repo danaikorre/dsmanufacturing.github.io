@@ -4,8 +4,8 @@ The schedule is a guide and **subject to change**. Optional courses and hand-on 
 
 The course is expected to require a total __time investment of 10-15h / week__, roughly split into
 
-* 2h video material
-* 2h reading
+* 2h video material (optional)
+* 2h reading (optional)
 * 4h tutorial (optional)
 * 2h Q&A sessions (optional)
 * 2h individual project work

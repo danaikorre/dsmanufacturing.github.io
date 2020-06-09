@@ -141,7 +141,7 @@ back to [index](#index)
 ### Tutorial1-1c: Basic Charts
 
 * This is an add-on exercise you may wish to try in your own time. We will cover similar exercises as part of other tutorials as the course progresses.
-* Th exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.
+* The exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.
 
 1. Activity 1 (15min)
     * ***On your own or with a group***

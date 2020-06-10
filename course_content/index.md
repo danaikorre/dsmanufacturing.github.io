@@ -9,10 +9,11 @@
 [Book 1-on-1](https://datavisonline.youcanbook.me)  
 [Discussion Board](https://datavisonline.slack.com)  
 [VisGuides open discussion forum](https://visguides.org/) &ndash; about visualisation guidelines  
+<br />
 
 #### Edinburgh University Online Resources
 [MyEd portal](https://www.myed.ed.ac.uk)   
-[VLE &ndash; *Learn*](https://www.learn.ed.ac.uk)  
+[Learn VLE](https://www.learn.ed.ac.uk)  
 [Library](https://discovered.ed.ac.uk)
 <p>&nbsp;</p>
 <!-- ## Learning Outcomes -->

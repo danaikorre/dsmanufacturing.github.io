@@ -128,5 +128,5 @@
 ## Timetable
 
 <!-- ![timetable](../images/pilot_week_timetable.png) -->
-<img src = "../images/pilot_week_timetable.png" alt = "timetable" height = "450" />
+<img src = "../images/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
 

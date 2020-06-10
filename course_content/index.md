@@ -30,6 +30,8 @@
     <th>Tutorials</th>
     <th>Reflection Exercises</th>
   </tr><tr style = "vertical-align:top;">
+    <td colspan = "4">Week 1 &ndash; June 15<td>
+  </tr><tr style = "vertical-align:top;">
     <td>1-1</td>
     <td>
       <a href="lectures.html#1-1">Course introduction</a>
@@ -51,6 +53,8 @@
       <!-- a href="reflection_exercises.html#1-1" -->Project brief<!-- /a -->
     </td>
   </tr><tr style = "vertical-align:top;">
+    <td colspan = "4">Week 2 &ndash; June 22<td>
+  </tr><tr style = "vertical-align:top;">
     <td>2-1</td>
     <td rowspan = "2" style = "vertical-align:top;">
     <!-- a href="lectures.html#2-1" -->Foundations II: Design &amp; tools<!-- /a --><br/>
@@ -67,6 +71,8 @@
       <!-- a href="reflection_exercises.html#2-2" -->Tool review<!-- /a -->
     </td>
   </tr><tr style = "vertical-align:top;">
+    <td colspan = "4">Week 3 &ndash; June 29<td>
+  </tr><tr style = "vertical-align:top;">
     <td>3-1</td>
     <td rowspan = "2" style = "vertical-align:top;">
       <!-- a href="lectures.html#3-1" -->Foundations III: Techniques<!-- /a --><br/>
@@ -82,6 +88,8 @@
       <!-- a href="reflection_exercises.html#2-1" -->Update project brief &amp; design<!-- /a -->
     </td>
   </tr><tr style = "vertical-align:top;">
+    <td colspan = "4">Week 4 &ndash; July 06<td>
+  </tr><tr style = "vertical-align:top;">
   <td>4-1</td>
     <td rowspan = "2" style = "vertical-align:top;">
       <!-- a href="lectures.html#4-1" -->Advanced I: Applications<!-- /a --><br/>
@@ -95,6 +103,8 @@
       <!-- a href="tutorials.html#4-2" -->Implementation &ndash; project<!-- /a -->
     </td><td>
     </td>
+  </tr><tr style = "vertical-align:top;">
+    <td colspan = "4">Week 5 &ndash; July 13<td>
   </tr><tr style = "vertical-align:top;">
     <td>5-1</td>
     <td rowspan = "2" style = "vertical-align:top;">

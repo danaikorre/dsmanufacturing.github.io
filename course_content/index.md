@@ -19,6 +19,7 @@
 <!-- ## Learning Outcomes -->
 
 
+<a name = "course_organisation"></a>
 ## Course Organisation
 
 
@@ -113,8 +114,9 @@
 
 ***
 
-## Timetable
 <a name = "timetable"></a>
+## Timetable
+
 <!-- ![timetable](../images/pilot_week_timetable.png) -->
 <img src = "../images/pilot_week_timetable.png" alt = "timetable" height = "450" />
 

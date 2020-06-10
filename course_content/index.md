@@ -30,7 +30,7 @@
     <th>Tutorials</th>
     <th>Reflection Exercises</th>
   </tr><tr style = "vertical-align:top;">
-    <td colspan = "4">Week 1 &ndash; June 15<td>
+    <th colspan = "4"><h4>Week 1 &ndash; June 15</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td>1-1</td>
     <td>
@@ -53,7 +53,7 @@
       <!-- a href="reflection_exercises.html#1-1" -->Project brief<!-- /a -->
     </td>
   </tr><tr style = "vertical-align:top;">
-    <td colspan = "4">Week 2 &ndash; June 22<td>
+    <th colspan = "4"><h4>Week 2 &ndash; June 22</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td>2-1</td>
     <td rowspan = "2" style = "vertical-align:top;">
@@ -71,7 +71,7 @@
       <!-- a href="reflection_exercises.html#2-2" -->Tool review<!-- /a -->
     </td>
   </tr><tr style = "vertical-align:top;">
-    <td colspan = "4">Week 3 &ndash; June 29<td>
+    <th colspan = "4"><h4>Week 3 &ndash; June 29</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td>3-1</td>
     <td rowspan = "2" style = "vertical-align:top;">
@@ -88,7 +88,7 @@
       <!-- a href="reflection_exercises.html#2-1" -->Update project brief &amp; design<!-- /a -->
     </td>
   </tr><tr style = "vertical-align:top;">
-    <td colspan = "4">Week 4 &ndash; July 06<td>
+    <th colspan = "4"><h4>Week 4 &ndash; July 06</h4></th>
   </tr><tr style = "vertical-align:top;">
   <td>4-1</td>
     <td rowspan = "2" style = "vertical-align:top;">
@@ -104,7 +104,7 @@
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">
-    <td colspan = "4">Week 5 &ndash; July 13<td>
+  <th colspan = "4"><h4>Week 5 &ndash; July 13</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td>5-1</td>
     <td rowspan = "2" style = "vertical-align:top;">

@@ -4,7 +4,7 @@
 
 [Lecture Material](lectures.md)  
 [Tutorials](tutorials.md)  
-[Reflection Exercises](assessment.md#reflection_exercises)  
+[Assessment](assessment.md#reflection_exercises)  
 
 [Book 1-on-1](https://datavisonline.youcanbook.me)  
 [Discussion Board](https://datavisonline.slack.com)  

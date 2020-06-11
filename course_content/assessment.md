@@ -48,30 +48,27 @@ It therefore has a formal assessment component comprising
  
 **All assignments must be submitted by 23:59 on Jul 17th.**
 
-<!-- p>&nbsp;</p>
+ 
+<a name = "guidelines_final_project"></a>
+### Final Project
 
-<br />
-<a name = "index"></a>
-## Index
+Guidelines for completing final projects will be provided from week 3 of the course. The final submission will include findings and lessons learnt from exercises completed as the course progresses.
 
-[Week 1](#week_1)  
-* [Project brief](#Project brief)
 
-[Week 2](#week_2)  
-[Week 3](#week_3)  
-[Week 4](#week_4)  
-[Week 5](#week_5)  
-
-<p>&nbsp;</p>
-
-[Schedule](index.md)
+<!-- 
+[Schedule](index.md)  
 [Lectures](lectures.md)  
 [Tutorials](utorials.md)
- -->
  
+<p>&nbsp;</p -->
+
+
 <p>&nbsp;</p>
 
+
 <a name = "summaries_reflection_exercises"></a>
+## Assessment Submission Schedule
+
 <table width = "90%">
   <tr>
     <th>Description &ndash; Assignments &amp; Final Project</th>

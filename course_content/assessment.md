@@ -57,6 +57,7 @@ Guidelines for completing final projects will be provided from week 3 of the cou
 <p>&nbsp;</p>
 
 back to main [schedule](index.md)  
+
 <!-- 
 [Lectures](lectures.md)  
 [Tutorials](utorials.md)

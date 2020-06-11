@@ -61,9 +61,11 @@ back to main [schedule](index.md)
 <!-- 
 [Lectures](lectures.md)  
 [Tutorials](utorials.md)
+ -->
  
-<p>&nbsp;</p -->
+<p>&nbsp;</p>
 
+***
 
 <a name = "summaries_reflection_exercises"></a>
 ## Assessment Submission Schedule

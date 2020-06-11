@@ -54,16 +54,14 @@ It therefore has a formal assessment component comprising
 
 Guidelines for completing final projects will be provided from week 3 of the course. The final submission will include findings and lessons learnt from exercises completed as the course progresses.
 
+<p>&nbsp;</p>
 
+back to main [schedule](index.md)  
 <!-- 
-[Schedule](index.md)  
 [Lectures](lectures.md)  
 [Tutorials](utorials.md)
  
 <p>&nbsp;</p -->
-
-
-<p>&nbsp;</p>
 
 
 <a name = "summaries_reflection_exercises"></a>

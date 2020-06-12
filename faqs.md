@@ -39,7 +39,6 @@ Offer letters refer to the wider Bayes Centre's data skills portfolio, with cour
   * code:  ***PTPDVDSWDV1U***  
 
 Provided you stated in the personal statement section of your application application  for this course you should have been assigned to it. Otherwise please e-mail [Bayes](mailto:bayes-training@ed.ac.uk) to clarify this.
-<p>&nbsp;</p>
 
 
 ### Can I also take another course in Bayes' _Data Skills Workforce Development_ portfolio?

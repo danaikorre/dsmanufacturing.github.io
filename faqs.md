@@ -20,12 +20,27 @@ As indicated on the Bayes Centre [programme website](https://www.ed.ac.uk/bayes/
 * you live in the rest of the UK and work for a Scottish employer (an employer which is based in or has a significant presence in Scotland)
 
 To apply for a fee waiver, [apply here](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/funding/eligibility-for-funding).
+assigned to it. Otherwise please e-mail [Bayes](mailto:bayes-training@ed.ac.uk) to clarify this.
+
 
 ### Completing the application form
 
 Applications are _not_ managed by the organisers of this visualisation course but centrally through the University of Edinburgh. The [course application is open](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply). 
 
 We have provided [answers to common questions](how_to_apply.md) from applicants on the application process, along with detail on eligibility for fee waivers.
+
+The Bayes Centre will continue to accept applications for this course till close of play Mon, 15th June. 
+
+
+#### Course offers
+
+Offer letters refer to the wider Bayes Centre's data skills portfolio, with course detail:
+  * course title: ***PG Professional Development in Data Skills Workforce Development (Online Learning) (ICL)***
+  * code:  ***PTPDVDSWDV1U***  
+
+Provided you stated in the personal statement section of your application application  for this course you should have been assigned to it. Otherwise please e-mail [Bayes](mailto:bayes-training@ed.ac.uk) to clarify this.
+<p>&nbsp;</p>
+
 
 ### Can I also take another course in Bayes' _Data Skills Workforce Development_ portfolio?
 

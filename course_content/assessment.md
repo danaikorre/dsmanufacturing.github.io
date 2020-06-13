@@ -7,6 +7,15 @@ It therefore has a formal assessment component comprising
   * brief reflection exercises linked to the tutorials  <!-- [reflection exercises](reflection_exercises) linked to the tutorials -->  
   * a final project that enables you to answer, using your data visualisation choice, the challenge you define.
 
+Your overall grade will be one of __Pass__ / __Fail__ / __Incomplete__
+
+<p>&nbsp;</p>
+back to main [schedule](index.md) 
+
+***
+
+<p>&nbsp;</p>
+
 
 ## General Submission Guidelines
 
@@ -81,32 +90,36 @@ back to main [schedule](index.md)
       <b>Week 1: Session 1-2</b>
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
-    <td>Formulating data visualisation brief</td>
-    <td>Mon, June 22, 23:59</td>
+    <td><b><i>Formulating data visualisation brief</i></b></td>
+    <td><b><i>Mon, June 22, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
      Complete the exercise in <a href="tutorials.html#1-2">tutorial 1-2</a>. Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="tutorials.html#guidelines_defining_project_brief">guidelines for defining a brief</a>.<br/>
       Submit a copy of your brief to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>.
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
+    <td colspan = "2"> </td>
+  </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2">
       <a name = "2-1"></a>
       <b>Week 2: Session 2-1</b></td>
   </tr><tr style = "vertical-align:top;">
-    <td>Design &ndash; Sketching</td>
-    <td>Mon, June 29, 23:59</td>
+    <td><b><i>Design &ndash; Sketching</i></b></td>
+    <td><b><i>Mon, June 29, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
      Complete the exercise in <a href="tutorials.html#2-1">tutorial 2-1</a>. Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).<br/>
       Submit a copy of your design to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>. 
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
+    <td colspan = "2"> </td>
+  </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2">
       <a name = "2-2b"></a>
       <b>Week 2: Session 2-2b</b></td>
   </tr><tr style = "vertical-align:top;">
-    <td>Tool Review</td>
-    <td>Mon, July 06, 23:59</td>
+    <td><b><i>Tool Review</i></b></td>
+    <td><b><i>Mon, July 06, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
      Select from existing or add a new tool to the <a href="https://vistools.net">VisBrowser</a>. Based on exploration or previous experience of this tool, and usage with your project data, submit a brief review of at least two tools.<p>&nbsp;</p>
@@ -122,12 +135,14 @@ back to main [schedule](index.md)
       Submit a copy of your updated brief and your annotated matrix to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>.
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
+    <td colspan = "2"> </td>
+  </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2">
       <a name = "5-1"></a>
       <b>Week 5: Session 5-1</b></td>
   </tr><tr style = "vertical-align:top;">
-    <td>Finalise Project Brief</td>
-    <td>TBD</td>
+    <td><b><i>Finalise Project Brief</i></b></td>
+    <td><b><i>TBD</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
       Update your project brief; consider the following points, along with all feedback to this point:
@@ -141,12 +156,14 @@ back to main [schedule](index.md)
       Submit your final project description, with a copy of or link to a working prototype, to <a href="https://bit.ly/final_project_submission">Learn</a>.
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
+    <td colspan = "2"> </td>
+  </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2">
       <a name = "5-2"></a>
       <b>Week 5: Session 5-2</b></td>
   </tr><tr style = "vertical-align:top;">
-    <td>Evaluation Plan &ndash; Final Project</td>
-    <td>TBD</td>
+    <td><b><i>Evaluation Plan &ndash; Final Project</i></b></td>
+    <td><b><i>TBD</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
      Complete the exercise in <!-- a href="tutorials.html#5-2" -->tutorial 5-2<!-- /a -->.  Summarise you plan on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="tutorials_week_5.html#guidelines_evaluation_plan">guidelines & best practice for creating an evaluation plan</a>. Include as an appendix any additional documents, e.g., task lists, questionnaires and scenario descriptions.

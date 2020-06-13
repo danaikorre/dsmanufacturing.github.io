@@ -47,6 +47,7 @@ It therefore has a formal assessment component comprising
 <br />
  
 **All assignments must be submitted by 23:59 on Jul 17th.**
+<p>&nbsp;</p>
 
  
 <a name = "guidelines_final_project"></a>

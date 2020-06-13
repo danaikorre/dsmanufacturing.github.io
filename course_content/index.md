@@ -13,7 +13,7 @@
 
 #### Edinburgh University Online Resources
 [MyEd portal](https://www.myed.ed.ac.uk)   
-Course Page on [Learn VLE](https://bit.ly/sfcdv_on_learn) <!-- https://www.learn.ed.ac.uk -->
+[Learn VLE](https://bit.ly/sfcdv_on_learn) <!-- https://www.learn.ed.ac.uk -->  
 [Library](https://discovered.ed.ac.uk)
 <p>&nbsp;</p>
 <!-- ## Learning Outcomes -->

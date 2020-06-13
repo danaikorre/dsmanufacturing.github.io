@@ -346,6 +346,8 @@ back to [index](#index)
 3. [*Visualising Data's* tool list](https://www.visualisingdata.com/resources)
 <p>&nbsp;</p>
 
+***
+
 back to [index](#index)
 
 back to [schedule](index.md)

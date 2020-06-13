@@ -336,8 +336,10 @@ back to [index](#index)
 1. Discussion (10 min)
     - ***In the main classroom***
     - 1 per group &ndash; share insights derived and how these were reinforced or further questioned as a result of the group reflection (on the tools and results obtained)
+<p>&nbsp;</p>
+    
 
-#### Resources:
+#### Additional Resources:
 
 1. [*Visual+interactive data group's* tool list](https://visualinteractivedata.github.io/res-tools.html)
 2. [*Interactive Things Studio's* visualisation resource](https://datavisualization.ch)
@@ -348,7 +350,7 @@ back to [index](#index)
 
 back to [schedule](index.md)
   
-***
+<!-- ***
 
 <p>&nbsp;</p>
 

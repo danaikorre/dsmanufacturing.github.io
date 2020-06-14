@@ -50,7 +50,7 @@
       <a href="tutorials.html#1-2a">Formulating data visualisation brief</a><br/>
       <a href="tutorials.html#1-2b">Visual, exploratory data analysis (EDA)</a>
     </td><td>
-      <!-- a href="reflection_exercises.html#1-1" -->Project brief<!-- /a -->
+      <a href="reflection_exercises.html#1-1">Project brief</a>
     </td>
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 2 &ndash; June 22</h4></th>
@@ -59,16 +59,17 @@
     <td rowspan = "2" style = "vertical-align:top;">
     <!-- a href="lectures.html#2-1" -->Foundations II: Design &amp; tools<!-- /a --><br/>
     </td><td>
-      <!-- a href="tutorials.html#2-1" -->Design &ndash; Sketching<!-- /a --><br/>
+      <a href="tutorials_week_2.html#2-1">Design (Sketching)</a><br/>
     </td><td>
-      <!-- a href="reflection_exercises.html#2-1" -->Project design<!-- /a -->
+      <a href="reflection_exercises.html#2-1">Project design</a>
     </td>
   </tr><tr style = "vertical-align:top;">
     <td>2-2</td>
     <td>
-      <!-- a href="tutorials.html#2-1" -->Visualisation tools marketplace<!-- /a --><br/>
+      <a href="tutorials_week_2.html#2-2a">Visualisation tools marketplace</a><br/>
+      <a href="tutorials_week_2.html#2-2b">VisBrowser exercise</a><br/>
     </td><td>
-      <!-- a href="reflection_exercises.html#2-2" -->Tool review<!-- /a -->
+      <a href="reflection_exercises.html#2-2b">Tool review</a>
     </td>
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 3 &ndash; June 29</h4></th>

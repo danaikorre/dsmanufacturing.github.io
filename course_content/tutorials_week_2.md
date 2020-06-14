@@ -12,6 +12,7 @@
     * T1-2a: [Formulating data visualisation brief](tutorials.md#1-2a)
     * T1-2b: [EDA &ndash; Exploratory Data Analysis](tutorials.md#1-2b)
 
+
 [Week 2](#week_2)  
 * Session 2-1
     * T2-1: [Design (Sketching)](2-1)
@@ -19,6 +20,13 @@
     * T2-2a: [Tool Marketplace](2-2a)
     * T2-2b: [VisBrowser Exercise &amp; Tool Discussion](2-2b)
     
+ 
+[Week 3](tutorials_week_3.md)  
+* Session 3-1
+    * T3-1: [EDA &ndash; Own Data](tutorials_week_3.md#3-1)
+* Session 3-2
+    * T3-2: [Critical Analysis](tutorials_week_3.md#3-2)
+   
  <!-- [Week 3](tutorials_week_3.md)  
 [Week 4](tutorials_week_4.md)  
 [Week 5](tutorials_week_5.md) 

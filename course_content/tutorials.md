@@ -42,7 +42,7 @@ Please note the following guidelines, which take into account feedback from inte
 [Week 2](tutorials_week_2.md)  
 * Session 2-1
     * T2-1: [Design (Sketching)](tutorials_week_2.md#2-1)
-* Session 2-1
+* Session 2-2
     * T2-2a: [Tool Marketplace](tutorials_week_2.md#2-2a)
     * T2-2b: [VisBrowser Exercise &amp; Tool Discussion](tutorials_week_2.md#2-2b)
 

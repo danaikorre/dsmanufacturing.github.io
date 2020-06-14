@@ -39,8 +39,8 @@
 
 1. Discussion 1 (10 + 20 min)
     * ***In the main classroom***
-    * quick review of project definition guidelines
-    * quick review of general design guidelines (from lecture material)
+    * Quick review of project definition guidelines
+    * Quick review of general design guidelines (from lecture material)
     <br />
     
     * ***On your own*** (5 min)

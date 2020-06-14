@@ -57,9 +57,8 @@
 
 1. Activity 1 (40 min) __Data preparation tutorial__
     
-    * Note: this exercise uses data from three open data sources <!-- :
-      * This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data
--->
+    * Note: this exercise uses data from three open data sources 
+    <!--  * This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data-->
     <br />
     
     * ***In the main classroom***

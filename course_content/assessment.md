@@ -94,7 +94,7 @@ back to main [schedule](index.md)
     <td><b><i>Mon, June 22, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
-     Complete the exercise in <a href="tutorials.html#1-2">tutorial 1-2</a>. Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="tutorials.html#guidelines_defining_project_brief">guidelines for defining a brief</a>.<br/>
+     Complete the exercise in <a href="tutorials.html#1-2a">tutorial 1-2</a>. Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="tutorials.html#guidelines_defining_project_brief">guidelines for defining a brief</a>.<br/>
       Submit a copy of your brief to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>.
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">

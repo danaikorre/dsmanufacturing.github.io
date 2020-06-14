@@ -46,6 +46,13 @@ Please note the following guidelines, which take into account feedback from inte
     * T2-2a: [Tool Marketplace](tutorials_week_2.md#2-2a)
     * T2-2b: [VisBrowser Exercise &amp; Tool Discussion](tutorials_week_2.md#2-2b)
 
+
+[Week 3](tutorials_week_3.md)  
+* Session 3-1
+    * T3-1: [EDA &ndash; Own Data](tutorials_week_3.md#3-1)
+* Session 3-2
+    * T3-2: [Critical Analysis](tutorials_week_3.md#3-2)
+
 <!-- 
 [Week 3](tutorials_week_3.md)  
 [Week 4](tutorials_week_4.md)  

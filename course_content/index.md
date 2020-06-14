@@ -78,13 +78,13 @@
     <td rowspan = "2" style = "vertical-align:top;">
       <!-- a href="lectures.html#3-1" -->Foundations III: Techniques<!-- /a --><br/>
     </td><td>
-      <!-- a href="tutorials_week_3.html#3-1" -->EDA &ndash; project data<!-- /a --><br/>
+      <a href="tutorials_week_3.html#3-1">EDA &ndash; project data</a><br/>
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">
     <td>3-2</td>
     <td>
-      <!-- a href="tutorials_week_3.html#3-2" -->Critical analysis &amp; reflection<!-- /a -->
+      <a href="tutorials_week_3.html#3-2">Critical analysis &amp; reflection</a>
     </td><td>
       <!-- a href="assessment.html#3-1" -->Update project brief &amp; design<!-- /a -->
     </td>

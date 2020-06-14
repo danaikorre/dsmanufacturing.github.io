@@ -1,6 +1,5 @@
 # Tutorials &ndash; Week 2
 
-
 <a name = "index"></a>
 ## Index
 
@@ -14,9 +13,16 @@
     * T1-2b: [EDA &ndash; Exploratory Data Analysis](tutorials.md#1-2b)
 
 [Week 2](#week_2)  
-[Week 3](tutorials_week_3.md)  
+* Session 2-1
+    * T2-1: [Design (Sketching)](2-1)
+* Session 2-1
+    * T2-2a: [Tool Marketplace](2-2a)
+    * T2-2b: [VisBrowser Exercise &amp; Tool Discussion](2-2b)
+    
+ <!-- [Week 3](tutorials_week_3.md)  
 [Week 4](tutorials_week_4.md)  
 [Week 5](tutorials_week_5.md) 
+-->
 <p>&nbsp;</p>
 
 [Schedule](index.md)  
@@ -43,41 +49,42 @@
          - what comes to mind when you think of Scotland
          - this classroom
          - draw and annotate an idea of your own
-    * Upload your sketches to the shared space
+    * Upload your sketches to the [shared tutorial space](https://uoe.sharepoint.com/:f:/r/sites/DataVisOnlineJune2020/Shared%20Documents/tutorial%202-1?csf=1&web=1&e=eX9NO6)
     <br />
     
     * ***In the main classroom***
-    * What things do you need to to look out for in your design sketches?
+    * What things do you need to look out for in your design sketches?
        - similarities? differences?
        - visualisation types? abstract? concrete?
        - use of black & white? vs. colour?
        - what ideas came up in freestyle drawing? 
             - does this approach liberate or constrain you in coming up with ideas?
   
-1. Activity 1 (30 min)
+
+1. Activity 1 (30 min) <a name = "design_guidelines"></a> &ndash; _General Guidelines_
    * ***On your own***
-     1. Go through your project definition and reflect on the key questions (~5 min)
-          - What is the (Big) Question?
-          - What do you Want to Communicate?
-          - Who are you Communicating it to?
-          - What is the Purpose of your Visualisation?
-     1. Based on your project definition and data think through potential solutions and sketch designs that illustrate these
+    1. Go through your project definition and reflect on the key questions (~5 min)
+          - What is the ___(Big) Question___?
+          - What do you want to ___communicate___?
+          - Who are you ___communicating___ it to?
+          - What is the ___purpose___ of your visualisation?
+    1. Based on your project definition and data think through potential solutions and sketch designs that illustrate these
           - for this initial exercise focus on what answers your question
                - do not restrict your design to what you already do or the skills you already possess
                - sketching allows you free reign to disentangle yourself from the restrictions of technology and skill/capability
           - the aim is to create sketches that communicate:
                * your design ideas to your intended target and other stakeholders
                * data content to your intended audience
-               - you may use multiple sketches to explore different options
-               - alternatively, you may have a single sketch broken down into sub-parts
-     1. What are you communicating to your target users?
-            - how are you communicating this?
-            - does your design help your users to achieve their goals - the big question?
-         - visualisation approach - how are you choosing to tell your story? e.g., a data comic, one or more charts, infographic ...
-            - what visualisation techniques will you include? standalone? coupled?
+                  - you may use multiple sketches to explore different options
+                  - alternatively, you may have a single sketch broken down into sub-parts
+    1. What are you communicating to your target users?
+         - how are you communicating this?
+         - does your design help your users to achieve their goals &mdash; the big question?
+         - visualisation approach &ndash; how are you choosing to tell your story? e.g., using a data comic, one or more charts, infographic ...
+         - what visualisation techniques will you include? standalone? coupled?
             - are you making use of visual metaphors? do they work for your target users and environment?
             - how will you present your design? structure vs. free flow? e.g., using a storyboard, a mind map, a flow chart, post-its on a board?
-          - overview vs. detail, balance between complexity and sufficiency - remember the data-ink ratio
+          - overview vs. detail, balance between complexity and sufficiency &ndash; remember the data-ink ratio
           - what pre-knowledge do you expect your users to feed into interpreting your visualisation?
           - layout and flow
                - how will users navigate through your solution?
@@ -91,22 +98,20 @@
                - do you need to visualise change or difference between data elements?
                - are you providing multiple layers?
           - do your users need to extract the underlying data? or summaries?
-          - on-screen only? printable? mobile-friendly?
-   <br />
+          - on-screen only? printable? mobile-friendly?  
 
-   **NOTE: remember not to share sensitive data, especially when making annotations - your design need not refer to specific data**
-
+   __NOTE: remember not to share sensitive data, especially when making annotations - your design need not refer to specific data__<br /><br />
 
 1. Discussion 2 (20 min)
     * ***Within your groups***
     * Discuss your design ideas (choose 1 key area each and allow the opportunity for each person to share their ideas)
     * Solicit and give feedback
-    * Nominate one idea or set of related ideas to discuss in class (3min / group)
+    * Nominate one idea or set of related ideas to discuss in class (3 min / group)
 
 1. Activity 2 (15 min)
     * Reflect on general discussion and more specific feedback
          - update your initial ideas as desired
-    * now consider more practical considerations that may impact what of your design you can deliver now
+    * Now consider more practical considerations that may impact what of your design you can deliver now
           * do you have the data to build on your design?
                - what additional data processing may be necessary?
                - what additional domain knowledge will you need? do you have access to the experts required?
@@ -123,10 +128,10 @@
     - Brief summary of reflection exercise, submission requirements and due date
    <br />    
 
-***Before submission &ndash; reflect on your design choices by revisiting especially point 3 in the guidelines for this exercise***
+___Before submission &ndash; reflect on your design choices by revisiting especially point (iii) in the [guidelines](#design_guidelines) for this exercise___
 
 
-#### Resources:
+#### Additional Resources:
 
 <!-- Cairo, A. - ???-->
 
@@ -134,14 +139,11 @@ Jonathan C. Roberts, Christopher J. Headleand, Panagiotis D. Ritsos (2017) [Five
 [UoE library link](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51175504680002466)
 
 Giorgia Lupi (2015) [Sketching with Data Opens the Mind's Eye, National Geographic | Data Points](https://www.nationalgeographic.com/news/2015/07/2015704-datapoints-sketching-data)
+<br />
 
-
-
-1. [https://www.cs.umd.edu/users/ben/goldenrules.html](https://www.cs.umd.edu/users/ben/goldenrules.html)
-1. [https://www.designprinciplesftw.com/collections/10-usability-heuristics-for-user-interface-designs](https://www.designprinciplesftw.com/collections/10-usability-heuristics-for-user-interface-designs)
-1. [https://www.visualisingdata.com/2016/03/little-visualisation-design](https://www.visualisingdata.com/2016/03/little-visualisation-design)
-1. [https://mschermann.github.io/data_viz_reader](https://mschermann.github.io/data_viz_reader)
-1. [https://uxknowledgebase.com/introduction-to-designing-data-visualizations-part-1-31c056556133](https://uxknowledgebase.com/introduction-to-designing-data-visualizations-part-1-31c056556133)
+1. [Shneiderman's _Eight Golden Rules of Interface Design_](https://www.cs.umd.edu/users/ben/goldenrules.html)
+1. [All the _Little of Visualisation of Design_](https://www.visualisingdata.com/2016/03/little-visualisation-design)
+1. [Michael Schermann's  _Reader on Data Visualization_](https://mschermann.github.io/data_viz_reader)
 <p>&nbsp;</p>
 
 back to [index](#index)
@@ -151,57 +153,66 @@ back to [index](#index)
 <p>&nbsp;</p>
 
 <a name="2-2a"></a>
-Tutorial2-2a Tool Marketplace
+### Tutorial2-2a: Tool Marketplace
 
-*** Discussion 1: 10min
-  * Within your groups (with experience in X)
-    - choose two visualisation types in common
-    - what tools do you typically use?
-      - what functionality do you focus on?
-      - what data do you work with? - type, size, dimensionality, ...
-    - what guides your choice of tool?
+*For this exercise you'll be split into groups based first on your experience with visualisation tool types, then by the visualisation techniques you expressed interest in learning.*
+
+1. Discussion 1 (10 min)
+    * ***Within your groups (with experience in X)***
+    - *Base your discussion around two visualisation types you have in common*
+    - What tools do you typically use?
+         - what functionality do you tend to focus on?
+         - what data do you work with? - type, size, dimensionality, ...
+    - What guides your choice of tool?
       - what works well?
       - any challenges or restrictions?
-      - any domain or sector differences?
-    - what other tools have you considered for the same purpose/tasks(s)
-      - how do they compare with your tool of choice?
-    ** where do the tools you have experience of fit on the feature/functionality matrix?
+      - any domain or sector differences within your group?
+    - What other tools have you considered for the same purpose/tasks(s)
+      - how do they compare with your tool of choice?  
+      
+    __Where do the tools you have experience of fit on the feature/functionality matrix?__  
+         - annotate and upload a copy of the matrix (<a href="files/tool_marketplace_matrix.png">png</a>, <a href="files/tool_marketplace_matrix.pdf">pdf</a> or <a href="files/tool_marketplace_matrix.pptx">pptx</a>) to the [shared tutorial space](https://uoe.sharepoint.com/:f:/r/sites/DataVisOnlineJune2020/Shared%20Documents/tutorial2-2a?csf=1&web=1&e=vXWWDK)
+         
+    <img src = "files/tool_marketplace_matrix.png" alt = "tool marketplace matrix" height = "250" />
+
   
-Discussion 2: 10min
-  * Within your groups (looking to acquire skill in X)
-    - choose two visualisation types in common you wish to develop skill in
-    - what do you aim to achieve?
-    - what features or functionality are you looking for?
-    - is your existing skillset a benefit or a barrier? how easily can you transfer existing experience and skills to a new tool(s)
-    ** where would you place your tool (and output) requirements on the feature/functionality matrix?
+1. Discussion 2 (10 min)
+    * ***Within your groups (aiming to acquire skill in X)***
+    - *Base your discussion around two visualisation types you wish to develop skill in*
+    - What do you aim to achieve?
+    - What features or functionality are you looking for?
+    - Is your existing skillset a benefit or a barrier? How easily do you think you could transfer your existing experience and skills to new tools?
+    __Where would you place your ideal tool (and output) requirements on the feature/functionality matrix?__  
+         - annotate and upload a copy of the matrix (<a href="files/tool_marketplace_matrix.png">png</a>, <a href="files/tool_marketplace_matrix.pdf">pdf</a> or <a href="files/tool_marketplace_matrix.pptx">pptx</a>) to the [shared tutorial space](https://uoe.sharepoint.com/:f:/r/sites/DataVisOnlineJune2020/Shared%20Documents/tutorial2-2a?csf=1&web=1&e=vXWWDK)
     
-Discussion 2: 20min
-  * Whole class -
-  * features to consider when searching for and selecting tools - among others:
-      - end use:
-        - users' domain knowledge & skill
-        - user tasks - e.g., discovery, exploration, analysis, storytelling
-      - technological resources - for both development and use
-      - domain and technological expertise and experience (your own and available to you)
-      - features, functionality
-        - GUI vs coding or command line
-        - generic vs specific
-      - flexibility vs intuitiveness
-      - data input: format, size, dimensionality, multi-source
-      - output: static vs interactive
-      - sharing & accessibility
-        - need to download data and/or analysis results?
-        - need to print? embed into reports? reuse in other tools?
-        - use or share over a network?
-      - cost - time, money, knowledge, people
-        
+
+1. Discussion 3 (20 min)
+    * ***In the main classroom***
+    * Reflect on features to consider when searching for and selecting tools &ndash; among others:
+         - end use:
+              - users' domain knowledge &amp; skill
+              - user tasks &ndash; e.g., discovery, exploration, analysis, storytelling
+         - technological resources &ndash; for both development and use
+         - domain and technological expertise and experience (your own and available to you)
+         - features, functionality
+              - GUI vs coding or command line
+              - generic vs specific
+         - flexibility vs intuitiveness
+         - data input &ndash; format, size, dimensionality, multi-source, ...
+         - output &ndash; static vs interactive
+         - sharing &amp; accessibility
+              - need to download data and/or analysis results?
+              - need to print? embed into reports? reuse in other tools?
+              - use or share over a network?
+         - cost &ndash; time, money, knowledge, people
+<p>&nbsp;</p>
   
 #### Additional Resources:
 
-Data-Visualization Tools and Books https://gallery.keshif.me/VisTools
-Datavisualization.ch Selected Tools http://selection.datavisualization.ch
-visualisingdata resources https://www.visualisingdata.com/resources
-https://ecaedacvistooltestapp.azurewebsites.net
+1. [VisBrowser](https://vistools.net)
+1. [Data-Visualization Tools and Books](https://gallery.keshif.me/VisTools)
+1. [Datavisualization.ch Selected Tools](http://selection.datavisualization.ch)
+1. [_visualisingdata_ resources](https://www.visualisingdata.com/resources)
 <p>&nbsp;</p>
 
 back to [index](#index)
@@ -211,7 +222,7 @@ back to [index](#index)
 <p>&nbsp;</p>
 
 <a name="2-2b"></a>
-Tutorial2-2b: VISBrowser Exercise &amp; Tool Discussion
+Tutorial2-2b: VisBrowser Exercise &amp; Tool Discussion
 
 *** 
 <p>&nbsp;</p>

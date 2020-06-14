@@ -50,7 +50,7 @@
       <a href="tutorials.html#1-2a">Formulating data visualisation brief</a><br/>
       <a href="tutorials.html#1-2b">Visual, exploratory data analysis (EDA)</a>
     </td><td>
-      <a href="reflection_exercises.html#1-1">Project brief</a>
+      <a href="assessment.html#1-1">Project brief</a>
     </td>
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 2 &ndash; June 22</h4></th>
@@ -61,7 +61,7 @@
     </td><td>
       <a href="tutorials_week_2.html#2-1">Design (Sketching)</a><br/>
     </td><td>
-      <a href="reflection_exercises.html#2-1">Project design</a>
+      <a href="assessment.html#2-1">Project design</a>
     </td>
   </tr><tr style = "vertical-align:top;">
     <td>2-2</td>
@@ -69,7 +69,7 @@
       <a href="tutorials_week_2.html#2-2a">Visualisation tools marketplace</a><br/>
       <a href="tutorials_week_2.html#2-2b">VisBrowser exercise</a><br/>
     </td><td>
-      <a href="reflection_exercises.html#2-2b">Tool review</a>
+      <a href="assessment.html#2-2b">Tool review</a>
     </td>
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 3 &ndash; June 29</h4></th>
@@ -78,15 +78,15 @@
     <td rowspan = "2" style = "vertical-align:top;">
       <!-- a href="lectures.html#3-1" -->Foundations III: Techniques<!-- /a --><br/>
     </td><td>
-      <!-- a href="tutorials.html#3-1" -->EDA &ndash; project data<!-- /a --><br/>
+      <!-- a href="tutorials_week_3.html#3-1" -->EDA &ndash; project data<!-- /a --><br/>
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">
     <td>3-2</td>
     <td>
-      <!-- a href="tutorials.html#3-2" -->Critical analysis &amp; reflection<!-- /a -->
+      <!-- a href="tutorials_week_3.html#3-2" -->Critical analysis &amp; reflection<!-- /a -->
     </td><td>
-      <!-- a href="reflection_exercises.html#2-1" -->Update project brief &amp; design<!-- /a -->
+      <!-- a href="assessment.html#3-1" -->Update project brief &amp; design<!-- /a -->
     </td>
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 4 &ndash; July 06</h4></th>

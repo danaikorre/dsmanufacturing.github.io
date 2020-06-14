@@ -38,8 +38,15 @@ Please note the following guidelines, which take into account feedback from inte
     * T1-2a: [Formulating data visualisation brief](#1-2a)
     * T1-2b: [EDA &ndash; Exploratory Data Analysis](#1-2b)
 
-<!-- 
+
 [Week 2](tutorials_week_2.md)  
+* Session 2-1
+    * T2-1: [Design (Sketching)](tutorials_week_2.md#2-1)
+* Session 2-1
+    * T2-2a: [Tool Marketplace](tutorials_week_2.md#2-2a)
+    * T2-2b: [VisBrowser Exercise &amp; Tool Discussion](tutorials_week_2.md#2-2b)
+
+<!-- 
 [Week 3](tutorials_week_3.md)  
 [Week 4](tutorials_week_4.md)  
 [Week 5](tutorials_week_5.md) 

@@ -108,7 +108,7 @@ back to main [schedule](index.md)
     <td><b><i>Mon, June 29, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
-     Complete the exercise in <a href="tutorials.html#2-1">tutorial 2-1</a>. Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).<br/>
+     Complete the exercise in <a href="tutorials_week_2.md#2-1">tutorial 2-1</a>. Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).<br/>
       Submit a copy of your design to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>. 
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">

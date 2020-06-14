@@ -55,38 +55,43 @@
         - what initial assumptions did you confirm or refute?
         - what new did you discover about your data?
 
-1. Activity 1 (40 min) __Data preparation tutorial__
-    
-    * Note: this exercise uses data from three open data sources 
+1. Activity 1 (40 min) 
+
+   __Data preparation tutorial__
+      * __Note: this exercise uses data from open data sources__
     <!--  * This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data-->
     <br />
     
     * ***In the main classroom***
-     * Using the open data sources and also guidelines from the  [first EDA tutorial](tutorials.md#1-2b)
-        - reformat the data as required
-        - generate simple statistical and visual summaries of each dataset
+    * Using the open data and also guidelines from the  [first EDA tutorial](tutorials.md#1-2b)
+        - reformat the data as required for your tool of choice
+        - generate simple statistical and visual summaries for each dataset
     * Q&A (10min)  
 
 1. Activity 2 (45 min)
     * ***On your own*** (even if working on a group project)
   
     * __Note: this is an exercise in exploring your data, not your design__
-        - what you find in the data ___will however influence__ your design
-        - you will need to explore your raw data AND transformations of the data AND the results of different kinds of analysis
+        - what you find in the data __will however influence__ your design
+        - you will need to explore your raw data  
+            AND transformations of the data  
+            AND the results of different kinds of analysis
         - no set way to do this, there are guidelines that help you _follow your nose_
-        - you may find you need to look for more or new data, perform more cleaning on your original dataset
-    * __Remember__ this is an ___iterative___ exercise
-        - you may start with fixed ideas or questions OR a vague idea of what you're looking for OR gut based on experience and implicit knowledge
+        - you may find you need to look for more or new data, and/or perform more cleaning on your original dataset
+    * Remember this is an ___iterative exercise___
+        - you may start with fixed ideas or questions OR  
+              a vague idea of what you're looking for OR  
+              gut based on experience and implicit knowledge
         - expect to find more questions to your initial question(s)
         - expect to find answers that contradict your initial assumptions
         - it is not unusual to throw away some of your original questions and formulate new ones
-    * __Remember__ to ___challenge___ your initial ideas and solutions
+    * Remember to ___challenge your initial ideas and solutions___
     * Experiment with multiple perspectives
         - start with basic statistical analysis (if you have numerical data) and other overviews (any type of data)
             - visualise your original dataset and results of analysis
         - do you have any initial hypotheses?
             - these can be derived from your ___big question___
-            - hypotheses may be based on your domain knowledge or knowledge of the data content
+            - hypotheses may be based on knowledge of your domain and/or data content
         - try out different visualisation techniques; different perspectives typically expose different aspects of your data
         - alter settings for the same technique, e.g., different bins for a histogram may reveal different patterns
   
@@ -110,7 +115,7 @@ back to [index](#index)
 <p>&nbsp;</p>
 
 <a name="3-2"></a>
-### Tutorial3-2: Critical Analysis
+### Tutorial 3-2: Critical Analysis
 
 1. Activity 1 (35 min)
     * ***On your own*** (even if working on a group project)

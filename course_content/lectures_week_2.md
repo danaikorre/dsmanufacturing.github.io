@@ -12,6 +12,7 @@
    * [Session 2-1: Visualization Design Knowledge](#2-1) 
    * [Session 2-2: Tools](#2-2)
    
+<!-- 
 [Week 3](lectures_week_3.md#week_3)   
    * [Session 3-1: Techniques I](lectures_week_3.md#3-1) 
    * [Session 3-2: Techniques II](lectures_week_3.md#3-2)
@@ -23,7 +24,8 @@
 [Week 5](lectures_week_5.md#week_5)  
    * [Session 5-1: Interaction](lectures_week_5.md#5-1) 
    * [Session 5-2: Evaluation](lectures_week_5.md#5-2)
-   
+-->
+
 <p>&nbsp;</p>
 
 

@@ -13,6 +13,7 @@ Please note the following guidelines, which take into account feedback from inte
     - Note that group activities will be set up to ensure private or otherwise sensitive data and interests are not shared.
     - If you have special requirements that necessitate moving from a specified group please speak to a course tutor in the first instance.
 1. With the exception of individual project work, activities carried out during tutorials will be uploaded to a shared online space to facilitate wider discussion and reflection on learning. Each tutorial script will include instructions on access to the session's space. Work uploaded should be labelled with your student ID or group number and date. Please do not include your name(s) or other personally identifiable information.
+    - Note that access to the shared space will be restricted to participants on the course. You will normally be given access through your university account.
 1. Some activities are marked as optional; these are additional exercises to reinforce knowledge in other sessions. You may try these out on your own. 
 1. Please note the scripts for each tutorial are a guide to each session only; interactive sessions will for the most part adopt a *flipped classroom* approach, and focus on discussion adapted to the class's needs, without detracting from the key learning requirements set.
 

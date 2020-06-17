@@ -130,6 +130,9 @@
 <a name = "timetable"></a>
 ## Timetable
 
+* Tutorials 'a' and 'b' are the same. Tutorials 1 and 2 are different. Chose one of the sessions T-1a or T-1b and one from T-2a or T-2b.
+* Q&As are opportunities for you to ask any question about the course content and engage in public discussions with all of the participants. 
+
 <!-- ![timetable](../images/pilot_week_timetable.png) -->
 <img src = "../images/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
 

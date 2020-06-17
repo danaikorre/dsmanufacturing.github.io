@@ -43,7 +43,8 @@
 <a name = "1-1"></a>
 ### Session 1.1: Introduction to Data Visualization
   [Lecture slides](files/1.1-introduction.pdf)  
-  <!-- [Quiz](https://forms.gle/qZbJthpG3iTRHzev9)<!-- (https://bit.ly/sfcdv_quiz_1-1 https://www.learn.ed.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_77815_1&content_id=_4685763_1&mode=cpview) - (requires login to Learn) -->
+  [Quiz](https://bit.ly/sfcdv_quiz_1-1) &ndash; (requires login to Learn) 
+  <!--  https://www.learn.ed.ac.uk/webapps/blackboard/content/launchAssessment.jsp?course_id=_77815_1&content_id=_4685763_1&mode=cpview)(https://forms.gle/qZbJthpG3iTRHzev9)-->
 
 #### Video lectures
 * [Datavis-1.1-1 (1:02) Outline](https://drive.google.com/file/d/1QCRPaukHgDWdS3xQvxyDhOh7vye6rJ0b/view?usp=sharing)
@@ -93,7 +94,7 @@
 ### Session 1.2: Working with Visualizations
 
   [Lecture slides](files/1.2-working_with_visualizations.pdf)  
-  <!-- [Quiz](https://forms.gle/hkprcLMTVo17XzPr5) -->
+  [Quiz](https://bit.ly/sfcdv_quiz_1-2) <!-- https://forms.gle/hkprcLMTVo17XzPr5) -->
 
 #### Video lectures
 * [Datavis-1.2-1 Outline (1:29)](https://drive.google.com/file/d/1O15PGttUFkCdKQo0XVEFB7iCDME2XkXx/view?usp=sharing)

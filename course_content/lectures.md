@@ -58,7 +58,7 @@
 #### Reading list
 
 **Core:**    
-* Tamara Munzner (2014) Visualization Analysis and Design, [chapter 1: What’s Vis, and Why Do it?](https://bit.ly/3d8lNA3 "Google Books preview")
+* Tamara Munzner (2014) Visualization Analysis and Design, [chapter 1: What’s Vis, and Why Do it?](https://doi.org/10.1201/b17511-1) &nbsp; [UoE library link](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51246510430002466)
 * Pandey et al., (2015) [How deceptive are deceptive visualizations? An empirical analysis of common distortion techniques](https://doi.org/10.1145/2702123.2702608)
 * Alberto Cairo (2013) The Functional Art: An introduction to information graphics and visualization (Voices That Matter), chapter 1: Why Visualize: From Information to Wisdom
 
@@ -108,7 +108,7 @@
 #### Reading list
 
 **Core:**  
-* Tamara Munzner (2014) Visualization Analysis and Design, chapter 4: Analysis: Four Levels for Validation
+* Tamara Munzner (2014) Visualization Analysis and Design, [chapter 4: Analysis: Four Levels for Validation](https://doi.org/10.1201/b17511-4) &nbsp;  [UoE library link](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51246510430002466)
 
 **Further reading:**  
 * Berinato, Scott (2016), [Visualizations That Really Work](https://hbr.org/2016/06/visualizations-that-really-work), Harvard Business Review [UoE library link](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_gale_ofa453813355)

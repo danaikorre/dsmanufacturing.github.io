@@ -38,21 +38,24 @@
 ***
 
 <a name = "week_2"></a>
-## Week 1: Design and Tools
+## Week 2: Design and Tools
 
 <a name = "2-1"></a>
 ### Session 2.1: Visualization Design Knowledge
 <!-- 
   [Lecture slides](files/1.1-introduction.pdf)  
   [Quiz](https://bit.ly/sfcdv_quiz_1-1) &ndash; (requires login to Learn) 
-  -->
+-->
+
+<!--
 
 #### Video lectures
 
 * [Datavis-2.1-1 Outline (2:28)](https://drive.google.com/file/d/1vPVDgYXknLEFq5rI_Prlw8Emr1QJwqtz/view?usp=sharing)
-* [Datavis-2.1-2 Visual Perception (8:24)](https://drive.google.com/file/d/1Whd0QFshIb_LcCJqjvxWLtVimLlBcl06/view?usp=sharing)    <!-- * [Datavis-2.1-3 ()]() -->
-* [Datavis-2.1-4 Data Types (12:14) ](https://drive.google.com/file/d/1wzYroSHsSuA9DMjbuXUmOkHIHb_VFKoa/view?usp=sharing)
-<!-- * [Datavis-2.1-5 Characteristics of Visual Variables I (1:29)](https://drive.google.com/file/d/1f8ISFeK8t2GdE5Fff3ZFIliapHt2MBIm/view?usp=sharing) --
+* [Datavis-2.1-2 Visual Perception (8:24)](https://drive.google.com/file/d/1Whd0QFshIb_LcCJqjvxWLtVimLlBcl06/view?usp=sharing)    * [Datavis-2.1-3 ()]() * [Datavis-2.1-4 Data Types (12:14) ](https://drive.google.com/file/d/1wzYroSHsSuA9DMjbuXUmOkHIHb_VFKoa/view?usp=sharing)
+* [Datavis-2.1-5 Characteristics of Visual Variables I (1:29)](https://drive.google.com/file/d/1f8ISFeK8t2GdE5Fff3ZFIliapHt2MBIm/view?usp=sharing) -->
+
+<!-- 
 * [Datavis-2.1-6 Characteristics of Visual Variables (16:10)](https://drive.google.com/file/d/14txxIAj5dB35UZv9QkkPuylznPSMHCEf/view?usp=sharing)
 * [Datavis-2.1-7 Visualization Guidelines (21:55)](https://drive.google.com/file/d/1f4XkslIx7WEkgIJ8JFkbADo2-C2rST6Q/view?usp=sharing)
 * [Datavis-2.1-8 Wrap up (3:55)](https://drive.google.com/file/d/1qKISvd9O8qPDn7oZaAnPm-VJKYxoKIA6/view?usp=sharing)
@@ -65,7 +68,7 @@
 * [Rainbow Color Maps (11:51)](https://drive.google.com/file/d/1ptX7fk93_e72EfOR2SbMsbEa1gDizqCl/view?usp=sharing)
 * [Color Blindness (6:27)](https://drive.google.com/file/d/1wr8oO-D4qdQ4YYALfWdW9ctOTOBLI5K7/view?usp=sharing)
 * [Further Applications in DataVis (4:19)](https://drive.google.com/file/d/1EGYzRpaJZ9ZKlzIbYaR-t1pbFPkgnHTA/view?usp=sharing)
-
+-->
 
 #### Session topics
 

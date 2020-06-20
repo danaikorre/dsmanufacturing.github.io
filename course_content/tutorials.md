@@ -75,7 +75,7 @@ Please note the following guidelines, which take into account feedback from inte
 
 1. Activity 1 (3min)
     * ***On your own***, using plain paper or a tablet, design as many different visualisations that you can think of to represent or communicate the two numbers provided.
-    * Upload your designs to your group's [online space](https://bit.ly/tutorial1-1a_sfcdv).
+    * Upload your designs to your group's [online space](https://bit.ly/tutorial1-1a_sfcdv_jun2000).
   
 1. Discussion 1 (5min)  
     * ***Within your group***
@@ -86,7 +86,7 @@ Please note the following guidelines, which take into account feedback from inte
 
 1. Activity 2 (3min)
     * Based on additional context - meaning of numbers, repeat exercise ***as a group***.  
-  You may draw on the whiteboard or share another drawing app from any participant's computer. Please save your design and upload to the [tutorial workspace](https://bit.ly/tutorial1-1a_sfcdv). Note &mdash; if using the whiteboard maximise your screen and take a screen grab.
+  You may draw on the whiteboard or share another drawing app from any participant's computer. Please save your design and upload to the [tutorial workspace](https://bit.ly/tutorial1-1a_sfcdv_jun2000). Note &mdash; if using the whiteboard maximise your screen and take a screen grab.
 
 1. Discussion 2 (10-15min)
     * ***In the main classroom***
@@ -133,7 +133,7 @@ https://www.whatdotheyknow.com/request/224813/response/560395/attach/3/London%20
     * Is it possible to communicate the message intended without distorting data content or otherwise actively misleading?
         - if so, how would you redesign each to communicate the story intended or actual data content?
     
-Upload your annotated, redesign sketches to the [shared tutorial space](https://bit.ly/tutorial1-1b_sfcdv).
+Upload your annotated, redesign sketches to the [shared tutorial space](https://bit.ly/tutorial1-1b_sfcdv_jun2000).
 <p>&nbsp;</p>
 
 
@@ -323,7 +323,7 @@ back to [index](#index)
         - select an aspect of the data you want to explore
             - where necessary reformat and/or restructure data for input
         - create 2 different charts in each tool that communicate the insight you derived
-        - save your results as a snapshot and upload to the [tutorial's shared space](https://bit.ly/tutorial1-2b_sfcdv)
+        - save your results as a snapshot and upload to the [tutorial's shared space](https://bit.ly/tutorial1-2b_sfcdv_jun2000)
     
 1. Discussion 2 (5 min)
     - ***In the main classroom***

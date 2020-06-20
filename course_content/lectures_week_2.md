@@ -42,6 +42,24 @@
 
 <a name = "2-1"></a>
 ### Session 2.1: Visualization Design Knowledge
+<!-- 
+  [Lecture slides](files/1.1-introduction.pdf)  
+  [Quiz](https://bit.ly/sfcdv_quiz_1-1) &ndash; (requires login to Learn) 
+  -->
+<!-- 
+#### Video lectures
+
+* [Datavis-2.1-1 Outline (2:28)](https://drive.google.com/file/d/1vPVDgYXknLEFq5rI_Prlw8Emr1QJwqtz/view?usp=sharing)
+* [Datavis-2.1-2 Visual Perception (8:24)](https://drive.google.com/file/d/1Whd0QFshIb_LcCJqjvxWLtVimLlBcl06/view?usp=sharing)    <!-- * [Datavis-2.1-3 ()]() -->
+* [Datavis-2.1-4 Data Types (12:14) ](https://drive.google.com/file/d/1wzYroSHsSuA9DMjbuXUmOkHIHb_VFKoa/view?usp=sharing)
+* [Datavis-2.1-5 Characteristics of Visual Variables I (1:29)](https://drive.google.com/file/d/1f8ISFeK8t2GdE5Fff3ZFIliapHt2MBIm/view?usp=sharing)
+* [Datavis-2.1-6 Characteristics of Visual Variables II (16:10)](https://drive.google.com/file/d/14txxIAj5dB35UZv9QkkPuylznPSMHCEf/view?usp=sharing)
+* [Datavis-2.1-7 Visualization Guidelines (21:55)](https://drive.google.com/file/d/1f4XkslIx7WEkgIJ8JFkbADo2-C2rST6Q/view?usp=sharing)
+* [Datavis-2.1-8 Wrap up (3:55)](https://drive.google.com/file/d/1qKISvd9O8qPDn7oZaAnPm-VJKYxoKIA6/view?usp=sharing)
+
+##### Colour
+[Color for Data Vis (15:51)](https://drive.google.com/file/d/1OJNjjLYsTCd9earLEzwjXYNr2miHwIVZ/view?usp=sharing)
+[ (15:51)](https://drive.google.com/file/d/1TOykUUalawuGTwF2cC1fcX6Eoo5LIErf/view?usp=sharing)
 
 #### Session topics
 

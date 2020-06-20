@@ -48,7 +48,7 @@ back to main [schedule](index.md)
    * please number figures referenced within text and further annotate sketches and any other diagrams as required
  <br />
   
- * You may use submit reflection exercises using a non-traditional, visualisation-based (rather than text-based) method to submit reflection exercises, provided it communicates the information required effectively.
+ * You may submit reflection exercises using a non-traditional, visualisation-based method (rather than text-based), provided it communicates the information required effectively.
 
 #### Submission deadlines, grading &amp; feedback
  * Assignments feed into completing your final project. Individual feedback will be structured to allow you to update the individual components of your final report. **You must submit assignments by the due date to receive individual feedback**. 

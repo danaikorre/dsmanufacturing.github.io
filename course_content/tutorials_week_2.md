@@ -57,7 +57,7 @@
          - what comes to mind when you think of Scotland
          - this classroom
          - draw and annotate an idea of your own
-    * Upload your sketches to the [shared tutorial space](https://uoe.sharepoint.com/:f:/r/sites/DataVisOnlineJune2020/Shared%20Documents/tutorial%202-1?csf=1&web=1&e=eX9NO6)
+    * Upload your sketches to the [shared tutorial space](https://bit.ly/tutorial2-1_sfcdv_jun2000)
     <br />
     
     * ***In the main classroom***
@@ -179,7 +179,7 @@ back to [index](#index)
       - how do they compare with your tool of choice?  
       
     __Where do the tools you have experience of fit on the feature/functionality matrix?__  
-         - annotate and upload a copy of the matrix (<a href="files/tool_marketplace_matrix.png">png</a>, <a href="files/tool_marketplace_matrix.pdf">pdf</a> or <a href="files/tool_marketplace_matrix.pptx">pptx</a>) to the [shared tutorial space](https://uoe.sharepoint.com/:f:/r/sites/DataVisOnlineJune2020/Shared%20Documents/tutorial2-2a?csf=1&web=1&e=vXWWDK)
+         - annotate and upload a copy of the matrix (<a href="files/tool_marketplace_matrix.png">png</a>, <a href="files/tool_marketplace_matrix.pdf">pdf</a> or <a href="files/tool_marketplace_matrix.pptx">pptx</a>) to the [shared tutorial space](https://bit.ly/tutorial2-2a_sfcdv_jun2000)
          
     <img src = "files/tool_marketplace_matrix.png" alt = "tool marketplace matrix" height = "250" />
 
@@ -191,7 +191,7 @@ back to [index](#index)
     - What features or functionality are you looking for?
     - Is your existing skillset a benefit or a barrier? How easily do you think you could transfer your existing experience and skills to new tools?
     __Where would you place your ideal tool (and output) requirements on the feature/functionality matrix?__  
-         - annotate and upload a copy of the matrix (<a href="files/tool_marketplace_matrix.png">png</a>, <a href="files/tool_marketplace_matrix.pdf">pdf</a> or <a href="files/tool_marketplace_matrix.pptx">pptx</a>) to the [shared tutorial space](https://uoe.sharepoint.com/:f:/r/sites/DataVisOnlineJune2020/Shared%20Documents/tutorial2-2a?csf=1&web=1&e=vXWWDK)
+         - annotate and upload a copy of the matrix (<a href="files/tool_marketplace_matrix.png">png</a>, <a href="files/tool_marketplace_matrix.pdf">pdf</a> or <a href="files/tool_marketplace_matrix.pptx">pptx</a>) to the [shared tutorial space](https://bit.ly/tutorial2-2a_sfcdv_jun2000)
     
 
 1. Discussion 3 (20 min)

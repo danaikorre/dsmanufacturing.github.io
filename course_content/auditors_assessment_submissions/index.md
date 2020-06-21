@@ -22,3 +22,7 @@
 You will be provided with a secure folder to upload your written assignments and final project. Please submit assignments before the deadline for each assignment if you wish to receive written feedback.
 <br /><br />
 [Assessment guidelines and deadlines](../assessment.md)
+
+***
+
+back to [Index &ndash; Course Content](../)

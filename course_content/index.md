@@ -52,13 +52,17 @@
     </td><td>
       <a href="assessment.html#1-1">Project brief</a>
     </td>
+  
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 2 &ndash; June 22</h4></th>
   </tr>
  
- <tr style = "vertical-align:top;">
-    <td><a href="session-2-1">2-1</a></td>
-    <a href="session-2-1#lecture">Foundations II: Visualization Design</a><br/>
+  <tr style = "vertical-align:top;">
+    <td>
+      <a href="session-2-1">2-1</a>
+    </td>
+    <td>  
+      <a href="session-2-1#lecture">Foundations II: Visualization Design</a><br/>
     </td>
     <td>
       <a href="session-2-1#tutorial-design-sketching">Design (Sketching)</a><br/>

@@ -3,7 +3,7 @@ back to [course content](index)
 
 # Week 2, Session 2: Visualization Tools
 
-[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-tool-marketplace) | [Assignment](#assignment)
+[Lecture](#lecture) | [Quiz](#quiz) | [Tutorial](#tutorial-tool-marketplace) | [Assignment](#assignment)
 
 * Generic tools
 * Programming tools
@@ -14,7 +14,7 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 # Lecture 
 
 ### Slides
-* [Lecture slides: Visualization Tools](files/2.2-Visualization_Tools.pdf)  
+* [Lecture slides: Visualization Tools](files/2.2-Visualization-Tools.pdf)  
 
 ### Videos
 * [Datavis-2.2-1 Outline (1:13)](https://drive.google.com/file/d/1ZeEWgFDmN2TFDYsn5OIENVkbw0HxAEe6/view?usp=sharing)

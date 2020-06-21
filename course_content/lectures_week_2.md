@@ -5,8 +5,8 @@
 ## Index
 
 [Week 2](#week_2)  
-   * [Session 2-1: Visualization Design Knowledge](#2-1) 
-   * [Session 2-2: Tools](#2-2)
+   * [Session 2-1: Visualization Design](#2-1) 
+   * [Session 2-2: Visualization Tools](#2-2)
    
 <!-- 
 [Week 3](lectures_week_3.md#week_3)   
@@ -36,14 +36,22 @@
 <a name = "week_2"></a>
 ## Week 2: Design and Tools
 
+* Preattentiveness and parallelity
+* Gestalt laws
+* Visual patterns
+* Visual Mapping
+* Data types
+* Visual variables
+* Design Guidelines 
+* Color
+
+
 <a name = "2-1"></a>
 ### Session 2.1: Visualization Design Knowledge
 <!-- 
   [Lecture slides](files/1.1-introduction.pdf)  
   [Quiz](https://bit.ly/sfcdv_quiz_1-1) &ndash; (requires login to Learn) 
 -->
-
-<!--
 
 #### Video lectures
 
@@ -64,26 +72,6 @@
 * [Rainbow Color Maps (11:51)](https://drive.google.com/file/d/1ptX7fk93_e72EfOR2SbMsbEa1gDizqCl/view?usp=sharing)
 * [Color Blindness (6:27)](https://drive.google.com/file/d/1wr8oO-D4qdQ4YYALfWdW9ctOTOBLI5K7/view?usp=sharing)
 * [Further Applications in DataVis (4:19)](https://drive.google.com/file/d/1EGYzRpaJZ9ZKlzIbYaR-t1pbFPkgnHTA/view?usp=sharing)
--->
-
-#### Session topics
-
-* Why is visualization working? 
-    * Preattentiveness and parallelity
-    * Gestalt laws
-    * Visual patterns
-* Visual Mapping
-    * Data types
-    * Visual variables
-    * McKinley
-
-* Design Guidelines 
-* Balancing Design factors
-* Critical design, making tradeoffs
-    * Not rocket science
-    * Not straightforward either
-    * Practise, explore, apply
-    * Build up personal knowledge
 
 
 #### Reading list

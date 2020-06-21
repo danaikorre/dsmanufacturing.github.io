@@ -55,21 +55,24 @@
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 2 &ndash; June 22</h4></th>
   </tr>
+ 
  <tr style = "vertical-align:top;">
     <td><a href="session-2-1">2-1</a></td>
-    <td rowspan = "2" style = "vertical-align:top;">
     <a href="session-2-1#lecture">Foundations II: Visualization Design</a><br/>
-    </td><td>
+    </td>
+    <td>
       <a href="session-2-1#tutorial-design-sketching">Design (Sketching)</a><br/>
-    </td><td>
+    </td>
+    <td>
       <a href="session-2-1#assignment">Project design</a>
     </td>
   </tr>
- <tr style = "vertical-align:top;">
+
+<tr style = "vertical-align:top;">
     <td>2-2</td>
+    <td>Visualization Tools</td>
     <td>
       <a href="tutorials_week_2.html#2-2a">Visualisation tools marketplace</a><br/>
-      <a href="tutorials_week_2.html#2-2b">VisBrowser exercise</a><br/>
     </td><td>
       <a href="assessment.html#2-2b">Tool review</a>
     </td>

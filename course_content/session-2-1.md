@@ -3,8 +3,10 @@ back to [course content](index)
 
 # Week 2, Session 1: Visualization Design
 
+### Navigation
 [Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-design-sketching) | [Reflection Exercise](#reflection-exercise)
 
+### Topics
 * Preattentiveness and parallelity
 * Gestalt laws and visual patterns
 * Data types
@@ -12,7 +14,6 @@ back to [course content](index)
 * Design Guidelines 
 * Color scales and color blindness
 * Sketching and idea generation
-
 
 # Lecture 
 

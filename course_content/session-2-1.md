@@ -1,3 +1,5 @@
+back to [course content](index)
+
 # Week 2, Session 1: Visualization Design
 
 * Preattentiveness and parallelity
@@ -174,4 +176,4 @@ Submit a copy of your design to <a href="https://bit.ly/submission_reflection_ex
 
 <p>&nbsp;</p>
 
-back to [index](index)
+back to [course content](index)

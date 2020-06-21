@@ -1,6 +1,5 @@
 
 # Course Content 
-<!-- &amp; Learning Outcomes -->
 
 [Lecture Material](lectures.md)  
 [Tutorials](tutorials.md)  
@@ -24,13 +23,12 @@
 <a name = "course_organisation"></a>
 ## Course Organisation
 
-
 <table>
   <tr>
     <th>Session</th>
     <th>Lectures</th>
     <th>Tutorials</th>
-    <th>Reflection Exercises</th>
+    <th>Assessment</th>
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 1 &ndash; June 15</h4></th>
   </tr><tr style = "vertical-align:top;">
@@ -56,16 +54,18 @@
     </td>
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 2 &ndash; June 22</h4></th>
-  </tr><tr style = "vertical-align:top;">
-    <td>2-1</td>
+  </tr>
+ <tr style = "vertical-align:top;">
+    <td><a href="session-2-1">2-1</a></td>
     <td rowspan = "2" style = "vertical-align:top;">
-    <!-- a href="lectures.html#2-1" -->Foundations II: Design &amp; tools<!-- /a --><br/>
+    <a href="session-2-1#lecture">Foundations II: Visualization Design</a><br/>
     </td><td>
-      <a href="tutorials_week_2.html#2-1">Design (Sketching)</a><br/>
+      <a href="session-2-1#tutorial-design-sketching">Design (Sketching)</a><br/>
     </td><td>
-      <a href="assessment.html#2-1">Project design</a>
+      <a href="session-2-1#assignment">Project design</a>
     </td>
-  </tr><tr style = "vertical-align:top;">
+  </tr>
+ <tr style = "vertical-align:top;">
     <td>2-2</td>
     <td>
       <a href="tutorials_week_2.html#2-2a">Visualisation tools marketplace</a><br/>

@@ -16,8 +16,8 @@ back to [course content](index)
 # Lecture 
 
 ### Slides
-[Lecture slides: Visualization_Design](files/2.1-Visualization_Design.pdf)  
-[Lecture slides: Color (extra material)](files/2.1-Color_(extra).pdf)  
+* [Lecture slides: Visualization_Design](files/2.1-Visualization_Design.pdf)  
+* [Lecture slides: Color (extra material)](files/2.1-Color_(extra).pdf)  
 
 ### Videos
 * [Datavis-2.1-1 Outline (2:28)](https://drive.google.com/file/d/1vPVDgYXknLEFq5rI_Prlw8Emr1QJwqtz/view?usp=sharing)

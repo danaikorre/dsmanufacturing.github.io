@@ -3,7 +3,7 @@ back to [course content](index)
 
 # Week 2, Session 1: Visualization Design
 
-[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-design-sketching) | [Reflection Exercise](#reflection-exercise)
+[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-design-sketching) | [Assignment](#assignment)
 
 * Preattentiveness and parallelity
 * Gestalt laws and visual patterns
@@ -164,7 +164,7 @@ Giorgia Lupi (2015) [Sketching with Data Opens the Mind's Eye, National Geograph
 1. [Michael Schermann's  _Reader on Data Visualization_](https://mschermann.github.io/data_viz_reader)
 <p>&nbsp;</p>
 
-# Reflection Exercise
+# Assignment
 
 Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).
 

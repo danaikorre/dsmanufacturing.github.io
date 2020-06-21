@@ -3,7 +3,6 @@ back to [course content](index)
 
 # Week 2, Session 1: Visualization Design
 
-### Navigation
 [Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-design-sketching) | [Reflection Exercise](#reflection-exercise)
 
 ### Topics

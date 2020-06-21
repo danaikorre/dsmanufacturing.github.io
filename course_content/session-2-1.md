@@ -11,7 +11,7 @@
 ## Index:
 * [Lecture](#lecture)
 * [Reading](#reading)
-* [Tutorial](#tutorial_design__sketching_)
+* [Tutorial](#tutorial-design-sketching)
 
 # Lecture 
 

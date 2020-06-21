@@ -14,7 +14,7 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 # Lecture 
 
 ### Slides
-* [Lecture slides: Visualization Tools](files/2.2-Visualization-Tools.pdf)  
+* [Lecture slides: Visualization Tools](files/2.2-Visualization Tools.pdf)  
 
 ### Videos
 * [Datavis-2.2-1 Outline (1:13)](https://drive.google.com/file/d/1ZeEWgFDmN2TFDYsn5OIENVkbw0HxAEe6/view?usp=sharing)

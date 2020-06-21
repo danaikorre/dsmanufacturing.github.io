@@ -7,7 +7,7 @@
 [Assessment](assessment.md)  
 
 [Book 1-on-1](https://datavisonline.youcanbook.me)  
-  * booking link will lapse from the end of each week's bookings, AND work again from Tues 12:00 when new bookings are available
+  * booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available
   
 [Discussion Board](https://datavisonline.slack.com)  
 [VisGuides open discussion forum](https://visguides.org/) &ndash; about visualisation guidelines  

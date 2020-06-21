@@ -35,7 +35,6 @@
     <td>1-1</td>
     <td>
       <a href="lectures.html#1-1">Course introduction</a>
-      <!-- a href="lectures.html#1-1b"!-- >Foundations Ia: Basic concepts<!-- /a -->
     </td><td>
       <a href="tutorials.html#1-1a">45 ways</a><br/>
       <a href="tutorials.html#1-1b">Visualisation lies</a><br/>
@@ -45,7 +44,7 @@
   </tr><tr style = "vertical-align:top;">
     <td>1-2</td>
     <td>
-      <a href="lectures.html#1-2">Foundations Ib: Basic concepts</a><br/>
+      <a href="lectures.html#1-2">Basic concepts</a><br/>
     </td><td>
       <a href="tutorials.html#1-2a">Formulating data visualisation brief</a><br/>
       <a href="tutorials.html#1-2b">Visual, exploratory data analysis (EDA)</a>
@@ -62,7 +61,7 @@
       <a href="session-2-1">2-1</a>
     </td>
     <td>  
-      <a href="session-2-1#lecture">Foundations II: Visualization Design</a><br/>
+      <a href="session-2-1#lecture">Visualization Design</a><br/>
     </td>
     <td>
       <a href="session-2-1#tutorial-design-sketching">Design (Sketching)</a><br/>
@@ -73,12 +72,16 @@
   </tr>
 
 <tr style = "vertical-align:top;">
-    <td>2-2</td>
-    <td>Visualization Tools</td>
     <td>
-      <a href="tutorials_week_2.html#2-2a">Visualisation tools marketplace</a><br/>
+       <a href="session-2-2">2-2</a>
+    </td>
+    <td>
+       <a href="session-2-2#lecture">Visualization Tools</a><br/>
+    </td>
+    <td>
+      <a href="session-2-2#tutorial-tool-marketplace">Visualisation tools marketplace</a><br/>
     </td><td>
-      <a href="assessment.html#2-2b">Tool review</a>
+     <a href="session-2-2#assignment">Tool review</a>
     </td>
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 3 &ndash; June 29</h4></th>

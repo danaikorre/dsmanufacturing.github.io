@@ -36,6 +36,11 @@
 <a name = "week_2"></a>
 ## Week 2: Design and Tools
 
+
+
+<a name = "2-1"></a>
+### Session 2.1: Visualization Design Knowledge
+
 * Preattentiveness and parallelity
 * Gestalt laws
 * Visual patterns
@@ -45,12 +50,10 @@
 * Design Guidelines 
 * Color
 
-
-<a name = "2-1"></a>
-### Session 2.1: Visualization Design Knowledge
-<!-- 
-  [Lecture slides](files/1.1-introduction.pdf)  
-  [Quiz](https://bit.ly/sfcdv_quiz_1-1) &ndash; (requires login to Learn) 
+[Lecture slides](files/2.1-Visualization_Design.pdf)  
+[Lecture slides on color (extra material)](files/2.1-Color_(extra).pdf)  
+<!--
+[Quiz](https://bit.ly/sfcdv_quiz_1-1) &ndash; (requires login to Learn) 
 -->
 
 #### Video lectures

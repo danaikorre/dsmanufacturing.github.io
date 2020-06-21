@@ -1,9 +1,9 @@
 back to [course content](index)
 
-[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-design-sketching | [Reflection Exercise](#reflection-exercise)
-
 
 # Week 2, Session 1: Visualization Design
+
+[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-design-sketching) | [Reflection Exercise](#reflection-exercise)
 
 * Preattentiveness and parallelity
 * Gestalt laws and visual patterns
@@ -13,11 +13,6 @@ back to [course content](index)
 * Color scales and color blindness
 * Sketching and idea generation
 
-* [Lecture](#lecture)
-* [Reading](#reading)
-* [Quiz](#quiz)
-* [Tutorial](#tutorial-design-sketching)
-* [Reflection Exercise](#reflection-exercise)
 
 # Lecture 
 

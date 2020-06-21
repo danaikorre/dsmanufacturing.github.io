@@ -54,6 +54,7 @@ back to [course content](index)
 
 # Quiz
 
+*...pending*
 <!--
 [Quiz](https://bit.ly/sfcdv_quiz_1-1) &ndash; (requires login to Learn) 
 -->

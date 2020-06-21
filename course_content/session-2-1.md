@@ -10,7 +10,7 @@ back to [course content](index)
 * Color scales and color blindness
 * Sketching and idea generation
 
-## Index:
+### Index:
 * [Lecture](#lecture)
 * [Reading](#reading)
 * [Quiz](#quiz)
@@ -19,11 +19,11 @@ back to [course content](index)
 
 # Lecture 
 
-## Slides
+### Slides
 [Lecture slides: Visualization_Design](files/2.1-Visualization_Design.pdf)  
 [Lecture slides: Color (extra material)](files/2.1-Color_(extra).pdf)  
 
-## Videos
+### Videos
 * [Datavis-2.1-1 Outline (2:28)](https://drive.google.com/file/d/1vPVDgYXknLEFq5rI_Prlw8Emr1QJwqtz/view?usp=sharing)
 * [Datavis-2.1-2 Visual Perception (8:25)](https://drive.google.com/file/d/1Whd0QFshIb_LcCJqjvxWLtVimLlBcl06/view?usp=sharing)  
 * [Datavis-2.1-3 Gestalt Laws (12:24)](https://drive.google.com/file/d/1LU_WA46zNphqz0yjkJn4Jg-6im78fnWE/view?usp=sharing) 
@@ -33,7 +33,7 @@ back to [course content](index)
 * [Datavis-2.1-7 Visualization Guidelines (21:32)](https://drive.google.com/file/d/1Yl51wBotr75oWXdyxt3YS-kzA_zh80cN/view?usp=sharing)
 * [Datavis-2.1-8 Wrap up (3:55)](https://drive.google.com/file/d/1qKISvd9O8qPDn7oZaAnPm-VJKYxoKIA6/view?usp=sharing)
 
-## Videos (extra)
+### Videos (extra)
 * [Color for DataVis (15:51)](https://drive.google.com/file/d/1OJNjjLYsTCd9earLEzwjXYNr2miHwIVZ/view?usp=sharing)
 * [Sequential Scales (11:31)](https://drive.google.com/file/d/1TOykUUalawuGTwF2cC1fcX6Eoo5LIErf/view?usp=sharing)
 * [Diverging Scales (2:32)](https://drive.google.com/file/d/1p0CsQmmy8yRU1hlJf5kdEyiEq64urz9g/view?usp=sharing)
@@ -44,11 +44,11 @@ back to [course content](index)
 
 # Reading
 
-**Core:**  
+### Core
 * Carpendale, M. S. T.  (2003). [Considering Visual Variables as a Basis for Information Visualisation](http://dx.doi.org/10.11575/PRISM/30495), University of Calgary
 * Stephen Few (2009). [Sometimes We Must Raise Our Voices](http://www.perceptualedge.com/articles/visual_business_intelligence/sometimes_we_must_raise_our_voices.pdf), Perceptual Edge Visual Business Intelligence Newsletter
 
-**Further reading:**  
+### Further reading
 
 * [VisGuides open discussion forum](https://visguides.org)
 
@@ -155,7 +155,7 @@ back to [course content](index)
 ___Before submission &ndash; reflect on your design choices by revisiting especially point (iii) in the [guidelines](#design_guidelines) for this exercise___
 
 
-## Additional Tutorial Resources:
+### Additional Tutorial Resources:
 
 Jonathan C. Roberts, Christopher J. Headleand, Panagiotis D. Ritsos (2017) [Five Design-Sheets: Creative Design and Sketching for Computing and Visualisation](http://dx.doi.org/10.1007/978-3-319-55627-7), Springer, Cham
 [UoE library link](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51175504680002466)

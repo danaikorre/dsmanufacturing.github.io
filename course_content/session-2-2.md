@@ -9,7 +9,12 @@ back to [course content](index)
 * Programming tools
 * Tools for presentation and design
 
-The [Visbrowser](http://vistools.net) is a website to browse, recommend, and leave reviews about visualiztion tools.
+The [Visbrowser](http://vistools.net) is a website to browse, recommend, and leave reviews about visualiztion tools. Find a brief intro about the visbrowser [here](). With the Visbrowser you can
+* search tools by name
+* search tooks by facets (availability, programming skills, platform, features, type of data, type of visualization)
+* browser user ratings and reviews
+* find tutorials
+* leave reviews and tutorials
 
 # Lecture 
 
@@ -27,6 +32,7 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 
 
 ### Tool Videos
+* [VisBrowser (2:02)]()
 * [DataWrapper (5:04)](https://drive.google.com/file/d/1m1vTAwo8RhutOkI8Svh8LpobLbtcMErL/view?usp=sharing)
 * [Rawgraphs (3:13)](https://drive.google.com/file/d/10hJOBJ6yRvIrFBp0-rVwwFeSGwxj1Duo/view?usp=sharing)
 * [DataIllustrator (5:21)](http://data-illustrator.com)

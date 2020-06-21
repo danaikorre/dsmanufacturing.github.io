@@ -4,10 +4,6 @@
 <a name = "index"></a>
 ## Index
 
-[Week 1](lectures.md#week_1)  
-   * [Session 1-1: Introduction](lectures.md#1-1)  
-   * [Session 1-2: Working with Visualizations](lectures.md#1-2)
-
 [Week 2](#week_2)  
    * [Session 2-1: Visualization Design Knowledge](#2-1) 
    * [Session 2-2: Tools](#2-2)
@@ -52,11 +48,12 @@
 #### Video lectures
 
 * [Datavis-2.1-1 Outline (2:28)](https://drive.google.com/file/d/1vPVDgYXknLEFq5rI_Prlw8Emr1QJwqtz/view?usp=sharing)
-* [Datavis-2.1-2 Visual Perception (8:24)](https://drive.google.com/file/d/1Whd0QFshIb_LcCJqjvxWLtVimLlBcl06/view?usp=sharing)    * [Datavis-2.1-3 Gestalt Laws (12:24)](https://drive.google.com/file/d/1LU_WA46zNphqz0yjkJn4Jg-6im78fnWE/view?usp=sharing) 
-* [Datavis-2.1-4 Data Types (12:14) ](https://drive.google.com/file/d/1wzYroSHsSuA9DMjbuXUmOkHIHb_VFKoa/view?usp=sharing)
-* [Datavis-2.1-5 Visual Variables I (10:19)](https://drive.google.com/file/d/1f8ISFeK8t2GdE5Fff3ZFIliapHt2MBIm/view?usp=sharing) 
+* [Datavis-2.1-2 Visual Perception (8:25)](https://drive.google.com/file/d/1Whd0QFshIb_LcCJqjvxWLtVimLlBcl06/view?usp=sharing)  
+* [Datavis-2.1-3 Gestalt Laws (12:24)](https://drive.google.com/file/d/1LU_WA46zNphqz0yjkJn4Jg-6im78fnWE/view?usp=sharing) 
+* [Datavis-2.1-4 Data Types (12:15)](https://drive.google.com/file/d/1wzYroSHsSuA9DMjbuXUmOkHIHb_VFKoa/view?usp=sharing)
+* [Datavis-2.1-5 Visual Variables (10:19)](https://drive.google.com/file/d/1dVERP7EeJEU-lgWtOfCleUbLHWNsYhxr/view?usp=sharing) 
 * [Datavis-2.1-6 Characteristics of Visual Variables (16:10)](https://drive.google.com/file/d/14txxIAj5dB35UZv9QkkPuylznPSMHCEf/view?usp=sharing)
-* [Datavis-2.1-7 Visualization Guidelines (21:55)](https://drive.google.com/file/d/1f4XkslIx7WEkgIJ8JFkbADo2-C2rST6Q/view?usp=sharing)
+* [Datavis-2.1-7 Visualization Guidelines (21:32)](https://drive.google.com/file/d/1Yl51wBotr75oWXdyxt3YS-kzA_zh80cN/view?usp=sharing)
 * [Datavis-2.1-8 Wrap up (3:55)](https://drive.google.com/file/d/1qKISvd9O8qPDn7oZaAnPm-VJKYxoKIA6/view?usp=sharing)
 
 ##### Extra Detail &ndash; Color

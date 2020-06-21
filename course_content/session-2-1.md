@@ -5,7 +5,6 @@ back to [course content](index)
 
 [Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-design-sketching) | [Reflection Exercise](#reflection-exercise)
 
-### Topics
 * Preattentiveness and parallelity
 * Gestalt laws and visual patterns
 * Data types

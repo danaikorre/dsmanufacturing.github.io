@@ -1,22 +1,19 @@
 # Week 2, Session 1: Visualization Design
 
+* Preattentiveness and parallelity
+* Gestalt laws and visual patterns
+* Data types
+* Visual variables and visual maping
+* Design Guidelines 
+* Color scales and color blindness
+* Sketching and idea generation
+
 ## Index:
 * [Lecture](#lecture)
 * [Reading](#reading)
 * [Tutorial](#tutorial_design__sketching_)
 
-
 # Lecture 
-
-## Topics
-* Preattentiveness and parallelity
-* Gestalt laws
-* Visual patterns
-* Visual Mapping
-* Data types
-* Visual variables
-* Design Guidelines 
-* Color
 
 ## Slides
 [Lecture slides: Visualization_Design](files/2.1-Visualization_Design.pdf)  

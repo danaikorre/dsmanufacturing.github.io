@@ -11,7 +11,9 @@
 ## Index:
 * [Lecture](#lecture)
 * [Reading](#reading)
+* [Quiz](#quiz)
 * [Tutorial](#tutorial-design-sketching)
+* [Reflection Exercise](#reflection-exercise)
 
 # Lecture 
 
@@ -48,7 +50,12 @@
 
 * [VisGuides open discussion forum](https://visguides.org)
 
-<a name = "2-1"></a>
+# Quiz
+
+<!--
+[Quiz](https://bit.ly/sfcdv_quiz_1-1) &ndash; (requires login to Learn) 
+-->
+
 # Tutorial: Design (Sketching)
 
 1. Discussion 1 (10 + 20 min)
@@ -158,6 +165,12 @@ Giorgia Lupi (2015) [Sketching with Data Opens the Mind's Eye, National Geograph
 1. [Michael Schermann's  _Reader on Data Visualization_](https://mschermann.github.io/data_viz_reader)
 <p>&nbsp;</p>
 
+# Reflection Exercise
+
+Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).
+
+Submit a copy of your design to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>. 
+      
 
 <p>&nbsp;</p>
 

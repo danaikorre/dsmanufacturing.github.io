@@ -16,7 +16,7 @@ back to [course content](index)
 # Lecture 
 
 ### Slides
-* [Lecture slides: Visualization_Design](files/2.1-Visualization-Design.pdf)  
+* [Lecture slides: Visualization_Design](files/2.1-Visualisation-Design.pdf)  
 * [Lecture slides: Color (extra material)](files/2.1-Color-(extra).pdf)  
 
 ### Videos

@@ -29,6 +29,10 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 ### Tool Videos
 * [DataWrapper (5:04)](https://drive.google.com/file/d/1m1vTAwo8RhutOkI8Svh8LpobLbtcMErL/view?usp=sharing)
 * [Rawgraphs (3:13)](https://drive.google.com/file/d/10hJOBJ6yRvIrFBp0-rVwwFeSGwxj1Duo/view?usp=sharing)
+* [DataIllustrator (5:21)](http://data-illustrator.com)
+* [Charticulator](https://charticulator.com)
+
+
 
 # Quiz
 
@@ -40,7 +44,7 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 
 # Assignment
 
-Select from existing or add a new tool to the <a href="https://vistools.net">VisBrowser</a>. Based on exploration or previous experience of this tool, and usage with your project data, submit a brief review of at least two tools.
+Select from existing or add a new tool to the [VisBrowser](https://vistools.net). Based on exploration or previous experience of this tool, and usage with your project data, submit a brief review of at least two tools.
 * Identify up to 3 tools that meet all or a subset of the requirements for your project.
 * Map your project requirements to visualisation options in your selected tools.
 * Place each tool in a quadrant of the <i>Tool Marketplace Matrix</i> (download a copy as <a href="files/tool_marketplace_matrix.png">png</a>, <a href="files/tool_marketplace_matrix.pdf">pdf</a> or <a href="files/tool_marketplace_matrix.pptx">pptx</a>. Copies also available in the <a href="https://bit.ly/sfcdv_additional_resources">resources folder on Learn</a>.)

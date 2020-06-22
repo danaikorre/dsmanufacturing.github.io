@@ -17,7 +17,9 @@ back to [course content](index)
 
 ### Slides
 * [Lecture slides: Visualization_Design](files/2.1-Visualization-Design.pdf)  
+* [Lecuture slides: Sketching](files/2.1-Sketching.pdf)
 * [Lecture slides: Color (extra material)](files/2.1-Color-(extra).pdf)  
+
 
 ### Videos
 * [Datavis-2.1-1 Outline (2:28)](https://drive.google.com/file/d/1vPVDgYXknLEFq5rI_Prlw8Emr1QJwqtz/view?usp=sharing)
@@ -28,6 +30,7 @@ back to [course content](index)
 * [Datavis-2.1-6 Characteristics of Visual Variables (16:10)](https://drive.google.com/file/d/14txxIAj5dB35UZv9QkkPuylznPSMHCEf/view?usp=sharing)
 * [Datavis-2.1-7 Visualization Guidelines (21:32)](https://drive.google.com/file/d/1Yl51wBotr75oWXdyxt3YS-kzA_zh80cN/view?usp=sharing)
 * [Datavis-2.1-8 Wrap up (3:55)](https://drive.google.com/file/d/1qKISvd9O8qPDn7oZaAnPm-VJKYxoKIA6/view?usp=sharing)
+* [Datavis-2.1-Sketching (12:11)](https://drive.google.com/file/d/19tveyPes-RNDs5KAX8whtvtzB0Uxre8M/view?usp=sharing)
 
 ### Videos (extra)
 * [Color for DataVis (15:51)](https://drive.google.com/file/d/1OJNjjLYsTCd9earLEzwjXYNr2miHwIVZ/view?usp=sharing)

@@ -60,6 +60,9 @@ back to [course content](index)
 
 # Tutorial: Design (Sketching)
 
+Tutorial intoduction [video on sketching](https://drive.google.com/file/d/19tveyPes-RNDs5KAX8whtvtzB0Uxre8M/view?usp=sharing) and [slides](files/2.1-Sketching.pdf).
+
+
 1. Discussion 1 (10 + 20 min)
     * ***In the main classroom***
     * Quick review of project definition guidelines

@@ -24,7 +24,7 @@ You will be provided with a secure folder to upload your written assignments and
 * Please provide your participant ID on your assignment; do NOT attach any identifying information as all assessment is marked anonymously.
 
 * Please label each assignment file with the title provided in the [guidelines](../assessment.md)
-<p>&nbsp;</p>
+<br />
 
 [Assessment guidelines and deadlines](../assessment.md)
 <p>&nbsp;</p>

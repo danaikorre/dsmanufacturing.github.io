@@ -138,14 +138,13 @@ Tutorial intoduction [video on sketching](https://drive.google.com/file/d/19tvey
     * Reflect on general discussion and more specific feedback
          - update your initial ideas as desired
     * Now consider more practical considerations that may impact what of your design you can deliver now
-          * do you have the data to build on your design?
-               - what additional data processing may be necessary?
-               - what additional domain knowledge will you need? do you have access to the experts required?
-          * what additional skills will you need to develop?
-          * note any practical constraints you envisage, e.g., (course) length and other resources needed to build solution, including technical skills, target user context and capability
-               - what are the key elements you want to focus on for implementation - what is often described as the MVP (minimum viable product)?
-               - what can be set as future work, that will further enhance your initial delivery?
-
+        * do you have the data to build on your design?
+            - what additional data processing may be necessary?
+            - what additional domain knowledge will you need? do you have access to the experts required?
+        * what additional skills will you need to develop?
+        * note any practical constraints you envisage, e.g., (course) length and other resources needed to build solution, including technical skills, target user context and capability
+            - what are the key elements you want to focus on for implementation - what is often described as the MVP (minimum viable product)?
+            - what can be set as future work, that will further enhance your initial delivery?
 
 1. Discussion 3 (20 min)
     * ***In the main classroom***

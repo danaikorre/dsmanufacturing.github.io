@@ -44,9 +44,48 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 
 *...pending*
 
-# Tutorial: Tool Marketplace
+# Tutorial: Tool Marketplace: VisBrowser Exercise & Tool Discussion
 
-*...pending*
+1. Discussion 1 (20 mins)
+  * ***Within your groups (with experience in X)
+  * Which tools do you know and have you used? 
+  * Which tools does the VisBrowser contain about X?
+  * Are these tools you identified earlier in the visbrowser?
+  * What where the positive and negative things about the tools you have used? 
+  * If the tool of choice isn’t here, please add it (only one person should add it. It does not take more than 3min) To avoid duplication only one person should submit the tool)
+  * Add a review to the tool you have experience with. This should not take more than 5min.
+  * Are you aware of any good tutorials for those tools? Share them on the VisBrowser.
+  * Nominate 3 people to discuss with 'novices' in following tutorial part to explain some tools to others.
+  * Prepare a brief presentation (matrix + 1 slide of pros and cons) for presentation
+
+2. Discussion 2 (20 mins)
+  * ***Main classroom
+  * In 3min: Present the tools you have discussed: matrix and pros/cons
+  * Which tools did your group discuss? 
+  * Which of these did you add to the browser?
+
+Which new tools did you find on VisBrowser?
+Did you all agree on the rating/review you gave for tools?
+		> Discuss in class
+ 
+3. Discussion 3 (25 + 25 mins) 
+ 
+  * *** Within your groups Interest groups
+  * Get into groups by what you are interested in learning
+  * Play with that tool and the resources available
+  * Report on pros + cons of your experience
+  * Search for similar tools in the VisBrowser
+  * Reflect on the learning resources available for learning a particular technique or tool
+  * How did you learn the tool? Experts can provide insight
+  * Share learning resources and upload them to visbrowser for consideration
+
+4. Discussion 4 (5-10 mins) 
+  * ***In the main classroom
+  * Each group briefly comment on their tool
+  * Reflect on your choice of tool, would you consider using other tools based upon recommendations? Both from other users and also a tool should as visbrowser?
+  * What are important criteria to chose a tool? 
+  * Does the available learning materials make a difference when it comes to making a choice for which tool to select? 
+
 
 # Assignment
 

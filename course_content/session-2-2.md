@@ -47,7 +47,7 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 # Tutorial: Tool Marketplace: VisBrowser Exercise & Tool Discussion
 
 1. Discussion 1 (20 mins)
-  * ***Within your groups (with experience in X)
+  * ***Within your groups (with experience in X)***
   * Which tools do you know and have you used? 
   * Which tools does the VisBrowser contain about X?
   * Are these tools you identified earlier in the visbrowser?
@@ -59,7 +59,7 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
   * Prepare a brief presentation (matrix + 1 slide of pros and cons) for presentation
 
 2. Discussion 2 (20 mins)
-  * ***Main classroom
+  * ***Main classroom***
   * In 3min: Present the tools you have discussed: matrix and pros/cons
   * Which tools did your group discuss? 
   * Which of these did you add to the browser?
@@ -70,7 +70,7 @@ Did you all agree on the rating/review you gave for tools?
  
 3. Discussion 3 (25 + 25 mins) 
  
-  * ***Within your groups Interest groups
+  * ***Within your groups Interest groups***
   * Get into groups by what you are interested in learning
   * Play with that tool and the resources available
   * Report on pros + cons of your experience
@@ -80,7 +80,7 @@ Did you all agree on the rating/review you gave for tools?
   * Share learning resources and upload them to visbrowser for consideration
 
 4. Discussion 4 (5-10 mins) 
-  * ***In the main classroom
+  * ***In the main classroom***
   * Each group briefly comment on their tool
   * Reflect on your choice of tool, would you consider using other tools based upon recommendations? Both from other users and also a tool should as visbrowser?
   * What are important criteria to chose a tool? 

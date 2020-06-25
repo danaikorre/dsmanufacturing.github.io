@@ -4,8 +4,9 @@
 <!--
 [Lecture Material](lectures.md)  
 [Tutorials](tutorials.md)  
-[Assessment](assessment.md)  
 -->
+
+[Assessment](assessment.md)  
 All lecture, tutorial, and assessment material found **per seession** in the table below, clicking the session numbers: e.g., 2-1, 2-2 and so forth. 
 
 [Book 1-on-1](https://datavisonline.youcanbook.me)  

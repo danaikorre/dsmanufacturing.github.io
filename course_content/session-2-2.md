@@ -63,10 +63,8 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
   * In 3min: Present the tools you have discussed: matrix and pros/cons
   * Which tools did your group discuss? 
   * Which of these did you add to the browser?
-
-Which new tools did you find on VisBrowser?
-Did you all agree on the rating/review you gave for tools?
-		> Discuss in class
+	* Which new tools did you find on VisBrowser?
+	* Did you all agree on the rating/review you gave for tools?
  
 3. Discussion 3 (25 + 25 mins) 
  

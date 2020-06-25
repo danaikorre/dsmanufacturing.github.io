@@ -7,10 +7,10 @@
 * [DataVis Quiz Session 1-1](https://bit.ly/sfcdv_quiz1-1_alt_submission)
 * [DataVis Quiz Session 1-2](https://bit.ly/sfcdv_quiz1-2_alt_submission)
 
-<!-- 
 ### Week 2
 
-* [DataVis Quiz Session 2-1]()
+* [DataVis Quiz Session 2-1](https://bit.ly/sfcdv_quiz2-1_alt_submission)
+<!-- 
 * [DataVis Quiz Session s-2]()
 
 -->

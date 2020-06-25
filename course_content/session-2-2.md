@@ -70,7 +70,7 @@ Did you all agree on the rating/review you gave for tools?
  
 3. Discussion 3 (25 + 25 mins) 
  
-  * *** Within your groups Interest groups
+  * ***Within your groups Interest groups
   * Get into groups by what you are interested in learning
   * Play with that tool and the resources available
   * Report on pros + cons of your experience

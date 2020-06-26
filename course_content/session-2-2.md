@@ -86,11 +86,16 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 
 # Assignment
 
-Select from existing or add a new tool to the [VisBrowser](https://vistools.net). Based on exploration or previous experience of this tool, and usage with your project data, submit a brief review of at least two tools.
+Select from existing or add a new tool to the <a href="https://vistools.net">VisBrowser</a>. Based on exploration or previous experience of this tool, and usage with your project data, submit a brief review of at least two tools.
+
 * Identify up to 3 tools that meet all or a subset of the requirements for your project.
 * Map your project requirements to visualisation options in your selected tools.
 * Place each tool in a quadrant of the <i>Tool Marketplace Matrix</i> (download a copy as <a href="files/tool_marketplace_matrix.png">png</a>, <a href="files/tool_marketplace_matrix.pdf">pdf</a> or <a href="files/tool_marketplace_matrix.pptx">pptx</a>. Copies also available in the <a href="https://bit.ly/sfcdv_additional_resources">resources folder on Learn</a>.)
-* Review your preferred tool in the <a href="https://vistools.net">VisBrowser</a> (add a new tool if necessary).    * Update your challenge brief to reflect your choices.
+* Review your preferred tool in the <a href="https://vistools.net">VisBrowser</a> (add a new tool if necessary).
+* Update your challenge brief to reflect your choices.
+    * Submit a copy of your updated brief and your annotated matrix to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>; the submission link will be available frrom 12:00, 4th Jul.
+    * The [assessments page](assessment.md) provides more detail on submission requirements. 
+     
 
 <p>&nbsp;</p>
 

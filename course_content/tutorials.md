@@ -353,7 +353,7 @@ back to [index](#index)
     - 1 per group &ndash; share insights derived and how these were reinforced or further questioned as a result of the group reflection (on the tools and results obtained)
 <p>&nbsp;</p>
 
-* [Tutorial supplement](https://bit.ly/sfcdv_learn_additional_resources)
+* [Tutorial supplement](https://bit.ly/sfcdv_learn_additional_resources) available in Learn
 <p>&nbsp;</p>
     
 

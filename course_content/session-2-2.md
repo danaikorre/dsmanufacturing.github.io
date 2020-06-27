@@ -23,7 +23,7 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 
 ### Videos
 * [Datavis-2.2-1 Outline (1:13)](https://drive.google.com/file/d/1ZeEWgFDmN2TFDYsn5OIENVkbw0HxAEe6/view?usp=sharing)
-* [Datavis-2.2-2 Tool landscapq (10:45)](https://drive.google.com/file/d/1U4fUA1NDb7Jt4JQcgmhb3bOTEgSRcwBP/view?usp=sharing)
+* [Datavis-2.2-2 Tool landscape (10:45)](https://drive.google.com/file/d/1U4fUA1NDb7Jt4JQcgmhb3bOTEgSRcwBP/view?usp=sharing)
 * [Datavis-2.2-3 Tools: Generic + Usage (8:51)](https://drive.google.com/file/d/10VE8bIbVkdN0omoZRLzo_qY3YqLNNaaN/view?usp=sharing)
 * [Datavis-2.2-4 Tools: Generic + Coding (5:04)](https://drive.google.com/file/d/17MV6w_pLMTL7vj19vJ8EATaKH--PklZ4/view?usp=sharing)
 * [Datavis-2.2-5 Tools: Specific (5:00)](https://drive.google.com/file/d/1vN9G-7Wv39swyBC2MAwSCGaDyl_Kfo_v/view?usp=sharing)
@@ -42,7 +42,8 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 
 # Quiz
 
-*...pending*
+[Quiz](https://bit.ly/sfcdv_quiz_2-2) &ndash; (requires login to Learn) 
+
 
 # Tutorial: Tool Marketplace: VisBrowser Exercise & Tool Discussion
 

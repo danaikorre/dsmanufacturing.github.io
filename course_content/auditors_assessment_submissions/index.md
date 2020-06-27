@@ -10,10 +10,9 @@
 ### Week 2
 
 * [DataVis Quiz Session 2-1](https://bit.ly/sfcdv_quiz2-1_alt_submission)
-<!-- 
-* [DataVis Quiz Session s-2]()
+* [DataVis Quiz Session 2-2](https://bit.ly/sfcdv_quiz2-2_alt_submission)
 
--->
+
 <p>&nbsp;</p>
 
 

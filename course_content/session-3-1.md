@@ -39,7 +39,72 @@ back to [course content](index)
 
 # Quiz
 
-# Tutorial: Design (Sketching)
+# Tutorial
+
+1. Discussion 1 (10 min)
+    * ***In the main classroom***
+    * Reflect on your [first EDA tutorial](tutorials.md#1-2b)
+    * What did you learn from using:
+        - different analytical techniques
+        - preparing your data
+    - What questions did you ask?
+    - What paths did you follow and why?
+    - Deriving insight ...
+        - what initial assumptions did you confirm or refute?
+        - what new did you discover about your data?
+
+1. Activity 1 (40 min) 
+
+   __Data preparation tutorial__
+      * __Note: this exercise uses data from open data sources__
+    <!--  * This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data-->
+    <br />
+    
+    * ***In the main classroom***
+    * Using the open data and also guidelines from the  [first EDA tutorial](tutorials.md#1-2b)
+        - reformat the data as required for your tool of choice
+        - generate simple statistical and visual summaries for each dataset
+    * Q&A (10min)  
+
+1. Activity 2 (45 min)
+    * ***On your own*** (even if working on a group project)
+  
+    * __Note: this is an exercise in exploring your data, not your design__
+        - what you find in the data __will however influence__ your design
+        - you will need to explore your raw data  
+            AND transformations of the data  
+            AND the results of different kinds of analysis
+        - no set way to do this, there are guidelines that help you _follow your nose_
+        - you may find you need to look for more or new data, and/or perform more cleaning on your original dataset
+    * Remember this is an ___iterative exercise___
+        - you may start with fixed ideas or questions OR  
+              a vague idea of what you're looking for OR  
+              gut based on experience and implicit knowledge
+        - expect to find more questions to your initial question(s)
+        - expect to find answers that contradict your initial assumptions
+        - it is not unusual to throw away some of your original questions and formulate new ones
+    * Remember to ___challenge your initial ideas and solutions___
+    * Experiment with multiple perspectives
+        - start with basic statistical analysis (if you have numerical data) and other overviews (any type of data)
+            - visualise your original dataset and results of analysis
+        - do you have any initial hypotheses?
+            - these can be derived from your ___big question___
+            - hypotheses may be based on knowledge of your domain and/or data content
+        - try out different visualisation techniques; different perspectives typically expose different aspects of your data
+        - alter settings for the same technique, e.g., different bins for a histogram may reveal different patterns
+  
+  
+1. Discussion 2 (15 min)
+    * ***In the main classroom***
+    * Reflect on:
+      - lessons learnt
+      - challenges encountered
+
+    * Informal exercise (no resubmission required at this stage) &ndash; update your visualisation brief and design
+    * Optional exercise &ndash; provide a review for the tool(s) you used in the [VisBrowser](https://vistools.net)
+        - please specify that the tool was being used for EDA and comment on usability and utility for this purpose
+        - in your review describe briefly your input data type, size and complexity
+<p>&nbsp;</p>
 
 # Assignment
 

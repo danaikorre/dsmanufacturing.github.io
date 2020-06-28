@@ -19,19 +19,25 @@ This session is split into a brief introduction lecture:
 # Lecture 
 
 ### Manadatory introduction
-* [Lecture slides: Basic Charts](files/3-Data-Types.pdf)  
-* [Lecture video: Basic Charts-1]()
+* [Lecture slides: Data Types](files/3-Data-Types.pdf)  
 
 ### Chose one of the following
 
 * [Lecture slides: Basic Charts](files/3-Basic-Charts.pdf)  
-* [Lecture video: Basic Charts-1]()  
+* [Lecture video: Basic Charts-1](https://drive.google.com/file/d/1GY_lwnmeA0AvE_jv6uH1a0ILnu5rQ4zt/view?usp=sharing)
+* [Lecture video: Basic Charts-2](https://drive.google.com/file/d/1ZKmD132J0PXp7sZnbyes0Y_PSjgkOJYK/view?usp=sharing)
+* [Lecture video: Basic Charts-3](https://drive.google.com/file/d/1get7_tvs9KGobV0hG6pHdnzBGBbWG8uJ/view?usp=sharing)
 
 * [Lecuture slides: Multidimensional Data](files/3-MultivariateData.pdf)
 * [Lecuture video: Multidimensional Data-1]()
 
 * [Lecture slides: Geographic data](files/3-Geographic.pdf)  
-* [Lecture video: Geographic data-1]()  
+* [Lecture video: Geographic data-1](https://drive.google.com/file/d/1eIebWZRHLYmAF06_3U9DiuoNNRR-DVCk/view?usp=sharing)  
+* [Lecture video: Geographic data-2](https://drive.google.com/file/d/1eLNm5QFb7n-41kQeMcHTYDm_yhuGrl5-/view?usp=sharing)  
+* [Lecture video: Geographic data-3](https://drive.google.com/file/d/1eLNm5QFb7n-41kQeMcHTYDm_yhuGrl5-/view?usp=sharing)  
+* [Lecture video: Geographic data-4](https://drive.google.com/file/d/1YMCYG8Zy0741SO30z1rvLnqDCc3AKZ07/view?usp=sharing)  
+* [Lecture video: Geographic data-5](https://drive.google.com/file/d/1YMCYG8Zy0741SO30z1rvLnqDCc3AKZ07/view?usp=sharing)  
+* [Lecture video: Geographic data-6](https://drive.google.com/file/d/1rT26X2QwtFUc0xT1BRNrg1wKg8tQg2Mw/view?usp=sharing)  
 
 
 ### Core

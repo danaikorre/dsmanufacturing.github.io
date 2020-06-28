@@ -84,17 +84,20 @@ All lecture, tutorial, and assessment material found **per session** in the tabl
     </td>
     <td>
       <a href="session-2-2#tutorial-tool-marketplace">Visualisation tools marketplace</a><br/>
-    </td><td>
+    </td>
+    <td>
      <a href="session-2-2#assignment">Tool review</a>
     </td>
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 3 &ndash; June 29</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td>3-1</td>
-    <td rowspan = "2" style = "vertical-align:top;">
-      <!-- a href="lectures.html#3-1" -->Foundations III: Techniques<!-- /a --><br/>
-    </td><td>
-      <a href="tutorials_week_3.html#3-1">EDA &ndash; project data</a><br/>
+    <td>
+       <a href="session-3-1">3-1</a>
+    </td>
+     <td>
+       <a href="session-3-1#lecture">Visualization Techniques I/II</a><br/>
+    </td>
+       <a href="session-3-1#tutorial">EDA &ndash; project data</a><br/>
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">

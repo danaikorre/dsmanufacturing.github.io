@@ -20,6 +20,7 @@ This session is split into a brief introduction lecture:
 
 ## Manadatory introduction
 * [Lecture slides: Data Types](files/3-Data-Types.pdf)  
+* [Lecture slides: Data Types](https://drive.google.com/file/d/1zbY69F9pDo_lGhTtHArZyWbnSbtwZAuG/view?usp=sharing)
 
 ## Chose one of the following topics
 
@@ -32,8 +33,11 @@ This session is split into a brief introduction lecture:
 
 ### 2. Multidimensionl Data
 * [Lecuture slides: Multidimensional Data](files/3-MultivariateData.pdf)
-* [Lecuture video: Multidimensional Data-1]()
-
+* [Lecuture video: Multidimensional Data Intro](https://drive.google.com/file/d/1c6tPcYhdnOU_pugETIz9UDvV0yDBRwNZ/view?usp=sharing)
+* [Lecuture video: Multidimensional Data Low Dimensional Data](https://drive.google.com/file/d/1ssi64rHDpmY9HX3JGwygD0zzaD_V9DKx/view?usp=sharing)
+* [Lecuture video: Multidimensional Data High Dimensional Data](https://drive.google.com/file/d/1cWT62091XAwvNjzhWkMbzK9JxJd17DeW/view?usp=sharing)
+* [Lecuture video: Multidimensional Data Dimensionality Reduction](https://drive.google.com/file/d/1Sz2y2xl8V0zESbkfdfkqIMjFWjapnqVH/view?usp=sharing)
+* [Lecuture video: Multidimensional Data Wrap up](https://drive.google.com/file/d/16ISNs2QBLh217LQWjdndTBIq6FYeH5Di/view?usp=sharing)
 
 ### 3. Geographical Data
 * [Lecture slides: Geographic data](files/3-Geographic.pdf)  

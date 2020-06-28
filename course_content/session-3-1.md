@@ -20,7 +20,7 @@ This session is split into a brief introduction lecture:
 
 ## Manadatory introduction
 * [Lecture slides: Data Types](files/3-Data-Types.pdf)  
-* [Lecture slides: Data Types](https://drive.google.com/file/d/1zbY69F9pDo_lGhTtHArZyWbnSbtwZAuG/view?usp=sharing)
+* [Lecture video: Data Types](https://drive.google.com/file/d/1zbY69F9pDo_lGhTtHArZyWbnSbtwZAuG/view?usp=sharing)
 
 ## Chose one of the following topics
 

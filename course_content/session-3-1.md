@@ -28,8 +28,10 @@ This session is split into a brief introduction lecture:
 * [Lecture video: Basic Charts-2](https://drive.google.com/file/d/1ZKmD132J0PXp7sZnbyes0Y_PSjgkOJYK/view?usp=sharing)
 * [Lecture video: Basic Charts-3](https://drive.google.com/file/d/1get7_tvs9KGobV0hG6pHdnzBGBbWG8uJ/view?usp=sharing)
 
+
 * [Lecuture slides: Multidimensional Data](files/3-MultivariateData.pdf)
 * [Lecuture video: Multidimensional Data-1]()
+
 
 * [Lecture slides: Geographic data](files/3-Geographic.pdf)  
 * [Lecture video: Geographic data-1](https://drive.google.com/file/d/1eIebWZRHLYmAF06_3U9DiuoNNRR-DVCk/view?usp=sharing)  

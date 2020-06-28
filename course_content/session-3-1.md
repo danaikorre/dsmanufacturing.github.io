@@ -1,21 +1,24 @@
 back to [course content](index)
 
 
-# Week 2, Session 1: Visualization Design
+# Week 3, Session 1: Visualization Techniques I
 
 [Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-design-sketching) | [Assignment](#assignment)
 
-* Preattentiveness and parallelity
-* Gestalt laws and visual patterns
-* Data types
-* Visual variables and visual maping
-* Design Guidelines 
-* Color scales and color blindness
-* Sketching and idea generation
+This session is split into a brief introduction lecture:
+
+* Data Types
+
+... and into three lectures out of which you can chose one. In other words, you do not have to watch all three, but chose the ones most relevant for you.
+
+* Basic Charts
+* Multidimensional data
+* Geographic data
+
 
 # Lecture 
 
-### Manadatory
+### Manadatory introduction
 * [Lecture slides: Basic Charts](files/3-Data-Types.pdf)  
 * [Lecture video: Basic Charts-1]()
 

@@ -5,17 +5,15 @@ back to [course content](index)
 
 [Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-design-sketching) | [Assignment](#assignment)
 
-This session is split into a brief introduction lecture:
 
-* Data Types
 
-... and into three lectures out of which you can chose one. In other words, you do not have to watch all three, but chose the ones most relevant for you.
+This session is split again (like session 3-1) into three lectures out of which you can chose one. In other words, you do not have to watch all three, but chose the ones most relevant for you.
 
 * Networks
 * Trees + Hierarchies
 * Temporal Data
 
-# Lecture 
+# Lectures
 
 ## Chose one of the following topics
 

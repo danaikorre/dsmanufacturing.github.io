@@ -5,11 +5,11 @@ back to [course content](index)
 
 [Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-design-sketching) | [Assignment](#assignment)
 
-This session is split into a brief introduction lecture:
+This session is split into a brief introductory lecture:
 
 * Data Types
 
-... and into three lectures out of which you can chose one. In other words, you do not have to watch all three, but chose the ones most relevant for you.
+... and into three lectures out of which you chose one. While you may watch all three, you must choose the set most relevant to you as the option course you wish to be graded on. You must then submit only one of the three quizzes, that matching the lecture set you choose. 
 
 * Basic Charts
 * Multidimensional data
@@ -57,6 +57,7 @@ This session is split into a brief introduction lecture:
 
 # Quiz
 
+<a name = "tutorial-design-sketching"></a>
 # Tutorial
 
 1. Discussion 1 (10 min)
@@ -125,6 +126,8 @@ This session is split into a brief introduction lecture:
 <p>&nbsp;</p>
 
 # Assignment
+
+Please update your project brief and design based on what you have learnt to this point. There is no formal hand-in for this week; you will include your update as part of a project journal with your final project.
 
 <p>&nbsp;</p>
 

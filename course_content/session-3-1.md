@@ -43,9 +43,9 @@ This session is split into a brief introductory lecture:
 * [Lecture slides: Geographic data](files/3-Geographic.pdf)  
 * [Lecture video: Geographic data: Outline + Tasks (6:36)](https://drive.google.com/file/d/1eIebWZRHLYmAF06_3U9DiuoNNRR-DVCk/view?usp=sharing)  
 * [Lecture video: Geographic data: Map Projections (21:11)](https://drive.google.com/file/d/1eLNm5QFb7n-41kQeMcHTYDm_yhuGrl5-/view?usp=sharing)  
-* [Lecture video: Geographic data: Visualizing Area Data (14:06)](https://drive.google.com/file/d/1eLNm5QFb7n-41kQeMcHTYDm_yhuGrl5-/view?usp=sharing)  
+* [Lecture video: Geographic data: Visualizing Area Data (14:06)](https://drive.google.com/file/d/1BrQMRejwc24uiR2E28h50ROLuu0HPEk2/view?usp=sharing)  
 * [Lecture video: Geographic data: Visualizing Point Data (5:08)](https://drive.google.com/file/d/1YMCYG8Zy0741SO30z1rvLnqDCc3AKZ07/view?usp=sharing)  
-* [Lecture video: Geographic data: Visualizing Trajectories (10:52)](https://drive.google.com/file/d/1YMCYG8Zy0741SO30z1rvLnqDCc3AKZ07/view?usp=sharing)  
+* [Lecture video: Geographic data: Visualizing Trajectories (10:52)](https://drive.google.com/file/d/1vTy1pjZmwnXS8XfpstY1nBpABJNly8TP/view?usp=sharing)  
 * [Lecture video: Geographic data: Visualizing Time (3:52)](https://drive.google.com/file/d/1rT26X2QwtFUc0xT1BRNrg1wKg8tQg2Mw/view?usp=sharing)  
 
 

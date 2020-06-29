@@ -3,9 +3,9 @@ back to [course content](index)
 
 # Week 3, Session 2: Visualization Techniques II
 
-[Lecture](#lecture) | <!-- [Reading](#reading) | --> [Quiz](#quiz) | [Tutorial](#tutorial-critical-analysis) | [Assignment](#assignment)
+[Lecture](#lecture) | [Quiz](#quiz) | [Tutorial](#tutorial-critical-analysis) | [Assignment](#assignment)
 
-
+<!-- [Reading](#reading) | --> 
 
 This session is split again (like session 3-1) into three lectures out of which you should choose one. While you may watch all three, you must choose the set most relevant to you as the option course you wish to be graded on. You must then submit only one of the three quizzes, that matching the lecture set you choose. 
 

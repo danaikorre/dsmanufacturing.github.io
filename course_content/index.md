@@ -93,7 +93,7 @@
     <td style = "vertical-align:top;">
       <a href="session-3-1#lecture">Visualization Techniques I/II</a><br/>
     </td><td>
-      <a href="tutorials_week_3.html#3-1">EDA &ndash; project data</a><br/>
+      <a href="session-3-1#tutorial">EDA &ndash; project data</a><br/>
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">
@@ -101,7 +101,7 @@
     <td style = "vertical-align:top;">
       <!-- a href="session-3-2#lecture" -->Visualization Techniques II/II<!-- /a --><br/>
     </td><td>
-      <a href="tutorials_week_3.html#3-2">Critical analysis &amp; reflection</a>
+      <a href="session-3-2#tutorial">Critical analysis &amp; reflection</a>
     </td><td>
       <!-- a href="assessment.html#3-1" -->Update project brief &amp; design<!-- /a -->
     </td>
@@ -143,8 +143,10 @@
 ***
 
 <p>&nbsp;</p>
+
 ### [Assessment Guidelines](assessment.md)  
-### Additional information on [interactive sessions]()
+<!-- ### Additional information on [interactive sessions]() -->
+
 <p>&nbsp;</p>
 
 ***

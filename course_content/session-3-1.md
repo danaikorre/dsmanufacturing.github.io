@@ -3,7 +3,7 @@ back to [course content](index)
 
 # Week 3, Session 1: Visualization Techniques I
 
-[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-design-sketching) | [Assignment](#assignment)
+[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-eda-project-data) | [Assignment](#assignment)
 
 This session is split into a brief introductory lecture:
 
@@ -58,8 +58,8 @@ This session is split into a brief introductory lecture:
 
 # Quiz
 
-<a name = "tutorial-design-sketching"></a>
-# Tutorial
+<a name = "tutorial-eda-project-data"></a>
+# Tutorial: EDA &ndash; Project Data
 
 1. Discussion 1 (10 min)
     * ***In the main classroom***

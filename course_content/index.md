@@ -101,9 +101,11 @@ All lecture, tutorial, and assessment material found **per session** in the tabl
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">
-    <td>3-2</td>
     <td>
-      <a href="tutorials_week_3.html#3-2">Critical analysis &amp; reflection</a>
+       <a href="session-3-2">3-2</a>
+    </td>
+     <td>
+       <a href="session-3-2#lecture">Visualization Techniques II/II</a><br/>
     </td><td>
       <!-- a href="assessment.html#3-1" -->Update project brief &amp; design<!-- /a -->
     </td>

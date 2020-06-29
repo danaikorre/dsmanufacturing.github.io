@@ -6,8 +6,7 @@
 [Tutorials](tutorials.md)  
 -->
 
-[Assessment](assessment.md)  
-All lecture, tutorial, and assessment material found **per session** in the table below, clicking the session numbers: e.g., 2-1, 2-2 and so forth. 
+<!-- All lecture, tutorial, and assessment material found **per session** in the table below, clicking the session numbers: e.g., 2-1, 2-2 and so forth. -->
 
 [Book 1-on-1](https://datavisonline.youcanbook.me)  
   * booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available
@@ -84,28 +83,25 @@ All lecture, tutorial, and assessment material found **per session** in the tabl
     </td>
     <td>
       <a href="session-2-2#tutorial-tool-marketplace">Visualisation tools marketplace</a><br/>
-    </td>
-    <td>
+    </td><td>
      <a href="session-2-2#assignment">Tool review</a>
     </td>
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 3 &ndash; June 29</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td>
-       <a href="session-3-1">3-1</a>
-    </td>
-     <td>
-       <a href="session-3-1#lecture">Visualization Techniques I/II</a><br/>
-    </td>
-       <a href="session-3-1#tutorial">EDA &ndash; project data</a><br/>
+    <td><a href="session-3-1">3-1</a></td>
+    <td style = "vertical-align:top;">
+      <a href="session-3-1#lecture">Visualization Techniques I/II</a><br/>
+    </td><td>
+      <a href="tutorials_week_3.html#3-1">EDA &ndash; project data</a><br/>
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">
-    <td>
-       <a href="session-3-2">3-2</a>
-    </td>
-     <td>
-       <a href="session-3-2#lecture">Visualization Techniques II/II</a><br/>
+    <td>3-2</td>
+    <td style = "vertical-align:top;">
+      <!-- a href="session-3-2#lecture" -->Visualization Techniques II/II<!-- /a --><br/>
+    </td><td>
+      <a href="tutorials_week_3.html#3-2">Critical analysis &amp; reflection</a>
     </td><td>
       <!-- a href="assessment.html#3-1" -->Update project brief &amp; design<!-- /a -->
     </td>
@@ -143,6 +139,13 @@ All lecture, tutorial, and assessment material found **per session** in the tabl
     </td>
   </tr>
 </table>
+
+***
+
+<p>&nbsp;</p>
+### [Assessment Guidelines](assessment.md)  
+### Additional information on [interactive sessions]()
+<p>&nbsp;</p>
 
 ***
 

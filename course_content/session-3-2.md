@@ -1,7 +1,7 @@
 back to [course content](index)
 
 
-# Week 3, Session 1: Visualization Techniques I
+# Week 3, Session 1: Visualization Techniques II
 
 [Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-design-sketching) | [Assignment](#assignment)
 
@@ -29,8 +29,8 @@ This session is split again (like session 3-1) into three lectures out of which 
 
 ### 2. Trees & Hierarchies
 * [Lecture slides: Trees & Hierarchies](files/3-Trees+Hierarchies.pdf)  
-* [Lecture video: Trees & Hierarchies-1 ()](https://drive.google.com/file/d/1rqGOvytbRCikUzP0vvyxUuI-6WoiBntR/view?usp=sharing)
-* [Lecture video: Trees & Hierarchies-2 ()](https://drive.google.com/file/d/1GP60bvYxU46X4v1zWZKbDHGztCadN1NV/view?usp=sharing)
+* [Lecture video: Trees & Hierarchies-1 (42:00)](https://drive.google.com/file/d/1rqGOvytbRCikUzP0vvyxUuI-6WoiBntR/view?usp=sharing)
+* [Lecture video: Trees & Hierarchies-2 (4:51)](https://drive.google.com/file/d/1GP60bvYxU46X4v1zWZKbDHGztCadN1NV/view?usp=sharing)
 
 ### 3. Time
 * [Lecture slides: Time](files/3-TemporalData.pdf)  

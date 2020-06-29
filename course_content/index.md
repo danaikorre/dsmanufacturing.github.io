@@ -89,6 +89,11 @@
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 3 &ndash; June 29</h4></th>
   </tr><tr style = "vertical-align:top;">
+    <td colspan = "2"><b>Guest lecture:<br />Matthew Brehmer, Tableau Research</b></td>
+    <td colspan = "2">
+      <a href="https://drive.google.com/file/d/1fXHljzLam_saVgDe2KrJbL02UC-9VP1w/view?usp=sharing">Interactive Tools for Visualizing Data: Perspectives from Research + Practice</a>
+    </td>
+  </tr><tr style = "vertical-align:top;">
     <td><a href="session-3-1">3-1</a></td>
     <td style = "vertical-align:top;">
       <a href="session-3-1#lecture">Visualization Techniques I/II</a><br/>

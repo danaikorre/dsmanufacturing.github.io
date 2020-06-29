@@ -31,7 +31,7 @@ This session is split into a brief introductory lecture:
 * [Lecture video: Basic Charts-3 (10:18)](https://drive.google.com/file/d/1get7_tvs9KGobV0hG6pHdnzBGBbWG8uJ/view?usp=sharing)
 
 
-### 2. Multidimensionl Data
+### 2. Multidimensional Data
 * [Lecuture slides: Multidimensional Data](files/3-MultivariateData.pdf)
 * [Lecuture video: Multidimensional Data Intro (0:33)](https://drive.google.com/file/d/1c6tPcYhdnOU_pugETIz9UDvV0yDBRwNZ/view?usp=sharing)
 * [Lecuture video: Multidimensional Data Low Dimensional Data (12:54)](https://drive.google.com/file/d/1ssi64rHDpmY9HX3JGwygD0zzaD_V9DKx/view?usp=sharing)

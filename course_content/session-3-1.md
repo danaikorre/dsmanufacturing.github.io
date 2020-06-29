@@ -49,11 +49,12 @@ This session is split into a brief introductory lecture:
 * [Lecture video: Geographic data: Visualizing Time (3:52)](https://drive.google.com/file/d/1rT26X2QwtFUc0xT1BRNrg1wKg8tQg2Mw/view?usp=sharing)  
 
 
+<a name = "reading"></a>
 ### Core
 * Carpendale, M. S. T.  (2003). [Considering Visual Variables as a Basis for Information Visualisation](http://dx.doi.org/10.11575/PRISM/30495), University of Calgary
 * Stephen Few (2009). [Sometimes We Must Raise Our Voices](http://www.perceptualedge.com/articles/visual_business_intelligence/sometimes_we_must_raise_our_voices.pdf), Perceptual Edge Visual Business Intelligence Newsletter
 
-### Further reading
+<!-- ### Further reading -->
 
 # Quiz
 

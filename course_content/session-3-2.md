@@ -17,7 +17,7 @@ This session is split again (like session 3-1) into three lectures out of which 
 
 ## Chose one of the following topics
 
-### 1. Basic Charts
+### 1. Networks
 * [Lecture slides: Networks](files/3-Networks.pdf)  
 * [Lecture video: Networks-1 (00:33)](https://drive.google.com/file/d/1bGZgGoM5VmPLJXSXA6t3eIBEBQXNxhpP/view?usp=sharing)
 * [Lecture video: Networks-2 (8:25)](https://drive.google.com/file/d/1Pd9nkxWTcvHY5UoZMY-wadlO9OMnF6Gg/view?usp=sharing)
@@ -27,7 +27,7 @@ This session is split again (like session 3-1) into three lectures out of which 
 * [Lecture video: Networks-6 (3:11)](https://drive.google.com/file/d/1ORrdVohl3Rak88UaloXT1ZkQXWBbs78u/view?usp=sharing)
 
 
-### 2. Trees & Hierarchies
+### 2. Trees &amp; Hierarchies
 * [Lecture slides: Trees & Hierarchies](files/3-Trees+Hierarchies.pdf)  
 * [Lecture video: Trees & Hierarchies-1 (42:00)](https://drive.google.com/file/d/1rqGOvytbRCikUzP0vvyxUuI-6WoiBntR/view?usp=sharing)
 * [Lecture video: Trees & Hierarchies-2 (4:51)](https://drive.google.com/file/d/1GP60bvYxU46X4v1zWZKbDHGztCadN1NV/view?usp=sharing)

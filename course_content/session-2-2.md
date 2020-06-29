@@ -45,8 +45,10 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 [Quiz](https://bit.ly/sfcdv_quiz_2-2) &ndash; (requires login to Learn) 
 <p>&nbsp;</p>
 
+<a name = "tutorial-tool-marketplace"></a>
+# Tutorial: Tool Marketplace 
 
-# Tutorial: Tool Marketplace: VisBrowser Exercise & Tool Discussion
+__This tutorial explores the <a href="https://vistools.net">VisBrowser</a> as part of a wider tool discussion__
 
 1. Discussion 1 (20 mins)
   * ***Within your groups (with experience in X)***

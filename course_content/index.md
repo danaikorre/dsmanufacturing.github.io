@@ -97,7 +97,7 @@
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">
-    <td>3-2</td>
+    <td><a href="session-3-2">3-2</a></td>
     <td style = "vertical-align:top;">
       <a href="session-3-2#lecture">Visualization Techniques II/II</a><br/>
     </td><td>

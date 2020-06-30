@@ -28,11 +28,11 @@
 **Web**: 
 -->
 
-## Laura
+## Laura Smith, Slanted Theory
 <!--
 **Title:** 
 **Abstract:** 
 **Bio:** 
-**Web**: 
 -->
+**Web**: [http://slantedtheory.com](http://slantedtheory.com)
 

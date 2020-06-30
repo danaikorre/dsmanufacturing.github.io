@@ -91,7 +91,7 @@
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2"><b>Guest lecture:<br />Matthew Brehmer, Tableau Research</b></td>
     <td colspan = "2">
-      <a href="https://drive.google.com/file/d/1fXHljzLam_saVgDe2KrJbL02UC-9VP1w/view?usp=sharing">Interactive Tools for Visualizing Data: Perspectives from Research + Practice</a>
+      <a href="https://bit.ly/sfcdv_guest_lecture_matthew_brehmer">Interactive Tools for Visualizing Data: Perspectives from Research + Practice</a>
     </td>
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-3-1">3-1</a></td>

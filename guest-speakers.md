@@ -1,7 +1,7 @@
 # Course Guest Speakers
 
 
-## Matthew Brehmer, Tableau Reserch
+## Matthew Brehmer, Tableau Research
 
 **Title:** Interactive Tools for Visualizing Data: Perspectives from Research + Practice
 

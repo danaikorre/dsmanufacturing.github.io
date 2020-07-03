@@ -74,7 +74,7 @@ This session is split again (like session 3-1) into three lectures out of which 
       
     * Create a check list with 3-5 items to guide evaluation of your brief and design
         - draw from the lecture and tutorial material
-        - draw from your requirements and goals - this will require you to think from your target users' viewpoint
+        - draw from your requirements and goals &ndash; this will require you to think from your target users' viewpoint
     
   
 1. Discussion 1 (60 min)
@@ -85,19 +85,19 @@ This session is split again (like session 3-1) into three lectures out of which 
         - Remember to provide feedback within context; seek more information about intended use and users if not obvious
         - Identify
             - what works well
-            - what is unclear &ndash; seek clarification / ask questions
-            - what can be improved - you need not suggest how to improve, but illustrate why some aspect may not deliver as intended
+            - what is unclear &ndash; seek clarification, ask questions
+            - what can be improved &ndash; you need not know what to suggest to improve the current state, but illustrate why some aspect may not deliver as intended. This helps to figure out how to. 
         - Summarise your overall impressions
           - first impressions
           - what does this design communicate? How well does it match its brief?
         
-    2. Individually &ndash; review feedback for your design (10 min)
+    1. Individually &ndash; review feedback for your design (10 min)
         - you may obtain both overlapping and conflicting feedback
-        - remember your evaluators have different perspectives, differences in feedback are the norm
+        - remember your evaluators have different perspectives. Differences in feedback are the norm and good to inspire new approaches. 
       
-    3. Round table &ndash; discuss, at a more general level
+    2. Round table &ndash; discuss, at a more general level
         - this is an opportunity for you to ask more questions, seek clarification on feedback obtained, provide clarification on feedback given
-        - identify where and how different techniques work to inform, help to perform tasks and answer question
+        - identify where and how different techniques work to inform, help to perform tasks and answer your question(s)
 
     __NOTE: remember not to share sensitive data, especially when making annotations - your design need not refer to specific data. Consult with a tutor if this presents an issue for obtaining peer feedback.__
     
@@ -106,6 +106,14 @@ This session is split again (like session 3-1) into three lectures out of which 
     * ***On your own  (or group if in group project)***
     * Review feedback and update brief and design as desired
     
+    
+1. Discussion 2 (10 min)
+   * ___In the main classroom___
+   * Reflect on the feedback you both gave and received
+   * What changes do you anticipate going forward?
+   * What do you expect to keep from your initial brief?
+   * In one line, what is your ___big question___?
+   
 <p>&nbsp;</p>
 
 # Assignment

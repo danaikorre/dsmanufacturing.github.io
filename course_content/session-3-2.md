@@ -91,7 +91,7 @@ This session is split again (like session 3-1) into three lectures out of which 
           - first impressions
           - what does this design communicate? How well does it match its brief?
         
-    2. Individually *ndash; review feedback for your design (10 min)
+    2. Individually &ndash; review feedback for your design (10 min)
         - you may obtain both overlapping and conflicting feedback
         - remember your evaluators have different perspectives, differences in feedback are the norm
       

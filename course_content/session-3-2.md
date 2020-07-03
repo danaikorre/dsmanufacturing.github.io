@@ -51,7 +51,7 @@ This session is split again (like session 3-1) into three lectures out of which 
 1. Activity 1 (35 min)
     * ***On your own*** (even if working on a group project)
     - Reflect on:
-        - your brief and design *ndash; what is your ___big question___?
+        - your brief and design &ndash; what is your ___big question___?
         - the results of EDA on your data and the impact it had on your data preparation and design
    
    __General Guidelines__  

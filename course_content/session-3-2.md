@@ -59,7 +59,7 @@ This session is split again (like session 3-1) into three lectures out of which 
         - review the guidelines you followed when formulating your brief and creating your (initial) design
     
    2. Identify key elements of your design
-        - what would constitute an MVP?
+        - what would constitute an MVP (minimum viable product)?
         - what can you practically achieve within the constraints of this course?
         - what can you categorise as the next phase of the project (future work)?
     
@@ -69,7 +69,7 @@ This session is split again (like session 3-1) into three lectures out of which 
             - which advanced topics you plan to study
             - additional skills you wish to learn
         - any other recognised constraints, including
-            - time limits of course
+            - time limits (the course has 2.5 weeks remaining + 1 week to complete project)
             - data needed to achieve your overall goal
       
     * Create a check list with 3-5 items to guide evaluation of your brief and design

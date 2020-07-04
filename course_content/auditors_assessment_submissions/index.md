@@ -15,6 +15,26 @@
 
 <p>&nbsp;</p>
 
+***
+
+
+## Anonymous Surveys on Tutorials
+
+Please provide feedback on the interactive sessions to help us map progress overall and highlight areas where we could adapt the course to better support the needs of the class. Please note this is optional, and all surveys collect data anonymously.
+
+Survey 1:   
+[Tutorial Feedback - Formulating data visualisation brief](https://bit.ly/tutorial_feedback-visualisation_brief)
+
+Survey 2:  
+[Tutorial Feedback - Design (Sketching)](https://bit.ly/tutorial_feedback-design_sketching)
+
+Survey 3:  
+[Tutorial Feedback - Tool Review](https://bit.ly/tutorial_feedback-tool_review)
+
+<p>&nbsp;</p>
+
+
+***
 
 ## Submission of Assignments &amp; Final Project
 
@@ -31,22 +51,6 @@ You will be provided with a secure folder to upload your written assignments and
 ## Feedback on Assessments
 
 A copy of each marked assessment item will be placed in your submission folder, with an e-mail notification.
-
-***
-
-
-## Anonymous Surveys on Tutorials
-
-Please provide feedback on the interactive sessions to help us map progress overall and highlight areas where we could adapt the course to better support the needs of the class. Please note this is optional, and all surveys collect data anonymously.
-
-Survey 1:   
-[Tutorial Feedback - Formulating data visualisation brief](https://bit.ly/tutorial_feedback-visualisation_brief)
-
-Survey 2:  
-[Tutorial Feedback - Design (Sketching)](https://bit.ly/tutorial_feedback-design_sketching)
-
-Survey 3:  
-[Tutorial Feedback - Tool Review](https://bit.ly/tutorial_feedback-tool_review)
 
 ***
 

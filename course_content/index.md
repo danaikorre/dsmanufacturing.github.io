@@ -23,6 +23,12 @@
 <!-- ## Learning Outcomes -->
 
 
+### [Assessment Guidelines](assessment.md)  
+<!-- ### Additional information on [interactive sessions]() -->
+
+
+***
+
 <a name = "course_organisation"></a>
 ## Course Organisation
 
@@ -145,13 +151,6 @@
     </td>
   </tr>
 </table>
-
-***
-
-<p>&nbsp;</p>
-
-### [Assessment Guidelines](assessment.md)  
-<!-- ### Additional information on [interactive sessions]() -->
 
 <p>&nbsp;</p>
 

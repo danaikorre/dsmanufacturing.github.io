@@ -133,7 +133,7 @@ back to main [schedule](index.md)
       <li>Update your challenge brief to reflect your choices.</li>
      </ol>
      <br/>
-      Submit a copy of your updated brief and your annotated matrix to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>.
+      Submit a copy of your updated brief and your annotated matrix, along with a copy of your review, to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>.
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2"> </td>

@@ -64,6 +64,7 @@ back to main [schedule](index.md)
 
 Guidelines for completing final projects will be provided from week 3 of the course. The final submission will include findings and lessons learnt from exercises completed as the course progresses.
 
+**Your project must be submitted by 23:59 on Jul 24th.**
 <p>&nbsp;</p>
 
 back to main [schedule](index.md)  
@@ -142,7 +143,7 @@ back to main [schedule](index.md)
       <b>Week 5: Session 5-1</b></td>
   </tr><tr style = "vertical-align:top;">
     <td><b><i>Finalise Project Brief</i></b></td>
-    <td><b><i>TBD</i></b></td>
+    <td><b><i>Mon, July 24, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
       Update your project brief; consider the following points, along with all feedback to this point:
@@ -163,7 +164,7 @@ back to main [schedule](index.md)
       <b>Week 5: Session 5-2</b></td>
   </tr><tr style = "vertical-align:top;">
     <td><b><i>Evaluation Plan &ndash; Final Project</i></b></td>
-    <td><b><i>TBD</i></b></td>
+    <td><b><i>Mon, July 24, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
      Complete the exercise in <!-- a href="tutorials.html#5-2" -->tutorial 5-2<!-- /a -->.  Summarise you plan on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="tutorials_week_5.html#guidelines_evaluation_plan">guidelines & best practice for creating an evaluation plan</a>. Include as an appendix any additional documents, e.g., task lists, questionnaires and scenario descriptions.

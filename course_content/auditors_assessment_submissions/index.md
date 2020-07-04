@@ -34,4 +34,20 @@ A copy of each marked assessment item will be placed in your submission folder, 
 
 ***
 
+
+## Anonymous Surveys on Tutorials
+
+Please provide feedback on the interactive sessions to help us map progress overall and highlight areas where we could adapt the course to better support the needs of the class. Please note this is optional, and all surveys collect data anonymously.
+
+Survey 1:   
+[Tutorial Feedback - Formulating data visualisation brief](https://bit.ly/tutorial_feedback-visualisation_brief)
+
+Survey 2:  
+[Tutorial Feedback - Design (Sketching)](https://bit.ly/tutorial_feedback-design_sketching)
+
+Survey 3:  
+[Tutorial Feedback - Tool Review](https://bit.ly/tutorial_feedback-tool_review)
+
+***
+
 back to [Index &ndash; Course Content](../)

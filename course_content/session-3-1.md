@@ -30,6 +30,17 @@ This session is split into a brief introductory lecture:
 * [Lecture video: Basic Charts-2 (18:40)](https://drive.google.com/file/d/1ZKmD132J0PXp7sZnbyes0Y_PSjgkOJYK/view?usp=sharing)
 * [Lecture video: Basic Charts-3 (10:18)](https://drive.google.com/file/d/1get7_tvs9KGobV0hG6pHdnzBGBbWG8uJ/view?usp=sharing)
 
+__Suggested Reading on Basic Charts:__
+* Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019.
+  * [https://serialmentor.com/dataviz/visualizing-proportions.html](https://serialmentor.com/dataviz/visualizing-proportions.htm)
+  * [https://serialmentor.com/dataviz/histograms-density-plots.html](https://serialmentor.com/dataviz/histograms-density-plots.html)
+  * [https://serialmentor.com/dataviz/boxplots-violins.html](https://serialmentor.com/dataviz/boxplots-violins.html)
+* Hullman, Jessica, Paul Resnick, and Eytan Adar. "Hypothetical outcome plots outperform error bars and violin plots for inferences about reliability of variable ordering." PloS one 10.11 (2015).
+* Skau, Drew, and Robert Kosara. "Arcs, angles, or areas: Individual data encodings in pie and donut charts." Computer Graphics Forum. Vol. 35. No. 3. 2016.
+* Cairo, Alberto. The truthful art: data, charts, and maps for communication. New Riders, 2016.
+  * Chapter 6: Exploring Data with Simple Charts
+  * Chapter 7: Visualizing Distributions
+
 
 ### 2. Multidimensional Data
 * [Lecuture slides: Multidimensional Data](files/3-MultivariateData.pdf)
@@ -39,6 +50,14 @@ This session is split into a brief introductory lecture:
 * [Lecuture video: Multidimensional Data Dimensionality Reduction (6:27)](https://drive.google.com/file/d/1Sz2y2xl8V0zESbkfdfkqIMjFWjapnqVH/view?usp=sharing)
 * [Lecuture video: Multidimensional Data Wrap up (2:16)](https://drive.google.com/file/d/16ISNs2QBLh217LQWjdndTBIq6FYeH5Di/view?usp=sharing)
 
+__Suggested Reading on Multidimensional data:__
+* Shneiderman, Ben. "The eyes have it: A task by data type taxonomy for information visualizations." Proceedings 1996 IEEE symposium on visual languages. IEEE, 1996.
+* Fuchs, Johannes, et al. "A systematic review of experimental studies on data glyphs." IEEE transactions on visualization and computer graphics 23.7 (2016): 1863-1879.
+* Heinrich, Julian, and Daniel Weiskopf. "State of the Art of Parallel Coordinates." Eurographics (STARs). 2013.
+[https://visualizationcheatsheets.github.io/pcp.html](https://visualizationcheatsheets.github.io/pcp.html)
+
+
+
 ### 3. Geographical Data
 * [Lecture slides: Geographic data](files/3-Geographic.pdf)  
 * [Lecture video: Geographic data: Outline + Tasks (6:36)](https://drive.google.com/file/d/1eIebWZRHLYmAF06_3U9DiuoNNRR-DVCk/view?usp=sharing)  
@@ -47,6 +66,17 @@ This session is split into a brief introductory lecture:
 * [Lecture video: Geographic data: Visualizing Point Data (5:08)](https://drive.google.com/file/d/1YMCYG8Zy0741SO30z1rvLnqDCc3AKZ07/view?usp=sharing)  
 * [Lecture video: Geographic data: Visualizing Trajectories (10:52)](https://drive.google.com/file/d/1vTy1pjZmwnXS8XfpstY1nBpABJNly8TP/view?usp=sharing)  
 * [Lecture video: Geographic data: Visualizing Time (3:52)](https://drive.google.com/file/d/1rT26X2QwtFUc0xT1BRNrg1wKg8tQg2Mw/view?usp=sharing)  
+
+__Suggested Reading on Geographical Data:__
+* Alberto Cairo: The Truthful Art: Chapter 10: Mapping Data
+* Bertin, Jacques. Semiology of graphics; diagrams networks maps. No. 04; QA90, B7.. 1983.
+* Andrienko, Gennady, et al. "Space, time and visual analytics." International journal of geographical information science 24.10 (2010): 1577-1600.
+* Andrienko, Natalia, and Gennady Andrienko. Exploratory analysis of spatial and temporal data: a systematic approach. Springer Science & Business Media, 2006.
+* Bach, Benjamin, et al. "A descriptive framework for temporal data visualizations based on generalized space‐time cubes." Computer Graphics Forum. Vol. 36. No. 6. 2017.
+* Bach, Benjamin, et al. "Ways of Visualizing Data on Curves." 2018.
+
+
+
 
 
 <a name = "reading"></a>

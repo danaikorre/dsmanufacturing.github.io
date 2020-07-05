@@ -14,7 +14,7 @@
 
 
 ### Week 3
-Course Options: Please note that you must select one from each session's 3 topics, and submit a quiz for only the topic you choose.
+Course Options: Please note that you must select one from each session's 3 topics, and submit a quiz for only the topic you choose. __If you submit more than one course option only the first submitted will be marked.__
 
 * DataVis Quiz Session 3-1
   1. [Basic Charts](https://bit.ly/sfcdv_quiz3-1a_alt_submission)

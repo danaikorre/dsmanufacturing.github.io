@@ -13,6 +13,19 @@
 * [DataVis Quiz Session 2-2](https://bit.ly/sfcdv_quiz2-2_alt_submission)
 
 
+### Week 3
+Course Options: Please note that you must select one from each session's 3 topics, and submit a quiz for only the topic you choose.
+
+* DataVis Quiz Session 3-1
+  1. [Basic Charts](https://bit.ly/sfcdv_quiz3-1a_alt_submission)
+  1. [Multidimensional Data](https://bit.ly/sfcdv_quiz3-1b_alt_submission)
+  1. [Geographical Data](https://bit.ly/sfcdv_quiz3-1c_alt_submission)
+
+* DataVis Quiz Session 3-2
+  1. [Graphs &amp; Networks](https://bit.ly/sfcdv_quiz3-2a_alt_submission)
+  1. [Trees &amp; Hierarchies](https://bit.ly/sfcdv_quiz3-2b_alt_submission)
+  1. [Time](https://bit.ly/sfcdv_quiz3-2c_alt_submission)
+
 <p>&nbsp;</p>
 
 ***

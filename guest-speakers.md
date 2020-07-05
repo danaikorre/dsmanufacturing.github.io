@@ -1,7 +1,7 @@
 # Course Guest Speakers
 
 
-## Matthew Brehmer, Tableau Research
+## Thu, July, 2nd---Matthew Brehmer, Tableau Research, Seattle, WA
 
 **Title:** Interactive Tools for Visualizing Data: Perspectives from Research + Practice
 
@@ -12,7 +12,7 @@
 **Web**: [https://mattbrehmer.ca](https://mattbrehmer.ca)
 
 
-## Cagatay Turkay, University of York
+## Tue, July 7th, 3:30pm---Cagatay Turkay, University of York, UK
 
 **Title:** Facilitating Well-Informed Data Science through Interactive Visual Analysis
 
@@ -23,7 +23,7 @@
 
 **Web**: [https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay](https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay)
 
-## Christopher Collins, Ontario Tech Institute
+## Thu, July 9th, ---Christopher Collins, Ontario Tech Institute
 <!--
 **Title:** 
 **Abstract:** 

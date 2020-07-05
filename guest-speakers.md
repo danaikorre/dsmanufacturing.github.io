@@ -24,12 +24,17 @@
 **Web**: [https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay](https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay)
 
 ## Thu, July 9th, tdb---Christopher Collins, Ontario Tech Institute
-<!--
-**Title:** 
+
+## Title: Visualizing Text
+
 **Abstract:** 
-**Bio:** 
-**Web**: 
--->
+
+**Bio:** I am an associate professor and Canada Research Chair in Linguistic Information Visualization at the Ontario Tech University (Ontario Tech), where I lead a lab of 10 students at various levels of study. My research focus is interdisciplinary, combining information visualization and human-computer interaction with natural language processing to address the challenges of linguistic information management and the problems of information overload. My publications, including the DocuBurst document content visualization system, have helped to open a new and thriving area of research in “Linguistic Visualization”. My work has been published in many venues, including the IEEE InfoVis, IEEE VAST, ACM ITS, EuroVis, and IEEE Transactions on Visualization and Computer Graphics,  as well as featured in popular media such as the Toronto Star, New York Times Magazine, and CBC Radio.
+
+I received my PhD in Computer Science from the University of Toronto in 2010. I have collaborated with the Innovis group at the University of Calgary, the Visual Communications Lab at IBM’s TJ Watson Research Laboratory and was recently a visiting researcher at Stanford University’s Department of Computer Science. I maintain fruitful research collaborations with exciting companies, including my work with Ontario-based Quillsoft Ltd. on their iWordQ reading assistance mobile application.
+
+**Web**: [http://vialab.science.uoit.ca/portfolio/christopher-m-collins](http://vialab.science.uoit.ca/portfolio/christopher-m-collins) 
+
 
 ## Laura Smith, Slanted Theory
 <!--

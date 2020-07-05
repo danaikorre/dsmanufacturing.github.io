@@ -4,6 +4,7 @@
 ## Interactive Tools for Visualizing Data: Perspectives from Research + Practice
 
 **Matthew Brehmer, Tableau Research, Seattle, WA**
+
 **Thu, July, 2nd**
 
 **Abstract:** This presentation will provide an overview of interactive visualization tools. The overview will consider tools used in practice, recent prototype tools from the visualization research community, and promising directions for future visualization tools based on current research trends. The presentation will also feature three lessons pertaining to multi-tool workflows, distinguishing chart-pickers from bespoke visualization specification tools, and the distinction between visualization authoring and visualization design.
@@ -15,6 +16,7 @@
 
 ## Facilitating Well-Informed Data Science through Interactive Visual Analysis
 **Cagatay Turkay, University of York, UK**
+
 **Tue, July 7th, 3:30pm**
 
 
@@ -27,7 +29,8 @@
 
 ## Title: Visualizing Text
 **Christopher Collins, Ontario Tech Institute, OT**
-**Thu, July 9th, tdb***
+
+**Thu, July 9th, time tdb***
 
 
 **Abstract:** 

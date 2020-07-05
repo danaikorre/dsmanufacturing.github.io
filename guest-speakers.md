@@ -1,9 +1,10 @@
 # Course Guest Speakers
 
 
-## Thu, July, 2nd---Matthew Brehmer, Tableau Research, Seattle, WA
+## Interactive Tools for Visualizing Data: Perspectives from Research + Practice
 
-### Interactive Tools for Visualizing Data: Perspectives from Research + Practice
+**Matthew Brehmer, Tableau Research, Seattle, WA**
+**Thu, July, 2nd**
 
 **Abstract:** This presentation will provide an overview of interactive visualization tools. The overview will consider tools used in practice, recent prototype tools from the visualization research community, and promising directions for future visualization tools based on current research trends. The presentation will also feature three lessons pertaining to multi-tool workflows, distinguishing chart-pickers from bespoke visualization specification tools, and the distinction between visualization authoring and visualization design.
 
@@ -12,9 +13,10 @@
 **Web**: [https://mattbrehmer.ca](https://mattbrehmer.ca)
 
 
-## Tue, July 7th, 3:30pm---Cagatay Turkay, University of York, UK
+## Facilitating Well-Informed Data Science through Interactive Visual Analysis
+**Cagatay Turkay, University of York, UK**
+**Tue, July 7th, 3:30pm**
 
-### Facilitating Well-Informed Data Science through Interactive Visual Analysis
 
 **Abstract:** In this talk, I will talk about how interactive visualisations that are coupled tightly with algorithms offer effective methods in conducting data science in rigorous and critical ways. Such methods not only enhance the insights drawn but also support better informed decisions made based on the outcomes. We will discuss how visualisation can facilitate such practices and will look at examples of research on how data can be transformed and visualised creatively in multiple perspectives, on how comparisons can be made within different models, parameters, and within local and global solutions, and on how interaction is an enabler for such processes.
 
@@ -23,9 +25,10 @@
 
 **Web**: [https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay](https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay)
 
-## Thu, July 9th, tdb---Christopher Collins, Ontario Tech Institute
-
 ## Title: Visualizing Text
+**Christopher Collins, Ontario Tech Institute, OT**
+**Thu, July 9th, tdb***
+
 
 **Abstract:** 
 

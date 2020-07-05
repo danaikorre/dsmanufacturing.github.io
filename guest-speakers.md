@@ -13,12 +13,15 @@
 
 
 ## Cagatay Turkay, University of York
-<!--
-**Title:** 
-**Abstract:** 
-**Bio:** 
-**Web**: 
--->
+
+**Title:** Facilitating Well-Informed Data Science through Interactive Visual Analysis
+
+**Abstract:** In this talk, I will talk about how interactive visualisations that are coupled tightly with algorithms offer effective methods in conducting data science in rigorous and critical ways. Such methods not only enhance the insights drawn but also support better informed decisions made based on the outcomes. We will discuss how visualisation can facilitate such practices and will look at examples of research on how data can be transformed and visualised creatively in multiple perspectives, on how comparisons can be made within different models, parameters, and within local and global solutions, and on how interaction is an enabler for such processes.
+
+**Bio:** Cagatay Turkay is an Associate Professor at the Centre for Interdisciplinary Methodologies at the University of Warwick, UK. His research investigates the interactions between data, algorithms
+ and people, and explores the role of interactive visualisation and other interaction mediums such as natural language at this intersection. He designs techniques and algorithms that are sensitive to their users in various decision-making scenarios involving primarily high-dimensional and spatio-temporal phenomena, and develops methods to study how people work interactively with data and computed artefacts.
+
+**Web**: [https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay](https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay)
 
 ## Christopher Collins, Ontario Tech Institute
 <!--

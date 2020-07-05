@@ -16,6 +16,8 @@
 ### Week 3
 Course Options: Please note that you must select one from each session's 3 topics, and submit a quiz for only the topic you choose. __If you submit more than one course option only the first submitted will be marked.__
 
+As a general guide, a written answer worth __1 or 2 points__ should use no more than __1 or 2 bullet points__; one worth __3 points__ should not exceed __60 words__; and one worth __5 points__ should not exceed __100 words__. Ideally, use bullet points to provide more detail, rather than full sentences. 
+
 * DataVis Quiz Session 3-1
   1. [Basic Charts](https://bit.ly/sfcdv_quiz3-1a_alt_submission)
   1. [Multidimensional Data](https://bit.ly/sfcdv_quiz3-1b_alt_submission)

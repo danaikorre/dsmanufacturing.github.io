@@ -1,9 +1,10 @@
 # Course Guest Speakers
 
+Join us at [https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d](https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d) (no installation required).
 
 ## Interactive Tools for Visualizing Data: Perspectives from Research + Practice
 
-<img src="https://research.tableau.com/sites/default/files/matt-square.jpg" width="200" style="float:right; margin-left="30px">
+<img src="https://research.tableau.com/sites/default/files/matt-square.jpg" width="150" style="float:right; margin-left=30px;">
 
 **Matthew Brehmer, Tableau Research, Seattle, WA**
 
@@ -17,10 +18,12 @@
 
 
 ## Facilitating Well-Informed Data Science through Interactive Visual Analysis
-**Cagatay Turkay, University of York, UK**
+
+**Cagatay Turkay, University of York, UK** 
+
+<img src="https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay/cagatay.jpg" width="150" style="float:right; margin-left=30px;">
 
 **Tue, July 7th, 3:30pm**
-
 
 **Abstract:** In this talk, I will talk about how interactive visualisations that are coupled tightly with algorithms offer effective methods in conducting data science in rigorous and critical ways. Such methods not only enhance the insights drawn but also support better informed decisions made based on the outcomes. We will discuss how visualisation can facilitate such practices and will look at examples of research on how data can be transformed and visualised creatively in multiple perspectives, on how comparisons can be made within different models, parameters, and within local and global solutions, and on how interaction is an enabler for such processes.
 
@@ -32,8 +35,9 @@
 ## Title: Visualizing Text
 **Christopher Collins, Ontario Tech Institute, OT**
 
-**Thu, July 9th, time tdb***
+<img src="http://vialab.science.uoit.ca/wp-content/uploads/2016/11/Untitled.png" width="150" style="float:right; margin-left=30px;">
 
+**Thu, July 9th, time tdb***
 
 **Abstract:** 
 
@@ -51,4 +55,24 @@ I received my PhD in Computer Science from the University of Toronto in 2010. I 
 **Bio:** 
 -->
 **Web**: [http://slantedtheory.com](http://slantedtheory.com)
+
+## The impact of technology on infographics & data visualizations in news(-papers)
+**Isabel Meirelles, Ontario Center for Arts and Design**
+
+<img src="/images/meirelles.png" width="150" style="float:right; margin-left=30px;">
+
+**Wed, July 22, 2020. time tbd**
+
+[http://isabelmeirelles.com](http://isabelmeirelles.com/)
+
+
+## Data Changes Everything
+
+**Jagoda Walny, Canada Energy Regulator**
+
+<img src="/images/meirelles.png" width="150" style="float:right; margin-left=30px;">
+
+**Tue, July 298, 2020. time tbd**
+
+[http://research.jagoda.ca](http://research.jagoda.ca/)
 

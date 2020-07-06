@@ -120,9 +120,10 @@
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 4 &ndash; July 06</h4></th>
   </tr><tr style = "vertical-align:top;">
-  <td>4-1</td>
-    <td rowspan = "2" style = "vertical-align:top;">
-      <!-- a href="lectures.html#4-1" -->Advanced I: Applications<!-- /a --><br/>
+
+<td><a href="session-4-1">4-1</a></td>
+  <td rowspan = "2" style = "vertical-align:top;">
+      <a href="session-4-1#lecture">Storytelling</a><br/>
     </td><td>
       <!-- a href="tutorials.html#4-1" -->Programming Clinic &amp; Advanced topics<!-- /a -->
     </td><td>

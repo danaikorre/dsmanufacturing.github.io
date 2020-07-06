@@ -3,7 +3,7 @@
 
 ## Interactive Tools for Visualizing Data: Perspectives from Research + Practice
 
-<img src="https://research.tableau.com/sites/default/files/matt-square.jpg" width="200" style="float:right;">
+<img src="https://research.tableau.com/sites/default/files/matt-square.jpg" width="200" style="float:right; margin-left="30px">
 
 **Matthew Brehmer, Tableau Research, Seattle, WA**
 

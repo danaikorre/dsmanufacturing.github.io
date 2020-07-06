@@ -125,7 +125,7 @@
     <td>
       <a href="session-4-1#lecture">Storytelling</a>
     </td><td>
-      <!-- a href="tutorials.html#4-1" -->Programming Clinic &amp; Advanced topics<!-- /a -->
+      <!-- a href="tutorials.html#4-1" -->Implementation &ndash; project<!-- /a -->
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">
@@ -133,7 +133,7 @@
      <td>
       <a href="session-4-2#lecture">Data Physicalization & Personal Data Visualization</a>
     </td><td>
-      <!-- a href="tutorials.html#4-2" -->Implementation &ndash; project<!-- /a -->
+      <a href="session-4-2#d3-intro-tutorial" -->Programming Clinic</a>
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">

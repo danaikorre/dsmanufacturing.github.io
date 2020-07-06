@@ -122,15 +122,17 @@
   </tr><tr style = "vertical-align:top;">
 
 <td><a href="session-4-1">4-1</a></td>
-  <td rowspan = "2" style = "vertical-align:top;">
-      <a href="session-4-1#lecture">Storytelling</a><br/>
+    <td>
+      <a href="session-4-1#lecture">Storytelling</a>
     </td><td>
       <!-- a href="tutorials.html#4-1" -->Programming Clinic &amp; Advanced topics<!-- /a -->
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">
-    <td>4-2</td>
-    <td>
+    <td><a href="session-4-2">4-2</a></td>
+     <td>
+      <a href="session-4-2#lecture">Data Physicalization & Personal Data Visualization</a>
+    </td><td>
       <!-- a href="tutorials.html#4-2" -->Implementation &ndash; project<!-- /a -->
     </td><td>
     </td>

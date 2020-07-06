@@ -4,7 +4,7 @@ Join us at [https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d](http
 
 ## Interactive Tools for Visualizing Data: Perspectives from Research + Practice
 
-<img src="https://research.tableau.com/sites/default/files/matt-square.jpg" width="150" style="float:right; margin-left=30px;">
+<img src="https://research.tableau.com/sites/default/files/matt-square.jpg" width="150" style="float:right; margin-left:30px;">
 
 **Matthew Brehmer, Tableau Research, Seattle, WA**
 
@@ -21,7 +21,7 @@ Join us at [https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d](http
 
 **Cagatay Turkay, University of York, UK** 
 
-<img src="https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay/cagatay.jpg" width="150" style="float:right; margin-left=30px;">
+<img src="https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay/cagatay.jpg" width="150" style="float:right; margin-left:30px;">
 
 **Tue, July 7th, 3:30pm**
 
@@ -35,7 +35,7 @@ Join us at [https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d](http
 ## Title: Visualizing Text
 **Christopher Collins, Ontario Tech Institute, OT**
 
-<img src="http://vialab.science.uoit.ca/wp-content/uploads/2016/11/Untitled.png" width="150" style="float:right; margin-left=30px;">
+<img src="http://vialab.science.uoit.ca/wp-content/uploads/2016/11/Untitled.png" width="150" style="float:right; margin-left:30px;">
 
 **Thu, July 9th, time tdb***
 
@@ -59,7 +59,7 @@ I received my PhD in Computer Science from the University of Toronto in 2010. I 
 ## The impact of technology on infographics & data visualizations in news(-papers)
 **Isabel Meirelles, Ontario Center for Arts and Design**
 
-<img src="/images/meirelles.png" width="150" style="float:right; margin-left=30px;">
+<img src="/images/meirelles.png" width="150" style="float:right; margin-left:30px;">
 
 **Wed, July 22, 2020. time tbd**
 
@@ -70,7 +70,7 @@ I received my PhD in Computer Science from the University of Toronto in 2010. I 
 
 **Jagoda Walny, Canada Energy Regulator**
 
-<img src="https://pbs.twimg.com/profile_images/685298896503836672/BsTqggly.jpg" width="150" style="float:right; margin-left=30px;">
+<img src="https://pbs.twimg.com/profile_images/685298896503836672/BsTqggly.jpg" width="150" style="float:right; margin-left:30px;">
 
 **Tue, July 298, 2020. time tbd**
 

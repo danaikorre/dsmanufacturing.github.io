@@ -70,7 +70,7 @@ I received my PhD in Computer Science from the University of Toronto in 2010. I 
 
 **Jagoda Walny, Canada Energy Regulator**
 
-<img src="/images/meirelles.png" width="150" style="float:right; margin-left=30px;">
+<img src="https://pbs.twimg.com/profile_images/685298896503836672/BsTqggly.jpg" width="150" style="float:right; margin-left=30px;">
 
 **Tue, July 298, 2020. time tbd**
 

@@ -95,9 +95,9 @@
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 3 &ndash; June 29</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td colspan = "2"><b>Guest lecture:<br />Matthew Brehmer, Tableau Research</b></td>
+    <td colspan = "2"><b>Guest lecture &ndash; 17:30, 02 Jul:<br />Matthew Brehmer, Tableau Research</b></td>
     <td colspan = "2">
-      <a href="https://drive.google.com/file/d/1fXHljzLam_saVgDe2KrJbL02UC-9VP1w/view?usp=sharing">Interactive Tools for Visualizing Data: Perspectives from Research + Practice</a><br />
+      <a href="https://drive.google.com/file/d/1fXHljzLam_saVgDe2KrJbL02UC-9VP1w/view?usp=sharing"><b><i>Interactive Tools for Visualizing Data: Perspectives from Research + Practice</i></b></a><br />
      <b>Please note the opinions and viewpoints expressed in the video are the speaker’s own and not their employer's.</b>
     </td>
   </tr><tr style = "vertical-align:top;">
@@ -120,8 +120,17 @@
   </tr><tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 4 &ndash; July 06</h4></th>
   </tr><tr style = "vertical-align:top;">
-
-<td><a href="session-4-1">4-1</a></td>
+    <td colspan = "2"><b>Guest lecture &ndash; 15:30, 07 Jul:<br />Cagatay Turkay, University of Warwick</b></td>
+    <td colspan = "2">
+      <b><i>Facilitating Well-Informed Data Science through Interactive Visual Analysis</i></b>
+    </td>
+  </tr><tr style = "vertical-align:top;">
+    <td colspan = "2"><b>Guest lecture &ndash; 17:30, 09 Jul:<br />Christopher Collins, Ontario Tech Institute</b></td>
+    <td colspan = "2">
+      <b><i>Visualizing Text</i></b>
+    </td>
+  </tr><tr style = "vertical-align:top;">
+    <td><a href="session-4-1">4-1</a></td>
     <td>
       <a href="session-4-1#lecture">Storytelling</a>
     </td><td>

@@ -3,7 +3,7 @@ back to [course content](index)
 
 # Week 4, Session 2: Physical and Personal Visualization 
 
-[Lecture](#lecture) | [Quiz](#quiz) | [Tutorial](#project-implementation) 
+[Lecture](#lecture) | [Quiz](#quiz) | [Tutorial](#d3-intro-tutorial) 
 
 Lecture topics: 
 
@@ -29,9 +29,8 @@ Lecture topics:
 
 # Quiz
 
-<a name = "project-implementation"></a>
-
-# Tutorial
+<a name = "d3-intro-tutorial"></a>
+# Tutorial: Introduction to D3
 
 <p>&nbsp;</p>
 

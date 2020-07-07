@@ -32,8 +32,8 @@ Lecture topics:
 
 ## Personal Data Visualiztion 
 * [Lecture Slides: 4.2-DataPhysicalization.pdf](files/4.2-PersonalVisualization.pdf)  
-* [Lecture video: Personal Visulization-1 (15:13min)](https://drive.google.com/file/d/18CuIp4oHbNBMG1-8qTKVpGGfQm3_t2yM/view?usp=sharing)
-* [Lecture video: Personal Visulization-2 (6:51min)](https://drive.google.com/file/d/18CuIp4oHbNBMG1-8qTKVpGGfQm3_t2yM/view?usp=sharing)
+* [Lecture video: Personal Visulization-1 (15:13min)](https://drive.google.com/file/d/1U3efOa-18fyLU4SZtZ7LOScigamts4Pe/view?usp=sharing)
+* [Lecture video: Personal Visulization-2 (6:51min)](https://drive.google.com/file/d/1RZN2qtGxz2K26QpahAgvZolUSQhN2NMC/view?usp=sharing)
 * [Lecture video: Personal Visulization-3 (10:00min)](https://drive.google.com/file/d/18CuIp4oHbNBMG1-8qTKVpGGfQm3_t2yM/view?usp=sharing)
 * [Lecture video: Personal Visulization-4 (10:47min)](https://drive.google.com/file/d/1H4nYKWuqH2K4gr_MBvqQor4uPI8_d1AJ/view?usp=sharing)
 

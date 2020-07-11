@@ -142,7 +142,7 @@
      <td>
       <a href="session-4-2#lecture">Data Physicalization & Personal Data Visualization</a>
     </td><td>
-      <a href="session-4-2#d3-intro-tutorial" -->Programming Clinic</a>
+      <!-- a href="session-4-2#d3-intro-tutorial" -->Programming Clinic<!-- /a -->
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">

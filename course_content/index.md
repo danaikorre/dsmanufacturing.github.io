@@ -146,6 +146,11 @@
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">
+    <td colspan = "2"><b>Guest lecture &ndash; 11:00, 15 Jul:<br />Laura Smith, Slanted Theory</b></td>
+    <td colspan = "2">
+      <b><i>Future Data Visualisation Concepts</i></b>
+    </td>
+  </tr><tr style = "vertical-align:top;">
   <th colspan = "4"><h4>Week 5 &ndash; July 13</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td>5-1</td>

@@ -142,7 +142,7 @@
      <td>
       <a href="session-4-2#lecture">Data Physicalization & Personal Data Visualization</a>
     </td><td>
-      <!-- a href="session-4-2#d3-intro-tutorial" -->Programming Clinic<!-- /a -->
+      <!-- a href="session-4-2#d3-intro-tutorial" -->Programming clinic<!-- /a -->
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">
@@ -163,7 +163,7 @@
   </tr><tr style = "vertical-align:top;">
     <td>5-2</td>
     <td>
-      <!-- a href="tutorials.html#5-2" -->Uability evaluation<!-- /a -->
+      <!-- a href="session-5-2#usability-evaluation" -->Usability evaluation<!-- /a -->
     </td><td>
     </td>
   </tr>

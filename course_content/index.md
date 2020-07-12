@@ -165,7 +165,7 @@
     <td>
       <!-- a href="session-5-2#usability-evaluation" -->Usability evaluation<!-- /a -->
     </td>
-    <td>Evaluation plan &ndash; project</td>
+    <td>Project evaluation plan</td>
   </tr>
 </table>
 

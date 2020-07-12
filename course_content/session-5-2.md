@@ -34,7 +34,7 @@ Lecture topics:
         - your brief and design
             - what is your "___big question___"? Has it changed over the last few weeks?
             - same for your target users, tasks and overall context of use &ndash; any updates and impact on your initial design?
-        - define 3-5 heuristics you would like to be used to evaluate your project (you may want to work from recommended [evaluation heuristics]())
+        - define 3-5 heuristics you would like to be used to evaluate your project (you may want to work from the recommended evaluation heuristics in the lecture material)
             - centre each in a user task or scenario
             - critically evaluate your project &ndash; definition, design and implementation - based on your own and more general guidelines
 

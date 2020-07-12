@@ -28,6 +28,13 @@ As a general guide, a written answer worth __1 or 2 points__ should use no more 
   1. [Trees &amp; Hierarchies](https://bit.ly/sfcdv_quiz3-2b_alt_submission)
   1. [Time](https://bit.ly/sfcdv_quiz3-2c_alt_submission)
 
+<!-- 
+### Week 4
+
+* [DataVis Quiz Session 4-1](https://bit.ly/sfcdv_quiz4-1_alt_submission)
+* [DataVis Quiz Session 4-2](https://bit.ly/sfcdv_quiz4-2_alt_submission)
+-->
+
 <p>&nbsp;</p>
 
 ***

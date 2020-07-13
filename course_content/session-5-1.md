@@ -3,7 +3,7 @@ back to [course content](index)
 
 # Week 5, Session 1: Evaluation
 
-[Lecture](#lecture) | [Tutorial](#usability-evaluation) 
+[Lecture](#lecture) | [Tutorial](#project-implementation) 
 
 Lecture topics: 
 
@@ -34,5 +34,13 @@ Lecture topics:
 * Kang, Youn-ah, and John Stasko. "Examining the use of a visual analytics system for sensemaking tasks: Case studies with domain experts." IEEE Transactions on Visualization and Computer Graphics 18.12 (2012): 2869-2878
 
 <p>&nbsp;</p>
+
+<a name = "project-implementation"></a>
+# Tutorial: Quizzes &amp; Projects
+
+* Discussion &amp; review of quiz questions (60 min)
+* Open session &ndash; project implementation (60 min)
+    * course tutors and TAs will be on hand to support you with project implementation.
+
 
 back to [course content](index)

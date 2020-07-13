@@ -62,7 +62,9 @@ back to main [schedule](index.md)
 <a name = "guidelines_final_project"></a>
 ### Final Project
 
-Guidelines for completing final projects will be provided from week 3 of the course. The final submission will include findings and lessons learnt from exercises completed as the course progresses.
+The final submission will include findings and lessons learnt from exercises completed as the course progresses.  
+* [Requirements &amp; guidelines for project report](final_project_report.md)  
+* [Submission link on Learn](https://bit.ly/final_project_submission) &ndash; __will be available from 12:00 on Jul 22nd__
 
 **Your project must be submitted by 23:59 on Jul 24th.**
 <p>&nbsp;</p>
@@ -154,7 +156,7 @@ back to main [schedule](index.md)
         <li>Reflect on what you learnt from what didn't work; consider your initial ideas, designs and prototypes, and evolution of your project as the course progressed.</li> 
       </ol>
     <br/>
-      Submit your final project description, with a copy of or link to a working prototype, to <a href="https://bit.ly/final_project_submission">Learn</a>.
+      Submit your final project description, with a copy of or link to a working prototype, to <a href="https://bit.ly/final_project_submission">Learn</a> (link available from 12:00 on Jul 22nd).
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2"> </td>
@@ -169,7 +171,7 @@ back to main [schedule](index.md)
     <td colspan = "2">
      Complete the exercise in <!-- a href="tutorials.html#5-2" -->tutorial 5-2<!-- /a -->.  Summarise your plan on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="tutorials_week_5.html#guidelines_evaluation_plan">guidelines & best practice for creating an evaluation plan</a>. Include as an appendix any additional documents, e.g., task lists, questionnaires and scenario descriptions.
      <br/><br/>
-     Attach a copy of your evaluation proposal to your final project and submit to <a href="https://bit.ly/final_project_submission">Learn</a>.
+     Attach a copy of your evaluation proposal to your final project and submit to <a href="https://bit.ly/final_project_submission">Learn</a> (link available from 12:00 on Jul 22nd).
     </td>
   </tr>
 </table>

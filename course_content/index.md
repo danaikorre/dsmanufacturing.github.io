@@ -153,9 +153,9 @@
       <b><i>Future Data Visualisation Concepts</i></b>
     </td>
   </tr><tr style = "vertical-align:top;">
-    <td>5-1</td>
+   <td><a href="session-5-1">5-1</a></td>
     <td rowspan = "2" style = "vertical-align:top;">
-      <!-- a href="lectures.html#5-1" -->Advanced II: Options<!-- /a --><br/>
+      <a href="session-5-1#lecture">Evaluation</a>
     </td><td>
       <!-- a href="tutorials.html#5-1" -->Implementation &ndash; project<!-- /a -->
     </td><td>

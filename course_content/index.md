@@ -157,7 +157,7 @@
     <td>
       <a href="session-5-1#lecture">Evaluation</a>
     </td><td>
-      <!-- a href="tutorials.html#5-1" -->Implementation &ndash; project<!-- /a -->
+      <a href="session-5-1#project-implementation">Quiz review & projects</a>
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">

@@ -2,7 +2,7 @@
 
 Your project report is a reflection on the visualisation process, and how you employed your project as a learning tool, to increase your visual literacy and acquire new, practical visualisation skills. 
 
-In the final submission, please include the following items 1-4 as appendices to your report.
+In the final submission, please include the following items (1-4) as appendices to your report.
 
 <a name = "appendices"></a>
 

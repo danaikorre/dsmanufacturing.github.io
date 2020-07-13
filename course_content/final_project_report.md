@@ -13,7 +13,7 @@ In the final submission, please include the following items 1-4 as appendices to
     
     __NOTE__ do NOT submit your project as a collection of files, collate any such into a single file or site as above
 
-2. __Snapshots &ndash; Overview + Detail__
+1. __Snapshots &ndash; Overview + Detail__
     * 3-5 annotated snapshots showing key elements (each must fit on one side of A4)
     * 1st snapshot must show the overview or start page of your visualisation
     * the remaining snapshots (up to 4) should show one of:
@@ -22,7 +22,7 @@ In the final submission, please include the following items 1-4 as appendices to
 
     * you may, especially if you have an interactive or a relatively complex solution, record a video (up to 90s) giving an overview of your solution.
 
-3. __Data__ 
+1. __Data__ 
     * description of your data and source/owner
         * metadata or other simple description of data content and structure (e.g., "_csv file containing 100 lines with 5 columns describing age, height ..., linked to secondary source ..._")
     * summary of the data exploration and pre-processing phase
@@ -31,9 +31,10 @@ In the final submission, please include the following items 1-4 as appendices to
             * NOTE: mask/anonymise snapshot if necessary
         * list tool(s) used, using the tool matrix
 
-4. __Journal__
+1. __Journal__
     * documenting the process you followed
     * you decide how to present this, but it should show, e.g., "...initial brief delivered, update to brief based on EDA, change in dataset due to X..."
+    * more detail if needed on your plan for future work
     
 <p>&nbsp;</p>
 <a name = "report_"></a>
@@ -55,7 +56,8 @@ In the final submission, please include the following items 1-4 as appendices to
      * EDA and its impact on your plan
     * impact of tool exploration and review, critical analysis, peer feedback and formal evaluation plan on original brief and initial design  
     * overall, reflect on the new skills you gained (techniques, tools, process) and how these fed into your delivery; you may present this as a comparison of your initial learning goals against the skills you actually gained
-    * future plan, indicating extensibility and reusability, and taking into account practical constraints
+    * summary of future plan, indicating extensibility and reusability, and taking into account practical constraints
+         * if needed provide further detail as part of journal (4th appendix)
 
     * __Acknowledge all people, organisations (e.g., data owners, end users) and data sources that fed into your work__
 

@@ -163,6 +163,8 @@
   </tr><tr style = "vertical-align:top;">
     <td>5-2</td>
     <td>
+      <!-- a href="session-5-2#lecture">Topic</a -->
+    </td><td>
       <!-- a href="session-5-2#usability-evaluation" -->Usability evaluation<!-- /a -->
     </td>
     <td>Project evaluation plan</td>

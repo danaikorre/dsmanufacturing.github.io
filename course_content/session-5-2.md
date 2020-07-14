@@ -13,7 +13,7 @@ Lecture topics:
 
 # Lecture
 
-## Interaction
+_available soon_
 
 <!-- 
 * [Lecture Slides: 5.2-](files/)  

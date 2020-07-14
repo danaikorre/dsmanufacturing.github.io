@@ -1,7 +1,7 @@
 back to [course content](index)
 
 
-# Week 5, Session 2: Session Title
+# Week 5, Session 2: Interaction
 
 [Lecture](#lecture) | [Tutorial](#usability-evaluation) 
 
@@ -11,11 +11,12 @@ Lecture topics:
 
 # Lecture
 
-## Topic
+## Interaction
 
+<!-- 
 * [Lecture Slides: 5.2-](files/)  
 * [Lecture video:  ( min)]()
-
+-->
 
 
 <!-- # Quiz -->

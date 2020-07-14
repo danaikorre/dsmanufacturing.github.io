@@ -3,7 +3,7 @@ back to [course content](index)
 
 # Week 3, Session 2: Visualization Techniques II
 
-[Lecture](#lecture) | [Quiz](#quiz) | [Tutorial](#tutorial-critical-analysis) | [Assignment](#assignment)
+[Lecture](#lecture) | [Quizzes](#quizzes) | [Tutorial](#tutorial-critical-analysis) | [Assignment](#assignment)
 
 <!-- [Reading](#reading) | --> 
 
@@ -58,9 +58,14 @@ __Suggested Reading on Temporal Data:__
 * Bach, Benjamin, et al. “A descriptive framework for temporal data visualizations based on generalized space‐time cubes.” Computer Graphics Forum. Vol. 36. No. 6. 2017.
 * Rosenberg, Daniel, and Anthony Grafton. Cartographies of time: A history of the timeline. Princeton Architectural Press, 2013.
 * Brehmer, Matthew, et al. “Timelines revisited: A design space and considerations for expressive storytelling.” IEEE transactions on visualization and computer graphics 23.9 (2016): 2151-2164.
+<p>&ndash;</p>
 
+# Quizzes
 
-# Quiz
+  1. [Graphs &amp; Networks](https://bit.ly/sfcdv_quiz_3-2a)
+  1. [Trees &amp; Hierarchies](https://bit.ly/sfcdv_quiz_3-2b)
+  1. [Time](https://bit.ly/sfcdv_quiz_3-2c)
+<p>&ndash;</p>
 
 
 <a name = "tutorial-critical-analysis"></a>

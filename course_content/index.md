@@ -163,7 +163,7 @@
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-5-2">5-2</a></td>
    <td>
-      <a href="session-5-2#lecture">Interaction</a>
+      <!-- a href="session-5-2#lecture"  -->Interaction<!-- /a --> 
     </td><td>
       <a href="session-5-2#usability-evaluation">Usability evaluation</a>
     </td>

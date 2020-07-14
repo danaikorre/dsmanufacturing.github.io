@@ -13,14 +13,11 @@ Lecture topics:
 
 # Lecture
 
-_available soon_
-
-
 * [Lecture Slides: 5.2-Interaction.pdf](files/5.2-Interaction.pdf)  
 * [Lecture video: Interaction-1 Interaction for Visualization (6:55 min)](https://drive.google.com/file/d/1FPK9LeO_Y0E0ylSTTOT4fi7_G6pWEsud/view?usp=sharing)
 * [Lecture video: Interaction-2 Interaction Techniques (23:07min)](https://drive.google.com/file/d/1SLxhCUJdEuw7SF_CgB_NrQYvhaN6i-Db/view?usp=sharing)
 * [Lecture video: Interaction-1 Guidelines for Interaction (3:50min)](https://drive.google.com/file/d/1tDdN8wBcESFvAB4sYHQMkGrASXnsRBHq/view?usp=sharing)
-
+<p>&nbsp;</p>
 <!-- # Quiz -->
 
 <a name = "usability-evaluation"></a>

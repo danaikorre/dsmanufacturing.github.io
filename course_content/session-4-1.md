@@ -52,6 +52,9 @@ Lecture topics:
 
 # Quiz
 
+[Quiz](https://bit.ly/sfcdv_quiz_4-1) &ndash; (requires login to Learn) 
+<p>&nbsp;</p>
+
 <a name = "project-implementation"></a>
 # Tutorial: Project Implementation
 

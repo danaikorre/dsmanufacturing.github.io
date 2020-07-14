@@ -3,7 +3,7 @@ back to [course content](index)
 
 # Week 3, Session 1: Visualization Techniques I
 
-[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-eda-project-data) | [Assignment](#assignment)
+[Lecture](#lecture) | [Reading](#reading) | [Quizzes](#quizzes) | [Tutorial](#tutorial-eda-project-data) | [Assignment](#assignment)
 
 This session is split into a brief introductory lecture:
 
@@ -85,8 +85,15 @@ __Suggested Reading on Geographical Data:__
 * Stephen Few (2009). [Sometimes We Must Raise Our Voices](http://www.perceptualedge.com/articles/visual_business_intelligence/sometimes_we_must_raise_our_voices.pdf), Perceptual Edge Visual Business Intelligence Newsletter
 
 <!-- ### Further reading -->
+<p>&ndash;</p>
 
-# Quiz
+# Quizzes
+
+  1. [Basic Charts](https://bit.ly/sfcdv_quiz_3-1a)
+  1. [Multidimensional Data](https://bit.ly/sfcdv_quiz_3-1b)
+  1. [Geographical Data](https://bit.ly/sfcdv_quiz_3-1c)
+<p>&ndash;</p>
+
 
 <a name = "tutorial-eda-project-data"></a>
 # Tutorial: EDA &ndash; Project Data

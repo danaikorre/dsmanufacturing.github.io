@@ -48,7 +48,7 @@ Lecture topics:
 * Moritz Stefaber: http://truth-and-beauty.net/
 * Nadieh Bremer: https://www.visualcinnamon.com/
 * Geogia Lupi: http://giorgialupi.com/
-
+<p>&nbsp;</p>
 
 # Quiz
 

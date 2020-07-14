@@ -46,9 +46,13 @@ Lecture topics:
 * Giorgia Lupi. Data Humanism.
 [http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold)
 * Thudt et al. Visual Mementos: Reflecting Memories with Personal Data. TVCG 2015. [https://innovis.cpsc.ucalgary.ca/innovis/uploads/Publications/Publications/Visual%20Mementos-CameraReady.pdf](https://innovis.cpsc.ucalgary.ca/innovis/uploads/Publications/Publications/Visual%20Mementos-CameraReady.pdf)
-
+<p>&nbsp;</p>
 
 # Quiz
+
+[Quiz](https://bit.ly/sfcdv_quiz_4-2) &ndash; (requires login to Learn) 
+<p>&nbsp;</p>
+
 
 <a name = "d3-intro-tutorial"></a>
 # Tutorial: Introduction to D3

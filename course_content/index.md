@@ -154,18 +154,18 @@
     </td>
   </tr><tr style = "vertical-align:top;">
    <td><a href="session-5-1">5-1</a></td>
-    <td>
+   <td>
       <a href="session-5-1#lecture">Evaluation</a>
     </td><td>
       <a href="session-5-1#project-implementation">Quiz review & projects</a>
     </td><td>
     </td>
   </tr><tr style = "vertical-align:top;">
-    <td>5-2</td>
-    <td>
-      <!-- a href="session-5-2#lecture">Topic</a -->
+    <td><a href="session-5-2">5-2</a></td>
+   <td>
+      <a href="session-5-2#lecture">Interaction</a>
     </td><td>
-      <!-- a href="session-5-2#usability-evaluation" -->Usability evaluation<!-- /a -->
+      <a href="session-5-2#usability-evaluation">Usability evaluation</a>
     </td>
     <td>Project evaluation plan</td>
   </tr>

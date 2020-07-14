@@ -85,14 +85,14 @@ __Suggested Reading on Geographical Data:__
 * Stephen Few (2009). [Sometimes We Must Raise Our Voices](http://www.perceptualedge.com/articles/visual_business_intelligence/sometimes_we_must_raise_our_voices.pdf), Perceptual Edge Visual Business Intelligence Newsletter
 
 <!-- ### Further reading -->
-<p>&ndash;</p>
+<p>&nbsp;</p>
 
 # Quizzes
 
   1. [Basic Charts](https://bit.ly/sfcdv_quiz_3-1a)
   1. [Multidimensional Data](https://bit.ly/sfcdv_quiz_3-1b)
   1. [Geographical Data](https://bit.ly/sfcdv_quiz_3-1c)
-<p>&ndash;</p>
+<p>&nbsp;</p>
 
 
 <a name = "tutorial-eda-project-data"></a>

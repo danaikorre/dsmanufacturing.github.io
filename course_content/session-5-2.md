@@ -5,9 +5,11 @@ back to [course content](index)
 
 [Lecture](#lecture) | [Tutorial](#usability-evaluation) 
 
+<!-- 
 Lecture topics: 
 
 * 
+-->
 
 # Lecture
 

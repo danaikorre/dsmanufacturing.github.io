@@ -129,7 +129,7 @@ __NOTE:__ In the actual evaluation __remind users they are evaluating the tool, 
 1. [Art meets science: IBM's Data visualization guidelines](https://www.ibm.com/design/v1/language/experience/data-visualization)
 1. [SUS questionnaire](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
 
-* Brooke, J. (2013). ]SUS: a retrospective](https://dl.acm.org/doi/abs/10.5555/2817912.2817913), Journal of Usability Studies 8(2), 29–40.
+* Brooke, J. (2013). [SUS: a retrospective](https://dl.acm.org/doi/abs/10.5555/2817912.2817913), Journal of Usability Studies 8(2), 29–40.
 * Brooke, J. (1996). SUS: A "quick and dirty" usability scale. In P. W. Jordan, B. Thomas, B. A. Weerdmeester, & A. L. McClelland (Eds.), Usability Evaluation in Industry. London: Taylor and Francis.
 
 <p>&nbsp;</p>

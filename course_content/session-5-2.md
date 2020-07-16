@@ -24,9 +24,9 @@ Lecture topics:
 # Tutorial: Usability Evaluation
 1. Discussion 1 (10 min)
     * ___Whole class &ndash; reflection___
-        - review project definition and design guidelines [link]
+        - review project definition and [design guidelines](tutorials.html#guidelines_defining_project_brief)
         - review feedback (given and received) during 'Critical Analysis' tutorial
-        - review of evaluation heuristics [link to lecture]
+        - review of evaluation heuristics 
 
 1. Activity 1 (15 min)
     * ___On your own___ (even if working on a group project)

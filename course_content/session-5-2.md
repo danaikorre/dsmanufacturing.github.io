@@ -36,7 +36,7 @@ Lecture topics:
             - same for your target users, tasks and overall context of use &ndash; any updates and impact on your initial design?
         - define 3-5 heuristics you would like to be used to evaluate your project (you may want to work from the recommended evaluation heuristics in the lecture material)
             - centre each in a user task or scenario
-            - critically evaluate your project &ndash; definition, design and implementation - based on your own and more general guidelines
+            - critically evaluate your project &ndash; definition, design and implementation &ndash; based on your own and more general guidelines
 
 1. Discussion & Reflection 2 (55 min)
     * __Within your group__ (15min * 2)
@@ -75,7 +75,7 @@ __General guidelines &amp; best practice for creating an evaluation plan__
     * the context of use of your visualisation, including
         - data that will be used normally and the sub-set in your evaluation
         - environment in which visualisation will be used, e.g., device, physical environment, technology and other tools used in tandem
-        - what other information or knowledge end user need to make use of the visualisation
+        - what other information or knowledge the end user needs to make use of the visualisation
     * How do these together answer your big question?
     * Are you testing a hypothesis(es)?
 
@@ -93,7 +93,7 @@ __General guidelines &amp; best practice for creating an evaluation plan__
     - in-situ or in-the-wild studies
 * What data are you collecting?
     - qualitative (subjective), based on
-        - typically involve some form of think-aloud
+        - (typically involve) some form of think-aloud
         - observation (recorded using notes)
         - recordings of users (audio and/or video)
     - quantitative (objective) &ndash; typically data on performance
@@ -127,7 +127,10 @@ __NOTE:__ In the actual evaluation __remind users they are evaluating the tool, 
 1. Nielsen, J. (2014) Guerrilla HCI[Using Discount Usability Engineering to Penetrate the Intimidation Barrier](https://www.nngroup.com/articles/guerrilla-hci)
 1. [interaction-design.org: How to Conduct a Heuristic Evaluation for Usability in HCI and Information Visualization](https://www.interaction-design.org/literature/article/how-to-conduct-a-heuristic-evaluation-for-usability-in-hci-and-information-visualization)
 1. [Art meets science: IBM's Data visualization guidelines](https://www.ibm.com/design/v1/language/experience/data-visualization)
+1. [SUS questionnaire](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
 
+* Brooke, J. (2013). ]SUS: a retrospective](https://dl.acm.org/doi/abs/10.5555/2817912.2817913), Journal of Usability Studies 8(2), 29–40.
+* Brooke, J. (1996). SUS: A "quick and dirty" usability scale. In P. W. Jordan, B. Thomas, B. A. Weerdmeester, & A. L. McClelland (Eds.), Usability Evaluation in Industry. London: Taylor and Francis.
 
 <p>&nbsp;</p>
 

@@ -67,6 +67,7 @@ Lecture topics:
   __Note:__ the guidelines below specify components of a usability evaluation; use these as a framework for building your plan
   <p>&nbsp;</p>
   
+<a name = "guidelines_evaluation_plan"></a>
 __General guidelines &amp; best practice for creating an evaluation plan__
 
 * Write a brief a scenario of use that includes:

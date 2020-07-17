@@ -126,7 +126,7 @@ __NOTE:__ In the actual evaluation __remind users they are evaluating the tool, 
 
 1. [Jakob Nielsen's 10 general principles for interaction design](https://www.nngroup.com/articles/ten-usability-heuristics)
 1. Nielsen, J. (2014) [Guerrilla HCI: Using Discount Usability Engineering to Penetrate the Intimidation Barrier](https://www.nngroup.com/articles/guerrilla-hci)
-1. [interaction-design.org: How to Conduct a Heuristic Evaluation for Usability in HCI and Information Visualization](https://www.interaction-design.org/literature/article/how-to-conduct-a-heuristic-evaluation-for-usability-in-hci-and-information-visualization)
+1. interaction-design.org: [How to Conduct a Heuristic Evaluation for Usability in HCI and Information Visualization](https://www.interaction-design.org/literature/article/how-to-conduct-a-heuristic-evaluation-for-usability-in-hci-and-information-visualization)
 1. [Art meets science: IBM's Data visualization guidelines](https://www.ibm.com/design/v1/language/experience/data-visualization)
 1. [SUS questionnaire](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
 

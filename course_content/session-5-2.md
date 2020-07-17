@@ -93,9 +93,10 @@ __General guidelines &amp; best practice for creating an evaluation plan__
     - in-situ or in-the-wild studies
 * What data are you collecting?
     - qualitative (subjective), based on
-        - (typically involve) some form of think-aloud
+        - some form of think-aloud
         - observation (recorded using notes)
         - recordings of users (audio and/or video)
+        - among others, data collected from semi-structured interviews, focus groups, diaries
     - quantitative (objective) &ndash; typically data on performance
         - time to complete tasks
         - results from tasks performed

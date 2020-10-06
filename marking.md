@@ -36,6 +36,9 @@ Your final course mark will be one out of:
 * pass
 * fail
 
-Your final mark is calculatd as follows
-* if someone did not pass or did not submitted the final project, the course is a fail. 
-*  if someone passed the final project but did not submit all of the quizzes and reflections we can award a pass.  
+Your final mark is calculated as follows
+
+* if someone did not pass or did not submit the final project, the overall course mark is a *fail*.
+* if someone passed the final project but did not submit all of the quizzes and reflections you may still be awarded a pass, depending on the quality of all course work and the percentage overall submitted.
+
+All project submissions will receive individual feedback.

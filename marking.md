@@ -33,9 +33,9 @@ The final course mark comes from these three assignments:
 * final project
 
 Your final course mark will be one out of: 
-- pass
-- fail
+* pass
+* fail
 
 Your final mark is calculatd as follows
-	- if someone did not pass or did not submitted the final project, the course is a fail. 
-  - if someone passed the final project but did not submit all of the quizzes and reflections we can award a pass.  
+* if someone did not pass or did not submitted the final project, the course is a fail. 
+*  if someone passed the final project but did not submit all of the quizzes and reflections we can award a pass.  

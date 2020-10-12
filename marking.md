@@ -33,8 +33,8 @@ The final course mark comes from these three assignments:
 * final project
 
 Your final course mark will be one out of: 
-* pass
-* fail
+* pass (marked as '0' in Learn)
+* fail (marked as '-1' in Learn)
 
 Your final mark is calculated as follows
 

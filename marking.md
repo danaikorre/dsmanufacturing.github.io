@@ -1,3 +1,9 @@
+## Where to find my marks?
+
+You find all your marks in Learn under 'My Grades' on the side bar. The screen should like like below. 
+
+![images/mygrades.png]
+
 ## Marking interpretation 
 
 This page contains information on interpreting the marks in Learn. The final project will come with detailed feedback.

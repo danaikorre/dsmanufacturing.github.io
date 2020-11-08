@@ -2,7 +2,7 @@
 
 You find all your marks in Learn under 'My Grades' on the side bar. The screen should like like below. 
 
-![images/mygrades.png]
+![](images/mygrades.png)
 
 ## Marking interpretation 
 

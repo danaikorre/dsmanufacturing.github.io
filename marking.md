@@ -14,9 +14,9 @@ Each final projct comes with one three "rubrics":
   * Pass, 
   * Upper Pass, 
   * Merit
-1. **Final Report Rubric:** one mark for each of the following aspects of the report: 
+1. **Final Report Rubric:** one mark for each of the following aspects of the report (to see descriptions of each component of the rubric click on "Complete" at the top of the feedback section in Learn): 
   * critical reflection
-  * ananlyziz and meaning making
+  * analysis and meaning making
   * presentation
   * creativity
   * organization

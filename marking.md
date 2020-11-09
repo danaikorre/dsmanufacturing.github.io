@@ -45,4 +45,4 @@ Your final mark is calculated as follows
 * if someone did not pass or did not submit the final project, the overall course mark is a *fail*.
 * if someone passed the final project but did not submit all of the quizzes and reflections you may still be awarded a pass, depending on the quality of all course work and the percentage overall submitted.
 
-All project submissions will receive individual feedback.
+All project submissions receive individual feedback.

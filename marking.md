@@ -20,7 +20,7 @@ Each final projct comes with one three "rubrics":
   * presentation
   * creativity
   * organization
-1. **Appendicess (Project):** One mark for each part of the final project in the appendices: 
+1. **Appendices (Project):** One mark for each part of the final project in the appendices: 
   * Implementtion, 
   * Snapshopts, 
   * Sketches, 

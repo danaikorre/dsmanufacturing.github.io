@@ -51,7 +51,7 @@ Prior to its start, we will work with participants to shape the course to best a
 * The course does not award grades, but is assessed as PASS/FAIL. You will however receive one-on-one and detailed written feedback on your project.
 
 ## Entry Requirements
-* A UK 2:1 honours degree, or its international equivalent. If you __do not__ meet the minimum academic requirement, you may still be considered if you have relevant work experience, preferably with one or more of:
+* A UK 2:1 honours degree, or its international equivalent. If you do not meet the minimum academic requirement, you may still be considered if you have relevant work experience, preferably with one or more of:
 
   * basic knowledge of programming in, e.g., Python, R or JavaScript,
   * experience using Adobe Illustrator or equivalent,
@@ -73,7 +73,7 @@ Please confirm that you meet all requirements as early as possible &ndash; detai
 
 ## Funding the Course
 
-The *Scottish Funding Council (SFC) Upskilling Fund* is providing a fixed number of fee waivers for participants **resident in Scotland or  for at least three years**. You may also qualify for funding under the new [*National Transition Training Fund*](https://www.myworldofwork.co.uk/national-transition-training-fund).  
+The *Scottish Funding Council (SFC) Upskilling Fund* is providing a fixed number of fee waivers for participants **resident in Scotland or for at least three years**. You may also qualify for funding under the new [*National Transition Training Fund*](https://www.myworldofwork.co.uk/national-transition-training-fund).  
 Please see [eligibility requirements for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), or contact [bayes-training@ed.ac.uk](mailto:bayes-training@ed.ac.uk) for more detail.
 
 While participants who obtain fee waivers will be prioritised in allocating places, we do have availability for fee-paying students, both within and outwith Scotland. 

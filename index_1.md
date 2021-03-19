@@ -74,19 +74,18 @@ Because this is a university-accredited course you **must** meet the university'
 Please confirm that you meet all requirements as early as possible &ndash; detail at [language requirements](http://www.edin.ac/pgdf-english); current restrictions due to COVID have increased delay registering for and taking any tests necessary.
 
 
-## Finance and Funding
-
-The course fee for __is £950__. While those who obtain fee waivers will be prioritised in allocating places, we do have availability for fee-paying participants, both within and outwith Scotland. 
-
+## Fess and Funding
 
 The *Scottish Funding Council (SFC) Upskilling Fund* is providing a __fixed number of fee waivers__ for participants who meet at least one of the following criteria:
-* __living in Scotland for the last three years for reasons other than education__ or the rest of the EU (except England, Wales and Northern Ireland) 
+* __living in Scotland for the last three years for reasons other than education__ <!-- or the rest of the EU (except England, Wales and Northern Ireland) -->
 * __living in the rest of the UK and working for a Scottish employer__ (an employer which is based in or has a significant presence in Scotland).
 
 You may also qualify for funding under the new [*National Transition Training Fund*](https://www.myworldofwork.co.uk/national-transition-training-fund).  
 
 Please see [eligibility requirements for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), or contact [bayes-training@ed.ac.uk](mailto:bayes-training@ed.ac.uk) for more detail.
 
+
+The __course fee is £950__. While those who obtain fee waivers will be prioritised in allocating places, we do have availability for fee-paying participants, both within and outwith Scotland. 
 
 
 

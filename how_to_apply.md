@@ -22,8 +22,8 @@ As part of our course design we are [collecting information](https://forms.gle/4
 <a name = "funding_applications"></a>
 ## Eligibility for funding
 
-The Scottish Funding Council (SFC) is providing a number of fee waivers; people normally resident in Scotland or the rest of the EU (for at least 3 years) may qualify for funding &ndash; more detail on eligibility is available and [access to an assessment form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding).
-Waivers are granted on a first-come. While the funding cap has not yet been reached, we suggest you apply for assessment as soon as you decide to take the course. 
+The Scottish Funding Council (SFC) is providing a number of fee waivers; people normally resident in Scotland <!--or the rest of the EU--> (for at least 3 years) may qualify for funding &ndash; more detail on eligibility is available and [access to an assessment form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding). You may also qualify for funding under the new [National Transition Training Fund](https://www.myworldofwork.co.uk/national-transition-training-fund).
+Waivers are granted on a first-come, first-served basis. While the funding cap has not yet been reached, we suggest you apply for assessment as soon as you decide to take the course. 
 
 Applications are currently being processed; if you meet the basic requirements and have not yet received a response for an application for assessment you should receive one in due course. You may complete a course application in the meantime &ndash; please note this in the funding section and the applications will be linked. 
 <p>&nbsp;</p>
@@ -37,11 +37,12 @@ A single [form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce
 Guidelines follow on how to fill in the University's application form. 
 
 ### Starting data
-Please select start date *1 June* to open the application form. Applications will be processed on a rolling basis. We recommend applying as early as poosible and _at least a week in advance of the course start_ (**15 June**).
+Please select start date *1 May* to open the application form. Applications will be processed on a rolling basis. We recommend applying as early as poosible and _at least two weeks in advance of the course start_ (**5 May**).
 
 
 ### Sections 1&ndash;3 
 cover basic personal details &ndash; the form will indicate fields that are required. 
+
 
 ### Section 4&ndash; Programme 
 

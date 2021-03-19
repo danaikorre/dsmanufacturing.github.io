@@ -19,8 +19,7 @@ As indicated on the Bayes Centre [programme website](https://www.ed.ac.uk/bayes/
 * you live in Scotland or the rest of the EU (excluding England, Wales and Northern Ireland) for the last three years for reasons other than education
 * you live in the rest of the UK and work for a Scottish employer (an employer which is based in or has a significant presence in Scotland)
 
-To apply for a fee waiver, [apply here](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/funding/eligibility-for-funding).
-assigned to it. Otherwise please e-mail [Bayes](mailto:bayes-training@ed.ac.uk) to clarify this.
+To apply for a fee waiver complete the [eligibility form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/funding/eligibility-for-funding). Alternatively, please e-mail [Bayes](mailto:bayes-training@ed.ac.uk) to clarify requirements.
 
 
 ### Completing the application form
@@ -29,7 +28,7 @@ Applications are _not_ managed by the organisers of this visualisation course bu
 
 We have provided [answers to common questions](how_to_apply.md) from applicants on the application process, along with detail on eligibility for fee waivers.
 
-The Bayes Centre will continue to accept applications for this course till close of play Mon, 15th June. 
+The Bayes Centre will continue to accept applications for this course till close of play Fri, 21st April 2021. 
 
 
 #### Course offers
@@ -38,12 +37,13 @@ Offer letters refer to the wider Bayes Centre's data skills portfolio, with cour
   * course title: ***PG Professional Development in Data Skills Workforce Development (Online Learning) (ICL)***
   * code:  ***PTPDVDSWDV1U***  
 
-Provided you stated in the personal statement section of your application application  for this course you should have been assigned to it. Otherwise please e-mail [Bayes](mailto:bayes-training@ed.ac.uk) to clarify this.
+Provided you stated in the personal statement section of your application for this course you should have been assigned to it. Otherwise please e-mail [Bayes](mailto:bayes-training@ed.ac.uk) to clarify this.
 
 
 ### Can I also take another course in Bayes' _Data Skills Workforce Development_ portfolio?
 
-Because formal course applications are currently tied to funding support, fee waivers are normally restricted to one per applicant for each run of the [_Workforce Development_ portfolio](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development). However, the current disruption to work, normal schedules and processes means that exceptions may be made on a case by case basis. Please contact the [Bayes Centre](mailto:bayes-training@ed.ac.uk) if you wish to apply for another course in addition to this one. 
+There are no restrictions on how many courses you may take each year. However, each course requires up to 100 hours of study on average, so you may wish to consider whether course loads may pose a problem where schedules overlap.  
+If you are reliant on fee waivers, please note that these are normally restricted to one per applicant for each run of the [_Workforce Development_ portfolio](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development). However, the current disruption to work, normal schedules and processes means that exceptions may be made on a case by case basis. Please contact the [Bayes Centre](mailto:bayes-training@ed.ac.uk) if you wish to apply for another course in addition to this one. 
 <p>&nbsp;</p>
 
 
@@ -51,7 +51,8 @@ Because formal course applications are currently tied to funding support, fee wa
 
 ### What software do I need for the course?
 
-We will use the [Blackboard Collaborate virtual classrom](http://www.ed.ac.uk/is/collaborate) for interactive sessions (tutorials and lecture Q&amp;As). To join you will need an internet connection that can support web conferencing and a web browser. Blackboard will also normally work on a mobile device via its app. 
+We will use the [Blackboard Collaborate virtual classroom](http://www.ed.ac.uk/is/collaborate) for interactive sessions (tutorials and lecture Q&amp;As). To join you will need an internet connection that can support web conferencing and a web browser. Blackboard will also normally work on a mobile device via its app. 
+We also have full access to [Teams](https://www.microsoft.com/en-gb/microsoft-teams/free#office-CustomSpacingTemplate-nifj37h), so will have this as a backup option if this provides more reliable connectivity for the class. 
 
 We will provide information on accessing and/or installing any other software used in tutorials as and when needed. This is not required as we will provide live demos where necessary. If you wish to try a new tool, some may be accessed from a web browser. Installing desktop tools will remain optional. 
 
@@ -101,5 +102,5 @@ The course is certified by the University of Edinburgh; it therefore has a forma
 
 ## Forum Discussions
 
-We aim to provide a moderated discussion forum to support peer learning and informal networking, alongside the virtual classroom which may be used for smaller, informal discussions outwith timetabled tutorials. 
+We aim to provide a moderated discussion forum to support peer learning and informal networking, alongside the virtual classroom, which may be used for smaller, informal discussions outwith timetabled tutorials. 
 <p>&nbsp;</p>

@@ -76,7 +76,8 @@ Please confirm that you meet all requirements as early as possible &ndash; detai
 
 ## Finance and Funding
 
-The course fee for __un-funded participants is £950__.
+The course fee for __is £950__. While those who obtain fee waivers will be prioritised in allocating places, we do have availability for fee-paying participants, both within and outwith Scotland. 
+
 
 The *Scottish Funding Council (SFC) Upskilling Fund* is providing a __fixed number of fee waivers__ for participants who meet at least one of the following criteria:
 * __living in Scotland for the last three years for reasons other than education__ or the rest of the EU (except England, Wales and Northern Ireland) 
@@ -86,7 +87,6 @@ You may also qualify for funding under the new [*National Transition Training Fu
 
 Please see [eligibility requirements for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), or contact [bayes-training@ed.ac.uk](mailto:bayes-training@ed.ac.uk) for more detail.
 
-While participants who obtain fee waivers will be prioritised in allocating places, we do have availability for fee-paying students, both within and outwith Scotland. 
 
 
 

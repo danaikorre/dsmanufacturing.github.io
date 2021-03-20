@@ -12,7 +12,7 @@ The course is expected to require a total __time investment of 5-10h / week__, r
 
 ## The course features ## 
 
-* Recorded __video lectures__, organised into small _5-10min_ videos, with a few longer videos ~20min, which can be watched at one's own pace. 
+* Recorded __video lectures__, mostly organised into bite-sized chunks of _5-10min_, with a few longer videos 20-25min, which can be watched at one's own pace. 
 * __Reading materials__ in the form of text book chapters and (easy to understand) scientific papers, associated with topics and lectures.  
 * Except for Week 1 and 2, __participants choose from a set of optional sub-topics__ (see below)
 * Individual sub-topics are tested in __mini-quizzes__ 

@@ -85,7 +85,7 @@ You may also qualify for funding under the new [*National Transition Training Fu
 Please see [eligibility requirements for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), or contact [bayes-training@ed.ac.uk](mailto:bayes-training@ed.ac.uk) for more detail.
 
 
-The __course fee is £950__. While those who obtain fee waivers will be prioritised in allocating places, we do have availability for fee-paying participants, both within and outwith Scotland. 
+The __course fee is £915__. While those who obtain fee waivers will be prioritised in allocating places, we do have availability for fee-paying participants, both within and outwith Scotland. 
 
 
 

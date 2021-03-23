@@ -77,7 +77,7 @@ Please confirm that you meet all requirements as early as possible &ndash; detai
 ## Fess and Funding
 
 The *Scottish Funding Council (SFC) Upskilling Fund* is providing a __fixed number of fee waivers__ for participants who meet at least one of the following criteria:
-* __living in Scotland for the last three years for reasons other than education__ <!-- or the rest of the EU (except England, Wales and Northern Ireland) -->
+* __living in Scotland for the last three years for reasons other than education__, or the rest of the EU (note this excludes England, Wales and Northern Ireland)
 * __living in the rest of the UK and working for a Scottish employer__ (an employer which is based in or has a significant presence in Scotland).
 
 You may also qualify for funding under the new [*National Transition Training Fund*](https://www.myworldofwork.co.uk/national-transition-training-fund).  

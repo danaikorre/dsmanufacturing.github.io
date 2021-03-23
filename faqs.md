@@ -16,7 +16,7 @@ We list here answers to questions from applicants and more detail about discussi
 ### Do I qualify for a fee waiver?
 
 As indicated on the Bayes Centre [programme website](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), you qualify for a course fee waiver if one of the two following criteria hold: 
-* you live in Scotland or the rest of the EU (excluding England, Wales and Northern Ireland) for the last three years for reasons other than education
+* you live in Scotland or the rest of the EU (this excludes England, Wales and Northern Ireland) for the last three years for reasons other than education
 * you live in the rest of the UK and work for a Scottish employer (an employer which is based in or has a significant presence in Scotland)
 
 To apply for a fee waiver complete the [eligibility form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/funding/eligibility-for-funding). Alternatively, please e-mail [Bayes](mailto:bayes-training@ed.ac.uk) to clarify requirements.

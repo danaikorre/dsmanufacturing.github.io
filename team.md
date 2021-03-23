@@ -44,6 +44,6 @@ Research Interests:
   </tr>
 </table>
   
-__Gian Marco Campagnolo, PhD__, Lecturer at University of Edinburgh
+<!-- __Gian Marco Campagnolo, PhD__, Lecturer at University of Edinburgh -->
 
 __Uta Hinrichs, PhD__, Lecturer at University of St. Andrews

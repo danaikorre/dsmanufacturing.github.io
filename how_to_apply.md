@@ -1,4 +1,4 @@
-# Course forms
+# How to Apply 
 
 Applications for the course are not handled through the organising team, but centrally through the University of Edinburgh. As any application follows the standard university application proceedure, this section provides more detail on the different forms involved:
   

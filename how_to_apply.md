@@ -37,7 +37,7 @@ A single [form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce
 Guidelines follow on how to fill in the University's application form. 
 
 ### Starting data
-Please select start date *1 May* to open the application form. Applications will be processed on a rolling basis. We recommend applying as early as poosible and _at least two weeks in advance of the course start_ (**5 May**).
+Please select start date *1 May* to open the application form. Applications will be processed on a rolling basis. We recommend applying as early as poosible and _at least two weeks in advance of the course start_ (**4 May**).
 
 
 ### Sections 1&ndash;3 

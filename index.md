@@ -2,7 +2,7 @@
 
 ![teaser](images/teaser.png)
 
-The [University of Edinburgh](https://www.ed.ac.uk) is hosting, for the second year, a university-certified, _10-credit_, online course in data visualisation with flexible schedule. The course runs in 2021 from __Tuesday, May 4th &ndash; Saturday, July 10th (10 weeks)__ and is dedicated to professionals in---among others---finance, the sports industry, the creative industry, journalism, education and the public sector.
+The [University of Edinburgh](https://www.ed.ac.uk) is hosting, for the second year, a university-certified, _10-credit_, online course in data visualisation with flexible schedule. The course runs in 2021 from __Tues, May 4th &ndash; Sat, July 10th (10 weeks)__ and is dedicated to professionals in---among others---finance, the sports industry, the creative industry, journalism, education and the public sector.
 
 This online course teaches how to
 * visually __explore__ data

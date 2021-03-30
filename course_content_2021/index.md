@@ -134,7 +134,7 @@
   </tr><tr style = "vertical-align:top;">
     <td>8</td>
     <td style = "vertical-align:top;" colspan = 3>
-      Project 1-on-1s
+      Project One-on-ones
     </td>
   </tr>
   

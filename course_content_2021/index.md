@@ -33,7 +33,7 @@
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 1 &ndash; May 03</h4></th>
   </tr><tr style = "vertical-align:top;">
-   <td><a href="session-1-1">1</b></a></td>
+   <td><a href="session-1-1">1</a></td>
    <td>
       <a href="session-1#lecture-1-1">Course introduction</a>
     </td><td>
@@ -57,7 +57,7 @@
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 2 &ndash; May 10</h4></th>
   </tr><tr style = "vertical-align:top;">
-   <td><a href="session-2">2</b></a>
+   <td><a href="session-2">2</a>
    </td><td>
       <a href="session-2#lecture">Visualization Design</a><br/>
     </td><td>
@@ -141,7 +141,7 @@
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 9 &ndash; Jun 28</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td><a href="session-9">9</b></a></td>
+    <td><a href="session-9">9</a></td>
     <td style = "vertical-align:top;">
       <a href="session-9#lecture">Evaluation</a>
     </td><td>

@@ -80,7 +80,7 @@ Weeks 6 &amp; 7 focuses on visualisation techniques for specific data types. Par
 
 ## Weeks 6 &amp; 7: Application areas
 
-Weeks 6 &amp; 7 looks at the application of data visualisation in a variety of scenarios with an aim to help participants identify and select from different solutions for the challenges defined.
+Weeks 6 &amp; 7 look at the application of data visualisation in a variety of scenarios with an aim to help participants identify and select from different solutions for the challenges defined.
 
 * data-driven storytelling
 * data physicalisation 

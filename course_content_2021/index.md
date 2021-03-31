@@ -124,7 +124,7 @@
     <td style = "vertical-align:top;">
       <a href="session-7#lecture">Data Physicalisation & Personal Data Visualisation</a>
     </td><td>
-      Implementation – project
+      Implementation &ndash; project
     </td><td>
     </td>
   </tr>
@@ -158,7 +158,7 @@
     <td style = "vertical-align:top;">
      <a href="session-10#lecture">Interaction</a><br/>
     </td><td>
-      <a href="session-8#tutorial-review_session">Quiz review & projects</a>
+      Implementation &ndash; project
     </td><td>
     </td>
   </tr>

@@ -15,12 +15,7 @@ We list here answers to questions from applicants and more detail about discussi
 
 ### Do I qualify for a fee waiver?
 
-As indicated on the Bayes Centre [programme website](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), you qualify for a course fee waiver if one of the two following criteria hold: 
-* you live in Scotland or the rest of the EU (this excludes England, Wales and Northern Ireland) for the last three years for reasons other than education
-* you live in the rest of the UK and work for a Scottish employer (an employer which is based in or has a significant presence in Scotland)
-
-To apply for a fee waiver complete the [eligibility form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/funding/eligibility-for-funding). Alternatively, please e-mail [Bayes](mailto:bayes-training@ed.ac.uk) to clarify requirements.
-
+Eligibility criteria for a fee waiver are laid out [here](entry.html).
 
 ### Completing the application form
 
@@ -29,7 +24,6 @@ Applications are _not_ managed by the organisers of this visualisation course bu
 We have provided [answers to common questions](how_to_apply.md) from applicants on the application process, along with detail on eligibility for fee waivers.
 
 The Bayes Centre will continue to accept applications for this course till close of play Fri, 21st April 2021. 
-
 
 #### Course offers
 
@@ -93,10 +87,14 @@ We anticipate most participants will carry out individual projects. However, you
 Please note that in either case each participant will complete a brief, individual reflection exercise to accompany their project.
 <p>&nbsp;</p>
 
+### Can I visualize qualitative data? 
+
+It depends, visualization is a broad field with many techniques covering many data types. For example, the course covers networks, hierarchies and set-relationships. If you have textual data that you are analyzing and seek to represent structures in the data and the concpets, the course can help you. 
+
 
 ## Course Assessment
 
-The course is certified by the University of Edinburgh; it therefore has a formal assessment component. Overall assessment will combine results from the mini quizzes attached to each week's lecture videos, brief reflection exercises linked to tutorials and your final project. To structure the learning process participants will receive general and one-on-one feedback as the course progresses.
+The course is certified by the University of Edinburgh; it therefore has a formal assessment component. Overall assessment will combine results from brief reflection exercises linked to tutorials and your final project. To structure the learning process participants will receive general and one-on-one feedback as the course progresses.
 <p>&nbsp;</p>
 
 

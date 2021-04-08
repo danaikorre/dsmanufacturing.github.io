@@ -37,7 +37,7 @@ We encourage **BYOD---bring and work on your own data project** (we can sign non
 
 Browse further detail on the __[course structure](organisation.md)__.
 
-## Focus Groups
+<!-- ## Focus Groups -->
 
 ## [Submit Application](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=1002)
 

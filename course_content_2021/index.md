@@ -17,7 +17,7 @@
 
 
 ### [Assessment Guidelines](assessment.md)  
-Please note also you **MUST** submit all [assignments](assessment.md) whether you attend tutorials or not. 
+Please note you **MUST** submit all [assignments](assessment.md) whether you attend tutorials or not. 
 <br />
 
 ### [Tutorial Guidelines](tutorials.md)

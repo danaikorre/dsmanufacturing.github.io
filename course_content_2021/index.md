@@ -10,8 +10,8 @@
 
 #### Edinburgh University Online Resources
 [MyEd portal](https://www.myed.ed.ac.uk)   
-<!-- [Learn VLE](https://bit.ly/sfcdv_on_learn) <!-- https://www.learn.ed.ac.uk -->  
-[Teams](http://bit.ly/DataVis4ProfTeams)  
+[Learn VLE](http://bit.ly/sfcdv2021_on_learn) &ndash; **please note you must be logged into the university for this link to work**  <!-- https://www.learn.ed.ac.uk -->  
+[Teams](http://bit.ly/DataVis4ProfTeams) &ndash; **please note you must be logged into your Office365 account for this course for this link to work**   
 [Library](https://discovered.ed.ac.uk)
 <p>&nbsp;</p>
 
@@ -54,7 +54,8 @@ Please remember that while strongly encouraged, **participation in tutorials and
    <td>
       <a href="session-1#lecture-1-2">Basic concepts</a>
     </td><td>
-      <a href="session-1-2#tutorial-project_brief#">Formulating data visualisation brief</a>
+      <a href="session-1-2#tutorial-project_brief">Formulating data visualisation brief</a><br/>
+      <a href="session-1-2#tutorial-eda_1"
     </td><td>
       <a href="assessment.html#1-2">Project brief</a>
     </td>

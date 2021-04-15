@@ -46,7 +46,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 1 &ndash; May 03</h4></th>
   </tr><tr style = "vertical-align:top;">
-   <td><a href="session-1-1">1</a></td>
+   <td><a href="session-1-1">1-1</a></td>
    <td>
       <a href="session-1-1#lecture">Course introduction</a>
     </td><td>
@@ -57,7 +57,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td>
  
   </tr><tr style = "vertical-align:top;">
-   <td></td>
+   <td><a href="session-1-2">1-2</td>
    <td>
       <a href="session-1-2#lecture">Basic concepts</a>
     </td><td>

@@ -171,6 +171,7 @@ Available end week 1
  <p>&nbsp;</p>
 
  <a name="tutorial-eda_1"></a>
+ 
  ### Tutorial1-2b: EDA &ndash; Exploratory Data Analysis using Two Tools (1 hour)
 
  * This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.

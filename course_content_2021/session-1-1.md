@@ -28,7 +28,7 @@ back to [course content](index)
 # Lecture 
 
 ### Slides
-* [Introduction to Data Visualization](files/1.1-introduction.pdf))  
+* [Introduction to Data Visualization](https://docs.google.com/presentation/d/1xUlhfRdn1bliZdnefzH4vyxu3CmKAVcyGHw-IzGRhno/edit?usp=sharing)  
 
 #### Video lectures
 * [Datavis-1.1-1: Outline (1:02)](https://drive.google.com/file/d/1QCRPaukHgDWdS3xQvxyDhOh7vye6rJ0b/view?usp=sharing)
@@ -40,6 +40,7 @@ back to [course content](index)
 <br />
 
   
+<a name = "reading"></a>
 #### Reading list
 
 **Core:**    
@@ -55,7 +56,6 @@ back to [course content](index)
   * see also the [digital companion site](http://book.visualisingdata.com) 
 * Cairo, A. (2014) ‘Ethical Infographics’, IRE Journal, 37(2), pp. 25–27 [UoE library link](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_gale_ofa382013977)
 * Stephen A. Spiller, Nicholas Reinholtz, and Sam J. Maglio (2020) Judgments Based on Stocks and Flows: Different Presentations of the Same Data Can Lead to Opposing Inferences, Management Science, 66:5, 2213-2231  [UoE library link](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_proquest2124808759)
-
 
 <p>&nbsp;</p>
 

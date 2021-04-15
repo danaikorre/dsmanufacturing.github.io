@@ -179,13 +179,14 @@ Available end week 1
 * This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.
      - Please note that as is typical for EDA activity, the dataset is formatted based on the provider's defined format, structure and presentation styles. This means that it may not necessarily be formatted to suit any one tool's input requirements. A component of all EDA exercises is therefore to reformat and restructure data as required for your tool(s) of choice. 
 
+<!-- [RAWGraphs](https://rawgraphs.io)
+- [Sketch](https://www.sketch.com)
+- [D3.js](https://d3js.org)
+-->
+
 1. Discussion 1 (10 min)
      * ***In the main classroom***
      - introduction to 3 different tools for visualising data  
-         <!-- [RAWGraphs](https://rawgraphs.io)
-         - [Sketch](https://www.sketch.com)
-         - [D3.js](https://d3js.org)
-         -->
 
 1. Activity 1 (15 mins)
      * ***Individually***

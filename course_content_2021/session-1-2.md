@@ -159,7 +159,7 @@ Available end week 1
          * how will you evaluate your solution? what will you need to measure usability and utility for intended users, tasks and the environment in which it will be used?
 
 
- #### Additional resources:
+ #### Additional resources:  
 
  1. [A Reader on Data Visualization](https://mschermann.github.io/data_viz_reader) (Michael Schermann, 2019)
  2. [Art meets science &ndash; IBM's Data visualization guidelines](https://www.ibm.com/design/v1/language/experience/data-visualization)
@@ -171,7 +171,7 @@ Available end week 1
 
  <p>&nbsp;</p>
 
- <a name="tutorial-eda_1"></a>
+ <a name="tutorial-eda_1"></a>  
  ### Tutorial1-2b: EDA &ndash; Exploratory Data Analysis using Two Tools (1 hour)
 
  * This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.
@@ -224,7 +224,7 @@ Available end week 1
  <p>&nbsp;</p>
 
 
- #### Additional Resources:
+ #### Additional Resources  
 
  1. [*Visual+interactive data group's* tool list](https://visualinteractivedata.github.io/res-tools.html)
  2. [*Interactive Things Studio's* visualisation resource](https://datavisualization.ch)

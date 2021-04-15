@@ -96,8 +96,8 @@ Available end week 1
  <p>&nbsp;</p>
 
 
- <a name="guidelines_defining_project_brief"></a>
- ### General guidelines for defining brief
+<a name="guidelines_defining_project_brief"></a>  
+### General guidelines for defining brief
 
  1. **Task / Challenge / Issue**
      * exploring data to find ???
@@ -158,6 +158,7 @@ Available end week 1
          * if you don't your users (still) will!
          * how will you evaluate your solution? what will you need to measure usability and utility for intended users, tasks and the environment in which it will be used?
 
+
  #### Additional resources:
 
  1. [A Reader on Data Visualization](https://mschermann.github.io/data_viz_reader) (Michael Schermann, 2019)
@@ -171,7 +172,6 @@ Available end week 1
  <p>&nbsp;</p>
 
  <a name="tutorial-eda_1"></a>
- 
  ### Tutorial1-2b: EDA &ndash; Exploratory Data Analysis using Two Tools (1 hour)
 
  * This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.

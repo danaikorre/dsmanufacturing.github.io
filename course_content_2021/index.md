@@ -12,7 +12,10 @@
 [MyEd portal](https://www.myed.ed.ac.uk)   
 [Learn VLE](http://bit.ly/sfcdv2021_on_learn) &ndash; **note** you must be logged in to the university for this link to work  <!-- https://www.learn.ed.ac.uk -->  
 [Teams](http://bit.ly/DataVis4ProfTeams) &ndash; **note** you must be logged in to your Office365 account for this course for this link to work   
+
 [Library](https://discovered.ed.ac.uk)
+[Additional ]
+[Noteable - Edi Uni Jupyter Notebook ](https://noteable.edina.ac.uk/launch)
 <p>&nbsp;</p>
 
 
@@ -47,7 +50,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
    <td>
       <a href="session-1#lecture-1-1">Course introduction</a>
     </td><td>
-      <a href="session-1-1#tutorial-fortyfive_ways#">45 ways</a><br/>
+      <a href="session-1-1#tutorial-fortyfive_ways">45 ways</a><br/>
       <a href="session-1-1#tutorial-vis_lies">Visualisation lies</a><br/>
       <a href="session-1-1#tutorial-basic_charts">Basic charts</a>
     </td><td>

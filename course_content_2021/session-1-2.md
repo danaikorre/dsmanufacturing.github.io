@@ -42,7 +42,9 @@ back to [course content](index)
 * [Datavis-1.2-6: Wrap up (1:44)](https://drive.google.com/file/d/1xYdOqP_Awt6CdwwtvdW6jJ0xCoSXugUF/view?usp=sharing)
 
   
-#### Reading list
+  
+<a name="reading"></a>  
+##### Reading list
 
 **Core:**  
 * Tamara Munzner (2014) Visualization Analysis and Design, [chapter 4: Analysis: Four Levels for Validation](https://doi.org/10.1201/b17511-4) &nbsp;  [UoE library link](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51246510430002466)

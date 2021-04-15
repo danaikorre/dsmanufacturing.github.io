@@ -64,7 +64,7 @@ Available end week 1
 
 # Tutorial
 
-<a name="project_brief"></a>  
+<a name="tutorial-project_brief"></a>  
 ### Tutorial1-2a: (Formulating) visualisation brief
 
  1. Activity 1 (10min)

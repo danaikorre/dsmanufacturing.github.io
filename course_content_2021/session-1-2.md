@@ -159,32 +159,32 @@ Available end week 1
          * how will you evaluate your solution? what will you need to measure usability and utility for intended users, tasks and the environment in which it will be used?
 
 
- #### Additional resources:  
+#### Additional resources:  
 
- 1. [A Reader on Data Visualization](https://mschermann.github.io/data_viz_reader) (Michael Schermann, 2019)
- 2. [Art meets science &ndash; IBM's Data visualization guidelines](https://www.ibm.com/design/v1/language/experience/data-visualization)
+1. [A Reader on Data Visualization](https://mschermann.github.io/data_viz_reader) (Michael Schermann, 2019)
+ <!-- 2. [Art meets science &ndash; IBM's Data visualization guidelines](https://www.ibm.com/design/v1/language/experience/data-visualization) -->
  <p>&nbsp;</p>
 
  back to [index](#index)
 
- ***
+***
 
- <p>&nbsp;</p>
+<p>&nbsp;</p>
 
- <a name="tutorial-eda_1"></a>  
- ### Tutorial1-2b: EDA &ndash; Exploratory Data Analysis using Two Tools (1 hour)
+<a name="tutorial-eda_1"></a>  
+### Tutorial1-2b: EDA &ndash; Exploratory Data Analysis using Two Tools (1 hour)
 
- * This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.
+* This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.
      - Please note that as is typical for EDA activity, the dataset is formatted based on the provider's defined format, structure and presentation styles. This means that it may not necessarily be formatted to suit any one tool's input requirements. A component of all EDA exercises is therefore to reformat and restructure data as required for your tool(s) of choice. 
 
- 1. Discussion 1 (10 min)
+1. Discussion 1 (10 min)
      * ***In the main classroom***
      - introduction to 3 different tools for visualising data
          - [RAWGraphs](https://rawgraphs.io)
          - [Sketch](https://www.sketch.com)
          - [D3.js](https://d3js.org)
 
- 1. Activity 1 (15 mins)
+1. Activity 1 (15 mins)
      * ***Individually***
      - Using RAWGaphs and a tool of your choice
          - select an aspect of the data you want to explore
@@ -192,14 +192,14 @@ Available end week 1
          - create 2 different charts in each tool that communicate the insight you derived
          - save your results as a snapshot and upload to your Teams tutorial channel
 
- 1. Discussion 2 (5 min)
+1. Discussion 2 (5 min)
      - ***In the main classroom***
      - poll
          - tools selected
          - charts selected
              * what influenced your choice?
 
- 1. Reflection 1 (15 min)
+1. Reflection 1 (15 min)
      * ***Within your groups***
      - How effective are the visualizations you chose? Consider the following questions:
      - What would need to be improved?
@@ -215,7 +215,7 @@ Available end week 1
          - What challenges did you encounter? Why?
          - How do your tool choices compare? e.g., intuitiveness for exploration, ability to communicate results, responsiveness
 
- 1. Discussion (10 min)
+1. Discussion (10 min)
      - ***In the main classroom***
      - 1 per group &ndash; share insights derived and how these were reinforced or further questioned as a result of the group reflection (on the tools and results obtained)
  <p>&nbsp;</p>
@@ -224,11 +224,11 @@ Available end week 1
  <p>&nbsp;</p>
 
 
- #### Additional Resources  
+#### Additional Resources  
 
- 1. [*Visual+interactive data group's* tool list](https://visualinteractivedata.github.io/res-tools.html)
- 2. [*Interactive Things Studio's* visualisation resource](https://datavisualization.ch)
- 3. [*Visualising Data's* tool list](https://www.visualisingdata.com/resources)
+1. [*Visual+interactive data group's* tool list](https://visualinteractivedata.github.io/res-tools.html)
+2. [*Interactive Things Studio's* visualisation resource](https://datavisualization.ch)
+3. [*Visualising Data's* tool list](https://www.visualisingdata.com/resources)
 <p>&nbsp;</p>
 
 ***
@@ -240,7 +240,7 @@ Available end week 1
 Complete the exercise in <a href="#project_brief">tutorial 1-2</a>. Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="tutorials.html#guidelines_defining_project_brief">guidelines for defining a brief</a>.<br/>
 Submit a copy of your brief to <!-- a href="https://bit.ly/submission_reflection_exercises" -->Learn<!-- /a -->; the submission link will be available from noon on 8th May. 
       
- <p>&nbsp;</p>
+<p>&nbsp;</p>
 
  ***
 

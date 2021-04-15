@@ -22,9 +22,11 @@ Please note you **MUST** submit all [assignments](assessment.md) whether you att
 
 ### [Tutorial Guidelines](tutorials.md)
 Please remember that while strongly encouraged, **participation in tutorials and all other interactive sessions is OPTIONAL**. Please read the [guidelines](tutorials.md) before attending your first interactive session; these take into account feedback from interaction with participants and the constraints inherent to a virtual classroom. 
+<p>&nbsp;</p>
 
 ***
 
+<p>&nbsp;</p>
 <a name = "course_organisation"></a>
 ## Course Organisation
 

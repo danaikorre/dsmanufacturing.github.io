@@ -28,6 +28,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
 ***
 
 <p>&nbsp;</p>
+
 <a name = "course_organisation"></a>
 ## Course Organisation
 

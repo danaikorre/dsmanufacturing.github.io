@@ -10,8 +10,8 @@
 
 #### Edinburgh University Online Resources
 [MyEd portal](https://www.myed.ed.ac.uk)   
-[Learn VLE](http://bit.ly/sfcdv2021_on_learn) &ndash; **please note you must be logged into the university for this link to work**  <!-- https://www.learn.ed.ac.uk -->  
-[Teams](http://bit.ly/DataVis4ProfTeams) &ndash; **please note you must be logged into your Office365 account for this course for this link to work**   
+[Learn VLE](http://bit.ly/sfcdv2021_on_learn) &ndash; **please note you must be logged in to the university for this link to work**  <!-- https://www.learn.ed.ac.uk -->  
+[Teams](http://bit.ly/DataVis4ProfTeams) &ndash; **please note you must be logged in to your Office365 account for this course for this link to work**   
 [Library](https://discovered.ed.ac.uk)
 <p>&nbsp;</p>
 

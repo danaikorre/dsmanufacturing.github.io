@@ -77,7 +77,7 @@ Available end week 1
 
 1. Activity 1 (3min)
     * ***On your own***, using plain paper or a tablet, design as many different visualisations that you can think of to represent or communicate the two numbers provided.
-    * Upload your designs to your group's [online space](https://bit.ly/tutorial1-1a_sfcdv_jun2000).
+    * Upload your designs to your group's Teams tutorial channel.
   
 1. Discussion 1 (5min)  
     * ***Within your group***

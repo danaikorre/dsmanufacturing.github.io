@@ -182,7 +182,7 @@ Available end week 1
 1. Discussion 1 (10 min)
      * ***In the main classroom***
      - introduction to 3 different tools for visualising data
-         <!-- - [RAWGraphs](https://rawgraphs.io)
+         <!-- [RAWGraphs](https://rawgraphs.io)
          - [Sketch](https://www.sketch.com)
          - [D3.js](https://d3js.org)
          -->

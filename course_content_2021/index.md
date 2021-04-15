@@ -48,7 +48,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
   </tr><tr style = "vertical-align:top;">
    <td><a href="session-1-1">1</a></td>
    <td>
-      <a href="session-1-1#lecture-1-1">Course introduction</a>
+      <a href="session-1-1#lecture">Course introduction</a>
     </td><td>
       <a href="session-1-1#tutorial-fortyfive_ways">45 ways</a><br/>
       <a href="session-1-1#tutorial-vis_lies">Visualisation lies</a><br/>
@@ -59,7 +59,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
   </tr><tr style = "vertical-align:top;">
    <td></td>
    <td>
-      <a href="session-1-2#lecture-1-2">Basic concepts</a>
+      <a href="session-1-2#lecture">Basic concepts</a>
     </td><td>
       <a href="session-1-2#tutorial-project_brief">Formulating data visualisation brief</a><br/>
       <a href="session-1-2#tutorial-eda_1">EDA &ndash; Exploratory Data Analysis</a>

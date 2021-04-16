@@ -22,9 +22,9 @@ back to [course content](index)
 # Lecture 
 
 ### Slides
-* [Visualization_Design](https://docs.google.com/presentation/d/1QOkdmIbNBEHgou9vXqQQr9YsR4jU2mAxt-rm8RpXpKI/edit?usp=sharing)  
-* [Sketching](https://docs.google.com/presentation/d/1PWUgxK7QhJ1C8ep91Sgu6NmWdAaBiY_N0t8apQ4MU2s/edit?usp=sharing)
-* [Color (extra material)](https://docs.google.com/presentation/d/1L38ZT4bcGQEGMRnB3m0F-XG1g_cr9iqtXUPsCRmTH_8/edit?usp=sharing)  
+* [Visualization_Design](files/2-Visualization-Design.pdf)  
+* [Sketching](files/2-Sketching.pdf)
+* [Color (extra material)](files/2-Color-extra.pdf)  
 
 
 ### Videos

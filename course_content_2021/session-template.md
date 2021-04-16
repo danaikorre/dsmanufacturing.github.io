@@ -45,7 +45,7 @@ Available end of the week
 
 # Tutorial
 
-<a name = "tutorial-fortyfive_ways"></a>
+<a name = "tutorial-"></a>
 ### Tutorial 
 
 <p>&nbsp;</p>
@@ -60,7 +60,7 @@ back to [index](#index)
 
 <p>&nbsp;</p>
 
-<a name = "tutorial-vis_lies"></a>
+<a name = "tutorial-"></a>
 ### Tutorial 
 
 <p>&nbsp;</p>

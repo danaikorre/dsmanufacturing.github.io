@@ -31,7 +31,7 @@ back to [course content](index)
 # Lecture 
 
 ### Slides
-* [Working with Visualizations](https://docs.google.com/presentation/d/1Je-j6bo-3UQvAPkvhLPHUbWCdocXNSGEvbkEquJ6gkM/edit?usp=sharing)
+* [Working with Visualizations](files/1.2-working_with_visualizations.pdf)
 
 #### Video lectures
 * [Datavis-1.2-1: Outline (1:29)](https://drive.google.com/file/d/1O15PGttUFkCdKQo0XVEFB7iCDME2XkXx/view?usp=sharing)

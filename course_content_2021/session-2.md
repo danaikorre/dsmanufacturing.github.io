@@ -1,36 +1,42 @@
 back to [course content](index)
 
 
-# Week 2, Session 1: Visualization Design
+# Week 2: Visualization Design
 
 [Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-design-sketching) | [Assignment](#assignment)
+<p><br /></p>
+
+
+#### Session topics
 
 * Preattentiveness and parallelity
 * Gestalt laws and visual patterns
 * Data types
-* Visual variables and visual maping
+* Visual variables and visual mapping
 * Design Guidelines 
 * Color scales and color blindness
 * Sketching and idea generation
+<p>&nbsp;</p>
+
 
 # Lecture 
 
 ### Slides
-* [Lecture slides: Visualization_Design](files/2.1-Visualization-Design.pdf)  
-* [Lecuture slides: Sketching](files/2.1-Sketching.pdf)
-* [Lecture slides: Color (extra material)](files/2.1-Color-(extra).pdf)  
+* [Visualization_Design](https://docs.google.com/presentation/d/1QOkdmIbNBEHgou9vXqQQr9YsR4jU2mAxt-rm8RpXpKI/edit?usp=sharing)  
+* [Sketching](https://docs.google.com/presentation/d/1PWUgxK7QhJ1C8ep91Sgu6NmWdAaBiY_N0t8apQ4MU2s/edit?usp=sharing)
+* [Color (extra material)](https://docs.google.com/presentation/d/1L38ZT4bcGQEGMRnB3m0F-XG1g_cr9iqtXUPsCRmTH_8/edit?usp=sharing)  
 
 
 ### Videos
-* [Datavis-2.1-1 Outline (2:28)](https://drive.google.com/file/d/1vPVDgYXknLEFq5rI_Prlw8Emr1QJwqtz/view?usp=sharing)
-* [Datavis-2.1-2 Visual Perception (8:25)](https://drive.google.com/file/d/1Whd0QFshIb_LcCJqjvxWLtVimLlBcl06/view?usp=sharing)  
-* [Datavis-2.1-3 Gestalt Laws (12:24)](https://drive.google.com/file/d/1LU_WA46zNphqz0yjkJn4Jg-6im78fnWE/view?usp=sharing) 
-* [Datavis-2.1-4 Data Types (12:15)](https://drive.google.com/file/d/1wzYroSHsSuA9DMjbuXUmOkHIHb_VFKoa/view?usp=sharing)
-* [Datavis-2.1-5 Visual Variables (10:19)](https://drive.google.com/file/d/1dVERP7EeJEU-lgWtOfCleUbLHWNsYhxr/view?usp=sharing) 
-* [Datavis-2.1-6 Characteristics of Visual Variables (16:10)](https://drive.google.com/file/d/14txxIAj5dB35UZv9QkkPuylznPSMHCEf/view?usp=sharing)
-* [Datavis-2.1-7 Visualization Guidelines (21:32)](https://drive.google.com/file/d/1Yl51wBotr75oWXdyxt3YS-kzA_zh80cN/view?usp=sharing)
-* [Datavis-2.1-8 Wrap up (3:55)](https://drive.google.com/file/d/1qKISvd9O8qPDn7oZaAnPm-VJKYxoKIA6/view?usp=sharing)
-* [Datavis-2.1-Sketching (12:11)](https://drive.google.com/file/d/19tveyPes-RNDs5KAX8whtvtzB0Uxre8M/view?usp=sharing)
+* [Datavis-2.1: Outline (2:28)](https://drive.google.com/file/d/1vPVDgYXknLEFq5rI_Prlw8Emr1QJwqtz/view?usp=sharing)
+* [Datavis-2.2: Visual Perception (8:25)](https://drive.google.com/file/d/1Whd0QFshIb_LcCJqjvxWLtVimLlBcl06/view?usp=sharing)  
+* [Datavis-2.3: Gestalt Laws (12:24)](https://drive.google.com/file/d/1LU_WA46zNphqz0yjkJn4Jg-6im78fnWE/view?usp=sharing) 
+* [Datavis-2.4: Data Types (12:15)](https://drive.google.com/file/d/1wzYroSHsSuA9DMjbuXUmOkHIHb_VFKoa/view?usp=sharing)
+* [Datavis-2.5: Visual Variables (10:19)](https://drive.google.com/file/d/1dVERP7EeJEU-lgWtOfCleUbLHWNsYhxr/view?usp=sharing) 
+* [Datavis-2.6: Characteristics of Visual Variables (16:10)](https://drive.google.com/file/d/14txxIAj5dB35UZv9QkkPuylznPSMHCEf/view?usp=sharing)
+* [Datavis-2.7: Visualization Guidelines (21:32)](https://drive.google.com/file/d/1Yl51wBotr75oWXdyxt3YS-kzA_zh80cN/view?usp=sharing)
+* [Datavis-2.8: Wrap up (3:55)](https://drive.google.com/file/d/1qKISvd9O8qPDn7oZaAnPm-VJKYxoKIA6/view?usp=sharing)
+* [Datavis-2.9: Sketching (12:11)](https://drive.google.com/file/d/19tveyPes-RNDs5KAX8whtvtzB0Uxre8M/view?usp=sharing)
 
 ### Videos (extra)
 * [Color for DataVis (15:51)](https://drive.google.com/file/d/1OJNjjLYsTCd9earLEzwjXYNr2miHwIVZ/view?usp=sharing)
@@ -41,6 +47,10 @@ back to [course content](index)
 * [Color Blindness (6:27)](https://drive.google.com/file/d/1wr8oO-D4qdQ4YYALfWdW9ctOTOBLI5K7/view?usp=sharing)
 * [Further Applications in DataVis (4:19)](https://drive.google.com/file/d/1EGYzRpaJZ9ZKlzIbYaR-t1pbFPkgnHTA/view?usp=sharing)
 
+<br />
+
+  
+<a name = "reading"></a>
 # Reading
 
 ### Core
@@ -51,13 +61,25 @@ back to [course content](index)
 
 * [VisGuides open discussion forum](https://visguides.org)
 
+<p>&nbsp;</p>
+
+***
+
+
 # Quiz
+Available end of the week 
+<!-- [Quiz](https://bit.ly/sfcdv_quiz_2-1) &ndash; (requires login to Learn) -->
+<p>&nbsp;</p>
 
-[Quiz](https://bit.ly/sfcdv_quiz_2-1) &ndash; (requires login to Learn) 
+***
 
+
+# Tutorial
+
+<a name = "tutorial-design-sketching"></a>
 # Tutorial: Design (Sketching)
 
-Tutorial intoduction [video on sketching](https://drive.google.com/file/d/19tveyPes-RNDs5KAX8whtvtzB0Uxre8M/view?usp=sharing) and [slides](files/2.1-Sketching.pdf).
+Tutorial introduction [video on sketching](https://drive.google.com/file/d/19tveyPes-RNDs5KAX8whtvtzB0Uxre8M/view?usp=sharing) and [slides](https://docs.google.com/presentation/d/1PWUgxK7QhJ1C8ep91Sgu6NmWdAaBiY_N0t8apQ4MU2s/edit?usp=sharing).
 
 
 1. Discussion 1 (10 + 20 min)
@@ -72,7 +94,7 @@ Tutorial intoduction [video on sketching](https://drive.google.com/file/d/19tvey
          - what comes to mind when you think of Scotland
          - this classroom
          - draw and annotate an idea of your own
-    * Upload your sketches to the [shared tutorial space](https://bit.ly/tutorial2-1_sfcdv_jun2000)
+    * Upload your sketches to your Teams tutorial channel 
     <br />
     
     * ***In the main classroom***
@@ -163,14 +185,14 @@ Giorgia Lupi (2015) [Sketching with Data Opens the Mind's Eye, National Geograph
 
 1. [Shneiderman's _Eight Golden Rules of Interface Design_](https://www.cs.umd.edu/users/ben/goldenrules.html)
 1. [All the _Little of Visualisation of Design_](https://www.visualisingdata.com/2016/03/little-visualisation-design)
-1. [Michael Schermann's  _Reader on Data Visualization_](https://mschermann.github.io/data_viz_reader)
+1. [Michael Schermann's Reader on Data Visualization_](https://mschermann.github.io/data_viz_reader)
 <p>&nbsp;</p>
 
 # Assignment
 
 Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).
 
-Submit a copy of your design to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>; the submission link will be available from noon on the 27th. 
+Submit a copy of your design to <!-- a href="https://bit.ly/submission_reflection_exercises" -->Learn<!-- /a -->; the submission link will be available from noon on the 14th of May. 
       
 
 <p>&nbsp;</p>

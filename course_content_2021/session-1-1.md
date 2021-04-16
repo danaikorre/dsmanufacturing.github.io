@@ -28,7 +28,7 @@ back to [course content](index)
 # Lecture 
 
 ### Slides
-* [Introduction to Data Visualization](https://docs.google.com/presentation/d/1xUlhfRdn1bliZdnefzH4vyxu3CmKAVcyGHw-IzGRhno/edit?usp=sharing)  
+* [Introduction to Data Visualization](files/1.1-introduction.pdf)  
 
 #### Video lectures
 * [Datavis-1.1-1: Outline (1:02)](https://drive.google.com/file/d/1QCRPaukHgDWdS3xQvxyDhOh7vye6rJ0b/view?usp=sharing)

@@ -65,7 +65,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
       <a href="session-1-2#tutorial-project_brief">Formulating data visualisation brief</a><br/>
       <a href="session-1-2#tutorial-eda_1">EDA &ndash; Exploratory Data Analysis</a>
     </td><td>
-      <a href="assessment.html#1-2">Project brief</a>
+      <a href="session-1#assignment">Project brief</a>
     </td>
   </tr>
     

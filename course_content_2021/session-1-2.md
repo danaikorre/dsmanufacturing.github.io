@@ -1,4 +1,4 @@
-back to [course content](index)
+back to [course content](index#course_organisation)
 
 
 # Week 1, Session 2: 
@@ -167,7 +167,7 @@ Available end week 1
  <!-- 2. [Art meets science &ndash; IBM's Data visualization guidelines](https://www.ibm.com/design/v1/language/experience/data-visualization) -->
  <p>&nbsp;</p>
 
- back to [index](#index)
+ back to [index](index#course_organisation)
 
 ***
 
@@ -248,4 +248,4 @@ Submit a copy of your brief to <!-- a href="https://bit.ly/submission_reflection
 
  ***
 
- back to [index](index.md)
+ back to [index](index#course_organisation)

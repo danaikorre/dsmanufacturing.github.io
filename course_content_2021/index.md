@@ -104,6 +104,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <a href="session-4#tutorial-eda-project-data">EDA &ndash; project data</a><br/>
     </td><td>
+      Update project brief &amp; design
     </td>
   </tr>
   

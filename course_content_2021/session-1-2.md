@@ -1,7 +1,7 @@
 back to [course content](index#course_organisation)
 
 
-# Week 1, Session 2: 
+# Week 1, Session 2: Visualization Design
 
 [Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial) | [Assignment](#assignment)
 <p><br /></p>

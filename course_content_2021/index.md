@@ -69,7 +69,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td>
   </tr>
   <!-- tr style = "vertical-align:top;">
-   <td><a href="session-1-2">1-2</td>
+  <td><a href="session-1-2">1-2</a></td>
    <td>
       <a href="session-1-2#lecture">Basic concepts</a>
     </td><td>
@@ -80,31 +80,31 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td>
   </tr -->
   
-  <!-- tr style = "vertical-align:top;">
+  <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 2 &ndash; May 10</h4></th>
   </tr><tr style = "vertical-align:top;">
-   <td><a href="session-2">2</a>
-   </td><td>
+   <td><a href="session-2">2</a></td>
+   <td>
       <a href="session-2#lecture">Visualization Design</a><br/>
     </td><td>
       <a href="session-2#tutorial-design-sketching">Design (Sketching)</a><br/>
     </td><td>
       <a href="session-2#assignment">Project design</a>
     </td>
-  </tr -->
+  </tr>
  
-  <!-- tr style = "vertical-align:top;">
+  <tr style = "vertical-align:top;">
      <th colspan = "4"><h4>Week 3 &ndash; May 17</h4></th>
   </tr><tr style = "vertical-align:top;">
-   <td><a href="session-3">3</a>
-    </td><td>
+   <td><a href="session-3">3</a></td>
+    <td>
        <a href="session-3#lecture">Visualization Tools</a><br/>
     </td><td>
       <a href="session-3#tutorial-tool-marketplace">Visualisation tools marketplace</a><br/>
     </td><td>
      <a href="session-3#assignment">Tool review</a>
     </td>
-  </tr -->
+  </tr>
   
   <!-- tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 4 &ndash; May 24</h4></th>

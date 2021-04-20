@@ -175,8 +175,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
       Implementation &ndash; project
     </td><td>
     </td>
-  </tr>
-  
+  </tr>  
 </table>  
 
 <p>&nbsp;</p>

@@ -108,8 +108,6 @@ Available end of the week
 
 ***
 
-# Tutorial
-
 <a name = "tutorial-eda-project-data"></a>
 # Tutorial: EDA &ndash; Project Data
 
@@ -191,7 +189,4 @@ Please update your project brief and design based on what you have learnt to thi
 
 back to [course content](index)
 
- ***
-
- back to [index](index#course_organisation)
 

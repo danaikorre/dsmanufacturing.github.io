@@ -153,7 +153,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td>
   </tr>
   
-  <!-- tr style = "vertical-align:top;">
+  <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 9 &ndash; Jun 28</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-9">9</a></td>
@@ -164,9 +164,9 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <a href="session-9#assessment-project_evaluation_plan">Project evaluation plan</a>
     </td>
-  </tr -->
+  </tr>
   
-  <!-- tr style = "vertical-align:top;">
+  <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 10 &ndash; Jul 05</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-10">10</a></td>
@@ -176,7 +176,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
       Implementation &ndash; project
     </td><td>
     </td>
-  </tr-->
+  </tr>
   
 </table>
 

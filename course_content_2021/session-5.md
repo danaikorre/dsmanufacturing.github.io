@@ -1,4 +1,4 @@
-back to [course content](index)
+back to [course content](index#course_organisation)
 
 
 # Week 5: Visualization Techniques II
@@ -154,4 +154,4 @@ Please update your project brief and design based on what you have learnt to thi
 
 <p>&nbsp;</p>
 
-back to [course content](index)
+back to [course content](index#course_organisation)

@@ -176,17 +176,8 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
     </td>
   </tr>
+  
 </table>
-
-<p>&nbsp;</p>
-
-***
-
-<a name = "timetable"></a>
-## Timetable - TBC
-
-* Tutorials 'a' and 'b' are the same. Choose one of the sessions T-a or T-b.
-* Q&As are opportunities for you to ask any question about course content and engage in public discussions with all of the participants. You may attend any or all Q&As.
 
 <!-- img src = "../images/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" / -->
 

@@ -58,6 +58,17 @@ Please remember that while strongly encouraged, **participation in tutorials and
   </tr>
  
   <tr style = "vertical-align:top;">
+   <td><a href="session-1-1">1-1</a></td>
+   <td>
+      <a href="session-1-1#lecture">Course introduction</a>
+    </td><td>
+      <a href="session-1-1#tutorial-fortyfive_ways">45 ways</a><br/>
+      <a href="session-1-1#tutorial-vis_lies">Visualisation lies</a><br/>
+      <a href="session-1-1#tutorial-basic_charts">Basic charts</a>
+    </td><td>
+    </td>
+  </tr>
+  <!-- tr style = "vertical-align:top;">
    <td><a href="session-1-2">1-2</td>
    <td>
       <a href="session-1-2#lecture">Basic concepts</a>
@@ -67,7 +78,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <a href="assessment.html#1-2">Project brief</a>
     </td>
-  </tr>
+  </tr -->
   
   <!-- tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 2 &ndash; May 10</h4></th>

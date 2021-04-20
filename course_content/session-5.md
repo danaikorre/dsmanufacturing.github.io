@@ -1,11 +1,12 @@
 back to [course content](index)
 
 
-# Week 3, Session 2: Visualization Techniques II
+# Week 5: Visualization Techniques II
 
 [Lecture](#lecture) | [Quizzes](#quizzes) | [Tutorial](#tutorial-critical-analysis) | [Assignment](#assignment)
+<p><br /></p>
 
-<!-- [Reading](#reading) | --> 
+#### Session topics
 
 This session is split again (like session 3-1) into three lectures out of which you should choose one. While you may watch all three, you must choose the set most relevant to you as the option course you wish to be graded on. You must then submit only one of the three quizzes, that matching the lecture set you choose. 
 
@@ -13,12 +14,15 @@ This session is split again (like session 3-1) into three lectures out of which 
 * Trees + Hierarchies
 * Temporal Data
 
+<p>&nbsp;</p>
+
+
 # Lecture
 
 ## Chose one of the following topics
 
 ### 1. Networks
-* [Lecture slides: Networks](files/3-Networks.pdf)  
+* [Lecture slides: Networks](files/5-Networks.pdf)  
 * [Lecture video: Networks-1 (00:33)](https://drive.google.com/file/d/1bGZgGoM5VmPLJXSXA6t3eIBEBQXNxhpP/view?usp=sharing)
 * [Lecture video: Networks-2 (8:25)](https://drive.google.com/file/d/1Pd9nkxWTcvHY5UoZMY-wadlO9OMnF6Gg/view?usp=sharing)
 * [Lecture video: Networks-3 (16:29)](https://drive.google.com/file/d/1dMiSYUaDxXSvmGFRwsCUePd5lye4OvKj/view?usp=sharing)
@@ -36,7 +40,7 @@ __Suggested Reading on Networks:__
 
 
 ### 2. Trees &amp; Hierarchies
-* [Lecture slides: Trees & Hierarchies](files/3-Trees+Hierarchies.pdf)  
+* [Lecture slides: Trees & Hierarchies](files/5-Trees+Hierarchies.pdf)  
 * [Lecture video: Trees & Hierarchies-1 (42:00)](https://drive.google.com/file/d/1rqGOvytbRCikUzP0vvyxUuI-6WoiBntR/view?usp=sharing)
 * [Lecture video: Trees & Hierarchies-2 (4:51)](https://drive.google.com/file/d/1GP60bvYxU46X4v1zWZKbDHGztCadN1NV/view?usp=sharing)
 
@@ -44,7 +48,7 @@ __Suggested Reading on Networks:__
 * Schulz, Hans-Jorg, Steffen Hadlak, and Heidrun Schumann. "The design space of implicit hierarchy visualization: A survey." IEEE transactions on visualization and computer graphics 17.4 (2010): 393-411.
 
 ### 3. Time
-* [Lecture slides: Time](files/3-TemporalData.pdf)  
+* [Lecture slides: Time](files/5-TemporalData.pdf)  
 * [Lecture video: Time-1 (4:06)](https://drive.google.com/file/d/1CxeNXh2Gl1o2X_W9Gd7FOEqMWnFAlSJO/view?usp=sharing)
 * [Lecture video: Time-2 (2:22)](https://drive.google.com/file/d/10uzyD-AUxNcHnLKetefFe7u5Wj1aqXgf/view?usp=sharing)
 * [Lecture video: Time-3 (13:20)](https://drive.google.com/file/d/1GnSYWw4Y3adYnoaHHQMBtH6ls8-y_9wF/view?usp=sharing)
@@ -62,9 +66,14 @@ __Suggested Reading on Temporal Data:__
 
 # Quizzes
 
+Available end of the week
+
+<!-- 
   1. [Graphs &amp; Networks](https://bit.ly/sfcdv_quiz_3-2a)
   1. [Trees &amp; Hierarchies](https://bit.ly/sfcdv_quiz_3-2b)
   1. [Time](https://bit.ly/sfcdv_quiz_3-2c)
+-->
+
 <p>&nbsp;</p>
 
 

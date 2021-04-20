@@ -107,7 +107,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td>
   </tr -->
   
-  !-- <tr style = "vertical-align:top;">
+  <!-- tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 5 &ndash; May 31</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-5">5</a></td>

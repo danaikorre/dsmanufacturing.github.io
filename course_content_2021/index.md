@@ -43,7 +43,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     <th>Assessment</th>
   </tr>
 
-  <tr style = "vertical-align:top;">
+  <!-- tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 1 &ndash; May 03</h4></th>
   </tr><tr style = "vertical-align:top;">
    <td><a href="session-1-1">1-1</a></td>
@@ -55,8 +55,9 @@ Please remember that while strongly encouraged, **participation in tutorials and
       <a href="session-1-1#tutorial-basic_charts">Basic charts</a>
     </td><td>
     </td>
+  </t --r>
  
-  </tr><tr style = "vertical-align:top;">
+  <!-- tr style = "vertical-align:top;">
    <td><a href="session-1-2">1-2</td>
    <td>
       <a href="session-1-2#lecture">Basic concepts</a>
@@ -66,9 +67,9 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <a href="assessment.html#1-2">Project brief</a>
     </td>
-  </tr>
+  </tr -->
   
-  <tr style = "vertical-align:top;">
+  <!-- tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 2 &ndash; May 10</h4></th>
   </tr><tr style = "vertical-align:top;">
    <td><a href="session-2">2</a>
@@ -79,9 +80,9 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <a href="session-2#assignment">Project design</a>
     </td>
-  </tr>
+  </tr -->
  
-  <tr style = "vertical-align:top;">
+  <!-- tr style = "vertical-align:top;">
      <th colspan = "4"><h4>Week 3 &ndash; May 17</h4></th>
   </tr><tr style = "vertical-align:top;">
    <td><a href="session-3">3</a>
@@ -92,9 +93,9 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
      <a href="session-3#assignment">Tool review</a>
     </td>
-  </tr>
+  </tr -->
   
-  <tr style = "vertical-align:top;">
+  <!-- tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 4 &ndash; May 24</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-4">4</a></td>
@@ -104,9 +105,9 @@ Please remember that while strongly encouraged, **participation in tutorials and
       <a href="session-4#tutorial-eda-project-data">EDA &ndash; project data</a><br/>
     </td><td>
     </td>
-  </tr>
+  </tr -->
   
-  <tr style = "vertical-align:top;">
+  !-- <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 5 &ndash; May 31</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-5">5</a></td>
@@ -117,9 +118,9 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <!-- a href="assessment.html#3-1" -->Update project brief &amp; design<!-- /a -->
     </td>
-  </tr>
+  </tr -->
   
-  <tr style = "vertical-align:top;">
+  <!-- tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 6 &ndash; Jun 07</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-6">6</a></td>
@@ -129,9 +130,9 @@ Please remember that while strongly encouraged, **participation in tutorials and
       <a href="session-7#tutorial-programming_clinic_1">Programming clinic</a>
     </td><td>      
     </td>
-  </tr>
+  </tr -->
   
-  <tr style = "vertical-align:top;">
+  <!-- tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 7 &ndash; Jun 14</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-7">7</a></td>
@@ -141,18 +142,18 @@ Please remember that while strongly encouraged, **participation in tutorials and
       Implementation &ndash; project
     </td><td>
     </td>
-  </tr>
+  </tr-- >
   
-  <tr style = "vertical-align:top;">
+  <!-- tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 8 &ndash; Jun 21</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td>8</td>
     <td style = "vertical-align:top;" colspan = 3>
       Project One-on-ones
     </td>
-  </tr>
+  </tr-->
   
-  <tr style = "vertical-align:top;">
+  <!-- tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 9 &ndash; Jun 28</h4></th>
   </tr><tr style = "vertical-align:top;">
     <td><a href="session-9">9</a></td>
@@ -163,7 +164,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <a href="session-9#assessment-project_evaluation_plan">Project evaluation plan</a>
     </td>
-  </tr>
+  </tr -->
   
   <!-- tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 10 &ndash; Jul 05</h4></th>

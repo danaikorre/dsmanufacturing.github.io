@@ -177,7 +177,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td>
   </tr>
   
-</table>
+</table>  
 
 <p>&nbsp;</p>
 

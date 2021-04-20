@@ -1,4 +1,4 @@
-back to [course content](index)
+back to [course content](index#course_organisation)
 
 
 # Week 3: Visualization Tools
@@ -122,4 +122,4 @@ Select from existing or add a new tool to the <a href="https://vistools.net">Vis
 
 <p>&nbsp;</p>
 
-back to [course content](index)
+back to [course content](index#course_organisation)

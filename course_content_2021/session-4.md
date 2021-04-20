@@ -1,9 +1,12 @@
-back to [course content](index)
+back to [course content](index#course_organisation)
 
 
-# Week 3, Session 1: Visualization Techniques I
+# Week 4: Visualization Techniques I
 
-[Lecture](#lecture) | [Reading](#reading) | [Quizzes](#quizzes) | [Tutorial](#tutorial-eda-project-data) | [Assignment](#assignment)
+[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial-eda-project-data) | [Assignment](#assignment)
+<p><br /></p>
+
+#### Session topics
 
 This session is split into a brief introductory lecture:
 
@@ -14,6 +17,8 @@ This session is split into a brief introductory lecture:
 * Basic Charts
 * Multidimensional data
 * Geographic data
+
+<p>&nbsp;</p>
 
 
 # Lecture 
@@ -75,25 +80,35 @@ __Suggested Reading on Geographical Data:__
 * Bach, Benjamin, et al. "A descriptive framework for temporal data visualizations based on generalized space‐time cubes." Computer Graphics Forum. Vol. 36. No. 6. 2017.
 * Bach, Benjamin, et al. "Ways of Visualizing Data on Curves." 2018.
 
+<br />
 
-
-
-
+  
 <a name = "reading"></a>
-### Core
+#### Reading list
+
+**Core:**    
 * Carpendale, M. S. T.  (2003). [Considering Visual Variables as a Basis for Information Visualisation](http://dx.doi.org/10.11575/PRISM/30495), University of Calgary
 * Stephen Few (2009). [Sometimes We Must Raise Our Voices](http://www.perceptualedge.com/articles/visual_business_intelligence/sometimes_we_must_raise_our_voices.pdf), Perceptual Edge Visual Business Intelligence Newsletter
 
-<!-- ### Further reading -->
+<!-- **Further reading:**  -->
+
 <p>&nbsp;</p>
 
-# Quizzes
+***
 
+
+# Quiz 
+Available end of the week 
+<!-- 
   1. [Basic Charts](https://bit.ly/sfcdv_quiz_3-1a)
   1. [Multidimensional Data](https://bit.ly/sfcdv_quiz_3-1b)
   1. [Geographical Data](https://bit.ly/sfcdv_quiz_3-1c)
+-->
 <p>&nbsp;</p>
 
+***
+
+# Tutorial
 
 <a name = "tutorial-eda-project-data"></a>
 # Tutorial: EDA &ndash; Project Data
@@ -161,6 +176,11 @@ __Suggested Reading on Geographical Data:__
     * Optional exercise &ndash; provide a review for the tool(s) you used in the [VisBrowser](https://vistools.net)
         - please specify that the tool was being used for EDA and comment on usability and utility for this purpose
         - in your review describe briefly your input data type, size and complexity
+        
+<p>&nbsp;</p>
+
+***
+
 <p>&nbsp;</p>
 
 # Assignment
@@ -170,3 +190,8 @@ Please update your project brief and design based on what you have learnt to thi
 <p>&nbsp;</p>
 
 back to [course content](index)
+
+ ***
+
+ back to [index](index#course_organisation)
+

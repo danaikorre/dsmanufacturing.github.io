@@ -149,7 +149,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
   </tr><tr style = "vertical-align:top;">
     <td>8</td>
     <td style = "vertical-align:top;" colspan = 3>
-      Project One-on-ones
+      Project 1-on-1s
     </td>
   </tr>
   

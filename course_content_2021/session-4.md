@@ -187,6 +187,6 @@ Please update your project brief and design based on what you have learnt to thi
 
 <p>&nbsp;</p>
 
-back to [course content](index)
+back to [course content](index#course_organisation)
 
 

@@ -43,7 +43,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     <th>Assessment</th>
   </tr>
 
-  <!-- tr style = "vertical-align:top;">
+  <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 1 &ndash; May 03</h4></th>
   </tr><tr style = "vertical-align:top;">
    <td><a href="session-1-1">1-1</a></td>
@@ -55,7 +55,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
       <a href="session-1-1#tutorial-basic_charts">Basic charts</a>
     </td><td>
     </td>
-  </t --r>
+  </tr>
  
   <!-- tr style = "vertical-align:top;">
    <td><a href="session-1-2">1-2</td>

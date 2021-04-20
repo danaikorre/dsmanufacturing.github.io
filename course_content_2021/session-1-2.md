@@ -3,7 +3,7 @@ back to [course content](index#course_organisation)
 
 # Week 1, Session 2: 
 
-[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial) 
+[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial) | [Assignment](#assignment)
 <p><br /></p>
 
 #### Session topics

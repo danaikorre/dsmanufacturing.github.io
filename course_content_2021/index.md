@@ -116,7 +116,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <a href="session-5#tutorial-critical-analysis">Critical analysis &amp; reflection</a>
     </td><td>
-      <!-- a href="assessment.html#3-1" -->Update project brief &amp; design<!-- /a -->
+      Update project brief &amp; design
     </td>
   </tr -->
   

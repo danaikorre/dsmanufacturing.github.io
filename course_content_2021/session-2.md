@@ -1,4 +1,4 @@
-back to [course content](index)
+back to [course content](index#course_organisation)
 
 
 # Week 2: Visualization Design
@@ -197,4 +197,4 @@ Submit a copy of your design to <!-- a href="https://bit.ly/submission_reflectio
 
 <p>&nbsp;</p>
 
-back to [course content](index)
+back to [course content](index#course_organisation)

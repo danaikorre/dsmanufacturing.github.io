@@ -24,13 +24,13 @@ This session is split into a brief introductory lecture:
 # Lecture 
 
 ## Manadatory introduction
-* [Lecture slides: Data Types](files/3-Data-Types.pdf)  
+* [Lecture slides: Data Types](files/4-Data-Types.pdf)  
 * [Lecture video: Data Types (7:21)](https://drive.google.com/file/d/1zbY69F9pDo_lGhTtHArZyWbnSbtwZAuG/view?usp=sharing)
 
 ## Chose one of the following topics
 
 ### 1. Basic Charts
-* [Lecture slides: Basic Charts](files/3-Basic-Charts.pdf)  
+* [Lecture slides: Basic Charts](files/4-Basic-Charts.pdf)  
 * [Lecture video: Basic Charts-1 (13:06)](https://drive.google.com/file/d/1GY_lwnmeA0AvE_jv6uH1a0ILnu5rQ4zt/view?usp=sharing)
 * [Lecture video: Basic Charts-2 (18:40)](https://drive.google.com/file/d/1ZKmD132J0PXp7sZnbyes0Y_PSjgkOJYK/view?usp=sharing)
 * [Lecture video: Basic Charts-3 (10:18)](https://drive.google.com/file/d/1get7_tvs9KGobV0hG6pHdnzBGBbWG8uJ/view?usp=sharing)
@@ -48,7 +48,7 @@ __Suggested Reading on Basic Charts:__
 
 
 ### 2. Multidimensional Data
-* [Lecuture slides: Multidimensional Data](files/3-MultivariateData.pdf)
+* [Lecuture slides: Multidimensional Data](files/4-MultivariateData.pdf)
 * [Lecuture video: Multidimensional Data Intro (0:33)](https://drive.google.com/file/d/1c6tPcYhdnOU_pugETIz9UDvV0yDBRwNZ/view?usp=sharing)
 * [Lecuture video: Multidimensional Data Low Dimensional Data (12:54)](https://drive.google.com/file/d/1ssi64rHDpmY9HX3JGwygD0zzaD_V9DKx/view?usp=sharing)
 * [Lecuture video: Multidimensional Data High Dimensional Data (24:34)](https://drive.google.com/file/d/1cWT62091XAwvNjzhWkMbzK9JxJd17DeW/view?usp=sharing)
@@ -64,7 +64,7 @@ __Suggested Reading on Multidimensional data:__
 
 
 ### 3. Geographical Data
-* [Lecture slides: Geographic data](files/3-Geographic.pdf)  
+* [Lecture slides: Geographic data](files/4-Geographic.pdf)  
 * [Lecture video: Geographic data: Outline + Tasks (6:36)](https://drive.google.com/file/d/1eIebWZRHLYmAF06_3U9DiuoNNRR-DVCk/view?usp=sharing)  
 * [Lecture video: Geographic data: Map Projections (21:11)](https://drive.google.com/file/d/1eLNm5QFb7n-41kQeMcHTYDm_yhuGrl5-/view?usp=sharing)  
 * [Lecture video: Geographic data: Visualizing Area Data (14:06)](https://drive.google.com/file/d/1BrQMRejwc24uiR2E28h50ROLuu0HPEk2/view?usp=sharing)  

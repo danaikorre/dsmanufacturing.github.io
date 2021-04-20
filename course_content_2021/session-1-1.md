@@ -104,7 +104,7 @@ Available end week 1
 1. Use case &ndash; multi-perpective design ideas: [Context-Driven Activity Apps @Fathom](https://medium.com/fathominfo/context-driven-activity-apps-e4a150650bf9)
 <p>&nbsp;</p>
 
-back to [index](#index)
+back to [index](index)
 
 ***
 
@@ -156,7 +156,7 @@ Upload your annotated, redesign sketches to the [shared tutorial space](https://
 1. [https://eagereyes.org/basics/putting-data-into-context](https://eagereyes.org/basics/putting-data-into-context)
 <p>&nbsp;</p>
 
-back to [index](#index)
+back to [index](index)
 
 ***
 

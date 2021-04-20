@@ -1,4 +1,4 @@
-back to [course content](index)
+back to [course content](index#course_organisation)
 
 
 # Week :
@@ -54,7 +54,7 @@ Available end of the week
 
 <p>&nbsp;</p>
 
-back to [index](#index)
+back to [index](index#course_organisation)
 
 ***
 
@@ -81,5 +81,5 @@ back to [index](#index)
 
  ***
 
- back to [index](index.md)
+ back to [index](index#course_organisation)
 

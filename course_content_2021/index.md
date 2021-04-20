@@ -58,14 +58,14 @@ Please remember that while strongly encouraged, **participation in tutorials and
   </tr>
  
   <tr style = "vertical-align:top;">
-   <td><a href="session-1-1">1-1</a></td>
+   <td><a href="session-1-2">1-2</a></td>
    <td>
-      <a href="session-1-1#lecture">Course introduction</a>
+      <a href="session-1-2#lecture">Basic concepts</a>
     </td><td>
-      <a href="session-1-1#tutorial-fortyfive_ways">45 ways</a><br/>
-      <a href="session-1-1#tutorial-vis_lies">Visualisation lies</a><br/>
-      <a href="session-1-1#tutorial-basic_charts">Basic charts</a>
+      <a href="session-1-2#tutorial-project_brief">Formulating data visualisation brief</a><br/>
+      <a href="session-1-2#tutorial-eda_1">EDA &ndash; Exploratory Data Analysis</a>
     </td><td>
+      <a href="assessment.html#1-2">Project brief</a>
     </td>
   </tr>
   <!-- tr style = "vertical-align:top;">

@@ -4,7 +4,9 @@
 
 The [University of Edinburgh](https://www.ed.ac.uk) is hosting, for the second year, a university-certified, _10-credit_, online course in data visualisation with flexible schedule. The course runs in 2021 from __Tues, May 4th &ndash; Sat, July 10th (10 weeks)__ and is dedicated to professionals in---among others---finance, the sports industry, the creative industry, journalism, education and the public sector.
 
-Join our [open info session on MS Teams (installed application required)](https://teams.microsoft.com/l/meetup-join/19%3a774c5a632ca64cd3a730f4c726b054b0%40thread.tacv2/1618999263034?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%221c4cc21f-0698-4756-b656-1d9b7595893a%22%7d). The session gives an overview over the course and we will answer questions.
+Join our [open info session on MS Teams (installed application required)](https://teams.microsoft.com/l/meetup-join/19%3a774c5a632ca64cd3a730f4c726b054b0%40thread.tacv2/1618999263034?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%221c4cc21f-0698-4756-b656-1d9b7595893a%22%7d). The session gives an overview over the course and we will answer questions. Sessions are 
+* Thu, April 21, 6-7pm, BST
+* Mon, April 26, 6-7pm, BST
 
 This online course teaches how to
 * visually __explore__ data

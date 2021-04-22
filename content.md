@@ -25,7 +25,7 @@ The course is expected to require a total __time investment of 5-10h / week__, r
 * At least once a fortnight we will host a __1h live seminar by a guest speaker__ from academia or industry illustrating application of data visualisation in a variety of fields and the benefits this brings to creating value and gaining a competitive edge,
 * A __dedicated Slack/Teams channel__ will support networking and discussions.
 
-# Schedule
+# Schedule Overview
 
 Each week will focus on one key topic:
 
@@ -36,7 +36,7 @@ Each week will focus on one key topic:
 * __Weeks 9 &amp; 10__ conclude the course with a set of __advanced topics__, from which participants will select options to focus on, ideally in line with their project. 
 
 
-# Schedule
+# Detailed Schedule
 
 ### Week 1: Introduction and Foundations
 

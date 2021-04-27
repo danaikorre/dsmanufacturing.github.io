@@ -36,7 +36,7 @@ You do *not* qualify for fee waivers if all of the following applies:
 * anyone living in Scotland for less than 3 years for work purposes.
 * bachelor or master students currently enrolled in a Scottish university
 
-If you do not qualify by these measures, may qualify for funding under the new [*National Transition Training Fund*](https://www.myworldofwork.co.uk/national-transition-training-fund).  
+If you do not qualify for the SFC funding you may still qualify for funding under the new [*National Transition Training Fund*](https://www.myworldofwork.co.uk/national-transition-training-fund).  
 
 Please see [eligibility requirements for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), or contact [bayes-training@ed.ac.uk](mailto:bayes-training@ed.ac.uk) for more detail.
 

@@ -204,10 +204,10 @@ Please remember that while strongly encouraged, **participation in tutorials and
 * Week 1 has a slighly different schedule then the other weeks. 
 
 ### Week 1
-<img src = "../week1.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
+<img src = "week1.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
 
 ### Week 2
-<img src = "../week-normal.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
+<img src = "week-normal.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
 
 <br />
 

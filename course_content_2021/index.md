@@ -1,7 +1,10 @@
 
 # Course Content 
 
-This page contains links to resouces and the [course content](course_organisation) for the individual weeks. 
+This page contains links to 
+* resouces, 
+* the [course content](course_organisation) for the individual weeks as well as, 
+* the [Schedule](timetable). 
 
 ## Resources & Important Links
 
@@ -191,7 +194,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
 ***
 
 <a name = "timetable"></a>
-## Timetable - TBC
+## Timetable
 
 * The same tutorial runs twice a week to have smaller tutorial groups. The groups are A and B in the schedule. At the beginning of the course, you should choose which group you are in. 
 * A is running in the mornings, 

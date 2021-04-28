@@ -200,6 +200,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
 <img src = "../images/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
 
 <br />
+
 * __Please note there is an additional tutorial session during [week 1](../images/timetable_week1_only.png):__
   * T-1: Thurs 10-12:00 (BST)
   * T-2: Sat 09:30-11:30 (BST)

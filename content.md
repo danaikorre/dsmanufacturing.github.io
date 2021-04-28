@@ -92,7 +92,7 @@ This week is featuring no content but gives you time to work on your project. Yo
 
 ### Week 9: Evaluation
 
-This lecture covers techniques to assess if a given visualization technique (existing or your own creation) is “successful”. Successful is a broad term and refers to both effectiveness and efficiency in which a user or audience are supported in their analysis or understanding of the data. The lecture proposes a simple heuristic, Readability, Understandability, Supportiveness_, Truthfulness, Insightfulness and Communication
+This lecture covers techniques to assess if a given visualization technique (existing or your own creation) is “successful”. Successful is a broad term and refers to both effectiveness and efficiency in which a user or audience are supported in their analysis or understanding of the data. The lecture proposes a simple heuristic, Readability, Understandability, Supportiveness, Truthfulness, Insightfulness and Communication
 
 ### Week 10: Interaction
 

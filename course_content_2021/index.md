@@ -1,27 +1,22 @@
 
 # Course Content 
 
-## Resources
+## Resources & Important Links
 
 * **[Teams](http://bit.ly/DataVis4ProfTeams):** **note** you must be logged in to your Office365 account for this course for this link to work.   
-
 * **[Book 1-on-1](https://datavisonline.youcanbook.me)**. The booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available
-
 * **[VisGuides open discussion forum](https://visguides.org/)** about visualisation guidelines  
-
 * **[Learn VLE](http://bit.ly/sfcdv2021_on_learn)**; **note** you must be logged in to the university for this link to work.
- 
 * **[MyEd portal](https://www.myed.ed.ac.uk)**   
-
-* [Library](https://discovered.ed.ac.uk)
-
-* [Noteable - University of Edinburgh Jupyter Notebook](https://noteable.edina.ac.uk/launch)
+* **[Library](https://discovered.ed.ac.uk)** to obtain copies of books and papers. 
+* **[Noteable - University of Edinburgh Jupyter Notebook](https://noteable.edina.ac.uk/launch)**. The site provides an environment for Jupyter Notebooks.  
 
 ## [Assessment Guidelines](assessment.md)  
 
-Please note you **MUST** submit all [assignments](assessment.md) whether you attend tutorials or not. 
+The course has **four** assignments that need to be submitted to pass the course. Please note you **MUST** submit all [assignments](assessment.md) whether you attend tutorials or not. 
 
 ## [Tutorial Guidelines](tutorials.md)
+
 Please remember that while strongly encouraged, **participation in tutorials and all other interactive sessions is OPTIONAL**. Please read the [guidelines](tutorials.md) before attending your first interactive session; these take into account feedback from interaction with participants and the constraints inherent to a virtual classroom. 
 
 ***

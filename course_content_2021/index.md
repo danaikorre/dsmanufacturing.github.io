@@ -8,12 +8,14 @@ This page contains links to resouces and the [course content](course_organisatio
 Resources you may need during the course. 
 
 * **[Teams](http://bit.ly/DataVis4ProfTeams):** **note** you must be logged in to your Office365 account for this course for this link to work.   
-* **[Book 1-on-1](https://datavisonline.youcanbook.me)**. The booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available
-* **[VisGuides open discussion forum](https://visguides.org/)** about visualisation guidelines  
 * **[Learn VLE](http://bit.ly/sfcdv2021_on_learn)**; **note** you must be logged in to the university for this link to work.
 * **[MyEd portal](https://www.myed.ed.ac.uk)**   
 * **[Library](https://discovered.ed.ac.uk)** to obtain copies of books and papers. 
 * **[Noteable - University of Edinburgh Jupyter Notebook](https://noteable.edina.ac.uk/launch)**. The site provides an environment for Jupyter Notebooks.  
+
+* **[Book 1-on-1](https://datavisonline.youcanbook.me)**. The booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available
+
+* **[VisGuides open discussion forum](https://visguides.org/)** about visualisation guidelines  
 * **[Books](res-books.html)** about visualization
 * **[Blogs and Collections](res-collections.html)** about visualization.
 
@@ -21,7 +23,7 @@ Resources you may need during the course.
 
 * Tamara Munzner (2014) Visualization Analysis and Design: [UoE library link](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51246510430002466)
 * Alberto Cairo (2013) The Functional Art: An introduction to information graphics and visualization (Voices That Matter): [UoE Library Link](https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA21114830170002466&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,Alberto%20Cairo)
-* * Andy Kirk (2019) Data Visualization: A Handbook for Data Driven Design: [digital companion site](http://book.visualisingdata.com).
+* Andy Kirk (2019) Data Visualization: A Handbook for Data Driven Design: [digital companion site](http://book.visualisingdata.com).
 
 ## [Assessment Guidelines](../assessment.html)  
 
@@ -67,7 +69,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
       <a href="session-1-2#tutorial-project_brief">Formulating data visualisation brief</a><br/>
       <a href="session-1-2#tutorial-eda_1">EDA &ndash; Exploratory Data Analysis</a>
     </td><td>
-      <a href="session-1#assignment">Project brief</a>
+      <a href="session-1-2#assignment">Project brief</a>
     </td>
   </tr>
     
@@ -193,6 +195,10 @@ Please remember that while strongly encouraged, **participation in tutorials and
 
 * Tutorials 'a' and 'b' are the same. Choose one of the sessions T-a or T-b.
 * Q&As are opportunities for you to ask any question about course content and engage in public discussions with all of the participants. You may attend any or all Q&As.
+* __Note all times are BST__
 
-<!-- img src = "../images/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" / -->
+<img src = "../images/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
 
+* __Please note there is an additional tutorial session during week 1:__
+  * T-1: Thurs 10-12:00 (BST)
+  * T-2: Sat 09:30-11:30 (BST)

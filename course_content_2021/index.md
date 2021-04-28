@@ -193,14 +193,21 @@ Please remember that while strongly encouraged, **participation in tutorials and
 <a name = "timetable"></a>
 ## Timetable - TBC
 
-* Tutorials 'a' and 'b' are the same. Choose one of the sessions T-a or T-b.
-* Q&As are opportunities for you to ask any question about course content and engage in public discussions with all of the participants. You may attend any or all Q&As.
-* __Note all times are BST__
-
-<img src = "../images/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
-
-<br />
-
+* The same tutorial runs twice a week to have smaller tutorial groups. The groups are A and B in the schedule. At the beginning of the course, you should choose which group you are in. 
+* A is running in the mornings, 
+* B is running in the evenings (+ Saturday only in week 1) 
 * __Please note there is an additional tutorial session during [week 1](../images/timetable_week1_only.png):__
   * T-1: Thurs 10-12:00 (BST)
   * T-2: Sat 09:30-11:30 (BST)
+* There are 2 Lecture Q&As per week. They are opportunities for you to ask any question about course content and engage in public discussions with all of the participants. You may attend any or all Q&As. The content of these sessions depends on the participants asking questions. 
+* __Note all times are BST__
+* Week 1 has a slighly different schedule then the other weeks. 
+
+### Week 1
+<img src = "../week1.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
+
+### Week 2
+<img src = "../week-normal.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
+
+<br />
+

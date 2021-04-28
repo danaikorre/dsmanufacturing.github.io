@@ -1,36 +1,31 @@
 
 # Course Content 
 
-[Book 1-on-1](https://datavisonline.youcanbook.me)  
-  * booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available
-  
-<!-- [Discussion Board](https://datavisonline.slack.com) --> 
-[VisGuides open discussion forum](https://visguides.org/) &ndash; about visualisation guidelines  
-<br />
+## Resources
 
-#### Edinburgh University Online Resources
-[MyEd portal](https://www.myed.ed.ac.uk)   
-[Learn VLE](http://bit.ly/sfcdv2021_on_learn) &ndash; **note** you must be logged in to the university for this link to work  <!-- https://www.learn.ed.ac.uk -->  
-[Teams](http://bit.ly/DataVis4ProfTeams) &ndash; **note** you must be logged in to your Office365 account for this course for this link to work   
+* **[Teams](http://bit.ly/DataVis4ProfTeams):** **note** you must be logged in to your Office365 account for this course for this link to work.   
 
-[Library](https://discovered.ed.ac.uk)
-[Additional ]
-[Noteable - Edi Uni Jupyter Notebook ](https://noteable.edina.ac.uk/launch)
-<p>&nbsp;</p>
+* **[Book 1-on-1](https://datavisonline.youcanbook.me)**. The booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available
 
+* **[VisGuides open discussion forum](https://visguides.org/)** about visualisation guidelines  
 
-### [Assessment Guidelines](assessment.md)  
+* **[Learn VLE](http://bit.ly/sfcdv2021_on_learn)**; **note** you must be logged in to the university for this link to work.
+ 
+* **[MyEd portal](https://www.myed.ed.ac.uk)**   
+
+* [Library](https://discovered.ed.ac.uk)
+
+* [Noteable - University of Edinburgh Jupyter Notebook](https://noteable.edina.ac.uk/launch)
+
+## [Assessment Guidelines](assessment.md)  
+
 Please note you **MUST** submit all [assignments](assessment.md) whether you attend tutorials or not. 
-<p>&nbsp;</p>
 
-
-### [Tutorial Guidelines](tutorials.md)
+## [Tutorial Guidelines](tutorials.md)
 Please remember that while strongly encouraged, **participation in tutorials and all other interactive sessions is OPTIONAL**. Please read the [guidelines](tutorials.md) before attending your first interactive session; these take into account feedback from interaction with participants and the constraints inherent to a virtual classroom. 
-<p>&nbsp;</p>
 
 ***
 
-<p>&nbsp;</p>
 
 <a name = "course_organisation"></a>
 ## Course Organisation

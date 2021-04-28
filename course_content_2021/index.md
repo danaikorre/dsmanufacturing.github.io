@@ -1,7 +1,11 @@
 
 # Course Content 
 
+This page contains links to resouces and the [course content](course_organisation) for the individual weeks. 
+
 ## Resources & Important Links
+
+Resources you may need during the course. 
 
 * **[Teams](http://bit.ly/DataVis4ProfTeams):** **note** you must be logged in to your Office365 account for this course for this link to work.   
 * **[Book 1-on-1](https://datavisonline.youcanbook.me)**. The booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available
@@ -10,6 +14,8 @@
 * **[MyEd portal](https://www.myed.ed.ac.uk)**   
 * **[Library](https://discovered.ed.ac.uk)** to obtain copies of books and papers. 
 * **[Noteable - University of Edinburgh Jupyter Notebook](https://noteable.edina.ac.uk/launch)**. The site provides an environment for Jupyter Notebooks.  
+* **[Books](res-books.html)** about visualization
+* **[Blogs and Collections](res-collections.html)** about visualization.
 
 ## [Assessment Guidelines](assessment.md)  
 

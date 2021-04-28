@@ -98,7 +98,7 @@ This lecture covers techniques to assess if a given visualization technique (exi
 
 This lecture talks about the need for interaction in visualization and will present a range of interaction techniques for specific visualization related tasks: select, explore, reconfigure, encode, abstract, filter, connect.
 
-You will continue working on your project and **run a mini-evaluation** with your peers.
+You will continue work on your project and **run a mini-evaluation** with your peers.
 
 
 

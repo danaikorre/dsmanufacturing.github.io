@@ -17,7 +17,7 @@ Resources you may need during the course.
 * **[Books](res-books.html)** about visualization
 * **[Blogs and Collections](res-collections.html)** about visualization.
 
-## [Assessment Guidelines](assessment.md)  
+## [Assessment Guidelines](../assessment.html)  
 
 The course has **four** assignments that need to be submitted to pass the course. Please note you **MUST** submit all [assignments](assessment.md) whether you attend tutorials or not. 
 

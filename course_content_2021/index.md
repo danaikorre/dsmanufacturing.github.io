@@ -7,8 +7,8 @@ This page contains links to resouces and the [course content](course_organisatio
 
 Resources you may need during the course. 
 
-* **[Teams](http://bit.ly/DataVis4ProfTeams):** **note** you must be logged in to your Office365 account for this course for this link to work.   
-* **[Learn VLE](http://bit.ly/sfcdv2021_on_learn)**; **note** you must be logged in to the university for this link to work.
+* **[Teams](http://bit.ly/DataVis4ProfTeams2021):** **note** you must be logged in to your Office365 account for this course for this link to work.   
+* **[Learn VLE](http://bit.ly/sfcdv2021_on_learn)**: **note** you must be logged in to the university for this link to work.
 * **[MyEd portal](https://www.myed.ed.ac.uk)**   
 * **[Library](https://discovered.ed.ac.uk)** to obtain copies of books and papers. 
 * **[Noteable - University of Edinburgh Jupyter Notebook](https://noteable.edina.ac.uk/launch)**. The site provides an environment for Jupyter Notebooks.  

@@ -99,6 +99,7 @@ __Suggested Reading on Geographical Data:__
 
 # Quiz 
 Available end of the week 
+
 <!-- 
   1. [Basic Charts](https://bit.ly/sfcdv_quiz_3-1a)
   1. [Multidimensional Data](https://bit.ly/sfcdv_quiz_3-1b)

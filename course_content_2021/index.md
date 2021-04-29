@@ -89,7 +89,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <!-- a href="session-2#tutorial-design-sketching" -->Design (Sketching)<!-- /a --><br/>
     </td><td>
-      <!-- a href="session-2#assignment" -->Project design</a>
+      <!-- a href="session-2#assignment" -->Project design<!-- /a -->
     </td>
   </tr>
  
@@ -102,7 +102,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <!-- a href="session-3#tutorial-tool-marketplace" -->Visualisation tools marketplace<!-- /a --><br/>
     </td><td>
-     <!-- a href="session-3#assignment" -->Tool review</a>
+     <!-- a href="session-3#assignment" -->Tool review<!-- /a -->
     </td>
   </tr>
   
@@ -126,7 +126,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     <td style = "vertical-align:top;">
       <!-- a href="session-5#lecture" -->Visualization Techniques II/II<!-- /a --><br/>
     </td><td>
-      <!-- a href="session-5#tutorial-critical-analysis" -->Critical analysis &amp; reflection</a>
+      <!-- a href="session-5#tutorial-critical-analysis" -->Critical analysis &amp; reflection<!-- /a -->
     </td><td>
       Update project brief &amp; design
     </td>
@@ -137,9 +137,9 @@ Please remember that while strongly encouraged, **participation in tutorials and
   </tr><tr style = "vertical-align:top;">
     <td><!-- a href="session-6" -->6<!-- /a --></td>
     <td style = "vertical-align:top;">
-      <!-- a href="session-6#lecture" -->Storytelling</a>
+      <!-- a href="session-6#lecture" -->Storytelling<!-- /a -->
     </td><td>
-      <!-- a href="session-7#tutorial-programming_clinic_1" -->Programming clinic</a>
+      <!-- a href="session-7#tutorial-programming_clinic_1" -->Programming clinic<!-- /a -->
     </td><td>
     </td>
   </tr>
@@ -149,7 +149,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
   </tr><tr style = "vertical-align:top;">
     <td><!-- a href="session-7" -->7<!-- /a --></td>
     <td style = "vertical-align:top;">
-      <!-- a href="session-7#lecture" -->Data Physicalisation & Personal Data Visualisation</a>
+      <!-- a href="session-7#lecture" -->Data Physicalisation & Personal Data Visualisation<!-- /a -->
     </td><td>
       Implementation &ndash; project
     </td><td>
@@ -170,11 +170,11 @@ Please remember that while strongly encouraged, **participation in tutorials and
   </tr><tr style = "vertical-align:top;">
     <td><!-- a href="session-9" -->9<!-- /a --></td>
     <td style = "vertical-align:top;">
-      <!-- a href="session-9#lecture" -->Evaluation</a>
+      <!-- a href="session-9#lecture" -->Evaluation<!-- /a -->
     </td><td>
-      <!-- a href="session-9#tutorial-usability-evaluation" -->Usability evaluation</a>
+      <!-- a href="session-9#tutorial-usability-evaluation" -->Usability evaluation<!-- /a -->
     </td><td>
-      <!-- a href="session-9#assessment-project_evaluation_plan" -->Project evaluation plan</a>
+      <!-- a href="session-9#assessment-project_evaluation_plan" -->Project evaluation plan<!-- /a -->
     </td>
   </tr>
   

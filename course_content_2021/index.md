@@ -28,9 +28,7 @@ Resources you may need during the course.
 * Alberto Cairo (2013) The Functional Art: An introduction to information graphics and visualization (Voices That Matter): [UoE Library Link](https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA21114830170002466&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,Alberto%20Cairo)
 * Andy Kirk (2019) Data Visualization: A Handbook for Data Driven Design: [digital companion site](http://book.visualisingdata.com).
 
-## Assessment Guidelines
-
-<!-- [](../assessment.html) -->
+## [Assessment Guidelines](assessment.md)
 
 In addition to the final project, the course has **three** assignments that need to be submitted to pass. Please note you **MUST** submit all [assignments](assessment.md) whether you attend tutorials or not. You must also attempt weekly quizzes.
 

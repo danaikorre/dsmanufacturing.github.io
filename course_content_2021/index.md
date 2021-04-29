@@ -210,7 +210,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
 ### Week 1
 <img src = "../images/timetable_week1_only.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
 
-### Weeks 2&ndash;8, 10
+### Weeks 2&ndash;10
 <img src = "../images/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
 
 <br />

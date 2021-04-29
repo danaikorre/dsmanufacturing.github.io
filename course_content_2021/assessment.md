@@ -30,7 +30,7 @@ back to main [schedule](index.md)
  
 #### Grading &amp; feedback
  * Quizzes matched to a week's lecture topics will be released by the end of each week. At the start of the following week a standard set of solutions for free text questions will be made available, to guide discussions of quiz questions during the Q&A sessions.  
- * Quizzes are graded as complete/incmplete.
+ * Quizzes are graded as complete/incomplete.
 <br />
 
 While we recommend completing quizzes on a weekly basis, you may choose to attempt them at any time during the course. **The final deadline for all quizzes is 23:59 on Jul 10th.** 

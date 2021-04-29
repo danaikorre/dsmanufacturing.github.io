@@ -75,41 +75,42 @@ Please remember that while strongly encouraged, **participation in tutorials and
       <a href="session-1-2#assignment">Project brief</a>
     </td>
   </tr>
+
     
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 2 &ndash; May 10</h4></th>
   </tr><tr style = "vertical-align:top;">
-   <td><a href="session-2">2</a></td>
+   <td><!-- a href="session-2" -->2<!-- /a --></td>
    <td>
-      <a href="session-2#lecture">Visualization Design</a><br/>
+      <!-- a href="session-2#lecture" -->Visualization Design<!-- /a --><br/>
     </td><td>
-      <a href="session-2#tutorial-design-sketching">Design (Sketching)</a><br/>
+      <!-- a href="session-2#tutorial-design-sketching" -->Design (Sketching)<!-- /a --><br/>
     </td><td>
-      <a href="session-2#assignment">Project design</a>
+      <!-- a href="session-2#assignment" -->Project design</a>
     </td>
   </tr>
  
   <tr style = "vertical-align:top;">
      <th colspan = "4"><h4>Week 3 &ndash; May 17</h4></th>
   </tr><tr style = "vertical-align:top;">
-   <td><a href="session-3">3</a></td>
+   <td><!-- a href="session-3" -->3<!-- /a --></td>
     <td>
-       <a href="session-3#lecture">Visualization Tools</a><br/>
+       <!-- a href="session-3#lecture" -->Visualization Tools<!-- /a --><br/>
     </td><td>
-      <a href="session-3#tutorial-tool-marketplace">Visualisation tools marketplace</a><br/>
+      <!-- a href="session-3#tutorial-tool-marketplace" -->Visualisation tools marketplace<!-- /a --><br/>
     </td><td>
-     <a href="session-3#assignment">Tool review</a>
+     <!-- a href="session-3#assignment" -->Tool review</a>
     </td>
   </tr>
   
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 4 &ndash; May 24</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td><a href="session-4">4</a></td>
+    <td><!-- a href="session-4" -->4<!-- /a --></td>
     <td style = "vertical-align:top;">
-      <a href="session-4#lecture">Visualization Techniques I/II</a><br/>
+      <!-- a href="session-4#lecture" -->Visualization Techniques I/II<!-- /a --><br/>
     </td><td>
-      <a href="session-4#tutorial-eda-project-data">EDA &ndash; project data</a><br/>
+      <!-- a href="session-4#tutorial-eda-project-data" -->EDA &ndash; project data<!-- /a --><br/>
     </td><td>
       Update project brief &amp; design
     </td>
@@ -118,11 +119,11 @@ Please remember that while strongly encouraged, **participation in tutorials and
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 5 &ndash; May 31</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td><a href="session-5">5</a></td>
+    <td><!-- a href="session-5" -->5<!-- /a --></td>
     <td style = "vertical-align:top;">
-      <a href="session-5#lecture">Visualization Techniques II/II</a><br/>
+      <!-- a href="session-5#lecture" -->Visualization Techniques II/II<!-- /a --><br/>
     </td><td>
-      <a href="session-5#tutorial-critical-analysis">Critical analysis &amp; reflection</a>
+      <!-- a href="session-5#tutorial-critical-analysis" -->Critical analysis &amp; reflection</a>
     </td><td>
       Update project brief &amp; design
     </td>
@@ -131,21 +132,21 @@ Please remember that while strongly encouraged, **participation in tutorials and
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 6 &ndash; Jun 07</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td><a href="session-6">6</a></td>
+    <td><!-- a href="session-6" -->6<!-- /a --></td>
     <td style = "vertical-align:top;">
-      <a href="session-6#lecture">Storytelling</a>
+      <!-- a href="session-6#lecture" -->Storytelling</a>
     </td><td>
-      <a href="session-7#tutorial-programming_clinic_1">Programming clinic</a>
-    </td><td>      
+      <!-- a href="session-7#tutorial-programming_clinic_1" -->Programming clinic</a>
+    </td><td>
     </td>
   </tr>
   
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 7 &ndash; Jun 14</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td><a href="session-7">7</a></td>
+    <td><!-- a href="session-7" -->7<!-- /a --></td>
     <td style = "vertical-align:top;">
-      <a href="session-7#lecture">Data Physicalisation & Personal Data Visualisation</a>
+      <!-- a href="session-7#lecture" -->Data Physicalisation & Personal Data Visualisation</a>
     </td><td>
       Implementation &ndash; project
     </td><td>
@@ -164,22 +165,22 @@ Please remember that while strongly encouraged, **participation in tutorials and
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 9 &ndash; Jun 28</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td><a href="session-9">9</a></td>
+    <td><!-- a href="session-9" -->9<!-- /a --></td>
     <td style = "vertical-align:top;">
-      <a href="session-9#lecture">Evaluation</a>
+      <!-- a href="session-9#lecture" -->Evaluation</a>
     </td><td>
-      <a href="session-9#tutorial-usability-evaluation">Usability evaluation</a>
+      <!-- a href="session-9#tutorial-usability-evaluation" -->Usability evaluation</a>
     </td><td>
-      <a href="session-9#assessment-project_evaluation_plan">Project evaluation plan</a>
+      <!-- a href="session-9#assessment-project_evaluation_plan" -->Project evaluation plan</a>
     </td>
   </tr>
   
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 10 &ndash; Jul 05</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td><a href="session-10">10</a></td>
+    <td><!-- a href="session-10" -->10<!-- /a --></td>
     <td style = "vertical-align:top;">
-     <a href="session-10#lecture">Interaction</a><br/>
+     <!-- a href="session-10#lecture" -->Interaction<!-- /a --><br/>
     </td><td>
       Implementation &ndash; project
     </td><td>
@@ -209,7 +210,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
 ### Week 1
 <img src = "../images/timetable_week1_only.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
 
-### Weeks 2&ndash;10
+### Weeks 2&ndash;8, 10
 <img src = "../images/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
 
 <br />

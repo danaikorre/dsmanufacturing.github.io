@@ -1,7 +1,7 @@
 # Tutorials
 
 **Please remember that while strongly encouraged, participation in tutorials and all other interactive sessions are OPTIONAL**.  
-Please note the following guidelines, which take into account feedback from interaction with participants and the constraints inherent to a virtual classroom. Please note also you **MUST** submit all [assignments](assessment.md) whether you attend tutorials or not. 
+Please note the following guidelines, which take into account feedback from interaction with participants and the constraints inherent to a virtual classroom. Please note also you **MUST** submit all assignments whether you attend tutorials or not. 
 <p>&nbsp;</p>
 
 
@@ -10,7 +10,7 @@ Please note the following guidelines, which take into account feedback from inte
 1. Tutorials will **start on time**. Please sign in ~5min in advance to minimise disruption to the rest of the class. Most sessions will start with a brief central classroom discussion, Q&A and/or prep for the session's activities.
     - There will be a tutor in the room at least 10min before start, this is a good time to double check technical requirements,  ask any questions specific to the session's structure or highlight special adjustments you may need for the session. 
     - Especially because we can only partially simulate a physical classroom, it is also perfectly fine during this period to use the chat functionality to catch up or chat informally with tutors and other participants.
-1. We ask that you remain within the session (T-a or T-b) you select at the start of the course. However, if your personal circumstances impact your attendance please speak to a course tutor about switching to a different schedule.
+1. We ask that you remain within the session (A or B) you select at the start of the course. However, if your personal circumstances impact your attendance please speak to a course tutor about switching to a different schedule.
 1. Most activities will have a combination of group and individual work. Most group work will have participants assigned to specific groups, mainly to ensure relatively even distribution of domain/sector or technical experience across groups. To support exchange of ideas and perspectives, as well as networking, group membership will change across tutorials.
     - Note that group activities will be set up to ensure private or otherwise sensitive data and interests are not shared.
     - If you have special requirements that necessitate moving from a specified group please speak to a course tutor in the first instance.
@@ -22,7 +22,7 @@ Please note the following guidelines, which take into account feedback from inte
 <br />
 
 ### Virtual classroom &amp; resources
-* We will use the [MS Teams](http://bit.ly/DataVis4ProfTeams) environment for all interactive sessions. You will receive by e-mail (to your university address) an access link. Tools included:
+* We will use the [MS Teams](http://bit.ly/DataVis4ProfTeams2021) environment for all interactive sessions. You will receive by e-mail (to your university address) an access link. Tools included:
     - whiteboard 
     - slideshow
     - file sharing

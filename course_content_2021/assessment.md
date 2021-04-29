@@ -164,9 +164,9 @@ back to main [schedule](index.md)
     <td><b><i>Fri, July 16, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
-     Complete the exercise in <!-- a href="tutorials.html#5-2" -->tutorial 5-2<!-- /a -->.  Summarise your plan on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="session-5-2#guidelines_evaluation_plan">guidelines & best practice for creating an evaluation plan</a>. Include as an appendix any additional documents, e.g., task lists, questionnaires and scenario descriptions.
+     Complete the exercise in <!-- a href="tutorials.html#5-2" -->tutorial 5-2<!-- /a -->.  Summarise your plan on a single page, taking into account also any feedback and discussions during the tutorial, and the <!-- a href="session-9#guidelines_evaluation_plan" -->guidelines & best practice for creating an evaluation plan<!-- /a -->. Include as an appendix any additional documents, e.g., task lists, questionnaires and scenario descriptions.
      <br/><br/>
-     Attach a copy of your evaluation proposal to your final project and submit to <a href="https://bit.ly/final_project_submission">Learn</a> (link available from 12:00 on Jul 12th).
+     Attach a copy of your evaluation proposal to your final project and submit to <!-- a href="https://bit.ly/final_project_submission_2021" -->Learn<!-- /a --> (link available from 12:00 on Jul 12th).
     </td>
   </tr>
 </table>

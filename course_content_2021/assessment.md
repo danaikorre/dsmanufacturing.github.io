@@ -19,8 +19,8 @@ back to main [schedule](index.md)
 
 ## General Submission Guidelines
 
-1. Formal assessment must be submitted through Learn. Quizzes and assignments must be labelled using your student ID only (s followed by 7 numbers); please ensure you do not include any personally identifiable information. 
-1. In-session exercises should be labelled with your student ID  (individual)  or group number, date and exercise number, and uploaded to the shared space for the tutorial in question. 
+1. Formal assessment must be submitted through Learn. Quizzes and assignments must be labelled using your student ID only (s followed by 7 numbers). If you have not been assigned a student ID please request a unique identifier from the course organisers to use instead. Please ensure you do not include any personally identifiable information on submissions as all work is marked anonymously. 
+1. In-session exercises should be labelled with your student ID  (individual)  or group number, date and exercise number, and uploaded to the team channel for the tutorial in question. 
 
 ### Quizzes
  * Require selection from a multi-choice list and/or a brief written answer
@@ -29,11 +29,11 @@ back to main [schedule](index.md)
    * up to 5 bullet points
  
 #### Grading &amp; feedback
- * You may attempt each quiz up to 3 times; your highest score will feed into your overall grade
- * There will be a short delay between quiz submission and grading. You will receive an overall score and breakdown by question, in addition to written feedback for the first attempt at any question that has a written component.
+ * Quizzes matched to a week's lecture topics will be released by the end of each week. At the start of the following week a standard set of solutions for free text questions will be made available, to guide discussions of quiz questions during the Q&A sessions.  
+ * Quizzes are graded as complete/incmplete.
 <br />
 
-**All quizzes must be completed by 23:59 on Jul 17th.**
+While we recommend completing quizzes on a weekly basis, you may choose to attempt them at any time during the course. **The final deadline for all quizzes is 23:59 on Jul 10th.** 
 <p>&nbsp;</p>
 
 
@@ -55,7 +55,7 @@ back to main [schedule](index.md)
  * No penalty will be applied if you submit assignments after their due date. However, priority for providing feedback moves to the next assignment after each cutoff; unless you have obtained special dispensation you may not receive individual feedback in time to apply this to subsequent assignments and your final project.
 <br />
  
-**All assignments must be submitted by 23:59 on Jul 17th.**
+**All assignments must be submitted by 23:59 on Jul 10th.**
 <p>&nbsp;</p>
 
  
@@ -63,18 +63,13 @@ back to main [schedule](index.md)
 ### Final Project
 
 The final submission will include findings and lessons learnt from exercises completed as the course progresses.  
-* [Requirements &amp; guidelines for project report](final_project_report.md)  
-* [Submission link on Learn](https://bit.ly/final_project_submission) &ndash; __will be available from 12:00 on Jul 22nd__
+* Requirements &amp; guidelines for project report will be made available after week 6.  <!-- [](final_project_report.md)  -->
+* The submission link on Learn __will be available from 12:00 on Jul 12th__
 
-**Your project must be submitted by 23:59 on Jul 24th.**
+**Your project must be submitted by 23:59 on Jul 16th.**
 <p>&nbsp;</p>
 
 back to main [schedule](index.md)  
-
-<!-- 
-[Lectures](lectures.md)  
-[Tutorials](utorials.md)
- -->
  
 <p>&nbsp;</p>
 
@@ -94,11 +89,11 @@ back to main [schedule](index.md)
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td><b><i>Formulating data visualisation brief</i></b></td>
-    <td><b><i>Mon, June 22, 23:59</i></b></td>
+    <td><b><i>Mon, May 17, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
-     Complete the exercise in <a href="tutorials.html#1-2a">tutorial 1-2</a>. Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="tutorials.html#guidelines_defining_project_brief">guidelines for defining a brief</a>.<br/>
-      Submit a copy of your brief to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>.
+     Complete the exercise in <a href="session-1-2.md#tutorial-project_brief">tutorial 1-2</a>. Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="session-1-2.md#guidelines_defining_project_brief">guidelines for defining a brief</a>.<br/>
+      Submit a copy of your brief to <!-- a href="https://bit.ly/submission_reflection_exercises_2021" -->Learn<!-- /a -->.
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2"> </td>
@@ -108,11 +103,11 @@ back to main [schedule](index.md)
       <b>Week 2: Session 2-1</b></td>
   </tr><tr style = "vertical-align:top;">
     <td><b><i>Design &ndash; Sketching</i></b></td>
-    <td><b><i>Mon, June 29, 23:59</i></b></td>
+    <td><b><i>Mon, May 24, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
-     Complete the exercise in <a href="tutorials_week_2.md#2-1">tutorial 2-1</a>. Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).<br/>
-      Submit a copy of your design to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>. 
+     Complete the exercise in <a href="session-2#tutorial-design-sketching">tutorial 2-1</a>. Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).<br/>
+      Submit a copy of your design to <!-- a href="https://bit.ly/submission_reflection_exercises_2021" -->Learn<!-- /a -->. 
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2"> </td>
@@ -122,7 +117,7 @@ back to main [schedule](index.md)
       <b>Week 2: Session 2-2b</b></td>
   </tr><tr style = "vertical-align:top;">
     <td><b><i>Tool Review</i></b></td>
-    <td><b><i>Mon, July 06, 23:59</i></b></td>
+    <td><b><i>Mon, June 07, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
      Select from existing or add a new tool to the <a href="https://vistools.net">VisBrowser</a>. Based on exploration or previous experience of this tool, and usage with your project data, submit a brief review of at least two tools.<p>&nbsp;</p>
@@ -130,12 +125,12 @@ back to main [schedule](index.md)
      <ol>
       <li>Identify up to 3 tools that meet all or a subset of the requirements for your project.</li>
       <li>Map your project requirements to visualisation options in your selected tools.</li>
-      <li>Place each tool in a quadrant of the <i>Tool Marketplace Matrix</i> (download a copy as <a href="files/tool_marketplace_matrix.png">png</a>, <a href="files/tool_marketplace_matrix.pdf">pdf</a> or <a href="files/tool_marketplace_matrix.pptx">pptx</a>. Copies also available in the <a href="https://bit.ly/sfcdv_additional_resources">resources folder on Learn</a>.)</li>
+      <li>Place each tool in a quadrant of the <i>Tool Marketplace Matrix</i> (download a copy as <a href="files/tool_marketplace_matrix.png">png</a>, <a href="files/tool_marketplace_matrix.pdf">pdf</a> or <a href="files/tool_marketplace_matrix.pptx">pptx</a>.)</li>
       <li>Review your preferred tool in the <a href="https://vistools.net">VisBrowser</a> (add a new tool if necessary).</li>
       <li>Update your challenge brief to reflect your choices.</li>
      </ol>
      <br/>
-      Submit a copy of your updated brief and your annotated matrix, along with a copy of your review, to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>.
+      Submit a copy of your updated brief and your annotated matrix, along with a copy of your review, to <!-- a href="https://bit.ly/submission_reflection_exercises_2021" -->Learn<!-- /a -->.
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2"> </td>
@@ -145,7 +140,7 @@ back to main [schedule](index.md)
       <b>Week 5: Session 5-1</b></td>
   </tr><tr style = "vertical-align:top;">
     <td><b><i>Finalise Project Brief</i></b></td>
-    <td><b><i>Fri, July 24, 23:59</i></b></td>
+    <td><b><i>Fri, July 16, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
       Update your project brief; consider the following points, along with all feedback to this point:
@@ -156,7 +151,7 @@ back to main [schedule](index.md)
         <li>Reflect on what you learnt from what didn't work; consider your initial ideas, designs and prototypes, and evolution of your project as the course progressed.</li> 
       </ol>
     <br/>
-      Submit your final project description, with a copy of or link to a working prototype, to <a href="https://bit.ly/final_project_submission">Learn</a> (link available from 12:00 on Jul 22nd).
+      Submit your final project description, with a copy of or link to a working prototype, to <!-- a href="https://bit.ly/final_project_submission_2021" -->Learn<!-- /a --> (link available from 12:00 on Jul 12th).
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2"> </td>
@@ -166,12 +161,12 @@ back to main [schedule](index.md)
       <b>Week 5: Session 5-2</b></td>
   </tr><tr style = "vertical-align:top;">
     <td><b><i>Evaluation Plan &ndash; Final Project</i></b></td>
-    <td><b><i>Fri, July 24, 23:59</i></b></td>
+    <td><b><i>Fri, July 16, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
      Complete the exercise in <!-- a href="tutorials.html#5-2" -->tutorial 5-2<!-- /a -->.  Summarise your plan on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="session-5-2#guidelines_evaluation_plan">guidelines & best practice for creating an evaluation plan</a>. Include as an appendix any additional documents, e.g., task lists, questionnaires and scenario descriptions.
      <br/><br/>
-     Attach a copy of your evaluation proposal to your final project and submit to <a href="https://bit.ly/final_project_submission">Learn</a> (link available from 12:00 on Jul 22nd).
+     Attach a copy of your evaluation proposal to your final project and submit to <a href="https://bit.ly/final_project_submission">Learn</a> (link available from 12:00 on Jul 12th).
     </td>
   </tr>
 </table>

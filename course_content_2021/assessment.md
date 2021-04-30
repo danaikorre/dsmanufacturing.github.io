@@ -100,13 +100,13 @@ back to main [schedule](index.md)
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2">
       <a name = "2-1"></a>
-      <b>Week 2: Session 2-1</b></td>
+      <b>Week 2: Session 2</b></td>
   </tr><tr style = "vertical-align:top;">
     <td><b><i>Design &ndash; Sketching</i></b></td>
     <td><b><i>Mon, May 24, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
-     Complete the exercise in <a href="session-2#tutorial-design-sketching">tutorial 2-1</a>. Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).<br/>
+     Complete the exercise in <a href="session-2#tutorial-design-sketching">tutorial 2</a>. Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).<br/>
       Submit a copy of your design to <!-- a href="https://bit.ly/submission_reflection_exercises_2021" -->Learn<!-- /a -->. 
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
@@ -114,7 +114,7 @@ back to main [schedule](index.md)
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2">
       <a name = "2-2b"></a>
-      <b>Week 2: Session 2-2b</b></td>
+      <b>Week 2: Session 3</b></td>
   </tr><tr style = "vertical-align:top;">
     <td><b><i>Tool Review</i></b></td>
     <td><b><i>Mon, June 07, 23:59</i></b></td>

@@ -74,8 +74,6 @@ Available end of the week
 ***
 
 
-# Tutorial
-
 <a name = "tutorial-design-sketching"></a>
 # Tutorial: Design (Sketching)
 
@@ -192,7 +190,7 @@ Giorgia Lupi (2015) [Sketching with Data Opens the Mind's Eye, National Geograph
 
 Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).
 
-Submit a copy of your design to <!-- a href="https://bit.ly/submission_reflection_exercises" -->Learn<!-- /a -->; the submission link will be available from noon on the 14th of May. 
+Submit a copy of your design to <!-- a href="https://bit.ly/submission_reflection_exercises" -->Learn<!-- /a -->; the submission link will be available from noon on the 21st of May. 
       
 
 <p>&nbsp;</p>

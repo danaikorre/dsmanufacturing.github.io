@@ -100,7 +100,7 @@ back to main [schedule](index.md)
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2">
       <a name = "2-1"></a>
-      <b>Week 2: Session 2</b></td>
+      <b>Week 2</b></td>
   </tr><tr style = "vertical-align:top;">
     <td><b><i>Design &ndash; Sketching</i></b></td>
     <td><b><i>Mon, May 24, 23:59</i></b></td>
@@ -114,7 +114,7 @@ back to main [schedule](index.md)
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2">
       <a name = "2-2b"></a>
-      <b>Week 2: Session 3</b></td>
+      <b>Week 3</b></td>
   </tr><tr style = "vertical-align:top;">
     <td><b><i>Tool Review</i></b></td>
     <td><b><i>Mon, June 07, 23:59</i></b></td>
@@ -136,8 +136,8 @@ back to main [schedule](index.md)
     <td colspan = "2"> </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2">
-      <a name = "5-1"></a>
-      <b>Week 5: Session 5-1</b></td>
+      <a name = "8"></a>
+      <b>Week 8</b></td>
   </tr><tr style = "vertical-align:top;">
     <td><b><i>Finalise Project Brief</i></b></td>
     <td><b><i>Fri, July 16, 23:59</i></b></td>
@@ -157,14 +157,14 @@ back to main [schedule](index.md)
     <td colspan = "2"> </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2">
-      <a name = "5-2"></a>
-      <b>Week 5: Session 5-2</b></td>
+      <a name = "9"></a>
+      <b>Week 9</b></td>
   </tr><tr style = "vertical-align:top;">
     <td><b><i>Evaluation Plan &ndash; Final Project</i></b></td>
     <td><b><i>Fri, July 16, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
-     Complete the exercise in <!-- a href="tutorials.html#5-2" -->tutorial 5-2<!-- /a -->.  Summarise your plan on a single page, taking into account also any feedback and discussions during the tutorial, and the <!-- a href="session-9#guidelines_evaluation_plan" -->guidelines & best practice for creating an evaluation plan<!-- /a -->. Include as an appendix any additional documents, e.g., task lists, questionnaires and scenario descriptions.
+     Complete the exercise in <!-- a href="session-9#evaluation_plan" -->tutorial 9<!-- /a -->.  Summarise your plan on a single page, taking into account also any feedback and discussions during the tutorial, and the <!-- a href="session-9#guidelines_evaluation_plan" -->guidelines & best practice for creating an evaluation plan<!-- /a -->. Include as an appendix any additional documents, e.g., task lists, questionnaires and scenario descriptions.
      <br/><br/>
      Attach a copy of your evaluation proposal to your final project and submit to <!-- a href="https://bit.ly/final_project_submission_2021" -->Learn<!-- /a --> (link available from 12:00 on Jul 12th).
     </td>

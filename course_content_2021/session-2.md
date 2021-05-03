@@ -28,7 +28,7 @@ back to [course content](index#course_organisation)
 
 
 ### Videos
-* [Datavis-2.1: Outline (2:28)](https://drive.google.com/file/d/1vPVDgYXknLEFq5rI_Prlw8Emr1QJwqtz/view?usp=sharing)
+* [Datavis-2.1: Outline (2:28)](https://drive.google.com/file/d/1zdz7Qv3-sT9HE1HCgIRTpDGxODn_zrXf/view?usp=sharing)
 * [Datavis-2.2: Visual Perception (8:25)](https://drive.google.com/file/d/1Whd0QFshIb_LcCJqjvxWLtVimLlBcl06/view?usp=sharing)  
 * [Datavis-2.3: Gestalt Laws (12:24)](https://drive.google.com/file/d/1LU_WA46zNphqz0yjkJn4Jg-6im78fnWE/view?usp=sharing) 
 * [Datavis-2.4: Data Types (12:15)](https://drive.google.com/file/d/1wzYroSHsSuA9DMjbuXUmOkHIHb_VFKoa/view?usp=sharing)
@@ -39,13 +39,13 @@ back to [course content](index#course_organisation)
 * [Datavis-2.9: Sketching (12:11)](https://drive.google.com/file/d/19tveyPes-RNDs5KAX8whtvtzB0Uxre8M/view?usp=sharing)
 
 ### Videos (extra)
-* [Color for DataVis (15:51)](https://drive.google.com/file/d/1OJNjjLYsTCd9earLEzwjXYNr2miHwIVZ/view?usp=sharing)
-* [Sequential Scales (11:31)](https://drive.google.com/file/d/1TOykUUalawuGTwF2cC1fcX6Eoo5LIErf/view?usp=sharing)
-* [Diverging Scales (2:32)](https://drive.google.com/file/d/1p0CsQmmy8yRU1hlJf5kdEyiEq64urz9g/view?usp=sharing)
-* [Categorical Scales (5:47)](https://drive.google.com/file/d/16bzJift_T4CTpppOLCIT-hIMlwpKqkEY/view?usp=sharing)
-* [Rainbow Color Maps (11:51)](https://drive.google.com/file/d/1ptX7fk93_e72EfOR2SbMsbEa1gDizqCl/view?usp=sharing)
-* [Color Blindness (6:27)](https://drive.google.com/file/d/1wr8oO-D4qdQ4YYALfWdW9ctOTOBLI5K7/view?usp=sharing)
-* [Further Applications in DataVis (4:19)](https://drive.google.com/file/d/1EGYzRpaJZ9ZKlzIbYaR-t1pbFPkgnHTA/view?usp=sharing)
+* [Color for DataVis (15:51)](https://drive.google.com/file/d/1pCYG_9rxPkvQTir9MOihBcgtFMs6NhDN/view?usp=sharing)
+* [Sequential Scales (11:31)](https://drive.google.com/file/d/1v9Ad8QEdh1GNjdvvDxm94nEF5AGnp7Pa/view?usp=sharing)
+* [Diverging Scales (2:32)](https://drive.google.com/file/d/1BgBNQeAHTghkTTJIdF2Q287GaGfnSUpi/view?usp=sharing)
+* [Categorical Scales (5:47)](https://drive.google.com/file/d/1lUsuLuxSFdUUNDrxoUW9srfnoue4jT6z/view?usp=sharing)
+* [Rainbow Color Maps (11:51)](https://drive.google.com/file/d/1lUsuLuxSFdUUNDrxoUW9srfnoue4jT6z/view?usp=sharing)
+* [Color Blindness (6:27)](https://drive.google.com/file/d/1-j31-H48SsWm0PHJuNhpTvL8742qLi_I/view?usp=sharing)
+* [Further Applications in DataVis (4:19)](https://drive.google.com/file/d/1Tr_Rf_sca6D9oYSUYYT57-37EEB1yfAE/view?usp=sharing)
 
 <br />
 

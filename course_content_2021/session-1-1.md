@@ -135,7 +135,7 @@ https://www.whatdotheyknow.com/request/224813/response/560395/attach/3/London%20
     * Is it possible to communicate the message intended without distorting data content or otherwise actively misleading?
         - if so, how would you redesign each to communicate the story intended or actual data content?
     
-Upload your annotated, redesign sketches to the [shared tutorial space](https://bit.ly/tutorial1-1b_sfcdv_jun2000).
+Upload your annotated, redesign sketches to the tutorial channel.
 <p>&nbsp;</p>
 
 

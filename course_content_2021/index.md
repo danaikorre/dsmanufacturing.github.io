@@ -17,8 +17,8 @@ Resources you may need during the course.
 * **[Noteable - University of Edinburgh Jupyter Notebook](https://noteable.edina.ac.uk/launch)**. The site provides an environment for Jupyter Notebooks.  
 * **[Book 1-on-1](https://datavisonline.youcanbook.me)**. The booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available
 * **[VisGuides open discussion forum](https://visguides.org/)** about visualisation guidelines  
-* **[Books](res-books.html)** about visualization
-* **[Blogs and Collections](res-collections.html)** about visualization.
+* **[Books](https://visualinteractivedata.github.io/res-books)** about visualization
+* **[Blogs and Collections](https://visualinteractivedata.github.io/res-collections.html)** about visualization.
 
 ## Recommended Books for the Course: 
 

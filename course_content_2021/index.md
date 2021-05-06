@@ -18,7 +18,7 @@ Resources you may need during the course.
 * **[Library](https://discovered.ed.ac.uk)** to obtain copies of books and papers. 
 
 * **[Noteable - University of Edinburgh Jupyter Notebook](https://noteable.edina.ac.uk/launch)**. The site provides an environment for Jupyter Notebooks.  
-* **[University software](https://www.ed.ac.uk/information-services/computing/desktop-personal/software)**
+* **[University software services](https://www.ed.ac.uk/information-services/computing/desktop-personal/software)**
 
 * **[VisGuides open discussion forum](https://visguides.org/)** about visualisation guidelines  
 * **[Books](https://visualinteractivedata.github.io/res-books)** about visualization

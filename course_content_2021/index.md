@@ -3,8 +3,8 @@
 
 This page contains links to 
 * resouces, 
-* the [course content](course_organisation) for the individual weeks as well as, 
-* the [Schedule](timetable). 
+* the [course content](#course_organisation) for the individual weeks as well as, 
+* the [Schedule](#timetable). 
 
 ## Resources & Important Links
 

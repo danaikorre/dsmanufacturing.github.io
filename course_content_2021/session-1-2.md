@@ -228,9 +228,10 @@ Available via [Teams](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb
 1. <a name = "ref-nrs-2019pop_estimates"></a> [NRS population data 2019 mid year estimate](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2019)
 1. <a name = "ref-nrs-2019time_series"></a> [Population Estimates Time Series Data](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/population-estimates-time-series-data)
 
-* Tutorial supplement &ndash; access via [Teams](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Acd04910630ee403989ee3bf3e24f0e5e%40thread.tacv2&ctx=channel&context=Additional%2520Resources&rootfolder=%252Fsites%252FDataVis4Professionals%252FShared%2520Documents%252FGeneral%252FAdditional%2520Resources)
+* Tutorial supplement &ndash; access via [Teams](https://teams.microsoft.com/_#/school/files/General?threadId=19%3A0a2759c1c77f491fb9efb01ad14cb60a%40thread.tacv2&ctx=channel&context=Additional%2520Resources&rootfolder=%252Fsites%252FDataVis4Professionals451%252FShared%2520Documents%252FGeneral%252FAdditional%2520Resources)
 
  <!-- or [SharePoint](https://uoe.sharepoint.com/sites/DataVis4Professionals/Shared%20Documents/General/Additional%20Resources) -->
+ 
  <p>&nbsp;</p>
 
 

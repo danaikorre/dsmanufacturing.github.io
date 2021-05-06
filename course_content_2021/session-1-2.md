@@ -184,11 +184,11 @@ Available via [Teams](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb
 
 1. Discussion 1 (10 min)
      * ***In the main classroom***
-     - introduction to 3 different tools for visualising data  
+     - introduction to different tools for visualising data  
 
 1. Activity 1 (15 mins)
      * ***Individually***
-     - Using RAWGaphs and a tool of your choice
+     - Using [RAWGaphs](https://rawgraphs.io) or HighCharts ([online]http://editor.highcharts.com/full.html) or [download with non-commercial license](https://www.highcharts.com/blog/download/)) and another tool of your choice
          - select an aspect of the data you want to explore
              - where necessary reformat and/or restructure data for input
          - create 2 different charts in each tool that communicate the insight you derived
@@ -228,9 +228,11 @@ Available via [Teams](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb
 1. <a name = "ref-nrs-2019pop_estimates"></a> [NRS population data 2019 mid year estimate](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2019)
 1. <a name = "ref-nrs-2019time_series"></a> [Population Estimates Time Series Data](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/population-estimates-time-series-data)
 
+<!-- 
 * Tutorial supplement &ndash; access via [Teams](https://teams.microsoft.com/_#/school/files/General?threadId=19%3A0a2759c1c77f491fb9efb01ad14cb60a%40thread.tacv2&ctx=channel&context=Additional%2520Resources&rootfolder=%252Fsites%252FDataVis4Professionals451%252FShared%2520Documents%252FGeneral%252FAdditional%2520Resources)
 
- <!-- or [SharePoint](https://uoe.sharepoint.com/sites/DataVis4Professionals/Shared%20Documents/General/Additional%20Resources) -->
+ or [SharePoint](https://uoe.sharepoint.com/sites/DataVis4Professionals/Shared%20Documents/General/Additional%20Resources) 
+ -->
  
  <p>&nbsp;</p>
 

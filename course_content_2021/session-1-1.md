@@ -33,7 +33,7 @@ back to [course content](index#course_organisation)
 #### Video lectures
 * [Datavis-1.1-1: Outline (1:02)](https://drive.google.com/file/d/1QCRPaukHgDWdS3xQvxyDhOh7vye6rJ0b/view?usp=sharing)
 * [Datavis-1.1-2: What is visualization? (18:30)](https://drive.google.com/file/d/1LcYdvrtrlm6zi5W2CQjUF0h1RDe-lfte/view?usp=sharing)
-* [Datavis-1.1-3: Defining Visualization? (0:58)](https://drive.google.com/file/d/1TAaR6XKO80mMYByiekonSVWDFYLb_jQM/view?usp=sharing)
+* [Datavis-1.1-3: Defining Visualization? (2:48)](https://drive.google.com/file/d/1cw1-zHEed8LhLy6TLB0DPhZCaSxH-W8T/view?usp=sharing)
 * [Datavis-1.1-4: Why are we using visualization? (11:57)](https://drive.google.com/file/d/1Cje2GbjPc6OsLBgLdCpV8yDy7fI7TFMr/view?usp=sharing)
 * [Datavis-1.1-5: Visualization Literacy (24:42)](https://drive.google.com/file/d/16JmUyVOSMj9ztvKjsBm5X33Tg5b0diwy/view?usp=sharing)
 * [Datavis-1.1-6: Wrap up (1:30)](https://drive.google.com/file/d/1WjlC7m0rVHY94gkWb-9ilRTfu209HtyZ/view?usp=sharing)

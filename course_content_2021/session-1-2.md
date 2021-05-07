@@ -189,7 +189,7 @@ Available via [Teams](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb
 
 1. Activity 1 (15 mins)
      * ***Individually***
-     - Using [RAWGaphs](https://rawgraphs.io) or HighCharts ([online]http://editor.highcharts.com/full.html) or [download with non-commercial license](https://www.highcharts.com/blog/download/)) and another tool of your choice<sup>[3](access-to-software")</sup>
+     - Using [RAWGaphs](https://rawgraphs.io) or HighCharts ([online](http://editor.highcharts.com/full.html) or [download with non-commercial license](https://www.highcharts.com/blog/download/)) and another tool of your choice<sup>[3](access-to-software")</sup>
          - select an aspect of the data you want to explore
              - where necessary reformat and/or restructure data for input
          - create 2 different charts in each tool that communicate the insight you derived

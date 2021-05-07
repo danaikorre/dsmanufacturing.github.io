@@ -173,7 +173,7 @@ Available via [Teams](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb
 <p>&nbsp;</p>
 
 <a name="tutorial-eda_1"></a>  
-### Tutorial1-2b: EDA &ndash; Exploratory Data Analysis using Two Tools (1 hour)
+### Tutorial1-2b: EDA &ndash; Exploratory Data Analysis &ndash; Introduction (1 hour)
 
 * This exercise uses data from National Records Scotland's 2019 population estimates<sup>[1](#ref-nrs-2019pop_estimates)</sup> and the time series<sup>[2](#ref-nrs-2019time_series)</sup> data.
      - Please note that as is typical for EDA activity, the dataset is formatted based on the provider's defined format, structure and presentation styles. This means that it may not necessarily be formatted to suit any one tool's input requirements. A component of all EDA exercises is therefore to reformat and restructure data as required for your tool(s) of choice. 

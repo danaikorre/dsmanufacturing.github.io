@@ -58,7 +58,8 @@ back to [course content](index#course_organisation)
 
 
 # Quiz 
-Available via [Teams](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb9efb01ad14cb60a@thread.tacv2/1620231877197?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1620231877197&teamName=DataVis4Professionals&channelName=General&createdTime=1620231877197) &ndash; solutions will be discussed during the Q&As in week 2.<p>&nbsp;</p>
+Available via [Teams](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb9efb01ad14cb60a@thread.tacv2/1620231877197?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1620231877197&teamName=DataVis4Professionals&channelName=General&createdTime=1620231877197) &ndash; solutions will be discussed during the Q&As in week 2.
+<p>&nbsp;</p>
 
 ***
 

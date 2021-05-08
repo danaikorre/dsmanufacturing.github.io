@@ -107,7 +107,7 @@ back to main [schedule](index.md)
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
      Complete the exercise in <a href="session-2#tutorial-design-sketching">tutorial 2</a>. Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).<br/>
-      Submit a copy of your design to <!-- a href="https://bit.ly/submission_reflection_exercises_2021" -->Learn<!-- /a --> (link available from 12:00 on 22nd May). 
+      Submit a copy of your design to <!-- a href="https://bit.ly/submission_reflection_exercises_2021" -->Learn<!-- /a --> (link available from 12:00 on 15th May). 
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2"> </td>

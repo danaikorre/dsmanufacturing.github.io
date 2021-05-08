@@ -257,7 +257,7 @@ Available via [Teams](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb
 # Assignment
 
 Complete the exercise in <a href="#tutorial-project_brief">tutorial 1-2</a>. Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="#guidelines_defining_project_brief">guidelines for defining a brief</a>.<br/>
-Submit a copy of your brief to <!-- a href="https://bit.ly/submission_reflection_exercises" -->Learn<!-- /a -->; the submission link will be available from noon on 8th May. 
+Submit a copy of your brief to <!-- a href="https://bit.ly/submission_reflection_exercises" -->Learn<!-- /a -->; the submission link will be available from 18:00 on 8th May. 
       
 <p>&nbsp;</p>
 

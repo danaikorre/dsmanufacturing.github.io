@@ -19,6 +19,7 @@ Because this is a university-accredited course you **must** meet the university'
 Please confirm that you meet all requirements as early as possible &ndash; detail at [language requirements](http://www.edin.ac/pgdf-english); current restrictions due to COVID have increased delay registering for and taking any tests necessary.
 
 
+<a name = "fees_and_funding"></a>
 # Fees and Funding
 
 The *Scottish Funding Council (SFC) Upskilling Fund* is providing a __fixed number of fee waivers__ for participants who meet at least one of the following criteria. 

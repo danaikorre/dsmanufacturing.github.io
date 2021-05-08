@@ -17,6 +17,8 @@ Each week has a [topic](#course_organisation). All of the below written is optio
 * attend the Q&A sessions in the General channel on Teams(http://bit.ly/DataVis4ProfTeams2021 (1h). Q&A sessions are recorded and linked from the schedule.
 * Some weeks do have milestone submissions, which also will be submitted through [Learn VLE](http://bit.ly/sfcdv2021_on_learn). 
 
+Times for tutorials and Q&A sessions are found [below](#timetable).
+
 ## Resources & Important Links
 
 Resources you may need during the course. 

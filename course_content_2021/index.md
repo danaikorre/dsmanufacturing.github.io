@@ -8,13 +8,13 @@ This page contains links to
 
 ## What Am I Supposed To Do During a Week?: 
 
-Each week has a [topic](#course_organisation).
+Each week has a [topic](#course_organisation). All of the below written is optional. 
 
-* listen to the video lectures
-* check the recommended reading material, if any
-* participate in the tutorial on Teams(http://bit.ly/DataVis4ProfTeams2021). There is a channel for each Tutorial group A and B.
-* submit the quiz on [Learn VLE](http://bit.ly/sfcdv2021_on_learn) and check your answers against the solutions
-* attend the Q&A sessions in the General channel on Teams(http://bit.ly/DataVis4ProfTeams2021.
+* listen to the video lectures (~1h)
+* check the recommended reading material (~1h), if any
+* participate in the tutorial on Teams(http://bit.ly/DataVis4ProfTeams2021) (2h). There is a channel for each Tutorial group A and B. Tutorial sessions are recorded and linked from the schedule.
+* submit the quiz on [Learn VLE](http://bit.ly/sfcdv2021_on_learn) and check your answers against the solutions (~1h)
+* attend the Q&A sessions in the General channel on Teams(http://bit.ly/DataVis4ProfTeams2021 (1h). Q&A sessions are recorded and linked from the schedule.
 * Some weeks do have milestone submissions, which also will be submitted through [Learn VLE](http://bit.ly/sfcdv2021_on_learn). 
 
 ## Resources & Important Links

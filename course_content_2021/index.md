@@ -6,6 +6,17 @@ This page contains links to
 * the [course content](#course_organisation) for the individual weeks as well as, 
 * the [schedule](#timetable). 
 
+## What Am I Supposed To Do During a Week?: 
+
+Each week has a [topic](#course_organisation).
+
+* listen to the video lectures
+* check the recommended reading material, if any
+* participate in the tutorial on Teams(http://bit.ly/DataVis4ProfTeams2021). There is a channel for each Tutorial group A and B.
+* submit the quiz on [Learn VLE](http://bit.ly/sfcdv2021_on_learn) and check your answers against the solutions
+* attend the Q&A sessions in the General channel on Teams(http://bit.ly/DataVis4ProfTeams2021.
+* Some weeks do have milestone submissions, which also will be submitted through [Learn VLE](http://bit.ly/sfcdv2021_on_learn). 
+
 ## Resources & Important Links
 
 Resources you may need during the course. 

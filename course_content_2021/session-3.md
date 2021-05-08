@@ -116,7 +116,7 @@ Select from existing or add a new tool to the <a href="https://vistools.net">Vis
 * Place each tool in a quadrant of the <i>Tool Marketplace Matrix</i> (download a copy as <a href="files/tool_marketplace_matrix.png">png</a>, <a href="files/tool_marketplace_matrix.pdf">pdf</a> or <a href="files/tool_marketplace_matrix.pptx">pptx</a>. Copies also available in the <a href="https://bit.ly/sfcdv_additional_resources">resources folder on Learn</a>.)
 * Review your preferred tool in the <a href="https://vistools.net">VisBrowser</a> (add a new tool if necessary).
 * Update your challenge brief to reflect your choices.
-    * Submit a copy of your updated brief and your annotated matrix to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>; the submission link will be available from 12:00, 21st May.
+    * Submit a copy of your updated brief and your annotated matrix to <a href="https://bit.ly/submission_reflection_exercises">Learn</a>; the submission link will be available from 12:00, 29th May.
     * The [assessments page](assessment.md) provides more detail on submission requirements. 
      
 

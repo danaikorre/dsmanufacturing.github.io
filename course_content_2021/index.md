@@ -6,7 +6,7 @@ This page contains links to
 * the [course content](#course_organisation) for the individual weeks as well as, 
 * the [schedule](#timetable). 
 
-## What Am I Supposed To Do During a Week?: 
+## What Am I Supposed To Do During a Week? 
 
 Each week has a [topic](#course_organisation). All of the below written is optional. 
 

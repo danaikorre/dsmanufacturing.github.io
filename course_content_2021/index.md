@@ -8,16 +8,19 @@ This page contains links to
 
 ## What Am I Supposed To Do During a Week? 
 
-Each week has a [topic](#course_organisation). All of the below written is optional. 
+Each week has a [topic](#course_organisation). All of that written below is optional, and serves as a guide to planning your work: 
 
-* listen to the video lectures (~1h)
-* check the recommended reading material (~1h), if any
-* participate in the tutorial on Teams(http://bit.ly/DataVis4ProfTeams2021) (2h). There is a channel for each Tutorial group A and B. Tutorial sessions are recorded and linked from the schedule.
-* submit the quiz on [Learn VLE](http://bit.ly/sfcdv2021_on_learn) and check your answers against the solutions (~1h)
-* attend the Q&A sessions in the General channel on Teams(http://bit.ly/DataVis4ProfTeams2021 (1h). Q&A sessions are recorded and linked from the schedule.
-* Some weeks do have milestone submissions, which also will be submitted through [Learn VLE](http://bit.ly/sfcdv2021_on_learn). 
+* watch the video lectures (with accompanying slides) (~1h)
+* browse any recommended reading material (~1h)
+* participate in the tutorial on [Teams](http://bit.ly/DataVis4ProfTeams2021) (2h). There is a channel for each tutorial group A and B. Sessions are recorded (recordings will automatially appear in the channel); tutorial scripts are linked from the schedule.
+* submit the week's quizzes via Teams and check your answers against the sample solutions (provided after submission) (~1h)
+* attend the Q&A sessions in the dedicated channel on Teams. Q&A sessions are also recorded.
+* some weeks do have milestone assignments, which must be submitted through [Learn VLE](http://bit.ly/sfcdv2021_on_learn). 
+* update your journal.
 
-Times for tutorials and Q&A sessions are found [below](#timetable).
+Schedule for tutorials and Q&A sessions [below](#timetable).
+<br />
+
 
 ## Resources & Important Links
 
@@ -32,6 +35,7 @@ Resources you may need during the course.
 
 * **[Noteable - University of Edinburgh Jupyter Notebook](https://noteable.edina.ac.uk/launch)**. The site provides an environment for Jupyter Notebooks.  
 * **[University software services](https://www.ed.ac.uk/information-services/computing/desktop-personal/software)**
+* **[University IT helpdesk](https://www.ed.ac.uk/information-services/help-consultancy/contact-helpline)**
 
 * **[VisGuides open discussion forum](https://visguides.org/)** about visualisation guidelines  
 * **[Books](https://visualinteractivedata.github.io/res-books)** about visualization
@@ -93,17 +97,16 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td>
   </tr>
 
-    
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 2 &ndash; May 10</h4></th>
   </tr><tr style = "vertical-align:top;">
-   <td><!-- a href="session-2" -->2<!-- /a --></td>
+   <td><a href="session-2">2</a></td>
    <td>
-      <!-- a href="session-2#lecture" -->Visualization Design<!-- /a --><br/>
+      <a href="session-2#lecture">Visualization Design</a><br/>
     </td><td>
-      <!-- a href="session-2#tutorial-design-sketching" -->Design (Sketching)<!-- /a --><br/>
+      <a href="session-2#tutorial-design-sketching">Design (Sketcahing)</a><br/>
     </td><td>
-      <!-- a href="session-2#assignment" -->Project design<!-- /a -->
+      <a href="session-2#assignment">Project design</a>
     </td>
   </tr>
  

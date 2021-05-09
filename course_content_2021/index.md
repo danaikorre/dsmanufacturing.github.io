@@ -225,10 +225,11 @@ Please remember that while strongly encouraged, **participation in tutorials and
   * T-2: Sat 09:30-11:30 (BST)
 * There are 2 Lecture Q&As per week. They are opportunities for you to ask any question about course content and engage in public discussions with all of the participants. You may attend any or all Q&As. The content of these sessions depends on the participants asking questions. 
 * __Note all times are BST__
-* Week 1 has a slighly different schedule than the other weeks. 
 
+<!-- 
+* Week 1 has a slighly different schedule than the other weeks. 
 ### Week 1
-<img src = "../images/timetable_week1_only.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />
+<img src = "../images/timetable_week1_only.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" / -->
 
 ### Weeks 2&ndash;10
 <img src = "../images/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" />

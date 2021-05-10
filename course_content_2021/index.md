@@ -104,7 +104,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
    <td>
       <a href="session-2#lecture">Visualization Design</a><br/>
     </td><td>
-      <a href="session-2#tutorial-design-sketching">Design (Sketcahing)</a><br/>
+      <a href="session-2#tutorial-design-sketching">Design (Sketching)</a><br/>
     </td><td>
       <a href="session-2#assignment">Project design</a>
     </td>

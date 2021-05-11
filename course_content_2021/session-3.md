@@ -66,14 +66,19 @@ __This tutorial explores the <a href="https://vistools.net">VisBrowser</a> as pa
 1. Discussion 1 (20 mins)
   * ***Within your groups (with experience in X)***
   * Which tools do you know and have you used? 
-  * Which tools does the VisBrowser contain about X?
-  * Are these tools you identified earlier in the visbrowser?
-  * What where the positive and negative things about the tools you have used? 
-  * If the tool of choice isn’t here, please add it (only one person should add it. It does not take more than 3min) To avoid duplication only one person should submit the tool)
-  * Add a review to the tool you have experience with. This should not take more than 5min.
-  * Are you aware of any good tutorials for those tools? Share them on the VisBrowser.
-  * Nominate 3 people to discuss with 'novices' in following tutorial part to explain some tools to others.
-  * Prepare a brief presentation (matrix + 1 slide of pros and cons) for presentation
+  * Which tools does the VisBrowser contain:
+    * that you have used before?
+    * that are new to you bit map to your experience &ndash; technique type, visualisation approach, design
+    
+  * What do you see as the most positive things vs. cons in tools you use now or have used in the past? 
+  
+  * Can you think of a tool you think should be listed in the VisBrowser that isn't?
+    * please add an entry for it (to avoid duplication designate one scribe per group)
+    * include a review to the tool you have experience with. Everyone in the group who has experience of the tool may submit an independent review
+    * link to any good tutorials for the tools you add or others you look at that you have used or have been recommended. 
+    
+  * Prepare a brief presentation (tool matrix + 1 slide listing pros vs cons) 
+  * Nominate 1 or 2 people to discuss your selected tool  with 'novices'.
 
 2. Discussion 2 (20 mins)
   * ***Main classroom***

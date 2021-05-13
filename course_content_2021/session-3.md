@@ -64,34 +64,32 @@ Available end of the week
 __This tutorial explores the <a href="https://vistools.net">VisBrowser</a> as part of a wider tool discussion__
 
 1. Discussion 1 (20 mins)
-  * ***Within your groups (with experience in X)***
-  * Which tools do you know and have you used? 
+  * ***Within your groups***
+  * Which visualisation tools do you know and have you used? 
   * Which tools does the VisBrowser contain:
     * that you have used before?
-    * that are new to you bit map to your experience &ndash; technique type, visualisation approach, design
+    * that are new to you but map to your experience &ndash; technique type, visualisation approach, design, etc.
     
   * What do you see as the most positive things vs. cons in tools you use now or have used in the past? 
   
   * Can you think of a tool you think should be listed in the VisBrowser that isn't?
     * please add an entry for it (to avoid duplication designate one scribe per group)
-    * include a review to the tool you have experience with. Everyone in the group who has experience of the tool may submit an independent review
+    * include a review to the tool you have experience with. Everyone in the group who has experience of the tool may submit an independent review and rating
     * link to any good tutorials for the tools you add or others you look at that you have used or have been recommended. 
     
-  * Prepare a brief presentation (tool matrix + 1 slide listing pros vs cons) 
+  * Prepare a brief presentation (3min &ndash; tool matrix + 1 slide listing pros vs cons) 
   * Nominate 1 or 2 people to discuss your selected tool  with 'novices'.
 
 2. Discussion 2 (20 mins)
   * ***Main classroom***
-  * In 3min: Present the tools you have discussed: matrix and pros/cons
-  * Which tools did your group discuss? 
-  * Which of these did you add to the browser?
-  * Which new tools did you find on VisBrowser?
-  * Did you all agree on the rating/review you gave for tools?
+  * present the tools you have discussed, starting with the tool matrix and listing pros/cons
+  * which of the tools you discussed did you add to the browser?
+  * which new tools did you find on the VisBrowser?
+  * what guided your approach to rating tools in the VisBrowser? How did this differ from others in your group?
  
 3. Discussion 3 (25 + 25 mins)
   * ***Within your chosen interest groups***
-  * Get into groups by what you are interested in learning
-  * Play with that tool and the resources available
+  * Try out tools and resources that match your interests and/or learning goals
   * Report on pros + cons of your experience
   * Search for similar tools in the VisBrowser
   * Reflect on the learning resources available for learning a particular technique or tool

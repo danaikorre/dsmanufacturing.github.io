@@ -79,31 +79,38 @@ __This tutorial explores the <a href="https://vistools.net">VisBrowser</a> as pa
     
   * Prepare a brief presentation (3min &ndash; tool matrix + 1 slide listing pros vs cons) 
   * Nominate 1 or 2 people to discuss your selected tool  with 'novices'.
+<p><br /></p>
 
 2. Discussion 2 (20 mins)
   * ***Main classroom***
-  * present the tools you have discussed, starting with the tool matrix and listing pros/cons
-  * which of the tools you discussed did you add to the browser?
+  * round table discussion and presentation
+    * tool matrix, pros/cons
+  * which tools did you add to the browser?
   * which new tools did you find on the VisBrowser?
   * what guided your approach to rating tools in the VisBrowser? How did this differ from others in your group?
+<p><br /></p>
  
 3. Discussion 3 (25 + 25 mins)
   * ***Within your chosen interest groups***
-  * Try out tools and resources that match your interests and/or learning goals
-  * Report on pros + cons of your experience
-  * Search for similar tools in the VisBrowser
-  * Reflect on the learning resources available for learning a particular technique or tool
-  * How did you learn the tool? Experts can provide insight
-  * Share learning resources and upload them to visbrowser for consideration
-
+  * try out tools and resources that match your interests and/or learning goals
+    * document pros &amp; cons, considering both functionality available and user experience
+    * for your preferred tool search for similar tools 
+      * what criteria do you see as important in your similarity search?
+      * does the VisBrowser's results match your requirements? 
+  * how useful are the learning resources, if any, available for your choices?
+  * how do you typically learn how to use a new tool? 
+<p><br /></p>
+  
 4. Discussion 4 (5-10 mins) 
   * ***In the main classroom***
-  * Each group briefly comment on their tool
-  * Reflect on your choice of tool, would you consider using other tools based upon recommendations? Both from other users and also a tool should as visbrowser?
-  * What are important criteria to choose a tool? 
-  * Does the available learning materials make a difference when it comes to making a choice for which tool to select? 
-
+  * reflect on how you would typically go about selecting a visualisation tool for a specific task
+    * do you tend to explore tools other than that you normally use?
+    * are you influenced in your choices by recommendations from people you know?
+    * are you influenced in your choices by recommendations from resources such as the visBrowser?
   
+    * what do you see as important criteria when choosing a tool? 
+    * when trying a new tool, are you influenced by the availability and quality of learning resources for the tool? 
+
 <p>&nbsp;</p>
 
 ***
@@ -115,13 +122,15 @@ __This tutorial explores the <a href="https://vistools.net">VisBrowser</a> as pa
 Select from existing or add a new tool to the <a href="https://vistools.net">VisBrowser</a>. Based on exploration or previous experience of this tool, and usage with your project data, submit a brief review of at least two tools.
 
 * Identify up to 3 tools that meet all or a subset of the requirements for your project.
-* Map your project requirements to visualisation options in your selected tools.
-* Place each tool in a quadrant of the <i>Tool Marketplace Matrix</i> (download a copy as [png](files/tool_marketplace_matrix.png), [pdf](files/tool_marketplace_matrix.pdf) or [pptx](files/tool_marketplace_matrix.pptx). 
-* Review your preferred tool in the <a href="https://vistools.net">VisBrowser</a> (add a new tool if necessary).
+  * map your project requirements to visualisation options in your selected tools.
+  * place each tool in a quadrant of the <i>Tool Marketplace Matrix</i> (download a copy as [png](files/tool_marketplace_matrix.png), [pdf](files/tool_marketplace_matrix.pdf) or [pptx](files/tool_marketplace_matrix.pptx). 
+  * if you wish to submit a review of your preferred tool in the <a href="https://vistools.net">VisBrowser</a> (add a new tool if necessary). 
+  
 * Update your challenge brief to reflect your choices.
-    * Submit a copy of your updated brief and your annotated matrix to Learn; the submission link will be available from 12:00, 29th May.
-    * The [assessments page](assessment.md) provides more detail on submission requirements. 
-     
+* Submit a copy of your updated brief and your annotated tool matrix to Learn
+* If you submitted a review to the tool browser include a copy with your assignment. Alternatively, submit as part of your assignment a brief review as you would submit online.
+
+The submission link will be available from 12:00, 29th May. The [assessments page](assessment.md) provides more detail on submission requirements.     
 
 <p>&nbsp;</p>
 

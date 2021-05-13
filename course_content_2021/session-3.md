@@ -79,7 +79,7 @@ __This tutorial explores the <a href="https://vistools.net">VisBrowser</a> as pa
     
   * Prepare a brief presentation (3min &ndash; tool matrix + 1 slide listing pros vs cons) 
   * Nominate 1 or 2 people to discuss your selected tool  with 'novices'.
-<p><br /></p>
+<br />
 
 2. Discussion 2 (20 mins)
   * ***Main classroom***
@@ -88,8 +88,8 @@ __This tutorial explores the <a href="https://vistools.net">VisBrowser</a> as pa
   * which tools did you add to the browser?
   * which new tools did you find on the VisBrowser?
   * what guided your approach to rating tools in the VisBrowser? How did this differ from others in your group?
-<p><br /></p>
- 
+<br />
+
 3. Discussion 3 (25 + 25 mins)
   * ***Within your chosen interest groups***
   * try out tools and resources that match your interests and/or learning goals
@@ -99,8 +99,8 @@ __This tutorial explores the <a href="https://vistools.net">VisBrowser</a> as pa
       * does the VisBrowser's results match your requirements? 
   * how useful are the learning resources, if any, available for your choices?
   * how do you typically learn how to use a new tool? 
-<p><br /></p>
-  
+<br />
+
 4. Discussion 4 (5-10 mins) 
   * ***In the main classroom***
   * reflect on how you would typically go about selecting a visualisation tool for a specific task

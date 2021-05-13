@@ -45,7 +45,7 @@ Resources you may need during the course.
 ## Recommended Books for the Course: 
 
 * Tamara Munzner (2014) Visualization Analysis and Design: [UoE library link](https://discovered.ed.ac.uk/permalink/f/1njkql8/44UOE_ALMA51246510430002466)
-* Alberto Cairo (2013) The Functional Art: An introduction to information graphics and visualization (Voices That Matter): [UoE Library Link](https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA21114830170002466&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,Alberto%20Cairo)
+* Alberto Cairo (2013) The Functional Art: An introduction to information graphics and visualization (Voices That Matter): [PDF preview pages](https://ptgmedia.pearsoncmg.com/images/9780321834737/samplepages/0321834739.pdf)[UoE Library Link](https://discovered.ed.ac.uk/primo-explore/fulldisplay?docid=44UOE_ALMA21114830170002466&context=L&vid=44UOE_VU2&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,Alberto%20Cairo)
 * Andy Kirk (2019) Data Visualization: A Handbook for Data Driven Design: [digital companion site](http://book.visualisingdata.com).
 
 ## [Assessment Guidelines](assessment.md)

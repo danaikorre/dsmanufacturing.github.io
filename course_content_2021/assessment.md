@@ -126,7 +126,11 @@ back to main [schedule](index.md)
       <li>Identify up to 3 tools that meet all or a subset of the requirements for your project.</li>
       <li>Map your project requirements to visualisation options in your selected tools.</li>
       <li>Place each tool in a quadrant of the <i>Tool Marketplace Matrix</i> (download a copy as <a href="files/tool_marketplace_matrix.png">png</a>, <a href="files/tool_marketplace_matrix.pdf">pdf</a> or <a href="files/tool_marketplace_matrix.pptx">pptx</a>.)</li>
-      <li>Review your preferred tool in the <a href="https://vistools.net">VisBrowser</a> (add a new tool if necessary).</li>
+      <li>If you wish to, submit a review of your preferred tool in the <a href="https://vistools.net">VisBrowser</a> (add a new tool if necessary). 
+        <ul>
+          <li>if you submit a review to the tool browser include a copy with your assignment. Alternatively, submit as part of your assignment a brief review as you would submit online.</li>
+       </ul>
+      </li>
       <li>Update your challenge brief to reflect your choices.</li>
      </ol>
      <br/>

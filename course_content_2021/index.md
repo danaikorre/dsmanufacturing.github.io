@@ -113,13 +113,13 @@ Please remember that while strongly encouraged, **participation in tutorials and
   <tr style = "vertical-align:top;">
      <th colspan = "4"><h4>Week 3 &ndash; May 17</h4></th>
   </tr><tr style = "vertical-align:top;">
-   <td><!-- a href="session-3" -->3<!-- /a --></td>
+   <td><a href="session-3">3</a></td>
     <td>
-       <!-- a href="session-3#lecture" -->Visualization Tools<!-- /a --><br/>
+       <a href="session-3#lecture">Visualization Tools</a><br/>
     </td><td>
-      <!-- a href="session-3#tutorial-tool-marketplace" -->Visualisation tools marketplace<!-- /a --><br/>
+      <a href="session-3#tutorial-tool-marketplace">Visualisation tools marketplace</a><br/>
     </td><td>
-     <!-- a href="session-3#assignment" -->Tool review<!-- /a -->
+     <a href="session-3#assignment">Tool review</a>
     </td>
   </tr>
   

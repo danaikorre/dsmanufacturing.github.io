@@ -83,9 +83,8 @@ __This tutorial explores the <a href="https://vistools.net">VisBrowser</a> as pa
 
 2. Discussion 2 (20 mins)
   * ***Main classroom***
-  * round table discussion and presentation
+  * round table discussion and presentation  
     * tool matrix, pros/cons  
-    
   * which tools did you add to the browser?
   * which new tools did you find on the VisBrowser?
   * what guided your approach to rating tools in the VisBrowser? How did this differ from others in your group?

@@ -97,6 +97,7 @@ __This tutorial explores the <a href="https://vistools.net">VisBrowser</a> as pa
     * for your preferred tool search for similar tools  
       * what criteria do you see as important in your similarity search?  
       * does the VisBrowser's results match your requirements?  
+      
   * how useful are the learning resources, if any, available for your choices?
   * how do you typically learn how to use a new tool? 
 <br />

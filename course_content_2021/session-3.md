@@ -104,7 +104,7 @@ __This tutorial explores the <a href="https://vistools.net">VisBrowser</a> as pa
 4. Discussion 4 (5-10 mins) 
   * ***In the main classroom***
   * reflect on how you would typically go about selecting a visualisation tool for a specific task
-    * do you tend to explore tools other than that you normally use?
+    * do you tend to explore tools other than those you normally use?
     * are you influenced in your choices by recommendations from people you know?
     * are you influenced in your choices by recommendations from resources such as the visBrowser?
   

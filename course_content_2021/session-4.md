@@ -101,9 +101,11 @@ __Suggested Reading on Geographical Data:__
 Available end of the week 
 
 <!-- 
-  1. [Basic Charts](https://bit.ly/sfcdv_quiz_3-1a)
-  1. [Multidimensional Data](https://bit.ly/sfcdv_quiz_3-1b)
-  1. [Geographical Data](https://bit.ly/sfcdv_quiz_3-1c)
+* Select one of the three quizzes below to complete:
+
+  1. [Basic Charts] (https://forms.office.com/r/szm4BNKStE)
+  1. [Multidimensional Data] (https://forms.office.com/r/LyAWQkpsvd)
+  1. [Geographical Data](https://forms.office.com/r/rnVwjCLqrE)
 -->
 
 <p>&nbsp;</p>

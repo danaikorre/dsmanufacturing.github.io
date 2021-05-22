@@ -115,7 +115,7 @@ Available end of the week
 
 1. Discussion 1 (10 min)
     * ***In the main classroom***
-    * Reflect on your [first EDA tutorial](tutorials.md#1-2b)
+    * Reflect on your [first EDA tutorial](session-1-2#tutorial-eda_1)
     * What did you learn from using:
         - different analytical techniques
         - preparing your data
@@ -133,7 +133,7 @@ Available end of the week
     <br />
     
     * ***In the main classroom***
-    * Using the open data and also guidelines from the  [first EDA tutorial](tutorials.md#1-2b)
+    * Using the open data and also guidelines from the  [first EDA tutorial](session-1-2#tutorial-eda_1)
         - reformat the data as required for your tool of choice
         - generate simple statistical and visual summaries for each dataset
     * Q&A (10min)  

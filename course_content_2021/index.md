@@ -126,11 +126,11 @@ Please remember that while strongly encouraged, **participation in tutorials and
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 4 &ndash; May 24</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td><!-- a href="session-4" -->4<!-- /a --></td>
+    <td><a href="session-4">4</a></td>
     <td style = "vertical-align:top;">
-      <!-- a href="session-4#lecture" -->Visualization Techniques I/II<!-- /a --><br/>
+      <a href="session-4#lecture">Visualization Techniques I/II</a><br/>
     </td><td>
-      <!-- a href="session-4#tutorial-eda-project-data" -->EDA &ndash; project data<!-- /a --><br/>
+      <a href="session-4#tutorial-eda-project-data">EDA &ndash; project data</a><br/>
     </td><td>
       Update project brief &amp; design
     </td>

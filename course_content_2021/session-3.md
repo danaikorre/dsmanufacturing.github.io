@@ -52,8 +52,7 @@ The [Visbrowser](http://vistools.net) is a website to browse, recommend, and lea
 
 # Quiz
 
-Available end of the week 
-<!-- [Quiz](https://bit.ly/sfcdv_quiz_2-2) &ndash; (requires login to Learn) -->
+Available via [Teams](https://teams.microsoft.com/l/message/19:d5a574f5c4fa4dd2b9e23133e83f2f71@thread.tacv2/1621422041110?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1621422041110&teamName=DataVis4Professionals&channelName=Discussion%20-%20Assignments%20and%20Quizzes&createdTime=1621422041110)
 <p>&nbsp;</p>
 
 ***

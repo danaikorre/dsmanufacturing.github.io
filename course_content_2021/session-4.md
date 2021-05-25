@@ -120,7 +120,7 @@ __Suggested Reading on Geographical Data:__
         - preparing your data
     - What questions did you ask?
     - What paths did you follow and why?
-    - Deriving insight ...
+    - Deriving insight ... during the exercise, and from your own project data ...
         - what initial assumptions did you confirm or refute?
         - what new did you discover about your data?
 

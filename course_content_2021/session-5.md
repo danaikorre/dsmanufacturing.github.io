@@ -69,9 +69,11 @@ __Suggested Reading on Temporal Data:__
 Available end of the week
 
 <!-- 
-  1. [Graphs &amp; Networks](https://bit.ly/sfcdv_quiz_3-2a)
-  1. [Trees &amp; Hierarchies](https://bit.ly/sfcdv_quiz_3-2b)
-  1. [Time](https://bit.ly/sfcdv_quiz_3-2c)
+Select one of the three quizzes below to complete:
+
+1. [Graphs &amp; Networks](https://bit.ly/sfcdv_quiz_3-2a)
+1. [Trees &amp; Hierarchies](https://bit.ly/sfcdv_quiz_3-2b)
+1. [Time](https://bit.ly/sfcdv_quiz_3-2c)
 -->
 
 <p>&nbsp;</p>

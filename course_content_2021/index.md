@@ -139,11 +139,11 @@ Please remember that while strongly encouraged, **participation in tutorials and
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 5 &ndash; May 31</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td><!-- a href="session-5" -->5<!-- /a --></td>
+    <td><a href="session-5">5</a></td>
     <td style = "vertical-align:top;">
-      <!-- a href="session-5#lecture" -->Visualization Techniques II/II<!-- /a --><br/>
+      <a href="session-5#lecture">Visualization Techniques II/II</a><br/>
     </td><td>
-      <!-- a href="session-5#tutorial-critical-analysis" -->Critical analysis &amp; reflection<!-- /a -->
+      <a href="session-5#tutorial-critical-analysis">Critical analysis &amp; reflection</a>
     </td><td>
       Update project brief &amp; design
     </td>

@@ -1,9 +1,9 @@
 back to [course content](index)
 
 
-# Week 4, Session 1: Storytelling
+# Week 6: Storytelling
 
-[Lecture](#lecture) | [Quiz](#quiz) | [Tutorial](#project-implementation) 
+[Lecture](#lecture) | [Quiz](#quiz) | [Tutorial](#design-data-comics) 
 
 Lecture topics: 
 
@@ -16,7 +16,7 @@ Lecture topics:
 
 # Lecture
 
-* [Lecture Slides: 4-1-Storytelling.pdf](files/4-1-Storytelling.pdf)  
+* [Lecture Slides: 6-Storytelling.pdf](files/4-1-Storytelling.pdf)  
 * [Lecture video: Storytelling-1: Intro (0:49min)](https://drive.google.com/file/d/1Ka45AU2AA86OWPHBQ2ZLo8LRbXfd43OV/view?usp=sharing)  
 * [Lecture video: Storytelling-2: Exploration vs. Explanation (8:42min)](https://drive.google.com/file/d/1hvdNRLuzd9Z35TRlifLeekG9v5i6f1Jx/view?usp=sharing)  
 * [Lecture video: Storytelling-3: Traditional Storytelling (2:45min)](https://drive.google.com/file/d/1PpVCzeu4CCaM3hhJRINNv4M3VMzlhwxW/view?usp=sharing)  
@@ -52,13 +52,15 @@ Lecture topics:
 
 # Quiz
 
-[Quiz](https://bit.ly/sfcdv_quiz_4-1) &ndash; (requires login to Learn) 
+Available by end of week
+
+<!-- [Quiz]() -->
+
 <p>&nbsp;</p>
 
-<a name = "project-implementation"></a>
-# Tutorial: Project Implementation
+<a name = "design-data-comics"></a>
+# Tutorial: Data Comics Workshop
 
-* Open session &ndash; course tutors and TAs will be on hand to support you with project implementation.
 
 
 <p>&nbsp;</p>

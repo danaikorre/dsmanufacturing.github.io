@@ -16,7 +16,7 @@ Lecture topics:
 
 # Lecture
 
-* [Lecture Slides: 6-Storytelling.pdf](files/4-1-Storytelling.pdf)  
+* [Lecture Slides: 6-Storytelling.pdf](files/6-Storytelling.pdf)  
 * [Lecture video: Storytelling-1: Intro (0:49min)](https://drive.google.com/file/d/1Ka45AU2AA86OWPHBQ2ZLo8LRbXfd43OV/view?usp=sharing)  
 * [Lecture video: Storytelling-2: Exploration vs. Explanation (8:42min)](https://drive.google.com/file/d/1hvdNRLuzd9Z35TRlifLeekG9v5i6f1Jx/view?usp=sharing)  
 * [Lecture video: Storytelling-3: Traditional Storytelling (2:45min)](https://drive.google.com/file/d/1PpVCzeu4CCaM3hhJRINNv4M3VMzlhwxW/view?usp=sharing)  

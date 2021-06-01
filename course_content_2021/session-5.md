@@ -66,15 +66,11 @@ __Suggested Reading on Temporal Data:__
 
 # Quizzes
 
-Available end of the week
-
-<!-- 
 Select one of the three quizzes below to complete:
 
-1. [Graphs &amp; Networks](https://bit.ly/sfcdv_quiz_3-2a)
-1. [Trees &amp; Hierarchies](https://bit.ly/sfcdv_quiz_3-2b)
-1. [Time](https://bit.ly/sfcdv_quiz_3-2c)
--->
+1. [Graphs &amp; Networks](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb9efb01ad14cb60a@thread.tacv2/1622552429509?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1622552429509&teamName=DataVis4Professionals&channelName=General&createdTime=1622552429509)
+1. [Trees &amp; Hierarchies](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb9efb01ad14cb60a@thread.tacv2/1622552430307?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1622552430307&teamName=DataVis4Professionals&channelName=General&createdTime=1622552430307)
+1. [Time](https://teams.microsoft.com/l/message/19:0a2759c1c77f491fb9efb01ad14cb60a@thread.tacv2/1622552429324?tenantId=2e9f06b0-1669-4589-8789-10a06934dc61&groupId=c87825d8-9cb0-4d8c-b224-5033510ac450&parentMessageId=1622552429324&teamName=DataVis4Professionals&channelName=General&createdTime=1622552429324)
 
 <p>&nbsp;</p>
 

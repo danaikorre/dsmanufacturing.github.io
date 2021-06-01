@@ -103,7 +103,7 @@ Select one of the three quizzes below to complete:
             - which advanced topics you plan to study
             - additional skills you wish to learn
         - any other recognised constraints, including
-            - time limits (the course has 2.5 weeks remaining + 1 week to complete project)
+            - time limits (the course has 5.5 weeks remaining + 1 week to complete project)
             - data needed to achieve your overall goal
       
     * Create a check list with 3-5 items to guide evaluation of your brief and design

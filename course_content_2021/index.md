@@ -156,7 +156,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     <td style = "vertical-align:top;">
       <!-- a href="session-6#lecture" -->Storytelling<!-- /a -->
     </td><td>
-      <!-- a href="session-7#tutorial-programming_clinic_1" -->Programming clinic<!-- /a -->
+      <!-- a href="session-7#design-data-comics" -->Data Comics Workshop<!-- /a -->
     </td><td>
     </td>
   </tr>

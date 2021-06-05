@@ -152,11 +152,11 @@ Please remember that while strongly encouraged, **participation in tutorials and
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 6 &ndash; Jun 07</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td><!-- a href="session-6" -->6<!-- /a --></td>
+    <td><a href="session-6">6</a></td>
     <td style = "vertical-align:top;">
-      <!-- a href="session-6#lecture" -->Storytelling<!-- /a -->
+      <a href="session-6#lecture">Storytelling</a>
     </td><td>
-      <!-- a href="session-7#design-data-comics" -->Data Comics Workshop<!-- /a -->
+      <a href="session-7#design-data-comics">Data Comics Workshop</a>
     </td><td>
     </td>
   </tr>

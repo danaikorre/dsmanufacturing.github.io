@@ -42,12 +42,12 @@ Lecture topics:
 
 ## Weblinks
 
-* Hans Rosling's TED talk: https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen
-* Gapminder: https://www.gapminder.org
-* Financial Times CO2 calculator: https://ig.ft.com/sites/climate-change-calculator/
-* Moritz Stefaber: http://truth-and-beauty.net/
-* Nadieh Bremer: https://www.visualcinnamon.com/
-* Geogia Lupi: http://giorgialupi.com/
+* [Hans Rosling's TED talk](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
+* [Gapminder](https://www.gapminder.org)
+* [Financial Times CO2 calculator](https://ig.ft.com/sites/climate-change-calculator)
+* [Moritz Stefaber](http://truth-and-beauty.net)
+* [Nadieh Bremer](https://www.visualcinnamon.com)
+* [Geogia Lupi](http://giorgialupi.com)
 <p>&nbsp;</p>
 
 # Quiz

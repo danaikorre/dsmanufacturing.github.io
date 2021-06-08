@@ -15,13 +15,16 @@ Lecture topics:
 
 # Lecture
 
-* [Lecture Slides: 5.1-Evaluation](files/9-Evaluation.pdf)  
-* [Lecture video: 5.1-Evaluation-1 Intro (7:42min)](https://drive.google.com/file/d/1y56Oh0M_VqtjpqijU7CT92x58wUOrw6V/view?usp=sharing)
-* [Lecture video: 5.1-Evaluation-2 Heuristics and Guidelines (20:30min)](https://drive.google.com/file/d/1dpkF0vILbYYIAQjn9CAtMbmMSfFfiL41/view?usp=sharing)
-* [Lecture video: 5.1-Evaluation-3 Case Studies (2:26min)](https://drive.google.com/file/d/1oxc5ckWNZl0SkC3Tljtr0O88f1Gy1-pX/view?usp=sharing)
-* [Lecture video: 5.1-Evaluation-4 Subjective Feedback (5:47min)](https://drive.google.com/file/d/1OgkNRU5Onxi0BI-hc2kgvLOXkndsIed6/view?usp=sharing)
-* [Lecture video: 5.1-Evaluation-5 Objective Measurements (3:48min)](https://drive.google.com/file/d/1IUSsGVGB_QfEYkAf0vYsyAQ8nSASMDIk/view?usp=sharing)
-* [Lecture video: 5.1-Evaluation-6 Wrap up (2:30min)](https://drive.google.com/file/d/1kLQsBUOezs4Zq1WRvhdbfZqZ2Ul-QpUP/view?usp=sharing)
+### Slides
+* [Evaluation](files/9-Evaluation.pdf)  
+
+#### Video lectures
+* [Datavis-9: Evaluation-1 Intro (7:42min)](https://drive.google.com/file/d/1y56Oh0M_VqtjpqijU7CT92x58wUOrw6V/view?usp=sharing)
+* [Datavis-9: Evaluation-2 Heuristics and Guidelines (20:30min)](https://drive.google.com/file/d/1dpkF0vILbYYIAQjn9CAtMbmMSfFfiL41/view?usp=sharing)
+* [Datavis-9: Evaluation-3 Case Studies (2:26min)](https://drive.google.com/file/d/1oxc5ckWNZl0SkC3Tljtr0O88f1Gy1-pX/view?usp=sharing)
+* [Datavis-9: Evaluation-4 Subjective Feedback (5:47min)](https://drive.google.com/file/d/1OgkNRU5Onxi0BI-hc2kgvLOXkndsIed6/view?usp=sharing)
+* [Datavis-9: Evaluation-5 Objective Measurements (3:48min)](https://drive.google.com/file/d/1IUSsGVGB_QfEYkAf0vYsyAQ8nSASMDIk/view?usp=sharing)
+* [Datavis-9: Evaluation-6 Wrap up (2:30min)](https://drive.google.com/file/d/1kLQsBUOezs4Zq1WRvhdbfZqZ2Ul-QpUP/view?usp=sharing)
 
 
 ## Suggested Reading

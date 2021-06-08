@@ -65,6 +65,7 @@ Guest speaker: __Zezhong Wang__
 
 As a rather novel format, [data comics](https://datacomics.github.io) leverage the visual language and storytelling concepts from traditional comics (panels, pages, characters, temporal change) to communicate insights about data, and break down the complexity of visualizations. This tutorial will be conducted as a structured workshop, in which we will use data comics to present data stories with data visualisations. You only need to prepare the data you want to tell a story from, ideally from your project, along with a pen/pencils for sketching and paper.
 
+[Workshop slides](files/DataComicsWorkshop_DataViz4Pro.pdf)
 
 <p>&nbsp;</p>
 

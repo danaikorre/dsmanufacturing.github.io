@@ -1,6 +1,6 @@
 back to [course content](index#course_organisation)
 
-# Week 4, Session 2: Physical and Personal Visualization 
+# Week 7: Physical and Personal Visualization 
 
 [Lecture](#lecture) | [Quiz](#quiz) | [Tutorial](#tutorial-programming_clinic) 
 

@@ -159,7 +159,7 @@ __NOTE:__ In the actual evaluation __remind users they are evaluating the tool, 
 
 # Assignment
 
-Complete the exercise in <a href="tutorial-usability-evaluation">this tutorial</a>.  Summarise your evaluation plan on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="#guidelines_evaluation_plan">guidelines & best practice for creating an evaluation plan</a>. Include your evaluation plan as an appendix with your final project.
+Complete the exercise in <a href="#tutorial-usability-evaluation">this tutorial</a>.  Summarise your evaluation plan on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="#guidelines_evaluation_plan">guidelines & best practice for creating an evaluation plan</a>. Include your evaluation plan as an appendix with your final project.
 
 
 <p>&nbsp;</p>

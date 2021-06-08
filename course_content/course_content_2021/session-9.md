@@ -3,7 +3,7 @@ back to [course content](index)
 
 # Week 9: Evaluation
 
-[Lecture](#lecture) | [Tutorial](#tutorial-usability-evaluation) 
+[Lecture](#lecture) | [Tutorial](#tutorial-usability-evaluation) | [Assignment](#assignment)
 
 Lecture topics: 
 
@@ -152,5 +152,14 @@ __NOTE:__ In the actual evaluation __remind users they are evaluating the tool, 
 * Brooke, J. (1996). SUS: A "quick and dirty" usability scale. In P. W. Jordan, B. Thomas, B. A. Weerdmeester, & A. L. McClelland (Eds.), Usability Evaluation in Industry. London: Taylor and Francis.
 
 <p>&nbsp;</p>
+***
 
+<p>&nbsp;</p>
+
+# Assignment
+
+Complete the exercise in <a href="evaluation_plan">tutorial 9</a>.  Summarise your evaluation plan on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="#guidelines_evaluation_plan">guidelines & best practice for creating an evaluation plan</a>. Include your evaluation plan as an appendix with your final project.
+
+<p>&nbsp;</p>
+       
 back to [course content](index)

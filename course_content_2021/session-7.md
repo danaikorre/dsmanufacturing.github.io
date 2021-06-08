@@ -13,7 +13,7 @@ Lecture topics:
 
 ## Data Physicalization 
 
-* [Lecture Slides: 4.2-DataPhysicalization.pdf](files/7-DataPhysicalization.pdf)  
+* [Lecture Slides: 7-DataPhysicalization.pdf](files/7-DataPhysicalization.pdf)  
 * [Lecture video: Data Physicalization-1 (6:22min)](https://drive.google.com/file/d/1weLnmgOcnHfK6WdqtmBJecVIhrq56VOp/view?usp=sharing)
 * [Lecture video: Data Physicalization-2 (5:42min)](https://drive.google.com/file/d/1tqPvO4H65VTJGlOBNe-hYfG1twdjp97e/view?usp=sharing)
 * [Lecture video: Data Physicalization-3 (6:05min)](https://drive.google.com/file/d/1niKhxo6RfQmVd_mjepe0Tc2rPsVsogxt/view?usp=sharing)
@@ -30,7 +30,7 @@ Lecture topics:
 )
 
 ## Personal Data Visualiztion 
-* [Lecture Slides: 4.2-DataPhysicalization.pdf](files/7-PersonalVisualization.pdf)  
+* [Lecture Slides: 7-DataPhysicalization.pdf](files/7-PersonalVisualization.pdf)  
 * [Lecture video: Personal Visulization-1 (15:13min)](https://drive.google.com/file/d/1U3efOa-18fyLU4SZtZ7LOScigamts4Pe/view?usp=sharing)
 * [Lecture video: Personal Visulization-2 (6:51min)](https://drive.google.com/file/d/1RZN2qtGxz2K26QpahAgvZolUSQhN2NMC/view?usp=sharing)
 * [Lecture video: Personal Visulization-3 (10:00min)](https://drive.google.com/file/d/18CuIp4oHbNBMG1-8qTKVpGGfQm3_t2yM/view?usp=sharing)

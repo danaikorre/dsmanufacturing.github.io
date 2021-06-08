@@ -192,7 +192,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     </td><td>
       <!-- a href="session-9#tutorial-usability-evaluation" -->Usability evaluation<!-- /a -->
     </td><td>
-      <!-- a href="session-9#assessment-project_evaluation_plan" -->Project evaluation plan<!-- /a -->
+      <!-- a href="session-9#assignment" -->Project evaluation plan<!-- /a -->
     </td>
   </tr>
   

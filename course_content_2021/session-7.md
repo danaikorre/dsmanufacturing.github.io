@@ -58,9 +58,13 @@ Available by end of week
 
 
 <a name = "tutorial-programming_clinic"></a>
-# Tutorial: Ad-Hoc Programming Clinic
+# Tutorial: Ad-Hoc Programming Clinicv
 
-<!-- Introduction to D3 -->
+## Introduction to D3 &amp; JavaScript 
+* Tues 18:00&mdash;20:00
+
+## Introduction to R 
+* Fri 10:00&mdash;12:00
 
 <p>&nbsp;</p>
 

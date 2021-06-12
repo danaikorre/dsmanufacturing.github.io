@@ -168,7 +168,7 @@ Please remember that while strongly encouraged, **participation in tutorials and
     <td style = "vertical-align:top;">
       <a href="session-7#lecture">Data Physicalisation & Personal Data Visualisation</a>
     </td><td>
-       <a href="session-7#"tutorial-programming_clinic">Programming Clinics</a>
+       <a href="session-7#tutorial-programming_clinic">Programming Clinics</a>
     </td><td>
     </td>
   </tr>

@@ -164,12 +164,11 @@ Please remember that while strongly encouraged, **participation in tutorials and
   <tr style = "vertical-align:top;">
     <th colspan = "4"><h4>Week 7 &ndash; Jun 14</h4></th>
   </tr><tr style = "vertical-align:top;">
-    <td><!-- a href="session-7" -->7<!-- /a --></td>
+    <td><a href="session-7">7</a></td>
     <td style = "vertical-align:top;">
-      <!-- a href="session-7#lecture" -->Data Physicalisation & Personal Data Visualisation<!-- /a -->
+      <a href="session-7#lecture">Data Physicalisation & Personal Data Visualisation</a>
     </td><td>
-       <!-- a href="session-7#"tutorial-programming_clinic" -->Programming Clinic<!-- /a --><br />
-      Implementation &ndash; project
+       <a href="session-7#"tutorial-programming_clinic">Programming Clinics</a>
     </td><td>
     </td>
   </tr>

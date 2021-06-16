@@ -57,7 +57,7 @@ __Suggested Reading on Networks:__
 * [Lecture video: Time-6 (2:27)](https://drive.google.com/file/d/1wKwiSuko7q7VpomPrbgm3_aukLFfCcGx/view?usp=sharing)
 
 __Suggested Reading on Temporal Data:__
-* Alberto Cairo: The Truthful Art: Chapter 8: Revealing Change
+* [Alberto Cairo: The Truthful Art: Chapter 8: Revealing Change](https://discovered.ed.ac.uk/discovery/fulldisplay?docid=alma9924580753602466&context=L&vid=44UOE_INST:44UOE_VU2&lang=en&search_scope=UoE&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Alberto%20Cairo&offset=0)
 * Aigner, Wolfgang, et al. Visualization of time-oriented data. Springer Science & Business Media, 2011.
 * Bach, Benjamin, et al. “A descriptive framework for temporal data visualizations based on generalized space‐time cubes.” Computer Graphics Forum. Vol. 36. No. 6. 2017.
 * Rosenberg, Daniel, and Anthony Grafton. Cartographies of time: A history of the timeline. Princeton Architectural Press, 2013.

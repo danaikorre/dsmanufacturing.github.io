@@ -37,7 +37,7 @@ Lecture topics:
 * Bach, Benjamin, et al. "Design patterns for data comics." Proceedings of the 2018 chi conference on human factors in computing systems. 2018.
 * Bach, Benjamin, et al. "The emerging genre of data comics." IEEE computer graphics and applications 37.3 (2017): 6-13.
 * Wang, Zezhong, et al. "Comparing Effectiveness and Engagement of Data Comics and Infographics." Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. 2019.
-* Bach, Benjamin, et al. "Narrative design patterns for data-driven storytelling." Data-Driven Storytelling. CRC Press, 2018. 107-133.
+* Bach, Benjamin, et al. "Narrative design patterns for data-driven storytelling." Data-Driven Storytelling. CRC Press, 2018. 107-133. (Download)[https://github.com/datavis-online/datavis-online.github.io/blob/master/files/Narrative_Design_Patterns__for_Data_Driven_Storytelling.pdf]
 * Amini, Fereshteh, et al. "Authoring data-driven videos with dataclips." IEEE transactions on visualization and computer graphics 23.1 (2016): 501-510.
 
 ## Weblinks

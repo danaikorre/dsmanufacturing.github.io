@@ -60,6 +60,7 @@ back to [course content](index#course_organisation)
 ### Further reading
 
 * [VisGuides open discussion forum](https://visguides.org)
+* Borking et al, [What makes a Visualization Memorable?](https://discovered.ed.ac.uk/discovery/fulldisplay?docid=cdi_crossref_primary_10_1109_TVCG_2013_234&context=PC&vid=44UOE_INST:44UOE_VU2&lang=en&search_scope=UoE&adaptor=Primo%20Central&tab=Everything&query=any,contains,what%20makes%20the%20visualisation%20memorable%3F&offset=0), 2018
 
 <p>&nbsp;</p>
 

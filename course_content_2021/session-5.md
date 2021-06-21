@@ -41,7 +41,7 @@ __Suggested Reading on Networks:__
 
 ### 2. Trees &amp; Hierarchies
 * [Lecture slides: Trees & Hierarchies](files/5-Trees+Hierarchies.pdf)  
-* [Lecture video: Trees & Hierarchies-1 (42:00)](https://drive.google.com/file/d/1rqGOvytbRCikUzP0vvyxUuI-6WoiBntR/view?usp=sharing)
+* [Lecture video: Trees & Hierarchies-1 (42:00)](https://drive.google.com/file/d/1PAj4u1JOsnz0ktMBX6MmZGlmKy9h7Uo2/view?usp=sharing)
 * [Lecture video: Trees & Hierarchies-2 (4:51)](https://drive.google.com/file/d/1GP60bvYxU46X4v1zWZKbDHGztCadN1NV/view?usp=sharing)
 
 __Suggested Reading on Networks:__

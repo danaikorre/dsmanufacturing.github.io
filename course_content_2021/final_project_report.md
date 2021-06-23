@@ -2,6 +2,8 @@
 
 Your project report is a reflection on the visualisation process, and how you employed your project as a learning tool, to increase your visual literacy and acquire new, practical visualisation skills. 
 
+Please use __minimum font size 11 and reasonable margins__ for written sections of your submission. <br /><br />
+
 In the final submission, please include the following items (1-4) as appendices to your report.
 
 <a name = "appendices"></a>

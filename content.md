@@ -34,7 +34,7 @@ Each week will focus on one key topic:
 * __Weeks 6 &amp; 7__ look at the __application areas__ for data visualisation in a variety of scenarios with an aim to help participants identify and select from different solutions for the challenges defined.
 * __Week 8__ will take a breather from lecture material and focus on project 1-on-1s, where we will go through projects with participants. These sessions will allow participants to discuss their ideas and work to this point with one of the organisers, and to receive interim feedback.
 * __Weeks 9 &amp; 10__ conclude the course with a set of __advanced topics__, from which participants will select options to focus on, ideally in line with their project. 
-
+* __Week 11__ is not a taught week. It's to finish your projects which you have to hand in at the end of that week.
 
 # Detailed Schedule
 

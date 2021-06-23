@@ -2,9 +2,9 @@
 
 This page offers some thougths to help you structure your projects. The advice will be updated.
 
-1. Please come to the **Q&A sessions** and ask questions to discuss your projects. This really is your time and much can be learned from the other's questions. I am sorry for those who have missed the opportunity. From the conversations I have had so far, I am sharing some general suggestions on the problems below:
+Please come to the **Q&A sessions** and ask questions to discuss your projects. This really is your time and much can be learned from the other's questions. I am sorry for those who have missed the opportunity. From the conversations I have had so far, I am sharing some general suggestions on the problems below:
 
-1. Many struggling to **scope the data and questions for the final project**. This is totally normal. Try to pose yourself the following questions: 
+Many struggling to **scope the data and questions for the final project**. This is totally normal. Try to pose yourself the following questions: 
 	1 **What information do I want to get across?** E.g., I want to show the distribution / frequency / trend over time for my variable X. Saying 'to visualize all these data' is not about information. Information are: trends, missing data, relationships, frequencies, outliers, temporal change, differences, distributions, ... 
 	1. It's a good strategy to **think of 1-2 columns** (from your spreadsheet) at a time and create a visualization just for those. 
 	1. That means, **break down the complexity** of your big, complex, multivariate dataset into little manageable pieces. Divide and conquer.

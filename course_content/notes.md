@@ -18,7 +18,7 @@ Many struggling to **scope the data and questions for the final project**. This 
       1. Needs to be learned, and 
       1. Needs to be executed. 
       1. There is a cost for knowing that I can interact, and how I interact and there is a cost in doing this interaction each time. The most simple interaction is scrolling. If you can show through all your charts, why not doing that? Add a menu on top for quick access. You can do this in any website or system that uses markdown
-   1. ** Create a very sophisticated bespoke visualization** that includes as much information from your data into a single (but complex) image. E.g., a geographic map that includes time and different categorical data. This is challenging and will require potentially several tools (illustrator, d3) and low-level designing using visual variables, glyphs, etc.
+   1. **Create a very sophisticated bespoke visualization** that includes as much information from your data into a single (but complex) image. E.g., a geographic map that includes time and different categorical data. This is challenging and will require potentially several tools (illustrator, d3) and low-level designing using visual variables, glyphs, etc.
 1. In engaging with these questions, keep the following in mind: 
    1. **think about your audience / your persona(s)**. Imagine a scenario in which your future user will read those visualizations and how they will relate information. 
    1. **What tools do I master?** What tool would I need? Can I learn that tool in that short time? 

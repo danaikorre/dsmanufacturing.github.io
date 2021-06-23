@@ -6,8 +6,8 @@ Please come to the **Q&A sessions** and ask questions to discuss your projects. 
 
 Many struggling to **scope the data and questions for the final project**. This is totally normal. Try to pose yourself the following questions: 
 
-1 **What information do I want to get across?** E.g., I want to show the distribution / frequency / trend over time for my variable X. Saying 'to visualize all these data' is not about information. Information are: trends, missing data, relationships, frequencies, outliers, temporal change, differences, distributions, ... 
-1. It's a good strategy to **think of 1-2 columns** (from your spreadsheet) at a time and create a visualization just for those. 
+	1. **What information do I want to get across?** E.g., I want to show the distribution / frequency / trend over time for my variable X. Saying 'to visualize all these data' is not about information. Information are: trends, missing data, relationships, frequencies, outliers, temporal change, differences, distributions, ... 
+	1. It's a good strategy to **think of 1-2 columns** (from your spreadsheet) at a time and create a visualization just for those. 
 	1. That means, **break down the complexity** of your big, complex, multivariate dataset into little manageable pieces. Divide and conquer.
 	1. You can take the lectures on the **data types** as inspiration (weeks 4+5): is there time in my dataset? Is there geography? Are there relationships? Are there quantitative values and stats? Can I visualize one at a time? Create a sketch for each of these aspects. 
 	1. Try to go through points a-c for some of your initial questions (information) and **create a set of simple visualizations**. Focus on hand sketches with your favourite pen. Get your hands dirty. Clutter your floor/wall/door/kitchen/garden with sketches and drafts. No draft is a waste. If were had physical lessons, we'd pin all of them onto our studio wall. You do most of the errors by too quickly deciding on one single (sub-optimal) solution and then stick with it. 

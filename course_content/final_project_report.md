@@ -9,7 +9,7 @@ In the final submission, please include the following items (1-4) as appendices 
 1. __Implementation__
     * one of the following, set up to use your intended delivery method (or as close to this as you can simulate):
         * a link to a website or other online space containing your solution (ensure this works in any modern, standard web browser)
-        * a PDF of a static solution, e.g., as a report, slideshow, mini booklet, data comic, infographic or any other format that demonstrates your solution
+        * a single file (ideally as PDF or other non-editable format) containing of a static solution, e.g., as a report, slideshow, mini booklet, data comic, infographic or any other format that demonstrates your solution
     
     __NOTE__ do NOT submit your project as a collection of files, collate any such into a single file or site as above
 
@@ -49,15 +49,24 @@ In the final submission, please include the following items (1-4) as appendices 
     * each appendix must be referenced within the main report
 
 * __Report Content__
-    * your big question / challenge - one sentence or a couple of bullet points
+    * your big question / challenge - one sentence or a couple of bullet points 
     * your (key/primary) target users (and environment if applicable)
-    * annotated design sketches
+      * _this should forward reference also to an appendix containing the final version of your brief_    
+
+   * annotated design sketches
         * highlight which ideas you kept, which you rejected, and why. Justify your decisions using concepts from the lectures, any additional research and feedback from 
-     * EDA and its impact on your plan
+      * _this should forward reference also to an appendix containing the final version of your design_     
+      
+    * EDA and its impact on your plan
+    
     * impact of tool exploration and review, critical analysis, peer feedback and formal evaluation plan on original brief and initial design  
+      * _this should forward reference also to two appendices containing:_
+         * the final version of your annotated tool matrix, showing between 3 and 5 tools that link back to your goals
+         * your formal evaluation plan, and a summary of any initial results/feedback &ndash; from target end users and/or your peers if you took part in the tutorial on evaluation. 
+      
     * overall, reflect on the new skills you gained (techniques, tools, process) and how these fed into your delivery; you may present this as a comparison of your initial learning goals against the skills you actually gained
     * summary of future plan, indicating extensibility and reusability, and taking into account practical constraints
-         * if needed provide further detail as part of journal (4th appendix)
+         * if needed provide further detail as part of journal 
 
     * __Acknowledge all people, organisations (e.g., data owners, end users) and data sources that fed into your work__
 

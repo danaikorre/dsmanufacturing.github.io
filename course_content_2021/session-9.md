@@ -43,7 +43,7 @@ Lecture topics:
 # Tutorial: Usability Evaluation
 1. Discussion 1 (10 min)
     * ___Whole class &ndash; reflection___
-        - review project definition and [design guidelines](session-2#gdesign_guidelines)
+        - review project definition and [design guidelines](session-2#design_guidelines)
         - review feedback (given and received) during 'Critical Analysis' tutorial
         - review of evaluation heuristics 
 
@@ -162,7 +162,7 @@ __NOTE:__ In the actual evaluation __remind users they are evaluating the tool, 
 
 # Assignment
 
-Complete the exercise in <a href="#tutorial-usability-evaluation">this tutorial</a>.  Summarise your evaluation plan on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="#guidelines_evaluation_plan">guidelines & best practice for creating an evaluation plan</a>. Include your evaluation plan as an appendix with your final project.
+Complete the exercise in <a href="#tutorial-usability-evaluation">this tutorial</a>.  Summarise your evaluation plan on a single page (A4, min font size 11), taking into account also any feedback and discussions during the tutorial, and the <a href="#guidelines_evaluation_plan">guidelines & best practice for creating an evaluation plan</a>. Include your evaluation plan as an appendix with your final project.
 
 
 <p>&nbsp;</p>

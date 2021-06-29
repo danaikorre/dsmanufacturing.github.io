@@ -136,7 +136,7 @@ __General guidelines &amp; best practice for creating an evaluation plan__
 __NOTE:__ In the actual evaluation __remind users they are evaluating the tool, not themselves!!!__
 <p>&nbsp;</p>
 
-#### Additional resources &amp; links:
+#### Additional tutorial resources &amp; links:
 
 * Elmqvist, N., & Yi, J. S. (2015). [Patterns for visualization evaluation](http://dx.doi.org/10.1177/1473871613513228). Information Visualization, 14(3), 250-269. [UoE library link](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_sage_s10_1177_1473871613513228)
 * Scholtz, J. et al. (2014) [Evaluation of visual analytics environments: The road to the Visual Analytics Science and Technology challenge evaluation methodology](http://dx.doi.org/10.1177/1473871613490290), Information Visualization, 13(4), pp. 326–335. [UoE library link](https://discovered.ed.ac.uk/permalink/f/1s15qcp/TN_sage_s10_1177_1473871613490290)

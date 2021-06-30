@@ -63,7 +63,7 @@ While we recommend completing quizzes on a weekly basis, you may choose to attem
 ### Final Project
 
 The final submission will include findings and lessons learnt from exercises completed as the course progresses.  
-* Requirements &amp; guidelines for project report will be made available after week 6.  <!-- [](final_project_report.md)  -->
+* [Requirements &amp; guidelines for the project report](final_project_report.md)
 * The submission link on Learn __will be available from 12:00 on Jul 12th__
 
 **Your project must be submitted by 23:59 on Jul 16th.**

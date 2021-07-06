@@ -17,7 +17,7 @@ back to [course content](index#course_organisation)
 
 ### Slides
 
-* [Interaction.pdf](files/5.2-Interaction.pdf)  
+* [Interaction.pdf](files/10-Interaction.pdf)  
 
 
 #### Video lectures

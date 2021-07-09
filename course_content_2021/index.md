@@ -28,7 +28,7 @@ Resources you may need during the course.
 
 * **[Teams](http://bit.ly/DataVis4ProfTeams2021):** **note** you must be logged in to your Office365 account for this course for this link to work.   
 * **[Learn VLE](http://bit.ly/sfcdv2021_on_learn)**: **note** you must be logged in to the university for this link to work.
-* **[Book 1-on-1](https://datavisonline.youcanbook.me)**. The booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available
+<!-- * **[Book 1-on-1](https://datavisonline.youcanbook.me)**. The booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available -->
 
 * **[MyEd portal](https://www.myed.ed.ac.uk)**   
 * **[Library](https://discovered.ed.ac.uk)** to obtain copies of books and papers. 

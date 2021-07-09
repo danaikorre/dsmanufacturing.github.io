@@ -4,7 +4,7 @@ Your project report is a reflection on the visualisation process, and how you em
 
 Please use __minimum font size 11 and reasonable margins__ for written sections of your submission. <br /><br />
 
-In the final submission, please include the following items (1-4) as appendices to your report.
+In the final submission, please include the following items (1-4) as appendices to your report. Your report and all appendices __must be submitted as a single file__. 
 
 <a name = "appendices"></a>
 

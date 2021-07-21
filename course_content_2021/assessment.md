@@ -92,7 +92,7 @@ back to main [schedule](index.md)
     <td><b><i>Mon, May 17, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
-     Complete the exercise in <a href="session-1-2.md#tutorial-project_brief">tutorial 1-2</a>. Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="session-1-2.md#guidelines_defining_project_brief">guidelines for defining a brief</a>.<br/>
+     Complete the exercise in <a href="session-1-2#tutorial-project_brief">tutorial 1-2</a>. Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="session-1-2#guidelines_defining_project_brief">guidelines for defining a brief</a>.<br/>
       Submit a copy of your brief to <!-- a href="https://bit.ly/submission_reflection_exercises_2021" -->Learn<!-- /a --> (link available from 18:00 on 8th May).
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">

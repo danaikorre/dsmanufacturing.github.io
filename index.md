@@ -1,5 +1,7 @@
 # Course in Data Science for Manufacturing
 
+![teaser](images/teaserdsm.png)
+
 The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2022 from __Month 0th - Month 0th (10 weeks)__ and is dedicated to master students and professionals in---among others---the manufacturing sector.
 
 This online course teaches how to
@@ -31,7 +33,7 @@ Meet the organizers and join our **[open info session on MS Teams](TEAMS LINK)**
 * Day, Month 00, 6-7pm, BST
 * Day, Month 00, 6-7pm, BST
 
-![teaser](images/dsm_chart.png)
+![teaser1](images/dsm_chart.png)
 
 
 With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __mini tutorials__, __drop-in sessions__,  __complementary online teaching material__, and __seminars by guest speakers__. More about the [course organisation](organisation.html) and its [schedule](content.html).

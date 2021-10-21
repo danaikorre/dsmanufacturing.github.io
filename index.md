@@ -1,27 +1,38 @@
-# Online Course in Data Visualisation for Professionals
+# Course in Data Science for Manufacturing
 
-![teaser](images/teaser.png)
-
-The [University of Edinburgh](https://www.ed.ac.uk) is hosting, for the second year, a university-certified, _10-credit_, online course in data visualisation with flexible schedule. The course runs in 2021 from __Tues, May 4th &ndash; Sat, July 10th (10 weeks)__ and is dedicated to professionals in---among others---finance, the sports industry, the creative industry, journalism, education and the public sector. Further runs of the course later this year are in preparation. 
-
-Meet the organizers and join our **[open info session on MS Teams](https://teams.microsoft.com/l/meetup-join/19%3a774c5a632ca64cd3a730f4c726b054b0%40thread.tacv2/1618999263034?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%221c4cc21f-0698-4756-b656-1d9b7595893a%22%7d)** (installed MS Teams application required). The session gives an overview over the course and we will answer questions. Sessions times are 
-* Thu, April 22, 6-7pm, BST
-* Mon, April 26, 6-7pm, BST
+The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2022 from __Month 0th - Month 0th (10 weeks)__ and is dedicated to master students and professionals in---among others---the manufacturing sector.
 
 This online course teaches how to
-* visually __explore__ data
-* __criticise__ data visualisations, 
-* __design__ visualisations, and 
-* __implement__ data visualisations. 
+* Give a grounding in __programming__ with Python, version control with Git and Github and other key software practices.
+* Develop an __understanding__ of data formats, their wrangling and management, including CSV and relational databases (SQL), CAD formats and materials. 
+* __Develop__ skills in the analysis and visualisation of a range of data using descriptive statistics and exploratory data analysis.
+* __Introduce__ you to the ramifications of data collection and use in a manufacturing setting
+* __Criticise__ data use and practises 
+* __Introduce__ collaborative practices around data collection, analysis and presentation.
+* Set some context 
+  * What types of data can be found in manufacturing
+  * How that data can be used on a big level
+  * Tactically how the data can be used to optimize processes
+* Particular topics
+  * Data Carpentry
+  * Data visualization 
+    * Forms of data (Infographics, Interactives, Physicalizations, Comics, Storytelling,Scientific visualization)
+* Machine learning/Data analysis
 
 It covers the fundamentals of 
-* human perception and data visualisation, 
 * exploratory data analysis,
-* the importance of interaction in exploration, 
-* techniques for data visualisation (networks, temporal data, geographic data, etc..), 
-* storytelling and communication,
+* the importance of data science in manufacturing, 
+* techniques for data visualisation
+* tools for data analysis,
 * tools for data visualisation, and
 * evaluation.
+
+Meet the organizers and join our **[open info session on MS Teams](TEAMS LINK)** (installed MS Teams application required). The session gives an overview over the course and we will answer questions. Sessions times are 
+* Day, Month 00, 6-7pm, BST
+* Day, Month 00, 6-7pm, BST
+
+![teaser](images/dsm_chart.png)
+
 
 With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __mini tutorials__, __drop-in sessions__,  __complementary online teaching material__, and __seminars by guest speakers__. More about the [course organisation](organisation.html) and its [schedule](content.html).
 

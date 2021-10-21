@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-We list here answers to questions from applicants and more detail about discussions on key topics raised during interviews with potential course applicants. This is a live document and will be updated regularly; please [e-mail us](mailto:datavisonline@gmail.com) if you have any questions not addressed here. 
+We list here answers to questions from applicants and more detail about discussions on key topics raised during interviews with potential course applicants. This is a live document and will be updated regularly; please [e-mail us](mailto:datascimanu@gmail.com ) if you have any questions not addressed here. 
 <p>&nbsp;</p>
 
 
@@ -72,7 +72,7 @@ Please note that if you choose not to attend tutorials you **must** still follow
 We encourage participants to come with an idea and/or data for their project, from work or of personal interest.  
 Please note you do not need to have an idea formulated in advance; we will address projects and input data in the first week's tutorials. We will also provide [pointers to public, open datasets](organisation.md#byod).
 
-Please [complete a short survey](https://forms.gle/4Z6wTZkoHMsNL5Yu5) and provide your contact details or [e-mail us](mailto:datavisonline@gmail.com) if you wish to discuss ideas prior to course start. 
+Please [complete a short survey](https://forms.gle/4Z6wTZkoHMsNL5Yu5) and provide your contact details or [e-mail us](mailto:datascimanu@gmail.com ) if you wish to discuss ideas prior to course start. 
 
 
 ### What if I have sensitive and/or private data? 

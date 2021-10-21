@@ -8,7 +8,7 @@ Applications for the course are not handled through the organising team, but cen
     * centralised [course application form](#course_applications)
   * Register interest in [other data skills courses](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest) and to receive updates about the Bayes Centre's [*Data Skills Workforce Development*](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development) portfolio
 
-Please [e-mail us](mailto:datavisonline@gmail.com) if you've any questions not addressed here or in the [FAQs](faqs.md). 
+Please [e-mail us](mailto:datascimanu@gmail.com ) if you've any questions not addressed here or in the [FAQs](faqs.md). 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -32,7 +32,7 @@ Applications are currently being processed; if you meet the basic requirements a
 <a name = "course_applications"></a>
 ## Completing course application form
 
-A single [form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply) is in use for a set of courses within the Bayes Centre's *Data Skills Workforce Development* portfolio; the form must therefore satisfy all courses' requirements and also the University of Edinburgh's formal requirements for applications. Bearing in mind that the data visualisation course has an atypical target student group, we highlight mandatory sections and where our requirements may differ from the standard, and provide answers to common questions from applicants. Please [e-mail us](mailto:datavisonline@gmail.com) if you have any other questions. 
+A single [form](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply) is in use for a set of courses within the Bayes Centre's *Data Skills Workforce Development* portfolio; the form must therefore satisfy all courses' requirements and also the University of Edinburgh's formal requirements for applications. Bearing in mind that the data visualisation course has an atypical target student group, we highlight mandatory sections and where our requirements may differ from the standard, and provide answers to common questions from applicants. Please [e-mail us](mailto:datascimanu@gmail.com ) if you have any other questions. 
 
 Guidelines follow on how to fill in the University's application form. 
 

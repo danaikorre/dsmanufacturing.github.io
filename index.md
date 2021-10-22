@@ -24,9 +24,8 @@ This online course teaches how to
 It covers the fundamentals of 
 * exploratory data analysis,
 * the importance of data science in manufacturing, 
-* techniques for data visualisation
 * tools for data analysis,
-* tools for data visualisation, and
+* tools and techniques for data visualisation, and
 * evaluation.
 
 Meet the organizers and join our **[open info session on MS Teams](TEAMS LINK)** (installed MS Teams application required). The session gives an overview over the course and we will answer questions. Sessions times are 
@@ -36,14 +35,18 @@ Meet the organizers and join our **[open info session on MS Teams](TEAMS LINK)**
 
 With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __mini tutorials__, __drop-in sessions__,  __complementary online teaching material__, and __seminars by guest speakers__. More about the [course organisation](organisation.html) and its [schedule](content.html).
 
-We encourage **BYOD---bring and work on your own data project** (we can sign non-disclosure agreements). Alternatively, class examples will include open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), [COVID-19](https://github.com/CSSEGISandData/COVID-19) and gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) ([github repository](https://github.com/fathominfo/noceilings-data)), and [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland).
+<!---We encourage **BYOD---bring and work on your own data project** (we can sign non-disclosure agreements). --->
+Class examples will include open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), [COVID-19](https://github.com/CSSEGISandData/COVID-19) and gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) ([github repository](https://github.com/fathominfo/noceilings-data)), and [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland).
 
 ### Learning Outcomes
-1. **Analyse:** Describe a challenge for a visualisation project and the reasons why visualisation is required. 
-2. **Structure:** Break down the project considering its context (target audience, usage scenario), potential tasks that the visualisation should facilitate, and the characteristics of the data set.
-3. **Design+Implement:** Create a visualisation through one of various media (website, interactive, infographic, etc.) and through a self-selected set of tools (e.g., Tableau, D3.js), to match the earlier identified challenge.
-4. **Evaluation:** Critically reflect on a visualisation design and suggest constructive solutions. 
-5. **Apply:** Competently apply a wide range of visualisation techniques and tools, also knowing their particular features and drawbacks.
+1. **Program** : Identify and deploy strategies for writing, understanding and managing computer programs using Python and version control.
+2. **Data** : The ability to wrangle, analyse, learn from and visualise a range of data, in a way that demonstrates its relevance to digital manufacturing.
+4. **Evaluation:** : Critically reflect on the results and suggest constructive solutions. 
+5. **Communicate** : Communicate around manufacture relevant issues, supported by the use of multiple data sources and appropriate analysis.
+6. **Apply** : Competently apply data science techniques and tools.
+7. **Professionalism** : Working in collaborative, interdisciplinary teams to a high professional standard.
+8. **Understand** : have knowledge of the data ecosystem of manufacturing companies
+
 
 ### Takeaways 
 * A **certificate** to reflect a 10 credit-bearing course at Masters level (SCQF Level 11)
@@ -56,11 +59,11 @@ Browse further detail on the __[course structure](organisation.md)__.
 
 ## [Submit Application](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=1002)
 
-Applications are now being accepted for the course. Please note that you **must** state that you are registering for the course ***Data Visualisation for Professionals*** in the "Supporting Statement" section of the [application form](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=1002).
+Applications are now being accepted for the course. Please note that you **must** state that you are registering for the course ***Data Science for Manufacturing*** in the "Supporting Statement" section of the [application form](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=1002).
 
 
 ## Course Delivery Information
-* Start Date: __04 May 2021__
+* Start Date: __00 Month 2022__
 * Course Duration: __10 weeks__, complementing self-directed online learning with one hands-on session per week via a virtual classroom, in addition to a Q&amp;A session to discuss recorded lectures and corresponding quizzes
 * Total Hours: __50-100hrs__ (Lecture Hours 10; Tutorial Hours 20; Independent Study Hours 30-70) 
 * Hourly investment: __5-10hrs__, including video lectures, reading, Q&As, project work.

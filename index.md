@@ -45,7 +45,7 @@ Class examples will include open-access data on a variety of topical issues such
 5. **Communicate** : Communicate around manufacture relevant issues, supported by the use of multiple data sources and appropriate analysis.
 6. **Apply** : Competently apply data science techniques and tools.
 7. **Professionalism** : Working in collaborative, interdisciplinary teams to a high professional standard.
-8. **Understand** : have knowledge of the data ecosystem of manufacturing companies
+8. **Understand** : Have knowledge of the data ecosystem of manufacturing companies
 
 
 ### Takeaways 

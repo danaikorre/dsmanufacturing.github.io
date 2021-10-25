@@ -17,14 +17,17 @@ This course **WILL**
 Contextual knowledge plays a key role in data interpretation and use. While this may be harnessed to create more meaningful, insightful visualisations, context may also be exploited to unfairly influence or actively mislead - topics that will be covered during the course. We encourage **BYOD---bring and work on your own data project** (we can sign non-disclosure agreements). Alternatively, class examples will point to open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) --- [github repository](https://github.com/fathominfo/noceilings-data)), [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland) and the [National Records of Scotland (NRS)](https://www.nrscotland.gov.uk/statistics-and-data).
 
 ### Learning Outcomes
-1. **Analyse:** Describe a challenge for a visualisation project and the reasons why visualisation is required. 
-2. **Structure:** Break down the project considering its context (target audience, usage scenario), potential tasks that the visualisation should facilitate, and the characteristics of the data set.
-3. **Design+Implement:** Create a visualisation through one of various media (website, interactive, infographic, etc.) and through a self-selected set of tools (e.g., Tableau, D3.js), to match the earlier identified challenge.
-4. **Evaluation:** Critically reflect on a visualisation design and suggest constructive solutions. 
-5. **Apply:** Competently apply a wide range of visualisation techniques and tools, also knowing their particular features and drawbacks.
+1. **Program** : Identify and deploy strategies for writing, understanding and managing computer programs using Python and version control.
+2. **Data** : The ability to wrangle, analyse, learn from and visualise a range of data, in a way that demonstrates its relevance to digital manufacturing.
+4. **Evaluation:** : Critically reflect on the results and suggest constructive solutions. 
+5. **Communicate** : Communicate around manufacture relevant issues, supported by the use of multiple data sources and appropriate analysis.
+6. **Apply** : Competently apply data science techniques and tools.
+7. **Professionalism** : Working in collaborative, interdisciplinary teams to a high professional standard.
+8. **Understand** : Have knowledge of the data ecosystem of manufacturing companies
+
 
 ### Takeaways 
-* A **certificate** to reflect a 10 credit-bearing course at Masters-level (SCQF Level 11)
+* A **certificate** to reflect a 10 credit-bearing course at Masters level (SCQF Level 11)
 * **Visual representation** of your dataset that enables you to answer the challenge you defined around it before and during the course.
 * **Skills** to develop further visual literacy to support data-driven work.
 
@@ -41,13 +44,13 @@ This course teaches general knowledge about theory, application, design, and eva
 
 The course targets professionals working in, among others, finance, the sports industry, the creative industry, in journalism, education and in the public sector. It will enable participants to describe a visualisation problem, to explore the data using data visualisation, to discuss and design appropriate visualisation concepts, and to implement and critically reflect on them. The bi-disciplinary approach, from the Computer Science and Social Sciences perspectives, aims to increase accessibility and ensures both grounding in technical understanding and application across sectors.  
 
-The course is designed for an interdisciplinary audience, targeting participants with a background in design, data analysis, and other areas. In addition to core, mandatory [topics](./content.html) that aim to develop visual literacy, participants can chose from a variety of optional, more specialised topics during the course.
+The course is designed for an interdisciplinary audience, targeting participants with a background in manufacturing, data analysis, and other areas. In addition to core, mandatory [topics](./content.html) that aim to develop data analysis literacy, participants can chose from a variety of optional, more specialised topics during the course.
 
-General __programming skills are not required__ but those with a good understanding of JavaScript, python or R can learn how to use visualisation libraries such as D3.js, [https://d3js.org](https://d3js.org). The course will give you an overview of a range of commercial and open source tools to help you decide what works best for your project and skills.  
+General __programming skills are not required__. The course will give you an overview of a range of commercial and open source tools to help you decide what works best for your project and skills.  
 <table>
   <tr>
     <td style = "width:400px;" align="center" >
-      <img src="images/tools_bcg_matrix.png" alt = "annotated tool selection" />
+      <img src="images/stack_for_DSM.png" alt = "annotated tool selection" />
     </td>
   </tr>
 </table>

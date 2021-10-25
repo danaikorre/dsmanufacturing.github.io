@@ -2,11 +2,11 @@
 
 Applications for the course are not handled through the organising team, but centrally through the University of Edinburgh. As any application follows the standard university application proceedure, this section provides more detail on the different forms involved:
   
-  * Register interest in [surveys & taster sessions](#register_interest_datavis_course) for the data visualisation course
+  * Register interest in [surveys & taster sessions](#register_interest_ds_manu_course) for the data visualisation course
   * Guide to completing: 
     * [assessment of eligibilty for funding](#funding_applications)
     * centralised [course application form](#course_applications)
-  * Register interest in [other data skills courses](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/data-visualisation/register-your-interest) and to receive updates about the Bayes Centre's [*Data Skills Workforce Development*](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development) portfolio
+  * Register interest in [other data skills courses](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses) and to receive updates about the Bayes Centre's [*Data Skills Workforce Development*](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development) portfolio
 
 Please [e-mail us](mailto:datascimanu@gmail.com ) if you've any questions not addressed here or in the [FAQs](faqs.md). 
 <p>&nbsp;</p>
@@ -16,7 +16,7 @@ Please [e-mail us](mailto:datascimanu@gmail.com ) if you've any questions not ad
 <a name = "register_interest_datavis_course"></a>
 ## Register interest in surveys and taster sessions
 
-As part of our course design we are [collecting information](https://forms.gle/4Z6wTZkoHMsNL5Yu5) about participants' motivations and expectations, along with prior experience in visualiation. The form may also be used to [register interest in hands-on taster sessions](https://forms.gle/4Z6wTZkoHMsNL5Yu5).
+As part of our course design we are [collecting information](https://forms.gle/9ZWPn8fDHZiDXNBR9) about participants' motivations and expectations, along with prior experience in visualiation. The form may also be used to [register interest in hands-on taster sessions](https://forms.gle/9ZWPn8fDHZiDXNBR9).
 <p>&nbsp;</p>
 
 <a name = "funding_applications"></a>

@@ -2,15 +2,13 @@
 
 <table>
   <tr>
-    <td style="vertical-align:top;width:100px;"><img src="images/me.png"/></td>
+    <td style="vertical-align:top;width:100px;"><img src="images/drew.png"/></td>
     <td style="vertical-align:top;">
-      <b><!-- a href="bach.html" -->Benjamin Bach, PhD<!-- /a -->,</b> is a Lecturer (Assistant Prof.) in Design Informatics and Visualization at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations. He is part of the [Visual+Interactive Data Group](interactivedata.github.io) at the University of Edinburgh.
+      <b><!-- a href="bach.html" -->Andrew Sherlock, Prof<!-- /a -->,</b> is a part time Professor of Data-Driven Manufacturing at the University of Edinburgh.  His first degree was in Mechanical Engineer and his PhD focused on novel shape optimisation techniques for aerospace components. His career has been both in academia and industry, previously spinning out a company  working working in 3D CAD deployed at a number of large manufacturers in automotive, aerospace and industrial equipment industries. Between 2016 and 2019 he was the Royal Academy of Engineering (RAEng) Visiting Professor in Design for Product Profitability.
 
 <ul>
-  <li>Web: <a href="http://benjbach.me">http://benjbach.me</a></li>
-  <li>Twitter: <a href="https://twitter.com/benjbach">@benjbach</a></li>
-  <li><a href="http://visualizationcheatsheets.github.io">Visualization Cheat Sheets</a></li>
-  <li><a href="http://datacomics.net">Data Comics</a></li>
+  <li>Twitter: <a href="https://twitter.com/drewsherlock">@drewsherlock</a></li>
+  <li>Linkedin<a href="https://www.linkedin.com/in/drewsherlock/">Andrew Sherlock</a></li>
 </ul>
 
 <br />Research Interests: 
@@ -25,25 +23,48 @@
    </td>
   </tr>
   <tr>
-    <td style="vertical-align:top;width:100px;"><img src="images/aba-sah.jpg"/></td>
+    <td style="vertical-align:top;width:100px;"><img src="images/JC-bio.png"/></td>
     <td style="vertical-align:top;">
-      <b>Aba-Sah Dadzie, PhD,</b> joined the Visual+Interactive Data group at the University of Edinburgh to work on design and delivery of an online course in data visualisation targeted at professionals working across Scotland. With a background also in Human-Computer Interaction she works at the intersection between research in visual analytics and application to interaction with today's big data and the digital economy. Aba-Sah is part of the [Visual+Interactive Data Group](interactivedata.github.io) at the University of Edinburgh.
+      <b><!-- a href="bach.html" -->Jonathan Corney, Prof<!-- /a -->,</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+<ul>
+  <li>Twitter: <a href="https://twitter.com/drewsherlock">@drewsherlock</a></li>
+  <li>Linkedin<a href="https://www.linkedin.com/in/drewsherlock/">Andrew Sherlock</a></li>
+</ul>
+
+<br />Research Interests: 
+<ul>
+  <li>Network Visualization</li>
+  <li>Visualization of spatio-temporal data</li>
+  <li>Data-driven storytelling</li>
+  <li>Visualization in Augmented and Virtual Reality (Immersive Analytics)</li>
+  <li>Non-digital visualization</li>
+  <li>Teaching and learning visualization</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:top;width:100px;"><img src="images/danai.jpg"/></td>
+    <td style="vertical-align:top;">
+      <b>Danai Korre, PhD,</b> is a Research Associate in Augmented and Virtual Reality at the University of Edinburgh. She has an MSc in digital media and holds a PhD in Human-Oriented Artificial Intelligence, User Experience (UX) research and Data Science with a focus on embodied conversational agents and mobile serious games. She has more than 8 years of experience in EdTech and is a review editor in mobile and ubiquitous computing.
+      Her research interests involve ubiquitous computing, , virtual worlds, , human computer interaction, , embodied  and .  
+<ul>
+  <li>Twitter: <a href="https://twitter.com/danaikorre">@danaikorre</a></li>
+  <li>Linkedin<a href="https://www.linkedin.com/in/danai-korre/">Danai Korre</a></li>
+</ul>
 <br />
 Research Interests:
     <ul>
-      <li>Visual analytics</li>
-      <li>High-dimensional visualisation</li>
-      <li>Visualisation-driven participatory design</li>
-      <li>Storytelling with data</li><br />
-      <li>Citizen data science and public understanding of science</li>
-      <li>Semantic web technology</li>
-      <li>Social media analytics</li>
+      <li>Human-oriented artificial intelligence</li>
+      <li>Data Science</li>
+      <li>Visualization in Augmented and Virtual Reality (Immersive Analytics)</li>
+      <li>Immersive technologies (VR/AR/MR)</li><br />
+      <li>Serious games</li>
+      <li>Embodied, conversational and pedagogical agents</li>
+      <li>Usability engineering</li>
     </ul>
    </td>
   </tr>
 </table>
   
-<!-- __Gian Marco Campagnolo, PhD__, Lecturer at University of Edinburgh -->
 
-__Uta Hinrichs, PhD__, Lecturer at University of St. Andrews

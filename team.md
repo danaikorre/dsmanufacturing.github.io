@@ -46,8 +46,7 @@
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="images/danai.jpg"/></td>
     <td style="vertical-align:top;">
-      <b>Danai Korre, PhD,</b> is a Research Associate in Augmented and Virtual Reality at the University of Edinburgh. She has an MSc in digital media and holds a PhD in Human-Oriented Artificial Intelligence, User Experience (UX) research and Data Science with a focus on embodied conversational agents and mobile serious games. She has more than 8 years of experience in EdTech and is a review editor in mobile and ubiquitous computing.
-      Her research interests involve ubiquitous computing, , virtual worlds, , human computer interaction, , embodied  and .  
+      <b>Danai Korre, PhD,</b> is a Research Associate in Augmented and Virtual Reality at the University of Edinburgh. She has an MSc in digital media and holds a PhD in Human-Oriented Artificial Intelligence, User Experience (UX) research and Data Science with a focus on embodied conversational agents and mobile serious games. She has more than 8 years of experience in EdTech and is a review editor in mobile and ubiquitous computing. 
 <ul>
   <li>Twitter: <a href="https://twitter.com/danaikorre">@danaikorre</a></li>
   <li>Linkedin<a href="https://www.linkedin.com/in/danai-korre/"> Danai Korre</a></li>

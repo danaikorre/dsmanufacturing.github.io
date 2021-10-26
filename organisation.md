@@ -29,7 +29,7 @@ Contextual knowledge plays a key role in data interpretation and use. While this
 ### Takeaways 
 * A **certificate** to reflect a 10 credit-bearing course at Masters level (SCQF Level 11)
 * **Visual representation** of your dataset that enables you to answer the challenge you defined around it before and during the course.
-* **Skills** to develop further visual literacy to support data-driven work.
+* **Skills** to use data science effectively on manufacture related problems.
 
 ## Course Summary
 

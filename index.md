@@ -65,7 +65,7 @@ Applications are now being accepted for the course. Please note that you **must*
 ## Course Delivery Information
 * Start Date: __00 Month 2022__
 * Course Duration: __10 weeks__, complementing self-directed online learning with one hands-on session per week via a virtual classroom, in addition to a Q&amp;A session to discuss recorded lectures and corresponding quizzes
-* Total Hours: __50-100hrs__ (Lecture Hours 10; Tutorial Hours 20; Independent Study Hours 30-70) 
+* Total Hours: __50-100hrs__ (Lecture Hours 10; Workshop tutorial Hours 20; Independent Study Hours 30-70) 
 * Hourly investment: __5-10hrs__, including video lectures, reading, Q&As, project work.
 * Method of Assessment: __Coursework 100%__, including submission of your final project. 
 * The course does not award grades, but is assessed as PASS/FAIL. You will however receive one-on-one and detailed written feedback on your project.

@@ -4,7 +4,19 @@
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="images/drew.jpg"/></td>
     <td style="vertical-align:top;">
-      <b><!-- a href="bach.html" -->Andrew Sherlock, Prof<!-- /a -->,</b> is a part time Professor of Data-Driven Manufacturing at the University of Edinburgh.  His first degree was in Mechanical Engineer and his PhD focused on novel shape optimisation techniques for aerospace components. His career has been both in academia and industry, previously spinning out a company  working working in 3D CAD deployed at a number of large manufacturers in automotive, aerospace and industrial equipment industries. Between 2016 and 2019 he was the Royal Academy of Engineering (RAEng) Visiting Professor in Design for Product Profitability.
+      <b><!-- a href="bach.html" -->Andrew Sherlock, Prof<!-- /a -->,</b> is the Director of Data-driven Manufacturing at the National Manufacturing
+Institute Scotland (NMIS) and Professor of Practice at the University of Strathclyde.
+In 2006 he founded ShapeSpace Ltd, a spin-out from the University of Edinburgh, to commercialise
+3D search-by-shape technology, initially developed as a 3D search engine for components and
+subsequently enhanced to allow analysis of assemblies. This technology has been deployed at a
+number of large manufacturers in automotive, aerospace and industrial equipment industries where
+the ability to do analytics on component portfolios and large numbers of bills of materials has
+uncovered significant cost savings within the supply chain.
+In 2020 he founded EdAR (Software) Ltd another spin-out from the University of Edinburgh, applying
+augmented reality to educational materials for engineering, medicine and other STEM subjects.
+Between 2016 and 2019 he was the Royal Academy of Engineering (RAEng) Visiting Professor in
+Design for Product Profitability and from 2020 to 2021 as Industrial Chair of Data-driven
+Manufacturing, both at the University of Edinburgh.
 
 <ul>
   <li>Twitter: <a href="https://twitter.com/drewsherlock">@drewsherlock</a></li>

@@ -8,7 +8,7 @@ We list here answers to questions from applicants and more detail about discussi
 
 ### Are there any specific eligibility requirements for taking part in the course?
 
-1. The key requirement for eligibility is __interest in data visualisation__. 
+1. The key requirement for eligibility is __interest in applications of data science in manufacturing__. 
 1. Note you do not need to have a technical or computer-related background or experience.
 1. You must have work experience beyond school; this may be in any sector. 
 1. You do not need to currently be in employment. 
@@ -16,21 +16,22 @@ We list here answers to questions from applicants and more detail about discussi
 ### Do I qualify for a fee waiver?
 
 Eligibility criteria for a fee waiver are laid out [here](entry.html).
-
+S
 ### Completing the application form
 
-Applications are _not_ managed by the organisers of this visualisation course but centrally through the University of Edinburgh. Applications for 2021 are now closed.
+Applications are _not_ managed by the organisers of this visualisation course but centrally through the University of Edinburgh. 
+<!-- Applications for 2021 are now closed.-->
 <!-- The [course application is open](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply).--> 
 
 We have provided [answers to common questions](how_to_apply.md) from applicants on the application process, along with detail on eligibility for fee waivers.
 
-The Bayes Centre will continue to accept applications for this course till close of play Fri, 21st April 2021. 
+The Bayes Centre will continue to accept applications for this course till close of play Fri, 00st Month 2021. 
 
 #### Course offers
 
-Offer letters refer to the wider Bayes Centre's data skills portfolio, with course detail:
+<!-- Offer letters refer to the wider Bayes Centre's data skills portfolio, with course detail:
   * course title: ***PG Professional Development in Data Skills Workforce Development (Online Learning) (ICL)***
-  * code:  ***PTPDVDSWDV1U***  
+  * code:  ***PTPDVDSWDV1U***  -->
 
 Provided you stated in the personal statement section of your application for this course you should have been assigned to it. Otherwise please e-mail [Bayes](mailto:bayes-training@ed.ac.uk) to clarify this.
 
@@ -46,7 +47,7 @@ If you are reliant on fee waivers, please note that these are normally restricte
 
 ### What software do I need for the course?
 
-We will use the [Blackboard Collaborate virtual classroom](http://www.ed.ac.uk/is/collaborate) for interactive sessions (tutorials and lecture Q&amp;As). To join you will need an internet connection that can support web conferencing and a web browser. Blackboard will also normally work on a mobile device via its app. 
+We will use the [Blackboard Collaborate virtual classroom](http://www.ed.ac.uk/is/collaborate) for interactive sessions (workshop tutorials and lecture Q&amp;As). To join you will need an internet connection that can support web conferencing and a web browser. Blackboard will also normally work on a mobile device via its app. 
 We also have full access to [Teams](https://www.microsoft.com/en-gb/microsoft-teams/free#office-CustomSpacingTemplate-nifj37h), so will have this as a backup option if this provides more reliable connectivity for the class. 
 
 We will provide information on accessing and/or installing any other software used in tutorials as and when needed. This is not required as we will provide live demos where necessary. If you wish to try a new tool, some may be accessed from a web browser. Installing desktop tools will remain optional. 

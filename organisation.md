@@ -1,17 +1,7 @@
 # Course Description
 
-This online course aims to equip participants with the skills to use visualisation to uncover insight, to improve question answering, information discovery, to support informed decision-making and the creation of value from data.
+This online course aims to equip participants with the skills to use data science to uncover insight, support informed decision-making and the creation of value from data.
 
-The course is **NOT** 
-* about creating dashboards,
-* a [D3](https://d3js.org), [Leaflet](https://leafletjs.com), [GGplot](https://ggplot2.tidyverse.org) or other visualisation library programming course,
-* a Tableau, PowerBI, SAS or other commercial visualisation tool course.
-
-This course **WILL**
-* help you to develop analytical thinking and engage with your data,
-* teach you how to handle ambiguity in your data,
-* help you to complement your domain expertise with creativity for problem solving and knowledge discovery,
-* teach how to assess and match your data needs to functionality and tools for data visualisation (with examples drawn from a variety of tools including Tableau, Rawgraphs, D3.js).
 
 <a name = "byod"></a>
 Contextual knowledge plays a key role in data interpretation and use. While this may be harnessed to create more meaningful, insightful visualisations, context may also be exploited to unfairly influence or actively mislead - topics that will be covered during the course. We encourage **BYOD---bring and work on your own data project** (we can sign non-disclosure agreements). Alternatively, class examples will point to open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) --- [github repository](https://github.com/fathominfo/noceilings-data)), [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland) and the [National Records of Scotland (NRS)](https://www.nrscotland.gov.uk/statistics-and-data).

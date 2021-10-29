@@ -17,11 +17,13 @@ This course **WILL**
 <!-- <a name = "byod"></a>
 Contextual knowledge plays a key role in data interpretation and use. While this may be harnessed to create more meaningful, insightful visualisations, context may also be exploited to unfairly influence or actively mislead - topics that will be covered during the course. We encourage **BYOD---bring and work on your own data project** (we can sign non-disclosure agreements). Alternatively, class examples will point to open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) --- [github repository](https://github.com/fathominfo/noceilings-data)), [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland) and the [National Records of Scotland (NRS)](https://www.nrscotland.gov.uk/statistics-and-data). -->
 
+<table>
 <tr>
     <td style = "width:400px;" align="center" >
       <img src="images/dsm_chart.png" alt = "manufacturing opportunities" />
     </td>
   </tr>
+  </table>
   
 ### Learning Outcomes
 1. **Program** : Identify and deploy strategies for writing, understanding and managing computer programs using Python and version control.
@@ -38,13 +40,6 @@ Contextual knowledge plays a key role in data interpretation and use. While this
 * **Visual representation** of your dataset that enables you to answer the challenge you defined around it before and during the course.
 * **Skills** to use data science effectively on manufacture related problems.
 
-## Course Summary
-
-This course teaches general knowledge about theory, application, design, and evaluation of data in the context of manufacturing. The goal of the course is to enable participants to understand the potential of data science.
-
-The course targets professionals working in the manufacturing sector and is designed for an interdisciplinary audience, targeting participants with a background in manufacturing, data analysis, and other areas. In addition to core, mandatory [topics](./content.html) that aim to develop data analysis literacy, participants can chose from a variety of optional, more specialised topics during the course.
-
-General __programming skills are not required__. The course will give you an overview of a range of commercial and open source tools to help you decide what works best for your project and skills.  
 <table>
   <tr>
     <td style = "width:400px;" align="center" >
@@ -52,6 +47,14 @@ General __programming skills are not required__. The course will give you an ove
     </td>
   </tr>
 </table>
+
+## Course Summary
+
+This course teaches general knowledge about theory, application, design, and evaluation of data in the context of manufacturing. The goal of the course is to enable participants to understand the potential of data science.
+
+The course targets professionals working in the manufacturing sector and is designed for an interdisciplinary audience, targeting participants with a background in manufacturing, data analysis, and other areas. In addition to core, mandatory [topics](./content.html) that aim to develop data analysis literacy, participants can chose from a variety of optional, more specialised topics during the course.
+
+General __programming skills are not required__. The course will give you an overview of a range of commercial and open source tools to help you decide what works best for your project and skills.  
 
 The final assessment will require participants to work on a manufacturing related data science project of their choice, which can, e.g., include their own data or use open data. 
 <!--The end goal could be any of, but not limited to, the following: -->

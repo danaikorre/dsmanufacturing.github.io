@@ -17,6 +17,12 @@ This course **WILL**
 <!-- <a name = "byod"></a>
 Contextual knowledge plays a key role in data interpretation and use. While this may be harnessed to create more meaningful, insightful visualisations, context may also be exploited to unfairly influence or actively mislead - topics that will be covered during the course. We encourage **BYOD---bring and work on your own data project** (we can sign non-disclosure agreements). Alternatively, class examples will point to open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) --- [github repository](https://github.com/fathominfo/noceilings-data)), [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland) and the [National Records of Scotland (NRS)](https://www.nrscotland.gov.uk/statistics-and-data). -->
 
+<tr>
+    <td style = "width:400px;" align="center" >
+      <img src="images/dsm_chart.png" alt = "manufacturing opportunities" />
+    </td>
+  </tr>
+  
 ### Learning Outcomes
 1. **Program** : Identify and deploy strategies for writing, understanding and managing computer programs using Python and version control.
 2. **Data** : The ability to wrangle, analyse, learn from and visualise a range of data, in a way that demonstrates its relevance to digital manufacturing.
@@ -35,12 +41,6 @@ Contextual knowledge plays a key role in data interpretation and use. While this
 ## Course Summary
 
 This course teaches general knowledge about theory, application, design, and evaluation of data in the context of manufacturing. The goal of the course is to enable participants to understand the potential of data science.
-  <tr>
-    <td style = "width:400px;" align="center" >
-      <img src="images/dsm_chart.png" alt = "manufacturing opportunities" />
-    </td>
-  </tr>
-</table>
 
 The course targets professionals working in the manufacturing sector and is designed for an interdisciplinary audience, targeting participants with a background in manufacturing, data analysis, and other areas. In addition to core, mandatory [topics](./content.html) that aim to develop data analysis literacy, participants can chose from a variety of optional, more specialised topics during the course.
 

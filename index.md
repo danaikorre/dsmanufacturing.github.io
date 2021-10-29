@@ -2,7 +2,7 @@
 
 ![teaser](images/teaserdsm.png)
 
-The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2022 from __Month 0th - Month 0th (10 weeks)__ and is dedicated to master students and professionals in---among others---the manufacturing sector.
+The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2022 from __Month 0th - Month 0th (10 weeks)__ and is dedicated to professionals in---among others---the manufacturing sector.
 
 This online course teaches how to
 * Give a grounding in __programming__ with Python, version control with Git and Github and other key software practices.
@@ -33,10 +33,10 @@ Meet the organizers and join our **[open info session on MS Teams](TEAMS LINK)**
 * Day, Month 00, 6-7pm, BST
 
 
-With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __mini tutorials__, __drop-in sessions__,  __complementary online teaching material__, and __seminars by guest speakers__. More about the [course organisation](organisation.html) and its [schedule](content.html).
+With an aim to build skills that allow participants to directly apply their learning, the course features __online videos and reading material__, __tutorial workshops__, __drop-in sessions__,  __complementary online teaching material__, and __seminars by guest speakers__. More about the [course organisation](organisation.html) and its [schedule](content.html).
 
 <!---We encourage **BYOD---bring and work on your own data project** (we can sign non-disclosure agreements). --->
-Class examples will include open-access data on a variety of topical issues such as [climate change](https://climateknowledgeportal.worldbank.org), [COVID-19](https://github.com/CSSEGISandData/COVID-19) and gender participation (e.g., [the No Ceilings project](http://www.noceilings.org/about) ([github repository](https://github.com/fathominfo/noceilings-data)), and [Scotland's Open Data Catalogues](http://okfnscot.github.io/open-data-scotland).
+Class examples will include open-access data on a variety of relevant issues such as [Supply Chain Datasets](https://www.kaggle.com/abdelrahmancae/supply-chain-analysis-and-modeling), [Research and Development](https://data.world/ie-central-stats/506f5e92-cf59-48c0-8ad7-943482cca2c7) and quality prediction (e.g., https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process).
 
 ### Learning Outcomes
 1. **Program** : Identify and deploy strategies for writing, understanding and managing computer programs using Python and version control.

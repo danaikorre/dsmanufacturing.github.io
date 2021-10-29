@@ -54,9 +54,9 @@ General __programming skills are not required__. The course will give you an ove
 </table>
 
 The final assessment will require participants to work on a manufacturing related data science project of their choice, which can, e.g., include their own data or use open data. 
-<!--The end goal could be any of, but not limited to, the following: 
+<!--The end goal could be any of, but not limited to, the following: -->
 
-<table>
+<!--<table>
   <tr>
     <td style="vertical-align:top;">
       <ul>
@@ -78,6 +78,7 @@ The final assessment will require participants to work on a manufacturing relate
     <td style="vertical-align:top"><img src="images/visual_storytelling.png" alt = "data storytelling using sketches" /></td>
   </tr>
 </table> -->
+
  <td style="vertical-align:top"><img src="images/visual_storytelling.png" alt = "data storytelling using sketches" /></td>
 
 

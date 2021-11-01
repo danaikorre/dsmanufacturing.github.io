@@ -31,10 +31,12 @@ The course is developed to facilitate hybrid teaching and is compromised of a se
 
 Each week will focus on one key topic:
 
-* __Weeks 1__ focus on __mandatory topics__ to provide a general understanding of the main concepts in data science in manufacturing.  
+* __Weeks 1 and 2__ focus on __mandatory topics__ to provide a general understanding of the main concepts in data science in manufacturing. 
+
 <!--* __Weeks 4 &amp; 5__ focus on __visualisation techniques__ for specific data types as relational data, temporal data, geographical, etc.
 * __Weeks 6 &amp; 7__ look at the __application areas__ for data visualisation in a variety of scenarios with an aim to help participants identify and select from different solutions for the challenges defined.
 * __Week 8__ will take a breather from lecture material and focus on project 1-on-1s, where we will go through projects with participants. These sessions will allow participants to discuss their ideas and work to this point with one of the organisers, and to receive interim feedback.-->
+
 * __Weeks 9 &amp; 10__ conclude the course with a set of __advanced topics__, from which participants will select options to focus on, ideally in line with their project. 
 * __Week 11__ is not a taught week. It's to finish your projects which you have to hand in at the end of that week.
 
@@ -42,33 +44,40 @@ Each week will focus on one key topic:
 
 ### Week 1: Introduction and Foundations
 
+In the first lecture you will: 
 * Understand how the course will work
 * Know what learning resources are available 
 * Overview of Data Science
 * Develop an understanding on how data science can be applied to manufacturing 
-* Key Data Science activities
-* Introduction to Python programming with Jupyter Notebooks
+
+In the workshop you will be introduced to:
+* Key data science activities
+* Python programming with Jupyter Notebooks
 * Version control with GIT
  
 
-### Week 2: Product Lifecycle / Material flow
+### Week 2: Product Lifecycle / Material flow /  Data carpentry (not sure if I should keep DC as a separate lecture and move everything down)
+
+In this lecture you will:
 
 * Understand product lifecycle and material flow 
 * Understand why coding skills are important for a career in manufacturing 
 * Review applications on industrial cases
+* Introduced to data carpentry
 
+The workshop will discuss **data cleansing and data carpentry**. 
 
 ### Week 3: Industry 4.0/Asset Management / IoT
 
 This lecture overviews and introduces asset management and internet of things.
 
-The workshop will **discuss Jupyter Notebooks + ML** with us and the peers.
+The workshop will **discuss Jupyter Notebooks** with us and the peers.
 
 ### Week 4: Current Manufacturing Software / PLM / ERP /MES
 
 This lecture overviews and introduces current manufacturing software / PLM / ERP /MES
 
-The workshop will **discuss relational ratabases** with us and the peers.
+The workshop will **discuss relational databases** with us and the peers.
 
  
 ### Week 5: Data Representation / EBoM / MBoM / Geometry / Time Series 
@@ -85,9 +94,11 @@ The workshop will **discuss PLM data** with us and the peers.
 
 ### Week 7: Data carpentry
 
-This lecture overviews and introduces data carpentry
+Week 7 will take a breather from lecture material and focus on project 1-on-1s, where we will go through projects with participants. These sessions will allow participants to discuss their ideas and work to this point with one of the organisers, and to receive interim feedback.
 
-The workshop will **discuss data cleansing** with us and the peers.
+OR graph databases and other ways of storing data
+
+The workshop will **discuss Jupyter Notebooks + ML** with us and the peers.
 
 ### Week 8: ML/AI
 

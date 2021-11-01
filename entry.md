@@ -1,11 +1,13 @@
 # Entry Requirements
 
-* A UK 2:1 honours degree, or its international equivalent. If you do not meet the minimum academic requirement, you may still be considered if you have relevant work experience, preferably with one or more of:
+* A UK 2:1 honours degree, or its international equivalent on a numerate degree (Maths, Engineering, Chemistry, Physics, CompSci).
 
-  * basic knowledge of programming in, e.g., Python, R or JavaScript,
+* If you do not meet the minimum academic requirement, you may still be considered if you have relevant work experience, preferably with one or more of:
+
+  * basic knowledge of programming,
   * experience working in the field of manufacturing,
-  * basic knowledge of data handling using, e.g., Excel, SAS, Tableau or PowerBI,
-  * other similar experience working with data
+  * basic knowledge of data handling using,
+  * other similar experience working with data and interested on how they can be used in manufacturing 
 
 * You MUST provide proof acceptable by the Home Office for [English](#english-language-requirements) at an acceptable level to understand the course. 
 

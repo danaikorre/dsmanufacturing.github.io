@@ -5,12 +5,6 @@
 The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2022 from __Month 0th - Month 0th (10 weeks)__ and is dedicated to professionals in---among others---the manufacturing sector.
 
 This online course teaches how to
-* Give a grounding in __programming__ with Python, version control with Git and Github and other key software practices.
-* Develop an __understanding__ of data formats, their wrangling and management, including CSV and relational databases (SQL), CAD formats and materials. 
-* __Develop__ skills in the analysis and visualisation of a range of data using descriptive statistics and exploratory data analysis.
-* __Introduce__ you to the ramifications of data collection and use in a manufacturing setting
-* __Criticise__ data use and practises 
-* __Introduce__ collaborative practices around data collection, analysis and presentation.
 * Set some context 
   * What types of data can be found in manufacturing
   * How that data can be used on a big level
@@ -27,6 +21,13 @@ It covers the fundamentals of
 * tools for data analysis,
 * tools and techniques for data visualisation, and
 * evaluation.
+* __Introduce__ you to the ramifications of data collection and use in a manufacturing setting
+* __Introduce__ you to __programming__ with Python, version control with Git and Github and other key software practices.
+* Develop an __understanding__ of data formats, their wrangling and management, including CSV and relational databases (SQL), CAD formats and materials. 
+* __Develop__ skills in the analysis and visualisation of a range of data using descriptive statistics and exploratory data analysis.
+* __Criticise__ data use and practises 
+* __Introduce__ collaborative practices around data collection, analysis and presentation.
+
 
 Meet the organizers and join our **[open info session on MS Teams](TEAMS LINK)** (installed MS Teams application required). The session gives an overview over the course and we will answer questions. Sessions times are 
 * Day, Month 00, 6-7pm, BST
@@ -39,13 +40,13 @@ With an aim to build skills that allow participants to directly apply their lear
 Class examples will include open-access data on a variety of relevant issues such as [Supply Chain Datasets](https://www.kaggle.com/abdelrahmancae/supply-chain-analysis-and-modeling), [Research and Development](https://data.world/ie-central-stats/506f5e92-cf59-48c0-8ad7-943482cca2c7) and quality prediction (e.g., https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process).
 
 ### Learning Outcomes
-1. **Program** : Identify and deploy strategies for writing, understanding and managing computer programs using Python and version control.
-2. **Data** : The ability to wrangle, analyse, learn from and visualise a range of data, in a way that demonstrates its relevance to digital manufacturing.
+1. **Understand** : Have knowledge of the data ecosystem of manufacturing companies
+2. **Program** : Identify and deploy strategies for writing, understanding and managing computer programs using Python and version control.
+3. **Data** : The ability to wrangle, analyse, learn from and visualise a range of data, in a way that demonstrates its relevance to digital manufacturing.
 4. **Evaluation:** : Critically reflect on the results and suggest constructive solutions. 
 5. **Communicate** : Communicate around manufacture relevant issues, supported by the use of multiple data sources and appropriate analysis.
 6. **Apply** : Competently apply data science techniques and tools.
 7. **Professionalism** : Working in collaborative, interdisciplinary teams to a high professional standard.
-8. **Understand** : Have knowledge of the data ecosystem of manufacturing companies
 
 
 ### Takeaways 

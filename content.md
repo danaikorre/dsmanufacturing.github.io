@@ -17,22 +17,24 @@ The course is expected to require a total __time investment of 5-10h / week__, r
 * Except for Week 1 and 2, __participants choose from a set of optional sub-topics__ (see below)
 * Individual sub-topics are tested in __mini-quizzes__ 
 * Questions about topics will be discussed in general __Q&A sessions__, once a week. 
-* __2h live tutorials__ are provided for 
+* __2h live workshop tutorials__ are provided for 
   * design and critiquing exercises, as well as
-  * for a selection of free, open source and commercial data visualisation and visual analytics tools, to demonstrate the range of features available, skills required and user support, for deriving insight into data through visual exploration and analysis. While not compulsory, participants are encouraged to take full advantage of these sessions to engage in discussions with peers and invited subject matter and domain experts, and to obtain direct feedback on assignments.
-* __Drop-in support__ to help with data visualisation briefs, ideally using participants’ own data, create a design to meet the requirements identified, and, within the constraints of the course, build a visualisation-driven solution.
+  * for a selection of free, open source and commercial data analytics tools, to demonstrate the range of features available, skills required and user support, for deriving insight into data through exploration and analysis. While not compulsory, participants are encouraged to take full advantage of these sessions to engage in discussions with peers and invited subject matter and domain experts, and to obtain direct feedback on assignments.
+* __Drop-in support__ to help with briefs, create a design to meet the requirements identified, and, within the constraints of the course, build a data-driven solution.
 * __Complementary teaching material__ in the form of interactive websites will be provided to participants throughout the course.
 * At least once a fortnight we will host a __1h live seminar by a guest speaker__ from academia or industry illustrating application of data visualisation in a variety of fields and the benefits this brings to creating value and gaining a competitive edge,
 * A __dedicated Slack/Teams channel__ will support networking and discussions.
 
-# Schedule Overview
+# Course Structure
+
+The course is developed to facilitate hybrid teaching and is compromised of a series of lectures, tutorials and workshop sessions that will encourage student-centred learning. A combination of technical lectures, guest speakers from industry and practical manufacturing experience will be employed to allow students to make informed decisions regarding the selection and effective implementation of such manufacturing approaches. 
 
 Each week will focus on one key topic:
 
-* __Weeks 1 to 3__ focus on __mandatory topics__ to provide a general understanding of the main concepts in data visualisation design.  
-* __Weeks 4 &amp; 5__ focus on __visualisation techniques__ for specific data types as relational data, temporal data, geographical, etc.
+* __Weeks 1__ focus on __mandatory topics__ to provide a general understanding of the main concepts in data science in manufacturing.  
+<!--* __Weeks 4 &amp; 5__ focus on __visualisation techniques__ for specific data types as relational data, temporal data, geographical, etc.
 * __Weeks 6 &amp; 7__ look at the __application areas__ for data visualisation in a variety of scenarios with an aim to help participants identify and select from different solutions for the challenges defined.
-* __Week 8__ will take a breather from lecture material and focus on project 1-on-1s, where we will go through projects with participants. These sessions will allow participants to discuss their ideas and work to this point with one of the organisers, and to receive interim feedback.
+* __Week 8__ will take a breather from lecture material and focus on project 1-on-1s, where we will go through projects with participants. These sessions will allow participants to discuss their ideas and work to this point with one of the organisers, and to receive interim feedback.-->
 * __Weeks 9 &amp; 10__ conclude the course with a set of __advanced topics__, from which participants will select options to focus on, ideally in line with their project. 
 * __Week 11__ is not a taught week. It's to finish your projects which you have to hand in at the end of that week.
 
@@ -40,76 +42,80 @@ Each week will focus on one key topic:
 
 ### Week 1: Introduction and Foundations
 
-Introduction into basics of data visualization. *Why are we using data visualization? Why does visualization work? What are forms of visualization? What is the difference between exploration and explanation. What is of visualization literacy?* The week's second session introduces the visualizaton design process, basics of design thinking, and understand the idea behind Exploratory Data Analysis (EDA).
+* Understand how the course will work
+* Know what learning resources are available 
+* Overview of Data Science
+* Develop an understanding on how data science can be applied to manufacturing 
+* Key Data Science activities
+* Introduction to Python programming with Jupyter Notebooks
+* Version control with GIT
+ 
 
-The week will see a sketching exercise, and **tutorial on basic charts and common flaws in visualizations**. You will formulate a **visualization challenge** for your class project.  
+### Week 2: Product Lifecycle / Material flow
 
-### Week 2: Visualization Design
-
-Basic concepts of visualization design: data types, visual variables, color, design guidelines. 
-
-You will engage in **sketching and ideation** for your class project. 
-
-### Week 3: Visualization Tools 
-
-This lecture overviews and introduces common software applications (tools) to help with both: data analysis and the creation of visualizations. We will overview tools for programming environments such as python (e.g., Seaborn) and JavaScript (e.g., D3), but also tools using common user interfaces (e.g., Rawgraph, Datawrapper). The lecture will not teach how to use these tools, but focus on a high-level overview of the many different tools and workflows exist to create data visualizations.
-
-The tutorial will **discuss visualization tools** with us and the peers. We also run a **sneak-preview tutorial on D3**.
-
-### Week 4: Visualization Techniques I 
-
-Choose between a selection of lectures and readings on 
-* Basic Charts
-* Multidimensional data
-* Geographic data
+* Understand product lifecycle and material flow 
+* Understand why coding skills are important for a career in manufacturing 
+* Review applications on industrial cases
 
 
-You will work on **preparing and exploring your data** for your class project. 
-### Week 5: Visualization Techniques II 
+### Week 3: Industry 4.0/Asset Management / IoT
 
-Choose between a selection of lectures and readings on 
-* Networks
-* Trees + Hierarchies
-* Temporal Data
+This lecture overviews and introduces asset management and internet of things.
 
-You will engage in **critical analysis** of your class project progress. 
+The workshop will **discuss Jupyter Notebooks + ML** with us and the peers.
 
-### Week 6: Storytelling
+### Week 4: Current Manufacturing Software / PLM / ERP /MES
 
-This lecture focuses on effective presentation and communication techniques when using visualizations in e.g., infographics and presentations. Other presentation media can include videos, posters, or data comics. The lecture investigates how presenting and talking with visualizations is different than using visualizations for exploring and analyzing data.
+This lecture overviews and introduces current manufacturing software / PLM / ERP /MES
 
-In the tutorial, you will have the chance to **work on a storyboard** for the story you want to tell with your data.
+The workshop will **discuss relational ratabases** with us and the peers.
 
-### Week 7: Data Physicalization & Personal Data Visualization 
+ 
+### Week 5: Data Representation / EBoM / MBoM / Geometry / Time Series 
 
-Physical visualization and visualization of personal data.
+This lecture overviews and introduces data representation / EBoM / MBoM / Geometry / Time Series 
 
-This week gives time to **work on your project**.
+The workshop will **discuss ERP data** with us and the peers.
 
-### Week 8: Project 1-on-1s 
+### Week 6: Data for Industry 4 / new business models
 
-This week is featuring no content but gives you time to work on your project. You will have the chance to meet the organizers in a private session to discuss your projects. 
+This lecture overviews and introduces data for industry 4 / new business models
 
-### Week 9: Evaluation
+The workshop will **discuss PLM data** with us and the peers.
 
-This lecture covers techniques to assess if a given visualization technique (existing or your own creation) is “successful”. Successful is a broad term and refers to both effectiveness and efficiency in which a user or audience are supported in their analysis or understanding of the data. The lecture proposes a simple heuristic, Readability, Understandability, Supportiveness, Truthfulness, Insightfulness and Communication
+### Week 7: Data carpentry
 
-### Week 10: Interaction
+This lecture overviews and introduces data carpentry
 
-This lecture talks about the need for interaction in visualization and will present a range of interaction techniques for specific visualization related tasks: select, explore, reconfigure, encode, abstract, filter, connect.
+The workshop will **discuss data cleansing** with us and the peers.
 
-You will continue work on your project and **run a mini-evaluation** with your peers.
+### Week 8: ML/AI
+
+This lecture overviews and introduces machine learning and artificial inteligence 
+
+The workshop is about **ML exercises**
+
+
+### Week 9: Visualisation
+
+This lecture overviews and introduces data visualisation
+
+The workshop will **discuss data visualisation** with us and the peers.
+
+### Week 10: Digital Twin / Thread 
+
+This lecture overviews and introduces digital twin / thread 
 
 
 
 # Guest Talks
 
-We will host a variety of guest talks, some of which will be run in conjunction with the [Edinburgh Data Visualisation Meetup](https://www.meetup.com/meetup-group-vBHbCmgh). Talks last year covered a variety of areas, with speakers' backgrounds across diverse areas including:
-* digital humanities
+We will host a variety of guest talks across diverse areas including:
+<!--* digital humanities
 * knowledge representation
 * data journalism 
 * personal and social data
 * bioinformatics/biological data visualisation
 * data-driven storytelling
 * interaction techniques
-* immersive environments &ndash; MR/VR/AR/XR
+* immersive environments &ndash; MR/VR/AR/XR-->

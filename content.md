@@ -28,19 +28,11 @@ The course is expected to require a total __time investment of 5-10h / week__, r
 # Course Structure
 
 The course is developed to facilitate hybrid teaching and is compromised of a series of lectures, tutorials and workshop sessions that will encourage student-centred learning. A combination of technical lectures, guest speakers from industry and practical manufacturing experience will be employed to allow students to make informed decisions regarding the selection and effective implementation of such manufacturing approaches. 
+ 
 
-Each week will focus on one key topic:
+<!-- * __Weeks 9 &amp; 10__ conclude the course with a set of __advanced topics__, from which participants will select options to focus on, ideally in line with their project. 
+* __Week 11__ is not a taught week. It's to finish your projects which you have to hand in at the end of that week. -->
 
-* __Weeks 1 and 2__ focus on __mandatory topics__ to provide a general understanding of the main concepts in data science in manufacturing. 
-
-<!--* __Weeks 4 &amp; 5__ focus on __visualisation techniques__ for specific data types as relational data, temporal data, geographical, etc.
-* __Weeks 6 &amp; 7__ look at the __application areas__ for data visualisation in a variety of scenarios with an aim to help participants identify and select from different solutions for the challenges defined.
-* __Week 8__ will take a breather from lecture material and focus on project 1-on-1s, where we will go through projects with participants. These sessions will allow participants to discuss their ideas and work to this point with one of the organisers, and to receive interim feedback.-->
-
-* __Weeks 9 &amp; 10__ conclude the course with a set of __advanced topics__, from which participants will select options to focus on, ideally in line with their project. 
-* __Week 11__ is not a taught week. It's to finish your projects which you have to hand in at the end of that week.
-
-# Detailed Schedule
 
 ### Week 1: Introduction and Foundations
 

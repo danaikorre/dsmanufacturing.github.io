@@ -1,5 +1,29 @@
 # Timetable & Online Support
 
+The course runs from 00:00 to 00:00 on Day. Any activity will happen online on Collaborate. Collaborate can be accessed through this link:
+(LINK)
+Most of the sessions are live, some require watching a video.
+Times below are UK times.
+* Questions & Answers (Q&A): 00:00-00:00
+* Lectures: 00:00-0:00 usually a live online talk, sometimes online videos are required to be
+watched upfront and the lecture slot is used for Q&A (“Flipped Classroom”).
+* Workshop tutorials: 00:00-00:00—a guided exercise, carried out individually or in groups with tutor support and open sessions, with tutors/lecturers on hand to support
+* Office hours with tutors
+* Microsoft Teams for chats and forum questions.
+
+|  Week | Date | Lecture | Workshop/ Tutorial  | People  | Homework  |   
+|---|---|---|---|---|---|
+| 1 |   |   |   |   |   |
+| 2 |   |   |   |   |   |
+| 3 |   |   |   |   |   |
+| 4 |   |   |   |   |   |
+| 5 |   |   |   |   |   |
+| 6 |   |   |   |   |   |
+| 7 |   |   |   |   |   |
+| 8 |   |   |   |   |   |
+| 9 |   |   |   |   |   |
+| 10 |   |   |   |   |   |
+
 <!-- Visual literacy and culture, visualisation design and target audience all account for differences in interpretation and use of visualisations. How do you design to ensure your audience receives the message you intend to deliver?
 
 Our approach to teaching data visualisation is to present first foundational lectures in data visualisation, to build or improve on visual literacy. Successfully designing and implementing visualisations that inform the end user and/or support decision-making and task completion requires a combination of creativity, a scientific approach to methodology, context awareness and/or domain expertise.

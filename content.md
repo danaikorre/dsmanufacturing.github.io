@@ -114,11 +114,7 @@ This lecture overviews and introduces digital twin / thread
 # Guest Talks
 
 We will host a variety of guest talks across diverse areas including:
-<!-- * digital humanities
-* knowledge representation
-* data journalism 
-* personal and social data
-* bioinformatics/biological data visualisation
-* data-driven storytelling
-* interaction techniques
-* immersive environments &ndash; MR/VR/AR/XR -->
+* 
+* 
+* 
+* 

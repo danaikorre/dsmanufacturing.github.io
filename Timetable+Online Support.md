@@ -13,16 +13,16 @@ watched upfront and the lecture slot is used for Q&A (“Flipped Classroom”).
 
 |  Week | Date | Lecture | Workshop/ Tutorial  | People  | Homework  |   
 |---|---|---|---|---|---|
-| 1 |   |   |   |   |   |
-| 2 |   |   |   |   |   |
-| 3 |   |   |   |   |   |
-| 4 |   |   |   |   |   |
-| 5 |   |   |   |   |   |
-| 6 |   |   |   |   |   |
-| 7 |   |   |   |   |   |
-| 8 |   |   |   |   |   |
-| 9 |   |   |   |   |   |
-| 10 |   |   |   |   |   |
+| 1 |  Jan 00 | Introduction and Foundations | Intro to Python programming and Jupyter Notebooks  | A.Sherlock  |  Finish notebooks: - intro to python |
+| 2 | Jan 00  | Product Lifecycle / Material flow  |   |   |   |
+| 3 | Jan 00  |   |   |   |   |
+| 4 | Jan 00  |   |   |   |   |
+| 5 | Jan 00  |   |   |   |   |
+| 6 | Jan 00  |   |   |   |   |
+| 7 | Jan 00  |   | Supervised group work  |   |   |
+| 8 | Jan 00  |   |   |   |   |
+| 9 | Jan 00  |   |   |   |   |
+| 10 | Jan 00  |   |   |   |   |
 
 <!-- Visual literacy and culture, visualisation design and target audience all account for differences in interpretation and use of visualisations. How do you design to ensure your audience receives the message you intend to deliver?
 

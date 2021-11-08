@@ -48,7 +48,7 @@ In the workshop you will be introduced to:
 * Version control with GIT
  
 
-### Week 2: Product Lifecycle / Material flow /  Data carpentry (not sure if I should keep DC as a separate lecture and move everything down)
+### Week 2: Product Lifecycle / Material flow /  Data carpentry 
 
 In this lecture you will:
 
@@ -59,20 +59,20 @@ In this lecture you will:
 
 The workshop will discuss **data cleansing and data carpentry**. 
 
-### Week 3: Industry 4.0/Asset Management / IoT
+### Week 3: Asset Management / IoT
 
 This lecture overviews and introduces asset management and internet of things.
 
-The workshop will **discuss Jupyter Notebooks** with us and the peers.
+In the workshop you will **practice with Jupyter Notebooks and Github**
 
 ### Week 4: Current Manufacturing Software / PLM / ERP /MES
 
 This lecture overviews and introduces current manufacturing software / PLM / ERP /MES
 
-The workshop will **discuss relational databases** with us and the peers.
+The workshop will **discuss data representation and relational databases**.
 
  
-### Week 5: Data Representation / EBoM / MBoM / Geometry / Time Series 
+### Week 5:  EBoM / MBoM / Geometry / Time Series 
 
 This lecture overviews and introduces data representation / EBoM / MBoM / Geometry / Time Series 
 
@@ -84,13 +84,11 @@ This lecture overviews and introduces data for industry 4 / new business models
 
 The workshop will **discuss PLM data** with us and the peers.
 
-### Week 7: Data carpentry
+### Week 7: Open session
 
 Week 7 will take a breather from lecture material and focus on project 1-on-1s, where we will go through projects with participants. These sessions will allow participants to discuss their ideas and work to this point with one of the organisers, and to receive interim feedback.
 
-OR graph databases and other ways of storing data
-
-The workshop will **discuss Jupyter Notebooks + ML** with us and the peers.
+The workshop will be **supervised group work**
 
 ### Week 8: ML/AI
 

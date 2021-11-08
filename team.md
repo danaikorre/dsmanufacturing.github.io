@@ -25,12 +25,10 @@ Manufacturing, both at the University of Edinburgh.
 
 <br />Research Interests: 
 <ul>
-  <li>Network Visualization</li>
-  <li>Visualization of spatio-temporal data</li>
-  <li>Data-driven storytelling</li>
+  <li>Mechanical Engineering and Mechanical design</li>
+  <li>Materials and Manufacturing</li>
+  <li>Advanced CAD/CAM</li>
   <li>Visualization in Augmented and Virtual Reality (Immersive Analytics)</li>
-  <li>Non-digital visualization</li>
-  <li>Teaching and learning visualization</li>
 </ul>
    </td>
   </tr>
@@ -40,18 +38,17 @@ Manufacturing, both at the University of Edinburgh.
       <b><!-- a href="bach.html" -->Jonathan Corney, Prof<!-- /a -->,</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <ul>
-  <li>Twitter: <a href="https://twitter.com/drewsherlock">@drewsherlock</a></li>
-  <li>Linkedin<a href="https://www.linkedin.com/in/drewsherlock/"> Andrew Sherlock</a></li>
+  <li>Researchgate: <a href="https://www.researchgate.net/profile/Jonathan-Corney">Jonathan R. Corney</a></li>
 </ul>
 
 <br />Research Interests: 
 <ul>
+  <li>Industrial AI & ML</li>
+  <li>Predicitve CAD</li>
+  <li>Crowdsourcing</li>
+  <li>Materials and Manufacturing</li>
+  <li>Advanced CAD/CAM</li>
   <li>Network Visualization</li>
-  <li>Visualization of spatio-temporal data</li>
-  <li>Data-driven storytelling</li>
-  <li>Visualization in Augmented and Virtual Reality (Immersive Analytics)</li>
-  <li>Non-digital visualization</li>
-  <li>Teaching and learning visualization</li>
 </ul>
    </td>
   </tr>

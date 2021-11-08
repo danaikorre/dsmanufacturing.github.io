@@ -15,11 +15,11 @@ watched upfront and the lecture slot is used for Q&A (“Flipped Classroom”).
 |---|---|---|---|---|---|
 | 1 |  Jan 00 | Introduction and Foundations | Intro to Python programming and Jupyter Notebooks  | A.S.  |  Finish notebooks: - intro to python |
 | 2 | Jan 00  | Product Lifecycle / Material Flow / Data Carpentry  |  Data cleansing and data carpentry |  A.S. |   |
-| 3 | Jan 00  | Industry 4.0/Asset Management / IoT  | Python notebooks and Github  |  A.S. |   |
-| 4 | Jan 00  | Current Manufacturing Software / PLM / ERP /MES  | Relational databases  |  A.S. |   |
-| 5 | Jan 00  | Data Representation / EBoM / MBoM / Geometry / Time Series  | ERP data  | A.S.  |   |
+| 3 | Jan 00  | Asset Management / IoT  | Python notebooks and Github  |  A.S. |   |
+| 4 | Jan 00  | Current Manufacturing Software / PLM / ERP /MES  |  Data Representation / Relational databases |  A.S. |   |
+| 5 | Jan 00  | EBoM / MBoM / Geometry / Time Series  | ERP data  | A.S.  |   |
 | 6 | Jan 00  | Data for Industry 4 / New Business Models  | PLM data  | A.S.  |   |
-| 7 | Jan 00  |  Open session OR Flipped classroom | Supervised group work   |  A.S. | |
+| 7 | Jan 00  | Open session OR Flipped classroom | Supervised group work   |  A.S. | |
 | 8 | Jan 00  | ML/AI  |  Jupyter Notebooks + ML  | A.S.  |   |
 | 9 | Jan 00  | Data visualization and Exploratory Data Analysis  | Data visualisation |  A.S. |   |
 | 10 | Jan 00  |  Digital Twin / Thread  | Assessment  |  A.S. |   |

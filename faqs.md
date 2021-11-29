@@ -17,30 +17,15 @@ We list here answers to questions from applicants and more detail about discussi
 
 Eligibility criteria for a fee waiver are laid out [here](entry.html).
 S
-### Completing the application form
+### When is the application deadline
 
-Applications are _not_ managed by the organisers of this visualisation course but centrally through the University of Edinburgh. 
-<!-- Applications for 2021 are now closed.-->
-<!-- The [course application is open](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply).--> 
 
-We have provided [answers to common questions](how_to_apply.md) from applicants on the application process, along with detail on eligibility for fee waivers.
-
-The Bayes Centre will continue to accept applications for this course till close of play Fri, 00st Month 2021. 
-
-#### Course offers
-
-<!-- Offer letters refer to the wider Bayes Centre's data skills portfolio, with course detail:
-  * course title: ***PG Professional Development in Data Skills Workforce Development (Online Learning) (ICL)***
-  * code:  ***PTPDVDSWDV1U***  -->
-
-Provided you stated in the personal statement section of your application for this course you should have been assigned to it. Otherwise please e-mail [Bayes](mailto:bayes-training@ed.ac.uk) to clarify this.
+The Bayes Centre will continue to accept applications for this course till close of play Fri, 21st January 2022. 
 
 
 ### Can I also take another course in Bayes' _Data Skills Workforce Development_ portfolio?
 
-There are no restrictions on how many courses you may take each year. However, each course requires up to 100 hours of study on average, so you may wish to consider whether course loads may pose a problem where schedules overlap.  
-If you are reliant on fee waivers, please note that these are normally restricted to one per applicant for each run of the [_Workforce Development_ portfolio](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development). However, the current disruption to work, normal schedules and processes means that exceptions may be made on a case by case basis. Please contact the [Bayes Centre](mailto:bayes-training@ed.ac.uk) if you wish to apply for another course in addition to this one. 
-<p>&nbsp;</p>
+Yes, though there may be restrictions on the number of funded places you can have each academic session.
 
 
 ## Hands-on sessions and project work

@@ -1,28 +1,27 @@
 # Timetable & Online Support
 
-The course runs from 00:00 to 00:00 on Day. Any activity will happen online on Collaborate. Collaborate can be accessed through this link:
-(LINK)
+The course runs from 09:00 to 10:00 on Friday. <!-- Any activity will happen online on Collaborate. Collaborate can be accessed through this link:(LINK) -->
 Most of the sessions are live, some require watching a video.
 Times below are UK times.
-* Questions & Answers (Q&A): 00:00-00:00
-* Lectures: 00:00-0:00 usually a live online talk, sometimes online videos are required to be
-watched upfront and the lecture slot is used for Q&A (“Flipped Classroom”).
-* Workshop tutorials: 00:00-00:00—a guided exercise, carried out individually or in groups with tutor support and open sessions, with tutors/lecturers on hand to support
+* Questions & Answers (Q&A) clinics: Wednesday 19:00-20:00
+* Lectures: 00:00-0:00 usually a live online talk and/or in person at Kings Buildings
+* Workshop tutorials: 10:00-12:00—a guided exercise, carried out individually or in groups with tutor support and open sessions, with tutors/lecturers on hand to support
 * Office hours with tutors
-* Microsoft Teams for chats and forum questions.
+* Microsoft Teams for chats and forum questions
 
 |  Week | Date | Lecture | Workshop/ Tutorial  | People  | Homework  |   
 |---|---|---|---|---|---|
-| 1 |  Jan 00 | Introduction and Foundations | Intro to Python programming and Jupyter Notebooks  | A.S.  |  Finish notebooks: - intro to python |
-| 2 | Jan 00  | Product Lifecycle / Material Flow / Data Carpentry  |  Data cleansing and data carpentry |  A.S. |   |
-| 3 | Jan 00  | Asset Management / IoT  | Python on Jupyter notebooks and Github  |  A.S. |   |
-| 4 | Jan 00  | Current Manufacturing Software / PLM / ERP /MES  |  Data Representation / Relational databases |  A.S. |   |
-| 5 | Jan 00  | EBoM / MBoM / Geometry / Time Series  | ERP data  | A.S.  |   |
-| 6 | Jan 00  | Data for Industry 4 / New Business Models  | PLM data  | A.S.  |   |
-| 7 | Jan 00  | Open session OR Flipped classroom | Supervised group work   |  A.S. | |
-| 8 | Jan 00  | ML/AI  |  Jupyter Notebooks + ML  | A.S.  |   |
-| 9 | Jan 00  | Data visualization and Exploratory Data Analysis  | Data visualisation |  A.S. |   |
-| 10 | Jan 00  |  Digital Twin / Thread  | Assessment  |  A.S. |   |
+| 1 |  Feb 04 | Introduction and Foundations | Intro to Python programming and Jupyter Notebooks  | A.S.  |  |
+| 2 | Feb 11  | Data Carpentry |  Data cleansing and data carpentry |  A.S. |   |
+| 3 | Feb 18  | Product Lifecycle / Material Flow / Data Carpentry  |  Python on Jupyter notebooks and Github |  A.S. |   |
+| 4 | Feb 25  | Data visualization and Exploratory Data Analysis  | Data visualisation Exploratory Data Analysis  |  A.S. |   |
+| 5 | Mar 04  | Current Manufacturing Software / PLM / ERP /MES  |  Data Representation / Relational databases |  A.S. |   |
+| 6 | Mar 11  | ML/AI  | Jupyter Notebooks + ML (vision based stuff)  | A.S.  |   |
+| 7 | Mar 18  | Asset Management / IoT  | ML and visual Exercise (Time series)  | A.S.  |   |
+| 8 | Mar 25  | EBoM / MBoM / Geometry / Time Series | ML and Visualisation Exercise (Data mining factory data)  |  A.S. | |
+| 9 | Jan 00  | Data for Industry 4 / New Business Models/Digital Twin / Thread |  Presenting Information  | A.S.  |   |
+| 10 | Jan 00  |   | Assessment |  A.S. |   |
+
 
 <!-- Visual literacy and culture, visualisation design and target audience all account for differences in interpretation and use of visualisations. How do you design to ensure your audience receives the message you intend to deliver?
 

@@ -2,7 +2,7 @@
 
 ![teaser](images/teaserdsm.png)
 
-The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2022 from __FEbruary 04th - April 14th (10 weeks)__ and is dedicated to professionals in---among others---the manufacturing sector.
+The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2022 from __February 04th - April 14th (10 weeks)__ and is dedicated to professionals in---among others---the manufacturing sector.
 
 This online course teaches how to
 * Set some context 
@@ -53,6 +53,7 @@ Class examples will include open-access data on a variety of relevant issues suc
 * A **certificate** to reflect a 10 credit-bearing course at Masters level (SCQF Level 11)
 * **Visual representation** of your dataset that enables you to answer the challenge you defined around it before and during the course.
 * **Skills** to use data science effectively on manufacture related problems.
+* **Communicate** your findings effectively. 
 
 Browse further detail on the __[course structure](organisation.md)__.
 

@@ -2,7 +2,7 @@
 
 ![teaser](images/teaserdsm.png)
 
-The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2022 from __Month 0th - Month 0th (10 weeks)__ and is dedicated to professionals in---among others---the manufacturing sector.
+The [University of Edinburgh](https://www.ed.ac.uk) is hosting, a university-certified, _10-credit_, online course in data science for manufacturing with flexible schedule. The course runs in 2022 from __FEbruary 04th - April 14th (10 weeks)__ and is dedicated to professionals in---among others---the manufacturing sector.
 
 This online course teaches how to
 * Set some context 
@@ -64,9 +64,9 @@ Applications are now being accepted for the course. Please note that you **must*
 
 
 ## Course Delivery Information
-* Start Date: __00 Month 2022__
-* Course Duration: __10 weeks__, complementing self-directed online learning with one hands-on session per week via a virtual classroom, in addition to a Q&amp;A session to discuss recorded lectures and corresponding quizzes
-* Total Hours: __50-100hrs__ (Lecture Hours 10; Workshop tutorial Hours 20; Independent Study Hours 30-70) 
-* Hourly investment: __5-10hrs__, including video lectures, reading, Q&As, project work.
+* Start Date: __04 February 2022__
+* Course Duration: __10 weeks__, complementing self-directed online and on site learning with one hands-on session per week via a virtual classroom, in addition to a Q&amp;A session to discuss lectures and corresponding exercizes 
+* Total Hours: __50-100hrs__ (Lecture Hours 9; Workshop tutorial Hours 18; Independent Study Hours 30-73) 
+* Weekly investment: __5-10hrs__, including lectures, workshop tutorials, reading, Q&As, project work.
 * Method of Assessment: __Coursework 100%__, including submission of your final project. 
-* The course does not award grades, but is assessed as PASS/FAIL. You will however receive one-on-one and detailed written feedback on your project.
+* Assessment information: Written Exam 0%, Coursework 100%, Practical Exam 0%. You will receive one-on-one and detailed written feedback on your project.

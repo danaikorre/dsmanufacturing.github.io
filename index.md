@@ -70,4 +70,4 @@ Applications are now being accepted for the course. Please note that you **must*
 * Total Hours: __50-100hrs__ (Lecture Hours 9; Workshop tutorial Hours 18; Independent Study Hours 30-73) 
 * Weekly investment: __5-10hrs__, including lectures, workshop tutorials, reading, Q&As, project work.
 * Method of Assessment: __Coursework 100%__, including submission of your final project. 
-* Assessment information: Written Exam 0%, Coursework 100%, Practical Exam 0%. You will receive one-on-one and detailed written feedback on your project.
+* Assessment information: Written Exam 0%, Coursework 100%, Practical Exam 0%. Weekly check ins of the proposed project in the clinics. You will receive one-on-one and detailed written feedback on your project.

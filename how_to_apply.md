@@ -10,7 +10,7 @@ Please [e-mail us](mailto:datascimanu@gmail.com ) if you've any questions not ad
 <p>&nbsp;</p>
 
 
-<a name = "register_interest_datavis_course"></a>
+<a name = "register_interest_datascimanu_course"></a>
 ## Register interest in surveys and taster sessions
 
 As part of our course design we are [collecting information](https://forms.gle/9ZWPn8fDHZiDXNBR9) about participants' motivations and expectations, along with prior experience in data science. The form may also be used to [register interest in hands-on taster sessions](https://forms.gle/9ZWPn8fDHZiDXNBR9).

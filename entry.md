@@ -9,22 +9,27 @@
   * basic knowledge of data handling using,
   * other similar experience working with data and interested on how they can be used in manufacturing 
 
-* You MUST provide proof acceptable by the Home Office for [English](#english-language-requirements) at an acceptable level to understand the course. 
+<!-- * You MUST provide proof acceptable by the Home Office for [English](#english-language-requirements) at an acceptable level to understand the course. -->
 
-If you are unsure whether you meet any criteria please send your CV to [bayes-training@ed.ac.uk](mailto:bayes-training@ed.ac.uk). Please take a look also at the [answers to common questions](how_to_apply.md) from applicants on the process, along with detail on eligibility for fee waivers.
+<!-- If you are unsure whether you meet any criteria please send your CV to [bayes-training@ed.ac.uk](mailto:bayes-training@ed.ac.uk). -->
+ Please take a look also at the [answers to common questions](how_to_apply.md) from applicants on the process, along with detail on eligibility for fee waivers. 
 
 
 <a name = "english-language-requirements"></a>
 ## English Language Requirements
 
-Because this is a university-accredited course you **must** meet the university's [formal language requirements](http://www.edin.ac/pgdf-english). This means that you must demonstrate English language competency at a level that will enable you to succeed in your studies, regardless of your nationality or country of residence.
-Please confirm that you meet all requirements as early as possible &ndash; detail at [language requirements](http://www.edin.ac/pgdf-english); current restrictions due to COVID have increased delay registering for and taking any tests necessary.
+You must be comfortable studying and learning in English if it is not your first language.
+
+<!-- Please confirm that you meet all requirements as early as possible &ndash; detail at [language requirements](http://www.edin.ac/pgdf-english); current restrictions due to COVID have increased delay registering for and taking any tests necessary. -->
 
 
 <a name = "fees_and_funding"></a>
 # Fees and Funding
 
-The *Scottish Funding Council (SFC) Upskilling Fund* is providing a __fixed number of fee waivers__ for participants who meet at least one of the following criteria. 
+
+Course fees for 21/22 are £XXX, but funded places are available for people employed, unemployed or furloughed in Scotland who meet Scottish Funding Council eligibility criteria" and then link to our page on funding. It is currently https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply but this will change when our new website goes live.
+
+<!-- The *Scottish Funding Council (SFC) Upskilling Fund* is providing a __fixed number of fee waivers__ for participants who meet at least one of the following criteria. 
 
 You qualfy for the fee waivers if one the following is true:
 
@@ -43,7 +48,7 @@ If you do not qualify for the SFC funding you may still qualify for funding unde
 
 Please see [eligibility requirements for funding](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/eligibility-funding), or contact [bayes-training@ed.ac.uk](mailto:bayes-training@ed.ac.uk) for more detail.
 
-The __course fee is £000__. While those who obtain fee waivers will be prioritised in allocating places, we do have availability for fee-paying participants, both within and outwith Scotland. 
+The __course fee is £000__. While those who obtain fee waivers will be prioritised in allocating places, we do have availability for fee-paying participants, both within and outwith Scotland. -->
 
 
 

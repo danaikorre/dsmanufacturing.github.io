@@ -27,7 +27,8 @@ You must be comfortable studying and learning in English if it is not your first
 # Fees and Funding
 
 
-Course fees for 21/22 are £XXX, but funded places are available for people employed, unemployed or furloughed in Scotland who meet Scottish Funding Council eligibility criteria" and then link to our page on funding. It is currently https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply but this will change when our new website goes live.
+Course fees for 21/22 are £XXX, but funded places are available for people employed, unemployed or furloughed in Scotland who meet Scottish Funding Council eligibility criteria. Follow this [link](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply) for more information on funding.  <!-- It is currently https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply but this will change when our new website goes live. -->
+
 
 <!-- The *Scottish Funding Council (SFC) Upskilling Fund* is providing a __fixed number of fee waivers__ for participants who meet at least one of the following criteria. 
 

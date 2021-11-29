@@ -19,8 +19,8 @@ Times below are UK times.
 | 6 | Mar 11  | ML/AI  | Jupyter Notebooks + ML (vision based stuff)  | A.S.  |   |
 | 7 | Mar 18  | Asset Management / IoT  | ML and visual Exercise (Time series)  | A.S.  |   |
 | 8 | Mar 25  | EBoM / MBoM / Geometry / Time Series | ML and Visualisation Exercise (Data mining factory data)  |  A.S. | |
-| 9 | Jan 00  | Data for Industry 4 / New Business Models/Digital Twin / Thread |  Presenting Information  | A.S.  |   |
-| 10 | Jan 00  |   | Assessment |  A.S. |   |
+| 9 | Apr 01  | Data for Industry 4 / New Business Models/Digital Twin / Thread |  Presenting Information  | A.S.  |   |
+| 10 | Apr 14  |   | Assessment |  A.S. |   |
 
 
 <!-- Visual literacy and culture, visualisation design and target audience all account for differences in interpretation and use of visualisations. How do you design to ensure your audience receives the message you intend to deliver?

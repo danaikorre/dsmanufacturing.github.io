@@ -4,7 +4,7 @@ The course runs from 09:00 to 10:00 on Friday. <!-- Any activity will happen onl
 Most of the sessions are live, some require watching a video.
 Times below are UK times.
 * Questions & Answers (Q&A) clinics: Wednesday 19:00-20:00
-* Lectures: 00:00-0:00 usually a live online talk and/or in person at Kings Buildings
+* Lectures: 09:00-10:00 usually a live online talk and/or in person at Kings Buildings
 * Workshop tutorials: 10:00-12:00—a guided exercise, carried out individually or in groups with tutor support and open sessions, with tutors/lecturers on hand to support
 * Office hours with tutors
 * Microsoft Teams for chats and forum questions

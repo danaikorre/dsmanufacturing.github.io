@@ -1,7 +1,6 @@
 # Team 
 
 <table>
-
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="images/drew.jpg"/></td>
     <td style="vertical-align:top;">
@@ -18,12 +17,10 @@ augmented reality to educational materials for engineering, medicine and other S
 Between 2016 and 2019 he was the Royal Academy of Engineering (RAEng) Visiting Professor in
 Design for Product Profitability and from 2020 to 2021 as Industrial Chair of Data-driven
 Manufacturing, both at the University of Edinburgh.
-
 <ul>
   <li>Twitter: <a href="https://twitter.com/drewsherlock">@drewsherlock</a></li>
   <li>Linkedin<a href="https://www.linkedin.com/in/drewsherlock/"> Andrew Sherlock</a></li>
 </ul>
-
 <br />Research Interests: 
 <ul>
   <li>Mechanical Engineering and Mechanical design</li>
@@ -37,11 +34,9 @@ Manufacturing, both at the University of Edinburgh.
     <td style="vertical-align:top;width:100px;"><img src="images/JC-Bio.jpg"/></td>
     <td style="vertical-align:top;">
       <b><!-- a href="bach.html" -->Jonathan Corney, Prof<!-- /a -->,</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 <ul>
   <li>Researchgate: <a href="https://www.researchgate.net/profile/Jonathan-Corney">Jonathan R. Corney</a></li>
 </ul>
-
 <br />Research Interests: 
 <ul>
   <li>Industrial AI & ML</li>
@@ -73,13 +68,10 @@ Research Interests:
       <li>Usability engineering</li>
     </ul>
    </td>
-  <td>
+   </tr>
+   <tr>
     <td style="vertical-align:top;width:100px;"><img src="images/white.png"/></td>
-    <td style="vertical-align:top;"> 
-    Special thanks to Dr Benjamin Bach, Lecturer in Design Informatics and Visualization.
-      </td>
-      </tr>
-
-</table>
-  
+    <td style="vertical-align:top;">Special thanks to Dr Benjamin Bach, Lecturer in Design Informatics and Visualization.</td> 
+    </tr>
+</table>  
 

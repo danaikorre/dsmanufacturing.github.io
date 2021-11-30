@@ -75,7 +75,9 @@ Research Interests:
   </tr>
   <tr>
   <td>
-      Special thanks to Dr Benjamin Bach, Lecturer in Design Informatics and Visualization.
+      <td style="vertical-align:top;width:100px;"><img src="images/white.png"/></td>
+    <td style="vertical-align:top;"> 
+    Special thanks to Dr Benjamin Bach, Lecturer in Design Informatics and Visualization.
       </td>
       </tr>
 </table>

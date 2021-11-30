@@ -1,6 +1,7 @@
 # Team 
 
 <table>
+
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="images/drew.jpg"/></td>
     <td style="vertical-align:top;">
@@ -72,15 +73,13 @@ Research Interests:
       <li>Usability engineering</li>
     </ul>
    </td>
-  </tr>
-  <tr>
   <td>
-    <tr>
     <td style="vertical-align:top;width:100px;"><img src="images/white.png"/></td>
     <td style="vertical-align:top;"> 
     Special thanks to Dr Benjamin Bach, Lecturer in Design Informatics and Visualization.
       </td>
       </tr>
+
 </table>
   
 

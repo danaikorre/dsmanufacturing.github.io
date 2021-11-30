@@ -16,11 +16,11 @@ We list here answers to questions from applicants and more detail about discussi
 ### Do I qualify for a fee waiver?
 
 Eligibility criteria for a fee waiver are laid out [here](entry.html).
-S
+
 ### When is the application deadline
 
 
-The Bayes Centre will continue to accept applications for this course till close of play Fri, 21st January 2022. 
+The Bayes Centre will continue to accept applications for this course till close of play Fri, 20st January 2022. 
 
 
 ### Can I also take another course in Bayes' _Data Skills Workforce Development_ portfolio?
@@ -40,14 +40,14 @@ We will provide information on accessing and/or installing any other software us
 
 ### What level of technology proficiency do I need?
 
-We have a range of potential participants with proficiency ranging from basic &ndash; using mainly office-based tools, to people who use dedicated visualisation tools, to people with some knowledge of programming. We will provide support to all participants regardless of technology proficiency, to acquire understanding of basic and more advanced visualisation concepts, and link those to practical application. 
+We have a range of potential participants with proficiency ranging from basic &ndash; using mainly office-based tools, to people who use dedicated analysis tools, to people with some knowledge of programming. We will provide support to all participants regardless of technology proficiency, to acquire understanding of basic and more advanced data science concepts, and link those to practical application. 
 
-Each participant will have the opportunity to focus on a sub-set of advanced visualisation options, based on their project definition and other skills desired for work or personal interests. 
+Each participant will have the opportunity to focus on a sub-set of advanced data analysis options, based on their project definition and other skills desired for work or personal interests. 
 
 
-### What is going to happen in the tutorials? 
+### What is going to happen in the workshops? 
 
-The tutorials, while optional, are considered the backbone activity of the course. Tutorials map to each week's lecture topics, to deepen understanding of concepts discussed and map theory and guidelines to practical application using your project data and ideas. They are practical, hands-on sessions to help you to develop, share and evaluate ideas you have for your project.  
+The workshops are considered the backbone activity of the course. Workshops map to each week's lecture topics, to deepen understanding of concepts discussed and map theory and guidelines to practical application using your project data and ideas. They are practical, hands-on sessions to help you to develop, share and evaluate ideas you have for your project.  
 
 Please note that if you choose not to attend tutorials you **must** still follow the tutorial scripts; these are linked to brief reflection exercises that guide you through the process of completing your final project. 
 <p>&nbsp;</p>
@@ -72,11 +72,7 @@ To take full advantage of the (optional) hands-on tutorial sessions, you may wis
 We anticipate most participants will carry out individual projects. However, you may work in small groups, for example, colleagues in the same company may wish to collaborate to complete a larger task, or self-forming groups may bring together different perspectives to develop a more complex project than could be completed individually within the constraints of the course. 
 
 Please note that in either case each participant will complete a brief, individual reflection exercise to accompany their project.
-<p>&nbsp;</p>
-
-### Can I visualize qualitative data? 
-
-It depends, visualization is a broad field with many techniques covering many data types. For example, the course covers networks, hierarchies and set-relationships. If you have textual data that you are analyzing and seek to represent structures in the data and the concpets, the course can help you. 
+<p>&nbsp;</p> 
 
 
 ## Course Assessment

@@ -74,9 +74,9 @@ Research Interests:
    </td>
   </tr>
   <tr>
-    <td style="vertical-align:top;width:100px;"><img src="images/drew.jpg"/></td>
     <td style="vertical-align:top;">
-      <b><!-- a href="bach.html" -->Special thanks to Dr Benjamin Bach, Lecturer in Design Informatics and Visualization.<!-- /a -->,</b>
+      <b>Special thanks to Dr Benjamin Bach, Lecturer in Design Informatics and Visualization.</b>
+      </td>
       </tr>
 </table>
   

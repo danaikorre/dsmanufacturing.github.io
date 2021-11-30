@@ -12,7 +12,7 @@
 <!-- * You MUST provide proof acceptable by the Home Office for [English](#english-language-requirements) at an acceptable level to understand the course. -->
 
 <!-- If you are unsure whether you meet any criteria please send your CV to [bayes-training@ed.ac.uk](mailto:bayes-training@ed.ac.uk). -->
- Please take a look also at the [answers to common questions](how_to_apply.md) from applicants on the process, along with detail on eligibility for fee waivers. 
+ Please take a look also at the [entry requirements](how_to_apply.md), along with details fees. 
 
 
 <a name = "english-language-requirements"></a>

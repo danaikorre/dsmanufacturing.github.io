@@ -72,9 +72,8 @@ Research Interests:
       <li>Usability engineering</li>
     </ul>
    </td>
+     Special thanks to Dr Benjamin Bach, Lecturer in Design Informatics and Visualization.
   </tr>
-
-  Special thanks to Dr Benjamin Bach, Lecturer in Design Informatics and Visualization.
 </table>
   
 

@@ -48,7 +48,7 @@ In the workshop you will be introduced to:
 
 ### Week 2: Data carpentry 
 
-In this lecture you will:
+In this lecture you will be:
 
 * Introduced to data carpentry
 
@@ -68,27 +68,27 @@ The workshop we will discuss and practice with **Python on Jupyter notebooks and
 
 ### Week 4: Data visualization and Exploratory Data Analysis
 
-This lecture overviews and introduces data visualisation formats and techniques and how to perform exploratory data analysis
+This lecture overviews and introduces data visualisation formats and techniques and how to perform exploratory data analysis.
 
 The workshop we will discuss and practice with **data visualisation exploratory data analysis**.
 
 
 ### Week 5: Current Manufacturing Software / PLM / ERP /MES
 
-This lecture overviews and introduces current manufacturing software / PLM / ERP /MES
+This lecture overviews and introduces current manufacturing software / PLM / ERP /MES.
 
-The workshop we will discuss and practice with**data representation and relational databases**.
+The workshop we will discuss and practice wit **data representation and relational databases**.
 
 
 
 ### Week 6: Machine Learning and Artificial Intelligence (ML/AI)
 
-This lecture overviews and introduces machine learning and artificial intelligence in the context of manufacturing 
+This lecture overviews and introduces machine learning and artificial intelligence in the context of manufacturing.
 
 The workshop we will discuss and practice with **Jupyter Notebooks + ML (vision based exercise)** with us and the peers.
 
 
-### Week 7: Asset Management / IoT
+### Week 7: Asset Management / internet of things (IoT)
 
 This lecture overviews and introduces asset management and internet of things.
 
@@ -104,7 +104,7 @@ The workshop we will discuss and practice with  **data representation and relati
 
 ### Week 9: Data for Industry 4 / New Business Models/Digital Twin / Thread
 
-This lecture overviews and introduces data visualisation
+This lecture overviews and introduces data for the Industry 4.0, new business models, the digital twin and thread.
 
 The workshop we will discuss and practice with **presenting information** with us and the peers.
 

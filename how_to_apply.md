@@ -17,9 +17,8 @@ As part of our course design we are [collecting information](https://forms.gle/9
 <p>&nbsp;</p>
 
 <a name = "funding_applications"></a>
-## Eligibility for funding
-
-Course fees for 21/22 are £XXX, but funded places are available for people employed, unemployed or furloughed in Scotland who meet Scottish Funding Council eligibility criteria. Follow this [link](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply) for more information on funding.<!-- It is currently https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply but this will change when our new website goes live. -->
+<!-- ## Eligibility for funding
+Course fees for 21/22 are £XXX, but funded places are available for people employed, unemployed or furloughed in Scotland who meet Scottish Funding Council eligibility criteria. Follow this [link](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply) for more information on funding. It is currently https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/how-to-apply but this will change when our new website goes live. -->
 
 
 <!-- <a name = "course_applications"></a>

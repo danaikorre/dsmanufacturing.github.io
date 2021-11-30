@@ -13,10 +13,10 @@ Times below are UK times.
 |---|---|---|---|---|---|
 | 1 |  Feb 04 | Introduction and Foundations | Intro to Python programming and Jupyter Notebooks  | A.S.  |  |
 | 2 | Feb 11  | Data Carpentry |  Data cleansing and data carpentry |  A.S. |   |
-| 3 | Feb 18  | Product Lifecycle / Material Flow / Data Carpentry  |  Python on Jupyter notebooks and Github |  A.S. |   |
+| 3 | Feb 18  | Product Lifecycle / Material Flow  |  Python on Jupyter notebooks and Github |  A.S. |   |
 | 4 | Feb 25  | Data visualization and Exploratory Data Analysis  | Data visualisation Exploratory Data Analysis  |  A.S. |   |
 | 5 | Mar 04  | Current Manufacturing Software / PLM / ERP /MES  |  Data Representation / Relational databases |  A.S. |   |
-| 6 | Mar 11  | ML/AI  | Jupyter Notebooks + ML (vision based stuff)  | A.S.  |   |
+| 6 | Mar 11  | Machine Learning and Artificial Intelligence (ML/AI)  | Jupyter Notebooks + ML (vision based exercise)  | A.S.  |   |
 | 7 | Mar 18  | Asset Management / IoT  | ML and visual Exercise (Time series)  | A.S.  |   |
 | 8 | Mar 25  | EBoM / MBoM / Geometry / Time Series | ML and Visualisation Exercise (Data mining factory data)  |  A.S. | |
 | 9 | Apr 01  | Data for Industry 4 / New Business Models/Digital Twin / Thread |  Presenting Information  | A.S.  |   |

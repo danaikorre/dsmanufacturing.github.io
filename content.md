@@ -25,7 +25,7 @@ The course is expected to require a total __time investment of 5-10h / week__, r
 
 # Course Structure
 
-•	The course will deliver all topics via a common platform established by introducing students to the fundamentals of using the Python programming language within Jupyter Notebooks and concepts of software version control with Git and Github.  Each topics will be taught via Python libraries whose functionality will enable students to explore their application using high-level commands and a number of curated datasets.
+The course will deliver all topics via a common platform established by introducing students to the fundamentals of using the Python programming language within Jupyter Notebooks and concepts of software version control with Git and Github.  Each topics will be taught via Python libraries whose functionality will enable students to explore their application using high-level commands and a number of curated datasets.
 
 The course is developed to facilitate hybrid teaching and is comprised of a series of lectures, tutorials/workshop sessions that will encourage student-centred learning. The lectures will introduce and demonstrate concepts and tools that will provide a starting point for workshop exercises that will provide hands-on experience of both the challenges and capabilities of modern digital technologies. 
 

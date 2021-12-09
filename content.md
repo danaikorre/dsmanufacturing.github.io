@@ -122,7 +122,7 @@ Data for Industry 4 / New Business Models / Digital Twin: This lecture overviews
 Assessment: Submitting your final project.
 [link to course catalogue entry on DPRS]
 
-https://dsmanufacturing.github.io/
+
 
 
 

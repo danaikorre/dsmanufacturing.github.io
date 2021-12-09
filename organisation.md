@@ -1,6 +1,10 @@
 # Course Description
 
-This online course aims to equip participants with the skills to use data science to uncover insight, support informed decision-making and the creation of value from data.
+This hybrid, credit-bearing course provides both a grounding in the technologies of data science and their potential uses in manufacturing enterprises.  Through weekly lectures and hands-on computer workshops students will be introduced to the python programming language and apply some of the tools it provides for manipulating and analysing various forms of data that are common to manufacturing businesses. 
+
+The overall aim is to provide students with insights and direct experience of how data handling, visualization and analysis can be applied at different stages of a ‘product lifecycle’ by accessing information from Supply Chains and ERP, PLM, CAM and CAM systems. This holistic approach will develop an understanding of the potential capabilities of enterprise-wide information systems for companies engaged in product development and manufacturing.  
+
+<!-- This online course aims to equip participants with the skills to use data science to uncover insight, support informed decision-making and the creation of value from data. -->
 
 The course is **NOT** 
 * about all ascpects of machine learning and data science,
@@ -82,7 +86,7 @@ The final assessment will require participants to work on a manufacturing relate
   </tr>
 </table> -->
 
- <td style="vertical-align:top"><img src="images/visual_storytelling.png" alt = "data storytelling using sketches" /></td>
+ <td style="vertical-align:top"><img src="images/bolts.png" alt = "data storytelling using sketches" /></td>
 
 
 In addition to self-directed, online learning, individual help and feedback will be provided through forums and email, drop-in online-sessions, and local workshops in Edinburgh. 

@@ -10,12 +10,12 @@ Assuming students are familiar with the processes commonly used to organise and 
 *	How manufacturing data can be accessed, aggregated and analysed 
 *	How the data can be used to optimize processes
 *	Particular topics
- -   Python Coding and Notebook Programming Environments 
- -   Data Carpentry
- -   Data Visualization
- -   Relational and Graph Data Structures
- -   Forms of manufacturing data(e.g. Supply Chain (Supply Chain, ERP, PLM, CAD/CAM)
- -   Machine learning/Data analysis
+    -   Python Coding and Notebook Programming Environments 
+    -   Data Carpentry
+    -   Data Visualization
+    -   Relational and Graph Data Structures
+    -   Forms of manufacturing data(e.g. Supply Chain (Supply Chain, ERP, PLM, CAD/CAM)
+    -   Machine learning/Data analysis
 
 It covers the fundamentals of: 
 * Exploratory data analysis

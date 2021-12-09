@@ -17,7 +17,6 @@ Assuming students are familiar with the processes commonly used to organise and 
  * Forms of manufacturing data(e.g. Supply Chain (Supply Chain, ERP, PLM, CAD/CAM)
  * Machine learning/Data analysis
 
-
 It covers the fundamentals of: 
 * Exploratory data analysis
 * The importance of data science in manufacturing

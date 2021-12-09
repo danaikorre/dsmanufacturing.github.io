@@ -40,7 +40,11 @@ We will provide information on accessing and/or installing any other software us
 
 ### What level of technology proficiency do I need?
 
-We have a range of potential participants with proficiency ranging from basic &ndash; using mainly office-based tools, to people who use dedicated analysis tools, to people with some knowledge of programming. We will provide support to all participants regardless of technology proficiency, to acquire understanding of basic and more advanced data science concepts, and link those to practical application. 
+You need to be IT literate and be confident using a keyboard. The course will involve some basic coding so previous experience in any language will be an advantage. Students with minimal coding experience should be able to complete the course but will have to do additional study in the early weeks to become familiar with certain data types (e.g. arrays, strings and lists) and coding constructs (e.g. loops and for statements).
+ 
+Students should also have some knowledge of statistics and maths (SQA Higher level). Additional study might be required to become familiar with certain measures and algorithms.
+
+<!-- We have a range of potential participants with proficiency ranging from basic &ndash; using mainly office-based tools, to people who use dedicated analysis tools, to people with some knowledge of programming. We will provide support to all participants regardless of technology proficiency, to acquire understanding of basic and more advanced data science concepts, and link those to practical application. -->
 
 Each participant will have the opportunity to focus on a sub-set of advanced data analysis options, based on their project definition and other skills desired for work or personal interests. 
 

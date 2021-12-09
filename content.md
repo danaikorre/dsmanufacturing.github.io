@@ -86,7 +86,7 @@ Data visualization and Exploratory Data Analysis: This lecture overviews and int
 <!-- This lecture overviews and introduces current manufacturing software / PLM / ERP /MES.
 
 The workshop we will discuss and practice wit **data representation and relational databases**. -->
-Current Manufacturing Software / PLM / ERP /MES: This lecture overviews and introduces current manufacturing software / PLM / ERP /MES. The workshop we will discuss and practice wit data representation and relational databases.
+Current Manufacturing Software / PLM / ERP /MES: This lecture overviews and introduces current manufacturing software / PLM / ERP /MES. The workshop we will discuss and practice with data representation and relational databases.
 
 
 ### Week 6: Machine Learning and Artificial Intelligence (ML/AI)
@@ -94,7 +94,7 @@ Current Manufacturing Software / PLM / ERP /MES: This lecture overviews and intr
 <!-- This lecture overviews and introduces machine learning and artificial intelligence in the context of manufacturing.
 
 The workshop we will discuss and practice with **Jupyter Notebooks + ML (vision based exercise)** with us and the peers. -->
-Machine Learning and Artificial Intelligence (ML/AI): This lecture overviews and introduces machine learning and artificial intelligence in the context of manufacturing. The workshop we will discuss and practice with Jupyter Notebooks + ML (vision based exercise).
+Machine Learning and Artificial Intelligence (ML/AI): This lecture overviews and introduces machine learning and artificial intelligence in the context of manufacturing. The workshop we will discuss and practice with Jupyter Notebooks + ML (vision-based exercise).
 
 ### Week 7: Asset Management / internet of things (IoT)
 
@@ -130,7 +130,7 @@ https://dsmanufacturing.github.io/
 # Guest Talks
 
 We will host a variety of guest talks across diverse areas including:
-* 
+* TBA
 * 
 * 
 * 

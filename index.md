@@ -72,5 +72,6 @@ Browse further detail on the __[course structure](organisation.md)__.
 * Course Duration: __10 weeks__, complementing self-directed online and on site learning with one hands-on session per week via a virtual classroom, in addition to a Q&amp;A session to discuss lectures and corresponding exercises 
 * Total Hours: __50-100hrs__ (Lecture Hours 9; Workshop tutorial Hours 18; Independent Study Hours 30-73) 
 * Weekly investment: __5-10hrs__, including lectures, workshop tutorials, reading, Q&As, project work.
+* Weekly lectures will take place on __Fridays, 9am – 10am__ followed by a computer-based workshop __10am to 12noon__. There will be a weekly drop-in clinic on __Wednesdays, 7pm – 8pm__.  
 * Method of Assessment: __Coursework 100%__, including submission of your final project. 
 * Assessment information: Written Exam 0%, Coursework 100%, Practical Exam 0%. Weekly check ins of the proposed project in the clinics. You will receive one-on-one and detailed written feedback on your project.

@@ -17,6 +17,7 @@ augmented reality to educational materials for engineering, medicine and other S
 Between 2016 and 2019 he was the Royal Academy of Engineering (RAEng) Visiting Professor in
 Design for Product Profitability and from 2020 to 2021 as Industrial Chair of Data-driven
 Manufacturing, both at the University of Edinburgh.
+<p>&nbsp;</p>
 <ul>
   <li>Twitter: <a href="https://twitter.com/drewsherlock">@drewsherlock</a></li>
   <li>Linkedin<a href="https://www.linkedin.com/in/drewsherlock/"> Andrew Sherlock</a></li>
@@ -33,9 +34,12 @@ Manufacturing, both at the University of Edinburgh.
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="images/JC-Bio.jpg"/></td>
     <td style="vertical-align:top;">
-      <b><!-- a href="bach.html" -->Jonathan Corney, Prof<!-- /a -->,</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      <b><!-- a href="bach.html" -->Jonathan Corney, Prof<!-- /a -->,</b>  Professor Jonathan Corney, School of Engineering, University of Edinburgh: Is Professor of Digital Manufacturing and has been PI on over £1.8 Million of EPSRC funded research. He has published two books and over 80 papers on various aspects of CAD/CAM and advanced manufacturing. His career started at Heriot-Watt University where he worked on geometric modelling, feature recognition and shape search systems. In 2007 he moved to Strathclyde as Professor of Design and Manufacture where he investigated manufacturing applications of crowdsourcing; Internet cloud interfaces for manufacturing and systems for interactive search of digital media. 
+<p>&nbsp;</p>
+For further details see ResearchGate and Google Scholar profiles.
 <ul>
   <li>Researchgate: <a href="https://www.researchgate.net/profile/Jonathan-Corney">Jonathan R. Corney</a></li>
+  <li>Google Scholar: <a href="https://scholar.google.com/citations?user=P2w5ccYAAAAJ&hl=en&oi=ao">Jonathan R. Corney</a></li>
 </ul>
 <br />Research Interests: 
 <ul>
@@ -52,6 +56,7 @@ Manufacturing, both at the University of Edinburgh.
     <td style="vertical-align:top;width:100px;"><img src="images/danai.jpg"/></td>
     <td style="vertical-align:top;">
       <b>Danai Korre, PhD,</b> is a Research Associate in Augmented and Virtual Reality at the University of Edinburgh. She has an MSc in digital media and holds a PhD in Human-Oriented Artificial Intelligence, User Experience (UX) research and Data Science with a focus on embodied conversational agents and mobile serious games. She has more than 8 years of experience in EdTech and is a review editor in mobile and ubiquitous computing. 
+<p>&nbsp;</p>
 <ul>
   <li>Twitter: <a href="https://twitter.com/danaikorre">@danaikorre</a></li>
   <li>Linkedin<a href="https://www.linkedin.com/in/danai-korre/"> Danai Korre</a></li>

@@ -25,7 +25,12 @@ The course is expected to require a total __time investment of 5-10h / week__, r
 
 # Course Structure
 
-The course is developed to facilitate hybrid teaching and is compromised of a series of lectures, tutorials/workshop sessions that will encourage student-centred learning. A combination of technical lectures, guest speakers from industry and practical manufacturing experience will be employed to allow students to make informed decisions regarding the selection and effective implementation of such manufacturing approaches. 
+•	The course will deliver all topics via a common platform established by introducing students to the fundamentals of using the Python programming language within Jupyter Notebooks and concepts of software version control with Git and Github.  Each topics will be taught via Python libraries whose functionality will enable students to explore their application using high-level commands and a number of curated datasets.
+
+The course is developed to facilitate hybrid teaching and is comprised of a series of lectures, tutorials/workshop sessions that will encourage student-centred learning. The lectures will introduce and demonstrate concepts and tools that will provide a starting point for workshop exercises that will provide hands-on experience of both the challenges and capabilities of modern digital technologies. 
+
+ The course will employ case study materials, video resources, and industrial guest speakers to emphasis the industrial relevance of the techniques.  Although the focus is on manufacturing, the course will also touch on the  philosophies of Product Lifecycle Management and Product Data Management and examines the interactions between information technologies, organisation and product data. It aims to equip participants with the skills to use data science to uncover insight, support informed decision-making and the creation of value from data. 
+
  
 
 <!-- * __Weeks 9 &amp; 10__ conclude the course with a set of __advanced topics__, from which participants will select options to focus on, ideally in line with their project. 

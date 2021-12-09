@@ -2,7 +2,7 @@
 
 Applications for the course are not handled through the organising team, but through the Bayes Centre.  This section provides more detail on the different forms involved:
   
-  * Register interest in [surveys & taster sessions](#register_interest_ds_manu_course) for the data visualisation course
+  * Register interest in [surveys & taster sessions](https://forms.gle/9ZWPn8fDHZiDXNBR9) for the data science in manufacturing course
   * Register interest in [other data skills courses](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses) and to receive updates about the Bayes Centre's [*Data Skills Workforce Development*](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development) portfolio.
 
 Please [e-mail us](mailto:datascimanu@gmail.com ) if you've any questions not addressed here or in the [FAQs](faqs.md). 

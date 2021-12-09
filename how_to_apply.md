@@ -7,9 +7,12 @@ Applications for the course are not handled through the organising team, but thr
 
 Please [e-mail us](mailto:datascimanu@gmail.com ) if you've any questions not addressed here or in the [FAQs](faqs.md). 
 <p>&nbsp;</p>
+
+
+## [Submit Application](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYSh2MWKVoxpLrG5A3l7A6AdUMDdMQUJVRDFROFg2NDJQSzY3VkdTNzFaNy4u)
+
+
 <p>&nbsp;</p>
-
-
 <a name = "register_interest_datascimanu_course"></a>
 ## Register interest in surveys and taster sessions
 

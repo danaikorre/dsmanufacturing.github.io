@@ -9,7 +9,7 @@ Please [e-mail us](mailto:datascimanu@gmail.com ) if you've any questions not ad
 <p>&nbsp;</p>
 
 
-## [Submit Application](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYSh2MWKVoxpLrG5A3l7A6AdUMDdMQUJVRDFROFg2NDJQSzY3VkdTNzFaNy4u)
+## [Submit Application](https://forms.office.com/r/XEeRkw7pJm)
 
 
 <p>&nbsp;</p>

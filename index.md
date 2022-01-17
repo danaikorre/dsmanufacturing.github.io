@@ -30,7 +30,7 @@ It covers the fundamentals of:
 * __Introduce__ collaborative practices around data collection, analysis and presentation
 
 
-Meet the organizers and join our **[open info session on MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWY3YzIwZTAtOWEzZC00M2Q0LWIxYWEtZmFjYzg1MzA1MmRj%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2269a6ec46-60d9-4c4e-99e5-c8561f10dbfb%22%7d)** (installed MS Teams application required). The session gives an overview over the course and the chance for prospective students to ask questions about the content and delivery of the course. Sessions times are 
+Meet the organizers and join our **[open info session on MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJjNDZjMGQtMWNiMC00ODYyLTliZGUtNDA0NmVmZjk4YTFm%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2269a6ec46-60d9-4c4e-99e5-c8561f10dbfb%22%7d)** (installed MS Teams application required). The session gives an overview over the course and the chance for prospective students to ask questions about the content and delivery of the course. Sessions times are 
 * Wednesday, January 12th, 4-5pm, BST
 * Wednesday, January 19th, 6-7pm, BST
 

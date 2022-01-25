@@ -2,9 +2,7 @@
 
 This course is accredited; on successful completion you will receive a certificate that reflects 10 credits at Masters-level (SCQF Level 11). 
 
-It therefore has a formal assessment component comprising
-  * mini quizzes attached to key lecture topics
-  * brief reflection exercises linked to the tutorials  <!-- [reflection exercises](reflection_exercises) linked to the tutorials -->  
+It therefore has a formal assessment component comprising  
   * a final project that enables you to answer, using your data visualisation choice, the challenge you define.
 
 Your overall grade will be one of __Pass__ / __Fail__ / __Incomplete__
@@ -19,10 +17,10 @@ back to main [schedule](index.md)
 
 ## General Submission Guidelines
 
-1. Formal assessment must be submitted through Learn. Quizzes and assignments must be labelled using your student ID only (s followed by 7 numbers). If you have not been assigned a student ID please request a unique identifier from the course organisers to use instead. Please ensure you do not include any personally identifiable information on submissions as all work is marked anonymously. 
+1. Formal assessment must be submitted through Learn. Assignments must be labelled using your student ID only (s followed by 7 numbers). If you have not been assigned a student ID please request a unique identifier from the course organisers to use instead. Please ensure you do not include any personally identifiable information on submissions as all work is marked anonymously. 
 1. In-session exercises should be labelled with your student ID  (individual)  or group number, date and exercise number, and uploaded to the team channel for the tutorial in question. 
 
-### Quizzes
+<!-- ### Quizzes
  * Require selection from a multi-choice list and/or a brief written answer
  * For questions with a written component please provide brief answers. You may use one or a combination of 
    * a short paragraph, up to 5 lines, and ideally not more than 50 words
@@ -34,11 +32,12 @@ back to main [schedule](index.md)
 <br />
 
 While we recommend completing quizzes on a weekly basis, you may choose to attempt them at any time during the course. **The final deadline for all quizzes is 23:59 on Jul 10th.** 
-<p>&nbsp;</p>
+<p>&nbsp;</p> -->
 
 
 <a name = "guidelines_reflection_exercises"></a>
-### Assignments / Reflection exercises
+
+<!-- ### Assignments / Reflection exercises
  * Assignments are linked to tutorial sessions; while you are **NOT required to attend** these sessions **you MUST submit all assignments**. Guidelines for completing the exercises are detailed in the tutorial scripts, with summaries provided in the <a href="summaries_reflection_exercises">table</a> below. 
 
  * Submissions must contain ~200 and no more than 500 words, and fit on a single side of A4 paper
@@ -48,14 +47,14 @@ While we recommend completing quizzes on a weekly basis, you may choose to attem
    * please number figures referenced within text and further annotate sketches and any other diagrams as required
  <br />
   
- * You may submit reflection exercises using a non-traditional, visualisation-based method (rather than text-based), provided it communicates the information required effectively.
+ * You may submit reflection exercises using a non-traditional, visualisation-based method (rather than text-based), provided it communicates the information required effectively. -->
 
 #### Submission deadlines, grading &amp; feedback
  * Assignments feed into completing your final project. Individual feedback will be structured to allow you to update the individual components of your final report. **You must submit assignments by the due date to receive individual feedback**. 
  * No penalty will be applied if you submit assignments after their due date. However, priority for providing feedback moves to the next assignment after each cutoff; unless you have obtained special dispensation you may not receive individual feedback in time to apply this to subsequent assignments and your final project.
 <br />
  
-**All assignments must be submitted by 23:59 on Jul 10th.**
+**All assignments must be submitted by 23:59 on Apr 14th.**
 <p>&nbsp;</p>
 
  
@@ -64,7 +63,7 @@ While we recommend completing quizzes on a weekly basis, you may choose to attem
 
 The final submission will include findings and lessons learnt from exercises completed as the course progresses.  
 * [Requirements &amp; guidelines for the project report](final_project_report.md)
-* The submission link on Learn __will be available from 12:00 on Jul 12th__. You have __unlimited attempts to submit__ your report, up until the final deadline. The __last version submitted will be that marked__. 
+* The submission link on Learn __will be available from 12:00 on May 15th__. You have __unlimited attempts to submit__ your report, up until the final deadline. The __last version submitted will be that marked__. 
 
 **Your project must be submitted by 23:59 on Jul 16th.**
 <p>&nbsp;</p>
@@ -75,7 +74,7 @@ back to main [schedule](index.md)
 
 ***
 
-<a name = "summaries_reflection_exercises"></a>
+<!-- <a name = "summaries_reflection_exercises"></a>
 ## Assessment Submission Schedule
 
 <table width = "90%">
@@ -85,7 +84,7 @@ back to main [schedule](index.md)
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
       <a name = "1-1"></a>
-      <b>Week 1: Session 1-2</b>
+      <b>Week 1: Session 1</b>
     </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td><b><i>Formulating data visualisation brief</i></b></td>
@@ -93,9 +92,8 @@ back to main [schedule](index.md)
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
      Complete the exercise in <a href="session-1-2#tutorial-project_brief">tutorial 1-2</a>. Summarise your initial ideas on a single page, taking into account also any feedback and discussions during the tutorial, and the <a href="session-1-2#guidelines_defining_project_brief">guidelines for defining a brief</a>.<br/>
-      Submit a copy of your brief to <!-- a href="https://bit.ly/submission_reflection_exercises_2021" -->Learn<!-- /a --> (link available from 18:00 on 8th May).
-    </td>
-  </tr><tr style = "vertical-align:top;font: italic bold">
+      Submit a copy of your brief to <!-- a href="https://bit.ly/submission_reflection_exercises_2021" -->
+  <!-- </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2"> </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2">
@@ -107,8 +105,8 @@ back to main [schedule](index.md)
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
      Complete the exercise in <a href="session-2#tutorial-design-sketching">tutorial 2</a>. Edit your sketches and/or include annotations that take into account also any feedback and discussions during the tutorial. If need be, update your project brief to reflect evolution of your project ideas (you do not need to submit your updated brief).<br/>
-      Submit a copy of your design to <!-- a href="https://bit.ly/submission_reflection_exercises_2021" -->Learn<!-- /a --> (link available from 12:00 on 15th May). 
-    </td>
+      Submit a copy of your design to <!-- a href="https://bit.ly/submission_reflection_exercises_2021" -->
+  <!-- </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2"> </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
@@ -134,9 +132,8 @@ back to main [schedule](index.md)
       <li>Update your challenge brief to reflect your choices.</li>
      </ol>
      <br/>
-      Submit a copy of your updated brief and your annotated matrix, along with a copy of your review, to <!-- a href="https://bit.ly/submission_reflection_exercises_2021" -->Learn<!-- /a --> (link available from 12:00 on 29th May).
-    </td>
-  </tr><tr style = "vertical-align:top;font: italic bold">
+      Submit a copy of your updated brief and your annotated matrix, along with a copy of your review, to <!-- a href="https://bit.ly/submission_reflection_exercises_2021" -->
+  <!-- </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2"> </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2">
@@ -155,8 +152,8 @@ back to main [schedule](index.md)
         <li>Reflect on what you learnt from what didn't work; consider your initial ideas, designs and prototypes, and evolution of your project as the course progressed.</li> 
       </ol>
     <br/>
-      Submit your final project description, with a copy of or link to a working prototype, to <!-- a href="https://bit.ly/final_project_submission_2021" -->Learn<!-- /a --> (link available from 12:00 on Jul 12th).
-    </td>
+      Submit your final project description, with a copy of or link to a working prototype, to <!-- a href="https://bit.ly/final_project_submission_2021" -->
+  <!-- </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
     <td colspan = "2"> </td>
   </tr><tr style = "vertical-align:top;font: italic bold">
@@ -168,12 +165,13 @@ back to main [schedule](index.md)
     <td><b><i>Fri, July 16, 23:59</i></b></td>
   </tr><tr style = "vertical-align:top;">
     <td colspan = "2">
-     Complete the exercise in <!-- a href="session-9#evaluation_plan" -->tutorial 9<!-- /a -->.  Summarise your plan on a single page, taking into account also any feedback and discussions during the tutorial, and the <!-- a href="session-9#guidelines_evaluation_plan" -->guidelines & best practice for creating an evaluation plan<!-- /a -->. Include as an appendix any additional documents, e.g., task lists, questionnaires and scenario descriptions.
+     Complete the exercise in <!-- a href="session-9#evaluation_plan" -->
+  <!-- tutorial 9<!-- /a.  Summarise your plan on a single page, taking into account also any feedback and discussions during the tutorial, and the <!-- a href="session-9#guidelines_evaluation_plan" guidelines & best practice for creating an evaluation plan<!-- /a . Include as an appendix any additional documents, e.g., task lists, questionnaires and scenario descriptions.
      <br/><br/>
-     Attach a copy of your evaluation proposal to your final project and submit to <!-- a href="https://bit.ly/final_project_submission_2021" -->Learn<!-- /a --> (link available from 12:00 on Jul 12th).
+     Attach a copy of your evaluation proposal to your final project and submit to <!-- a href="https://bit.ly/final_project_submission_2021" Learn<!-- /a  (link available from 12:00 on Jul 12th).
     </td>
   </tr>
-</table>
+</table> -->
 
 ***
 

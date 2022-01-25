@@ -8,7 +8,11 @@ back to [course content](index#course_organisation)
 
 #### Session topics
 
-* 
+* Understand how the course will work
+* Know what learning resources are available 
+* Understand what you need to do and how you will be assessed
+* Develop an understanding on how data science can be applied to manufacturing 
+
 <p>&nbsp;</p>
 
 
@@ -27,7 +31,7 @@ back to [course content](index#course_organisation)
 
 #### Reading list and resources 
 
-* Emergen Research, h., 2021. Big Data Analytics in Manufacturing Industry Growth 33.1% CAGR During 2020- 2028 | Market Size, Share & Trend. [online](<https://www.emergenresearch.com/industry-report/big-data-analytics-in-manufacturing-market>)
+* Emergen Research, h., 2021. Big Data Analytics in Manufacturing Industry Growth 33.1% CAGR During 2020- 2028, Market Size, Share & Trend. [online](<https://www.emergenresearch.com/industry-report/big-data-analytics-in-manufacturing-market>)
 * Amruthnath, Nagdev. (2020). Data Science in Manufacturing: An Overview.
 * Big Data Analytics in Manufacturing Industry Market - Global Analysis, Size, Share, Growth, Trends, and Forecast 2019 – 2027 IT Telecom TMRGL69903 Ongoing Dec 2021 
 * IIoT World [Online](https://iiot-world.com/connected-industry/what-data-science-actually-means-to-manufacturing/.) 

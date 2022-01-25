@@ -57,10 +57,9 @@ Resources you may need during the course.
 
 <!-- In addition to the final project, the course has **three** assignments that need to be submitted to pass. Please note you **MUST** submit all [assignments](assessment.md) whether you attend tutorials or not. You must also attempt weekly quizzes. -->
 
+## [Workshop/Tutorials](tutorials.md) 
 
-## [Tutorial Guidelines](tutorials.md)
-
-Please remember that while strongly encouraged, **participation in tutorials and all other interactive sessions is OPTIONAL**. Please read the [guidelines](tutorials.md) before attending your first interactive session; these take into account feedback from interaction with participants and the constraints inherent to a virtual classroom. 
+Please read the [guidelines](tutorials.md) before attending your first interactive session; these take into account feedback from interaction with participants and the constraints inherent to a virtual classroom. 
 
 ***
 

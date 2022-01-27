@@ -69,7 +69,7 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 
 |  Week | Date | Lecture | Workshop/ Tutorial  | Teaching  |    
 |---|---|---|---|---|---|
-| 1 |  Feb 04 | <a href="session-1#lecture">Introduction and Foundations</a> | <a href="session-1#lecture">Intro to Python programming and Jupyter Notebooks</a>  | A.Sherlock, D. Korre  |  
+| 1 |  Feb 04 | <a href="session-1#lecture">Introduction and Foundations</a> | <a href="session-1#workshop">Intro to Python programming and Jupyter Notebooks</a>  | A.Sherlock, D. Korre  |  
 | 2 | Feb 11  | <a href="session-2#lecture">Data Carpentry</a> |  <a href="session-2#workshop">Data cleansing and data carpentry</a> |  A.Sherlock, D. Korre  |   
 | 3 | Feb 18  | <a href="session-3#lecture">Product Lifecycle / Material Flow</a>  |  <a href="session-3#workshop">Python on Jupyter notebooks and Github</a> |  A.Sherlock, D. Korre  |   
 | 4 | Feb 25  | <a href="session-4#lecture">Data visualization and Exploratory Data Analysis</a>  | <a href="session-4#workshop">Data visualisation Exploratory Data Analysis</a>  |  A.Sherlock, D. Korre  |   
@@ -101,11 +101,15 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 ### Week 1
 <img src = "../images/timetable_week1_only.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" / -->
 
+<a name = "timetable"></a>
+
 ### Weeks 1-9
 <img src = "../images/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" /> 
 
 <br />
 <a name =  "acknowledgements">
+
+### Acknowledgements
 
 Some of the workshops contain material from the [Software Carpentry Foundation](https://swcarpentry.github.io/) and [Data Carpentries](https://datacarpentry.org/), although adjusted to fit the manufacturing theme, and was made available under the [Creative Commons Attribution (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode) license.  
 

@@ -15,6 +15,7 @@ back to [course content](index#course_organisation)
 
 <p>&nbsp;</p>
 
+***
 
 # Lecture 
 
@@ -31,12 +32,19 @@ back to [course content](index#course_organisation)
 
 #### Reading list and resources 
 
-* Emergen Research, h., 2021. Big Data Analytics in Manufacturing Industry Growth 33.1% CAGR During 2020- 2028, Market Size, Share & Trend. [online](<https://www.emergenresearch.com/industry-report/big-data-analytics-in-manufacturing-market>)
+
 * Amruthnath, Nagdev. (2020). Data Science in Manufacturing: An Overview.
 * Big Data Analytics in Manufacturing Industry Market - Global Analysis, Size, Share, Growth, Trends, and Forecast 2019 – 2027 IT Telecom TMRGL69903 Ongoing Dec 2021 
-* IIoT World [Online](https://iiot-world.com/connected-industry/what-data-science-actually-means-to-manufacturing/.) 
-* Trapp, R., 2014. Why Businesses Need To Shift Data Analysis From The Center To The Front Line. [online]( Forbes. Available at: )<https://www.forbes.com/sites/rogertrapp/2014/09/29/why-businesses-need-to-shift-data-analysis-from-the-centre-to-the-front-line/?sh=6c533314773c>) 
 * Dhar, V. (2013). "Data science and prediction". Communications of the ACM. 56 (12): 64–73. doi:10.1145/2500499. S2CID 6107147
+
+
+#### Links
+
+* Programming in Python: Running and Quitting [online](http://swcarpentry.github.io/python-novice-gapminder/01-run-quit/index.html)
+* Emergen Research, h., 2021. Big Data Analytics in Manufacturing Industry Growth 33.1% CAGR During 2020- 2028, Market Size, Share & Trend. [online](<https://www.emergenresearch.com/industry-report/big-data-analytics-in-manufacturing-market>)
+* IIoT World [Online](https://iiot-world.com/connected-industry/what-data-science-actually-means-to-manufacturing/) 
+* Trapp, R., 2014. Why Businesses Need To Shift Data Analysis From The Center To The Front Line. [online](https://www.forbes.com/sites/rogertrapp/2014/09/29/why-businesses-need-to-shift-data-analysis-from-the-centre-to-the-front-line/?sh=6c533314773c)
+* The Python Standard Library [online](https://docs.python.org/3/library/index.html) 
 
 #### Cheatsheets
 
@@ -48,7 +56,9 @@ back to [course content](index#course_organisation)
 #### Video resources
 
 1. [Python Tutorial: Generate Random Numbers and Data Using the random Module](https://www.youtube.com/watch?v=KzqSDvzOFNA)
-2. 
+2. [Python Training Beginners - What is a Variable in Python](https://www.youtube.com/watch?v=T9un17BU3Z8)
+3. [Functions in Python - The Basics!](https://www.youtube.com/watch?v=K7ITBnN6FSg&list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J&index=31)
+
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
@@ -59,7 +69,7 @@ back to [course content](index#course_organisation)
 # Workshop
 
 <a name = "workshop"></a>
-### Workshop 1  (20min)
+### Workshop 1  (100min)
 
 * Introduction to the Jupyter Norebook environment.
 * Explain what a library is and what libraries are used for.
@@ -89,7 +99,5 @@ The workshops contain material from:
 * 
 
 ***
-
-
 
 back to [course content](index#course_organisation)

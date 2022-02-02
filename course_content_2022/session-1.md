@@ -96,7 +96,9 @@ The workshops contain material from:
 "Software Carpentry: Programming with Python."  Version 2016.06, June
 2016, https://github.com/swcarpentry/python-novice-inflammation,
 10.5281/zenodo.57492.
-* 
+* Allen Lee, Sourav Singh, Olav Vahtras (eds): 
+"Plotting and Programming in Python" 2019,
+ https://github.com/swcarpentry/python-novice-gapminder
 
 ***
 

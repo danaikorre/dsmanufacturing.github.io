@@ -1,17 +1,19 @@
 back to [course content](index#course_organisation)
 
 
-# Week 1, Session 2: Data Carpentry
+# Week 2, Session 1: Data Carpentry
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>
 
 #### Session topics
 
-* Understand how the course will work
-* Know what learning resources are available 
-* Understand what you need to do and how you will be assessed
-* Develop an understanding on how data science can be applied to manufacturing 
+* Correctly trace value changes in programs that use scalar assignment.
+* Read tabular data from a file into a program.
+* Select individual values and subsections from data.
+* Perform operations on arrays of data.
+* How to format data in spreadsheets for effective data use
+* Carrying out basic quality control and quality assurance
 
 <p>&nbsp;</p>
 
@@ -71,7 +73,15 @@ Cios, K., 2010. Data mining. New York: Springer.
 # Workshop
 
 <a name = "workshop"></a>
-### Workshop 1  (100min)
+### Workshop 1  (60min)
+
+* Introduction to the git.
+*
+
+
+<p>&nbsp;</p>
+
+### Workshop 2  (60min)
 
 * Introduction to the Jupyter Norebook environment.
 * Explain what a library is and what libraries are used for.
@@ -85,7 +95,6 @@ Cios, K., 2010. Data mining. New York: Springer.
 
 <p>&nbsp;</p>
 
-
 back to [index](index#course_organisation)
 
 ***
@@ -98,7 +107,15 @@ The workshops contain material from:
 "Software Carpentry: Programming with Python."  Version 2016.06, June
 2016, https://github.com/swcarpentry/python-novice-inflammation,
 10.5281/zenodo.57492.
-* 
+* Allen Lee, Sourav Singh, Olav Vahtras (eds): 
+"Plotting and Programming in Python" 2019,
+ https://github.com/swcarpentry/python-novice-gapminder
+* Greg Wilson: "Software Carpentry: Getting Scientists to Write Better
+Code by Making Them More Productive".  Computing in Science &
+Engineering, Nov-Dec 2006.
+
+* Greg Wilson: "Software Carpentry: Lessons Learned". arXiv:1307.5448,
+July 2013.
 
 ***
 

@@ -28,7 +28,7 @@ Schedule for tutorials and Q&A sessions [below](#timetable).
 Resources you may need during the course. 
 
 * **[Teams](https://teams.microsoft.com/l/team/19%3a-aesL4IX5XwKnSO79A5huVLtkWMnWwecRRObf7NBIuM1%40thread.tacv2/conversations?groupId=121ee619-178b-40e5-8506-530415970cd0&tenantId=2e9f06b0-1669-4589-8789-10a06934dc61):** **note** you must be logged in to your Office365 account for this course for this link to work.   
-* **[Learn VLE]()**: **note** you must be logged in to the university for this link to work.
+* **[Learn VLE](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6867286_1&course_id=_91471_1)**: **note** you must be logged in to the university for this link to work.
 <!-- * **[Book 1-on-1](https://datavisonline.youcanbook.me)**. The booking link will lapse from the end of each week's bookings, AND work again from Tues 14:00 when new bookings are available -->
 
 * **[MyEd portal](https://www.myed.ed.ac.uk)**   

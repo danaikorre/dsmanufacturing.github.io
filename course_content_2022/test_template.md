@@ -1,85 +1,81 @@
 back to [course content](index#course_organisation)
 
 
-# Week :
+# Week #, Session #: #############
 
-[Lecture](#lecture) | [Reading](#reading) | [Quiz](#quiz) | [Tutorial](#tutorial) 
+[Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>
 
 #### Session topics
 
+* 
 
 <p>&nbsp;</p>
 
+***
 
 # Lecture 
 
 ### Slides
-* []()
+* [Introduction to Data Science for Manufacturing](files/.pdf)  
 
 #### Video lectures
+* [DSM Lecture 1](https://drive.google.com/)
 
 <br />
 
   
 <a name = "reading"></a>
-#### Reading list
 
-**Core:**    
+#### Reading list and resources 
 
-**Further reading:**  
+
+* 
+
+
+#### Links
+
+* 
+
+#### Cheatsheets
+
+* 
+
+#### Video resources
+
+1. 
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+
+***
+
+# Workshop
+
+<a name = "workshop"></a>
+### Workshop #  (120min)
+
 * 
 
 
 <p>&nbsp;</p>
 
-***
 
-
-# Quiz 
-Available end of the week 
-
-<p>&nbsp;</p>
+back to [index](index#course_organisation)
 
 ***
-
-# Tutorial
-
-<a name = "tutorial-"></a>
-### Tutorial 
-
-<p>&nbsp;</p>
-
-#### Additional resources
-
-<p>&nbsp;</p>
-
-back to [index](index)
-
-***
-
-<p>&nbsp;</p>
-
-<a name = "tutorial-"></a>
-### Tutorial 
-
-<p>&nbsp;</p>
-
-
-#### Additional resources &amp; links:
   
-<p>&nbsp;</p>
+
+#### Acknowledgements:
+
+The workshops contain material from:
+* 
 
 ***
 
-<p>&nbsp;</p>
-
-# Assignment
-
-      
-<p>&nbsp;</p>
-
- ***
+back to [course content](index#course_organisation)
 
  back to [index](index.md)
 

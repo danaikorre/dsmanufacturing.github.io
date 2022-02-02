@@ -70,8 +70,8 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 |  Week | Date | Lecture | Workshop/ Tutorial  | Teaching  |    
 |---|---|---|---|---|---|
 | 1 |  Feb 04 | <a href="session-1#lecture">Introduction and Foundations</a> | <a href="session-1#workshop">Intro to Python programming and Jupyter Notebooks</a>  | A.Sherlock, D. Korre  |  
-| 2 | Feb 11  | <a href="session-2#lecture">Data Carpentry</a> |  <a href="session-2#workshop">Data cleansing and data carpentry</a> |  A.Sherlock, D. Korre  |   
-| 3 | Feb 18  | <a href="session-3#lecture">Product Lifecycle / Material Flow</a>  |  <a href="session-3#workshop">Python on Jupyter notebooks and Github</a> |  A.Sherlock, D. Korre  |   
+| 2 | Feb 11  | <a href="session-2#lecture">Data Carpentry</a> |  <a href="session-2#workshop">Git and data carpentry introduction</a> |  A.Sherlock, D. Korre  |   
+| 3 | Feb 18  | <a href="session-3#lecture">Product Lifecycle / Material Flow</a>  |  <a href="session-3#workshop">Data carpentry and data cleaning</a> |  A.Sherlock, D. Korre  |   
 | 4 | Feb 25  | <a href="session-4#lecture">Data visualization and Exploratory Data Analysis</a>  | <a href="session-4#workshop">Data visualisation Exploratory Data Analysis</a>  |  A.Sherlock, D. Korre  |   
 | 5 | Mar 04  | <a href="session-5#lecture">Current Manufacturing Software / PLM / ERP /MES</a>  |  <a href="session-5#workshop">Data Representation / Relational databases</a> |  A.Sherlock, D. Korre  |   
 | 6 | Mar 11  | <a href="session-6#lecture">Machine Learning and Artificial Intelligence (ML/AI)</a>  | <a href="session-6#workshop">Jupyter Notebooks + ML (vision based exercise)</a>  | A.Sherlock, D. Korre  |   

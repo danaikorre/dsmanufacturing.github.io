@@ -9,18 +9,18 @@ Times below are UK times.
 * Office hours with tutors
 * Microsoft Teams for chats and forum questions
 
-|  Week | Date | Lecture | Workshop/ Tutorial  | People  | Homework  |   
-|---|---|---|---|---|---|
-| 1 |  Feb 04 | Introduction and Foundations | Intro to Python programming and Jupyter Notebooks  | A.Sherlock, D. Korre  |  |
-| 2 | Feb 11  | Data Carpentry |  Data cleansing and data carpentry |  A.Sherlock, D. Korre  |   |
-| 3 | Feb 18  | Product Lifecycle / Material Flow  |  Python on Jupyter notebooks and Github |  A.Sherlock, D. Korre  |   |
-| 4 | Feb 25  | Data visualization and Exploratory Data Analysis  | Data visualisation Exploratory Data Analysis  |  A.Sherlock, D. Korre  |   |
-| 5 | Mar 04  | Current Manufacturing Software / PLM / ERP /MES  |  Data Representation / Relational databases |  A.Sherlock, D. Korre  |   |
-| 6 | Mar 11  | Machine Learning and Artificial Intelligence (ML/AI)  | Jupyter Notebooks + ML (vision based exercise)  | A.Sherlock, D. Korre  |   |
-| 7 | Mar 18  | Asset Management / IoT  | ML and visual Exercise (Time series)  | A.Sherlock, D. Korre   |   |
-| 8 | Mar 25  | EBoM / MBoM / Geometry / Time Series | ML and Visualisation Exercise (Data mining factory data)  |  A.Sherlock, D. Korre  | |
-| 9 | Apr 01  | Data for Industry 4 / New Business Models/Digital Twin / Thread |  Presenting Information  | A.Sherlock, D. Korre   |   |
-| 10 | Apr 14  |   | Assessment |  A.Sherlock, D. Korre  |   |
+|  Week | Date | Lecture | Workshop/ Tutorial  | People  |  
+|---|---|---|---|---|
+| 1 |  Feb 04 | Introduction and Foundations | Intro to Python programming and Jupyter Notebooks  | A.Sherlock, D. Korre  |  
+| 2 | Feb 11  | Data Carpentry |  Git and data carpentry introduction |  A.Sherlock, D. Korre  |   
+| 3 | Feb 18  | Product Lifecycle / Material Flow  |  Data carpentry and data cleaning |  A.Sherlock, D. Korre  |   
+| 4 | Feb 25  | Data visualization and Exploratory Data Analysis  | Data visualisation and Exploratory Data Analysis (EDA) |  A.Sherlock, D. Korre  |   
+| 5 | Mar 04  | Current Manufacturing Software / PLM / ERP /MES  |  Data Representation / Relational databases |  A.Sherlock, D. Korre  |   
+| 6 | Mar 11  | Machine Learning and Artificial Intelligence (ML/AI)  | Jupyter Notebooks + ML (vision based exercise)  | A.Sherlock, D. Korre  |   
+| 7 | Mar 18  | Asset Management / IoT  | ML and visual Exercise (Time series)  | A.Sherlock, D. Korre   |   
+| 8 | Mar 25  | EBoM / MBoM / Geometry / Time Series | ML and Visualisation Exercise (Data mining factory data)  |  A.Sherlock, D. Korre  | 
+| 9 | Apr 01  | Data for Industry 4 / New Business Models/Digital Twin / Thread |  Presenting Information  | A.Sherlock, D. Korre   |   
+| 10 | Apr 14  |   | Assessment |  A.Sherlock, D. Korre  |   
 
 
 <!-- Visual literacy and culture, visualisation design and target audience all account for differences in interpretation and use of visualisations. How do you design to ensure your audience receives the message you intend to deliver?

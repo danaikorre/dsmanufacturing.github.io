@@ -100,6 +100,7 @@ The workshops contain material from:
 * Allen Lee, Sourav Singh, Olav Vahtras (eds): 
 "Plotting and Programming in Python" 2019,
  https://github.com/swcarpentry/python-novice-gapminder
+* "Bolts" dataset was generated using the iris dataset as a base
 
 ***
 

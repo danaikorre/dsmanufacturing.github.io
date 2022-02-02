@@ -69,6 +69,7 @@ back to [course content](index#course_organisation)
 # Workshop
 
 <a name = "workshop"></a>
+
 ### Workshop 1  (100min)
 
 * Introduction to the Jupyter Norebook environment.
@@ -80,7 +81,7 @@ back to [course content](index#course_organisation)
 * Import a Python library and use the functions it contains.
 * Read tabular data from a file into a program.
 
-
+[Link to workshop repository where you can get the notebooks and data](https://github.com/dsmanufacturing/Workshops/tree/main/Week_1)
 <p>&nbsp;</p>
 
 

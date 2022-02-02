@@ -52,6 +52,8 @@ Cios, K., 2010. Data mining. New York: Springer.
 * IIoT World [Online](https://iiot-world.com/connected-industry/what-data-science-actually-means-to-manufacturing/) 
 * Trapp, R., 2014. Why Businesses Need To Shift Data Analysis From The Center To The Front Line. [online](https://www.forbes.com/sites/rogertrapp/2014/09/29/why-businesses-need-to-shift-data-analysis-from-the-centre-to-the-front-line/?sh=6c533314773c)
 * The Python Standard Library [online](https://docs.python.org/3/library/index.html) 
+* How to install git [link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
 
 #### Cheatsheets
 
@@ -73,10 +75,11 @@ Cios, K., 2010. Data mining. New York: Springer.
 # Workshop
 
 <a name = "workshop"></a>
+
 ### Workshop 1  (60min)
 
-* Introduction to the git.
-*
+* Introduction to git.
+* 
 
 
 <p>&nbsp;</p>

@@ -104,7 +104,7 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 <a name = "timetable"></a>
 
 ### Weeks 1-9
-<img src = "/files/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" /> 
+<img src = "../images/timetable-interactive_sessions.png" alt = "Timetable &ndash; Interactive Sessions" height = "450" /> 
 
 <br />
 <a name =  "acknowledgements">

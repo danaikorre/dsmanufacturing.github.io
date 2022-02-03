@@ -65,7 +65,7 @@ The final submission will include findings and lessons learnt from exercises com
 * [Requirements &amp; guidelines for the project report](final_project_report.md)
 * The submission link on Learn __will be available from 12:00 on May 15th__. You have __unlimited attempts to submit__ your report, up until the final deadline. The __last version submitted will be that marked__. 
 
-**Your project must be submitted by 23:59 on Jul 16th.**
+**Your project must be submitted by 23:59 on Apr 14th.**
 <p>&nbsp;</p>
 
 back to main [schedule](index.md)  

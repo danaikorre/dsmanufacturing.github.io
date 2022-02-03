@@ -22,7 +22,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Introduction to Data Science for Manufacturing](course_content_2022/files/tool_marketplace_matrix.pdf)  
+* [Introduction to Data Science for Manufacturing](files/tool_marketplace_matrix.pdf)  
 
 #### Video lectures
 * [DSM Lecture 1](https://drive.google.com/)

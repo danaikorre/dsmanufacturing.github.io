@@ -23,7 +23,7 @@ back to [course content](index#course_organisation)
 * [Introduction to Data Science for Manufacturing](files/.pdf)  
 
 #### Video lectures
-* [DSM Lecture 1](https://drive.google.com/)
+* [DSM Lecture 1](......................)available online after the lecture
 
 <br />
 
@@ -46,18 +46,6 @@ back to [course content](index#course_organisation)
 * Trapp, R., 2014. Why Businesses Need To Shift Data Analysis From The Center To The Front Line. [online](https://www.forbes.com/sites/rogertrapp/2014/09/29/why-businesses-need-to-shift-data-analysis-from-the-centre-to-the-front-line/?sh=6c533314773c)
 * The Python Standard Library [online](https://docs.python.org/3/library/index.html) 
 
-#### Cheatsheets
-
-* [Jupyter Notebook cheatsheet](https://www.datacamp.com/community/blog/jupyter-notebook-cheat-sheet)
-* [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
-* [Common libraries cheatsheet](https://www.python-graph-gallery.com/cheat-sheets/)
-* [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-
-#### Video resources
-
-1. [Python Tutorial: Generate Random Numbers and Data Using the random Module](https://www.youtube.com/watch?v=KzqSDvzOFNA)
-2. [Python Training Beginners - What is a Variable in Python](https://www.youtube.com/watch?v=T9un17BU3Z8)
-3. [Functions in Python - The Basics!](https://www.youtube.com/watch?v=K7ITBnN6FSg&list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J&index=31)
 
 <p>&nbsp;</p>
 
@@ -80,6 +68,23 @@ back to [course content](index#course_organisation)
 * Loading data.
 * Import a Python library and use the functions it contains.
 * Read tabular data from a file into a program.
+
+### Slides
+* [Introduction to Python programming and Jupyter Notebooks](files/.pdf)  
+
+#### Cheatsheets
+
+* [Jupyter Notebook cheatsheet](https://www.datacamp.com/community/blog/jupyter-notebook-cheat-sheet)
+* [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+* [Common libraries cheatsheet](https://www.python-graph-gallery.com/cheat-sheets/)
+* [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+#### Video resources
+
+1. [Python Tutorial: Generate Random Numbers and Data Using the random Module](https://www.youtube.com/watch?v=KzqSDvzOFNA)
+2. [Python Training Beginners - What is a Variable in Python](https://www.youtube.com/watch?v=T9un17BU3Z8)
+3. [Functions in Python - The Basics!](https://www.youtube.com/watch?v=K7ITBnN6FSg&list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J&index=31)
+
 
 [Link to workshop repository where you can get the notebooks and data](https://github.com/dsmanufacturing/Workshops/tree/main/Week_1)
 <p>&nbsp;</p>

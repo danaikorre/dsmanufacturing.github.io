@@ -49,12 +49,12 @@ While we recommend completing quizzes on a weekly basis, you may choose to attem
   
  * You may submit reflection exercises using a non-traditional, visualisation-based method (rather than text-based), provided it communicates the information required effectively. -->
 
-#### Submission deadlines, grading &amp; feedback
+ <!-- #### Submission deadlines, grading &amp; feedback
  * Assignments feed into completing your final project. Individual feedback will be structured to allow you to update the individual components of your final report. **You must submit assignments by the due date to receive individual feedback**. 
- * No penalty will be applied if you submit assignments after their due date. However, priority for providing feedback moves to the next assignment after each cutoff; unless you have obtained special dispensation you may not receive individual feedback in time to apply this to subsequent assignments and your final project.
+ * No penalty will be applied if you submit assignments after their due date. However, priority for providing feedback moves to the next assignment after each cutoff; unless you have obtained special dispensation you may not receive individual feedback in time to apply this to subsequent assignments and your final project. 
 <br />
  
-**All assignments must be submitted by 23:59 on Apr 14th.**
+**All assignments must be submitted by 23:59 on Apr 14th.**-->
 <p>&nbsp;</p>
 
  

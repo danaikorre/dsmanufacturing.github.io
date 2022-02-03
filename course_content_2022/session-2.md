@@ -55,18 +55,6 @@ Cios, K., 2010. Data mining. New York: Springer.
 * How to install git [link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 
-#### Cheatsheets
-
-* [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-
-#### Video resources
-
-1. [Python Tutorial: Generate Random Numbers and Data Using the random Module](https://www.youtube.com/watch?v=KzqSDvzOFNA)
-2. [Python Training Beginners - What is a Variable in Python](https://www.youtube.com/watch?v=T9un17BU3Z8)
-3. [Functions in Python - The Basics!](https://www.youtube.com/watch?v=K7ITBnN6FSg&list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J&index=31)
-
-<p>&nbsp;</p>
-
 <p>&nbsp;</p>
 
 
@@ -95,6 +83,18 @@ Cios, K., 2010. Data mining. New York: Springer.
 * Import a Python library and use the functions it contains.
 * Read tabular data from a file into a program.
 
+
+<p>&nbsp;</p>
+
+#### Cheatsheets
+
+* [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+#### Video resources
+
+1. [Python Tutorial: Generate Random Numbers and Data Using the random Module](https://www.youtube.com/watch?v=KzqSDvzOFNA)
+2. [Python Training Beginners - What is a Variable in Python](https://www.youtube.com/watch?v=T9un17BU3Z8)
+3. [Functions in Python - The Basics!](https://www.youtube.com/watch?v=K7ITBnN6FSg&list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J&index=31)
 
 <p>&nbsp;</p>
 

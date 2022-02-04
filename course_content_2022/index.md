@@ -11,13 +11,14 @@ This page contains links to
 
 Each week has a [topic](#course_organisation). All of that written below is optional, and serves as a guide to planning your work: 
 
-* attend the lecture or watch the video lectures (with accompanying slides) (~1h)
-* browse any recommended reading material (~1h)
+* attend an open discussion and Q&A on the previous week's topic (usually for the first hour on Friday morning). We may also have guest speakers during this time. (~1h)
+* attend the week's lecture (or watch the recording) usually at 10:00 on the Friday (~1h)
 * participate in the workshop/tutorial in person and/or on **[Teams](https://teams.microsoft.com/l/meetup-join/19%3a-aesL4IX5XwKnSO79A5huVLtkWMnWwecRRObf7NBIuM1%40thread.tacv2/1643816881182?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%2269a6ec46-60d9-4c4e-99e5-c8561f10dbfb%22%7d)** (2h). <!--There is a channel for each tutorial group A and B. --> Sessions are recorded (recordings will automatially appear in the channel);
 <!--* submit the week's quizzes via Teams and check your answers against the sample solutions (provided after submission) (~1h) -->
+* browse any recommended reading material (~1h)
 * attend the Q&A sessions in the dedicated channel in person and/or on Teams. Q&A sessions are also recorded.
-* the milestone assignments must be submitted through **[Learn VLE](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6867286_1&course_id=_91471_1)**. 
-* update your journal.
+* any milestone assignments must be submitted through **[Learn VLE](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6867286_1&course_id=_91471_1)**. 
+* update your learning journal.
 
 Schedule for tutorials and Q&A sessions [below](#timetable).
 <br />

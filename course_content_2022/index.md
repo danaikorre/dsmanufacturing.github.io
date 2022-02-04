@@ -22,6 +22,13 @@ Each week has a [topic](#course_organisation). All of that written below is opti
 Schedule for tutorials and Q&A sessions [below](#timetable).
 <br />
 
+## Keeping a Learning Journal 
+
+Students are expected to reflect upon their learning on a week by week basis. Learning can come from the lectures, from class discussions, from further reading, other assignments, talking with colleagues, business news etc.. The reflective learning journal is intended to consolidate learning and to help students consciously and intentionally develop Data Science skills. As Engineers, reflective writing might be new and a little bit confusing but there is a purpose for using it. Reflection has been shown to be a highly effective way of learning. My intention is for you to use it to develop Systems Engineering knowledge.
+
+Your learning journal will be the basis on which we hold the discussion and Q&A each week.
+
+This **[video](https://youtu.be/b1eEPp5VSIY)** gives a good overview of why to keep a learning journal. This **[paper]()** discusses the use of reflection in engineering education. 
 
 ## Resources & Important Links
 

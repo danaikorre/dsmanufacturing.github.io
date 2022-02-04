@@ -23,7 +23,7 @@ back to [course content](index#course_organisation)
 * [Introduction to Data Science for Manufacturing](files/Data_Science_in_Manufacturing-Week_1.pdf)  
 
 #### Video lectures
-* [DSM Lecture 1](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_1_Lecture_recording.mp4?csf=1&web=1&e=45XSfY)
+* [DSM Lecture 1](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_1/Week_1_Lecture_recording.mp4?csf=1&web=1&e=UdPaou)
 
 <br />
 

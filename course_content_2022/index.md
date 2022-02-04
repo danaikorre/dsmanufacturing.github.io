@@ -28,7 +28,7 @@ Students are expected to reflect upon their learning on a week by week basis. Le
 
 Your learning journal will be the basis on which we hold the discussion and Q&A each week.
 
-This **[video](https://youtu.be/b1eEPp5VSIY)** gives a good overview of why to keep a learning journal. This **[paper]()** discusses the use of reflection in engineering education. 
+This *[video](https://youtu.be/b1eEPp5VSIY)* gives a good overview of why to keep a learning journal. This *[paper](files/Integrating_Reflection_-_ASEE_2014_-_Final.pdf)* discusses the use of reflection in engineering education. 
 
 ## Resources & Important Links
 

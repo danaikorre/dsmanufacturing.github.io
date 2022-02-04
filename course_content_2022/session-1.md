@@ -58,7 +58,7 @@ back to [course content](index#course_organisation)
 
 <a name = "workshop"></a>
 
-### Workshop 1  (100min)
+### Workshop 1  (120min)
 
 * Introduction to the Jupyter Norebook environment.
 * Explain what a library is and what libraries are used for.
@@ -71,6 +71,9 @@ back to [course content](index#course_organisation)
 
 ### Slides
 * [Introduction to Python programming and Jupyter Notebooks](files/Workshop-Week_1.pdf)  
+
+#### Video lectures
+* [DSM Workshop 1](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_1/Week_1_Workshop_tutorial_how_to_clone_a_repo.mp4?csf=1&web=1&e=eakJYZ)
 
 #### Cheatsheets
 

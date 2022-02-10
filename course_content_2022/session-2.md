@@ -8,12 +8,12 @@ back to [course content](index#course_organisation)
 
 #### Session topics
 
-* Correctly trace value changes in programs that use scalar assignment.
-* Read tabular data from a file into a program.
-* Select individual values and subsections from data.
-* Perform operations on arrays of data.
-* How to format data in spreadsheets for effective data use
-* Carrying out basic quality control and quality assurance
+* Introduction to Data Carpentry
+* Data mining and Knowledge Discovery Processes
+* Functions particularly relevant to knowledge discovery and analysis in manufacturing (KDAM)
+* Data carpentry process
+* Data tranformation, data cleaning, enriching, validating and storing
+
 
 <p>&nbsp;</p>
 
@@ -53,6 +53,12 @@ Cios, K., 2010. Data mining. New York: Springer.
 * Trapp, R., 2014. Why Businesses Need To Shift Data Analysis From The Center To The Front Line. [online](https://www.forbes.com/sites/rogertrapp/2014/09/29/why-businesses-need-to-shift-data-analysis-from-the-centre-to-the-front-line/?sh=6c533314773c)
 * The Python Standard Library [online](https://docs.python.org/3/library/index.html) 
 * How to install git [link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* Operators [link](https://www.geeksforgeeks.org/python-operators/?ref=lbp)
+* Data Types (strings, lists, tuples, dictionaries, arrays) [link](https://www.geeksforgeeks.org/python-set-3-strings-lists-tuples-iterations/?ref=lbp)
+* Control Flow (loops)[link](https://www.geeksforgeeks.org/python-if-else/?ref=lbp)
+* Functions [link](https://www.geeksforgeeks.org/python-functions/?ref=lbp)
+* NumPy [link](https://www.geeksforgeeks.org/numpy-tutorial/?ref=lbp)
+* Pandas [link](https://www.geeksforgeeks.org/pandas-tutorial/?ref=lbp)
 
 
 <p>&nbsp;</p>
@@ -64,24 +70,28 @@ Cios, K., 2010. Data mining. New York: Springer.
 
 <a name = "workshop"></a>
 
-### Workshop 1  (60min)
+### Workshop 1  (90min)
+
+
+* Revision of lists, tuples, dictionaries, functions and loops
+* Understand data types and string methods
+* What kinds of data do programs store?
+* How can I convert one type to another?
+* How can I store multiple values?
+* Pandas and Numpy: when and how to use them
+* Indexing and slicing
+* Investigating data
+
+
+### Workshop 2  (30min)
 
 * Introduction to git.
-* 
+* Pushing and pulling from a branch
 
 
 <p>&nbsp;</p>
 
-### Workshop 2  (60min)
 
-* Introduction to the Jupyter Norebook environment.
-* Explain what a library is and what libraries are used for.
-* Basic data types in Python.
-* Create a new variable in Python.
-* Using functions.
-* Loading data.
-* Import a Python library and use the functions it contains.
-* Read tabular data from a file into a program.
 
 
 <p>&nbsp;</p>
@@ -119,6 +129,10 @@ Engineering, Nov-Dec 2006.
 
 * Greg Wilson: "Software Carpentry: Lessons Learned". arXiv:1307.5448,
 July 2013.
+
+* Tania Allard, Maxim Belkin, "Data Analysis and Visualization in Python for Ecologists"
+
+* Benjamin Bach, "Intro to Python". Data Science for Design, 2021
 
 ***
 

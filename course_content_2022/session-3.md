@@ -47,6 +47,7 @@ Sas.com. n.d. What is data mining?. [online](https://www.sas.com/en_sg/insights/
 
 #### Links
 
+* [Pandas videos](https://github.com/justmarkham/pandas-videos)
 * [Data Wrangling in Python](https://www.geeksforgeeks.org/data-wrangling-in-python/)
 * [Pandas: Solve short hands-on challenges to perfect your data manipulation skills](https://www.kaggle.com/learn/pandas)
 * [How To Group, Concatenate & Merge Data in Pandas](https://www.bmc.com/blogs/pandas-group-merge-concatenate-join/)

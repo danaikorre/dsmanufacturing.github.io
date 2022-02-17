@@ -33,7 +33,7 @@ back to [course content](index#course_organisation)
 #### Reading list and resources 
 
 
-* * Stefanski, R., Sinha, V. and Poddar, A., 2022. Data Wrangling in 6 Steps: An Analyst's Guide For Creating Useful Data. [online]( https://hevodata.com/learn/data-wrangling/#s2)
+* Stefanski, R., Sinha, V. and Poddar, A., 2022. Data Wrangling in 6 Steps: An Analyst's Guide For Creating Useful Data. [online]( https://hevodata.com/learn/data-wrangling/#s2)
 * Grieves, Michael. (2005). Product Lifecycle Management: Driving the Next Generation of Lean Thinking.
 Sas.com. n.d. What is data mining?. [online](https://www.sas.com/en_sg/insights/analytics/data-mining.html>.)
 * [McKinney, W., 2017. Python for data analysis. 2nd ed. O'Reilly.](https://discovered.ed.ac.uk/discovery/fulldisplay?docid=alma9924057838602466&context=L&vid=44UOE_INST:44UOE_VU2&lang=en&search_scope=UoE&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Data%20Wrangling%20with%20Python&offset=0)

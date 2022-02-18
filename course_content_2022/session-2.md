@@ -25,7 +25,7 @@ back to [course content](index#course_organisation)
 * [Introduction to Data Science for Manufacturing](files/Data_Science_in_Manufacturing-Week_2.pdf)  
 
 #### Video lectures
-* [DSM Lecture 2](https://example.com/)
+* [DSM Lecture 2](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_2/Week_2_Lecture.mp4?csf=1&web=1&e=XsDpCO)
 
 <br />
 
@@ -70,7 +70,8 @@ Cios, K., 2010. Data mining. New York: Springer.
 
 <a name = "workshop"></a>
 
-### Workshop 1  (90min)
+
+### Workshop 1  (120min)
 
 
 * Revision of lists, tuples, dictionaries, functions and loops
@@ -83,14 +84,11 @@ Cios, K., 2010. Data mining. New York: Springer.
 * Investigating data
 
 
-### Workshop 2  (30min)
+### Slides
+* [Data carpentry introduction](/course_content_2022/files/Workshop - Week 2.pdf)  
 
-* Introduction to git.
-* Pushing and pulling from a branch
-
-
-<p>&nbsp;</p>
-
+#### Video lectures
+* [DSM Workshop 2](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_2/Week_2_Workshop.mp4?csf=1&web=1&e=wxBlaI)
 
 
 

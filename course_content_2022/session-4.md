@@ -1,7 +1,7 @@
 back to [course content](index#course_organisation)
 
 
-# Week #, Session #: #############
+# Week 4, Session 1: Data visualization and Exploratory Data Analysis
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>

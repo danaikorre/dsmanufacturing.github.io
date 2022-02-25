@@ -108,6 +108,8 @@ back to [course content](index#course_organisation)
 
 2. [EDA and data cleaning practical workout](https://towardsdatascience.com/exploratory-data-analysis-and-data-cleaning-practical-workout-2a20442b42fb)
 
+3. [Python for Data Visualization](https://www.linkedin.com/learning/python-for-data-visualization/effectively-present-data-with-python?autoAdvance=true&autoSkip=false&autoplay=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A5b61ea25498e580437e51859&resume=true&u=50251009)
+
 
 
 <p>&nbsp;</p>

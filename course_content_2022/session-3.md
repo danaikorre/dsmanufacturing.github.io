@@ -54,6 +54,7 @@ Sas.com. n.d. What is data mining?. [online](https://www.sas.com/en_sg/insights/
 * [Z-Score and How It’s Used to Determine an Outlier](https://medium.com/clarusway/z-score-and-how-its-used-to-determine-an-outlier-642110f3b482)
 * [Z score for Outlier Detection – Python](https://www.geeksforgeeks.org/z-score-for-outlier-detection-python/)
 * [Git Essential Training: The Basics](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=50251009)
+* [Guide to numpy types](https://betterprogramming.pub/a-comprehensive-guide-to-numpy-data-types-8f62cb57ea83)
 
 #### Cheatsheets
 

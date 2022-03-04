@@ -1,14 +1,17 @@
 back to [course content](index#course_organisation)
 
 
-# Week #, Session #: #############
+# Week #, Session 8: EBoM / MBoM / Geometry / Time Series
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>
 
 #### Session topics
 
-* 
+* EBoM
+* MBoM
+* Geometry
+* Time Series
 
 <p>&nbsp;</p>
 
@@ -17,10 +20,10 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Introduction to Data Science for Manufacturing](files/.pdf)  
+* [EBoM / MBoM / Geometry / Time Series](/course_content_2022/files/Data_Science_in_Manufacturing-Week_8.pdf)  
 
 #### Video lectures
-* [DSM Lecture 1](https://drive.google.com/)
+* [DSM Lecture 8](https://drive.google.com/)
 
 <br />
 
@@ -55,10 +58,15 @@ back to [course content](index#course_organisation)
 # Workshop
 
 <a name = "workshop"></a>
-### Workshop #  (120min)
+### Workshop 8  (120min)
 
-* 
+* Jupyter Notebooks + Machine Learning (vision based exercise)
 
+### Slides
+* [Jupyter Notebooks + Machine Learning](/course_content_2022/files/Workshop-Week_8.pdf)  
+
+#### Video lectures
+* [DSM Workshop 8-]()
 
 <p>&nbsp;</p>
 

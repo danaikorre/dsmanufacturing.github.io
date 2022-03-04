@@ -1,14 +1,14 @@
 back to [course content](index#course_organisation)
 
 
-# Week #, Session #: #############
+# Week #, Session 7: Asset Management / IoT
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>
 
 #### Session topics
 
-* 
+* Asset Management / IoT
 
 <p>&nbsp;</p>
 
@@ -17,10 +17,10 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Introduction to Data Science for Manufacturing](files/.pdf)  
+* [Asset Management / IoT](/course_content_2022/files/Data_Science_in_Manufacturing-Week_7.pdf)  
 
 #### Video lectures
-* [DSM Lecture 1](https://drive.google.com/)
+* [DSM Lecture 7](https://drive.google.com/)
 
 <br />
 
@@ -55,10 +55,15 @@ back to [course content](index#course_organisation)
 # Workshop
 
 <a name = "workshop"></a>
-### Workshop #  (120min)
+### Workshop 7  (120min)
 
-* 
+* Jupyter Notebooks + Machine Learning (vision based exercise)
 
+### Slides
+* [Jupyter Notebooks + Machine Learning](/course_content_2022/files/Workshop-Week_7.pdf)  
+
+#### Video lectures
+* [DSM Workshop 7-]()
 
 <p>&nbsp;</p>
 

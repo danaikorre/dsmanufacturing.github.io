@@ -1,14 +1,14 @@
 back to [course content](index#course_organisation)
 
 
-# Week #, Session #: #############
+# Week #, Session 6: Machine Learning and Artificial Intelligence (ML/AI)
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>
 
 #### Session topics
 
-* 
+* Machine Learning and Artificial Intelligence (ML/AI)
 
 <p>&nbsp;</p>
 
@@ -17,10 +17,10 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Introduction to Data Science for Manufacturing](files/.pdf)  
+* [Machine Learning and Artificial Intelligence (ML/AI)](/course_content_2022/files/Data_Science_in_Manufacturing-Week_6.pdf)  
 
 #### Video lectures
-* [DSM Lecture 1](https://drive.google.com/)
+* [DSM Lecture 6](https://drive.google.com/)
 
 <br />
 
@@ -55,10 +55,15 @@ back to [course content](index#course_organisation)
 # Workshop
 
 <a name = "workshop"></a>
-### Workshop #  (120min)
+### Workshop 6  (120min)
 
-* 
+* Jupyter Notebooks + Machine Learning (vision based exercise)
 
+### Slides
+* [Jupyter Notebooks + Machine Learning](/course_content_2022/files/Workshop-Week_6.pdf)  
+
+#### Video lectures
+* [DSM Workshop 6-]()
 
 <p>&nbsp;</p>
 

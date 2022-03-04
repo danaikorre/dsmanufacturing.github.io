@@ -20,7 +20,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [PLM/ERP/MES/Relational Databases](Data_Science_in_Manufacturing-Week_5/.pdf)  
+* [PLM/ERP/MES/Relational Databases](Data_Science_in_Manufacturing-Week_5.pdf)  
 
 #### Video lectures
 * [DSM Lecture 5](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_5/Week_5_Lecture.mp4?csf=1&web=1&e=OZ5TTh)
@@ -42,7 +42,7 @@ Almada-Lobo, F., 2016. The Industry 4.0 revolution and the future of Manufacturi
 
 #### Links
 
-* * www.processproerp.com. 2021. Industry- Process vs Discrete Manufacturing. [online](https://www.processproerp.com/discrete-vs-process-manufacturing)
+* www.processproerp.com. 2021. Industry- Process vs Discrete Manufacturing. [online](https://www.processproerp.com/discrete-vs-process-manufacturing)
 * En.wikiversity.org. 2021. Continuous versus Discrete Manufacturing in ERP - Wikiversity. [online](https://en.wikiversity.org/wiki/Continuous_versus_Discrete_Manufacturing_in_ERP)
 
 
@@ -52,7 +52,7 @@ Almada-Lobo, F., 2016. The Industry 4.0 revolution and the future of Manufacturi
 
 #### Video resources
 
-1. 
+1. [Why Comnine Pands and SQL](https://www.youtube.com/watch?v=OV6Mh2Jl9zQ)
 
 #### Tutorials
 

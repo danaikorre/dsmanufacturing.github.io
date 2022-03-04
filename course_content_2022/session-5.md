@@ -20,7 +20,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [PLM/ERP/MES/Relational Databases](Data_Science_in_Manufacturing-Week_5.pdf)  
+* [PLM/ERP/MES/Relational Databases](/Data_Science_in_Manufacturing-Week_5.pdf)  
 
 #### Video lectures
 * [DSM Lecture 5](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_5/Week_5_Lecture.mp4?csf=1&web=1&e=OZ5TTh)
@@ -74,7 +74,7 @@ Almada-Lobo, F., 2016. The Industry 4.0 revolution and the future of Manufacturi
 * Relational Databases and SQL with pandas
 
 ### Slides
-* [Relational Databases and SQL with pandas](Workshop-Week_5/.pdf)  
+* [Relational Databases and SQL with pandas](/Workshop-Week_5.pdf)  
 
 #### Video lectures
 * [DSM Workshop 5-Relational Databases and SQL with pandas](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_5/Week_5_Workshop.mp4?csf=1&web=1&e=sMR7MH)

@@ -52,7 +52,7 @@ Almada-Lobo, F., 2016. The Industry 4.0 revolution and the future of Manufacturi
 
 #### Video resources
 
-1. [Why Comnine Pands and SQL](https://www.youtube.com/watch?v=OV6Mh2Jl9zQ)
+1. [Why Combine Pands and SQL](https://www.youtube.com/watch?v=OV6Mh2Jl9zQ)
 
 #### Tutorials
 

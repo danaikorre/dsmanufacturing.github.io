@@ -57,7 +57,13 @@ back to [course content](index#course_organisation)
 <a name = "workshop"></a>
 ### Workshop #  (120min)
 
-* 
+* Title
+
+### Slides
+* [Title](/course_content_2022/files/.pdf)  
+
+#### Video lectures
+* [DSM Workshop]()
 
 
 <p>&nbsp;</p>

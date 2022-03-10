@@ -1,17 +1,17 @@
 back to [course content](index#course_organisation)
 
 
-# Week #, Session 9: Data for Industry 4 / New Business Models/Digital Twin / Thread
+# Week 9, Session : EBoM / MBoM / Geometry / Time Series
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>
 
 #### Session topics
 
-* Data for Industry 4 
-* New Business Models
-* Digital Twin 
-* Thread
+* EBoM
+* MBoM
+* Geometry
+* Time Series
 
 <p>&nbsp;</p>
 
@@ -20,7 +20,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Data for Industry 4 / New Business Models/Digital Twin / Thread](/course_content_2022/files/Data_Science_in_Manufacturing-Week_9.pdf)  
+* [EBoM / MBoM / Geometry / Time Series](/course_content_2022/files/Data_Science_in_Manufacturing-Week_9.pdf)  
 
 #### Video lectures
 * [DSM Lecture 9](https://drive.google.com/)
@@ -60,10 +60,10 @@ back to [course content](index#course_organisation)
 <a name = "workshop"></a>
 ### Workshop 9  (120min)
 
-* Presenting Information
+* Jupyter Notebooks + Machine Learning (vision based exercise)
 
 ### Slides
-* [Presenting Information](/course_content_2022/files/Workshop-Week_8.pdf)  
+* [Jupyter Notebooks + Machine Learning](/course_content_2022/files/Workshop-Week_9.pdf)  
 
 #### Video lectures
 * [DSM Workshop 9-]()
@@ -86,4 +86,3 @@ The workshops contain material from:
 back to [course content](index#course_organisation)
 
  back to [index](index.md)
-

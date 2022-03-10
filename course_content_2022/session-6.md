@@ -1,14 +1,16 @@
 back to [course content](index#course_organisation)
 
 
-# Week #, Session 6: Machine Learning and Artificial Intelligence (ML/AI)
+# Week 6, Session 1: Project feedback and guest lecture on 
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>
 
 #### Session topics
 
-* Machine Learning and Artificial Intelligence (ML/AI)
+* This week is featuring no content but gives you time to work on your project. We will take a breather from taught lecture material and focus on project 1-on-1s, where we will go through projects with participants. These sessions will allow participants to discuss their ideas and work to this point with one of the organisers, and to receive interim feedback.
+* We will also host a guest lecture on AI/ML in the workplace. Individual, social and cultural factors across the lifecycle by Dr Kendra Briken,Senior Lecturer and Director of Post–Graduate Research on the Department of Work, Employment and Organisation
+at Strathclyde Business School, University of Strathclyde 
 
 <p>&nbsp;</p>
 
@@ -17,10 +19,10 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Machine Learning and Artificial Intelligence (ML/AI)](/course_content_2022/files/Data_Science_in_Manufacturing-Week_6.pdf)  
+* [Guest lecture](/course_content_2022/files/Data_Science_in_Manufacturing-Week_6.pdf)  
 
 #### Video lectures
-* [DSM Lecture 6](https://drive.google.com/)
+* [DSM Lecture](https://drive.google.com/)
 
 <br />
 
@@ -30,22 +32,14 @@ back to [course content](index#course_organisation)
 #### Reading list and resources 
 
 
-* 
-
 
 #### Links
 
-* 
 
-#### Cheatsheets
-
-* 
 
 #### Video resources
 
-1. 
 
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -54,31 +48,12 @@ back to [course content](index#course_organisation)
 
 # Workshop
 
-<a name = "workshop"></a>
-### Workshop 6  (120min)
-
-* Jupyter Notebooks + Machine Learning (vision based exercise)
-
-### Slides
-* [Jupyter Notebooks + Machine Learning](/course_content_2022/files/Workshop-Week_6.pdf)  
-
-#### Video lectures
-* [DSM Workshop 6-]()
-
-<p>&nbsp;</p>
 
 
 back to [index](index#course_organisation)
 
 ***
   
-
-#### Acknowledgements:
-
-The workshops contain material from:
-* 
-
-***
 
 back to [course content](index#course_organisation)
 

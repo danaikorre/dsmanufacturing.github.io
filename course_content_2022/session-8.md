@@ -1,17 +1,14 @@
 back to [course content](index#course_organisation)
 
 
-# Week #, Session 8: EBoM / MBoM / Geometry / Time Series
+# Week 8, Session 1: Asset Management / IoT
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>
 
 #### Session topics
 
-* EBoM
-* MBoM
-* Geometry
-* Time Series
+* Asset Management / IoT
 
 <p>&nbsp;</p>
 
@@ -20,7 +17,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [EBoM / MBoM / Geometry / Time Series](/course_content_2022/files/Data_Science_in_Manufacturing-Week_8.pdf)  
+* [Asset Management / IoT](/course_content_2022/files/Data_Science_in_Manufacturing-Week_8.pdf)  
 
 #### Video lectures
 * [DSM Lecture 8](https://drive.google.com/)
@@ -86,4 +83,3 @@ The workshops contain material from:
 back to [course content](index#course_organisation)
 
  back to [index](index.md)
-

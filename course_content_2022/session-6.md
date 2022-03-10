@@ -1,7 +1,7 @@
 back to [course content](index#course_organisation)
 
 
-# Week 6, Session 1: Project feedback and guest lecture on 
+# Week 6, Session 1: Project feedback and guest lecture by Dr Kendra Briken 
 
 [Lecture](#lecture) | [Reading](#reading) | [Workshop](#workshop) | 
 <p><br /></p>

@@ -81,12 +81,13 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 | 2 | Feb 11  | <a href="session-2#lecture">Data Carpentry</a> |  <a href="session-2#workshop">Git and data carpentry introduction</a> |  A.Sherlock, D. Korre  |   
 | 3 | Feb 18  | <a href="session-3#lecture">Product Lifecycle / Material Flow</a>  |  <a href="session-3#workshop">Data carpentry and data cleaning</a> |  A.Sherlock, D. Korre  |   
 | 4 | Feb 25  | <a href="session-4#lecture">Data visualisation and Exploratory Data Analysis</a>  | <a href="session-4#workshop">Data Visualisation and Exploratory Data Analysis</a>  |  A.Sherlock, D. Korre  |   
-| 5 | Mar 04  | <a href="session-5#lecture">Current Manufacturing Software / PLM / ERP /MES</a>  |  <a href="session-5#workshop">Data Representation / Relational databases</a> |  A.Sherlock, D. Korre  |   
-| 6 | Mar 11  | <a href="session-6#lecture">Machine Learning and Artificial Intelligence (ML/AI)</a>  | <a href="session-6#workshop">Jupyter Notebooks + ML (vision based exercise)</a>  | A.Sherlock, D. Korre  |   
-| 7 | Mar 18  | <a href="session-7#lecture">Asset Management / IoT</a>  | <a href="session-7#workshop">ML and Visual Exercise (Time series)</a>  | A.Sherlock, D. Korre   |   
-| 8 | Mar 25  | <a href="session-8#lecture">EBoM / MBoM / Geometry / Time Series</a> | <a href="session-8#workshop">ML and Visual Exercise (Data mining factory data)</a>  |  A.Sherlock, D. Korre  | 
-| 9 | Apr 01  | <a href="session-9#lecture">Data for Industry 4 / New Business Models/Digital Twin / Thread</a> |  <a href="session-9#workshop">Presenting Information</a>  | A.Sherlock, D. Korre   |   
-| 10 | Apr 14  |   | <a href="assessment">Assessment</a> |  A.Sherlock, D. Korre  |   
+| 5 | Mar 04  | <a href="session-5#lecture">Current Manufacturing Software / PLM / ERP /MES</a>  |  <a href="session-5#workshop">Data Representation / Relational databases</a> |  A.Sherlock, D. Korre  |
+| 6 | Mar 11  | <a href="session-6#lecture">Guest Lecture</a>  | <a href="session-6#workshop">Project feedback and resources</a>  | A.Sherlock, D. Korre  |    
+| 7 | Mar 11  | <a href="session-7#lecture">Machine Learning and Artificial Intelligence (ML/AI)</a>  | <a href="session-7#workshop">Jupyter Notebooks + ML (vision based exercise)</a>  | A.Sherlock, D. Korre  |   
+| 8 | Mar 18  | <a href="session-8#lecture">Asset Management / IoT</a>  | <a href="session-8#workshop">ML and Visual Exercise (Time series)</a>  | A.Sherlock, D. Korre   |   
+| 9 | Mar 25  | <a href="session-9#lecture">EBoM / MBoM / Geometry / Time Series</a> | <a href="session-9#workshop">ML and Visual Exercise (Data mining factory data)</a>  |  A.Sherlock, D. Korre  | 
+| 10 | Apr 01  | <a href="session-10#lecture">Data for Industry 4 / New Business Models/Digital Twin / Thread</a> |  <a href="session-10#workshop">Presenting Information</a>  | A.Sherlock, D. Korre   |   
+|  | Apr 14  |   | <a href="assessment">Assessment</a> |  A.Sherlock, D. Korre  |   
 
 <p>&nbsp;</p>
 

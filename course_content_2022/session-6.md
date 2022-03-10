@@ -30,7 +30,7 @@ back to [course content](index#course_organisation)
 
 #### Speaker bios 
 
-https://www.strath.ac.uk/staff/brikenkendradr/
+[Personal page](https://www.strath.ac.uk/staff/brikenkendradr/)
 
 Dr Kendra Briken is a Senior lecturer at Strathclyde Business School. She is trained in industrial sociology and has been working in the field of technology and organisation for over 25 years. Since September 2021, she is Associate Fellow for the Digital Futures at Work Research Centre (Sussex & Leeds University). She has broad empirical experience in the field of digital technologies, and the impacts on organizational change on workplaces.
 
@@ -38,7 +38,7 @@ Dr Kendra Briken is a Senior lecturer at Strathclyde Business School. She is tra
 
 Dora Scholarios
 
-https://www.strath.ac.uk/staff/scholariosdoraprof/
+[Personal page](https://www.strath.ac.uk/staff/scholariosdoraprof/)
 
 Prof Dora Scholarios is a Professor of Work Psychology with core expertise in organisational behaviour and HRM and a track record of research in the areas of employability, skills and work design involving software engineers and information and communication technology sectors. Her research also focusses on the impact of HRM strategies, and of new technologies, on employee outcomes (e.g. attitudes), crucial for understanding AI ethics and workplace cultures.   
 

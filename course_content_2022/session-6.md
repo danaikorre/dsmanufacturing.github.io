@@ -52,6 +52,11 @@ Prof Dora Scholarios is a Professor of Work Psychology with core expertise in or
 
 # Workshop
 
+<a name = "workshop"></a>
+### Workshop 6  (60min)
+
+* PCA and cluster analysis
+
 [Week 6 Workshop](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_6/Week_6_Workshop.mp4?csf=1&web=1&e=UcGp16)
 
 back to [index](index#course_organisation)

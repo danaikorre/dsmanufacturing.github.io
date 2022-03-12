@@ -18,10 +18,10 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Guest lecture](/course_content_2022/files/Data_Science_in_Manufacturing-Week_6.pdf)  
+* [Guest lecture](/course_content_2022/files/Data Science Lecture input I4-thical 20220311.pptx)  
 
 #### Video lectures
-* [DSM Lecture](https://drive.google.com/)
+* [DSM Guest Lecture](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_6/Week_6_Guest_Lecture.mp4?csf=1&web=1&e=sYnHaR)
 
 <br />
 
@@ -52,7 +52,7 @@ Prof Dora Scholarios is a Professor of Work Psychology with core expertise in or
 
 # Workshop
 
-
+[Week 6 Workshop](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_6/Week_6_Workshop.mp4?csf=1&web=1&e=UcGp16)
 
 back to [index](index#course_organisation)
 

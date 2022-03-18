@@ -20,7 +20,7 @@ back to [course content](index#course_organisation)
 * [Machine Learning and Artificial Intelligence (ML/AI)](/course_content_2022/files/Data_Science_in_Manufacturing-Week_7.pdf)  
 
 #### Video lectures
-* [DSM Lecture 7](https://drive.google.com/)
+* [DSM Lecture 7](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_7/Week_7_Lecture.mp4?csf=1&web=1&e=GmADB2)
 
 <br />
 
@@ -71,13 +71,10 @@ back to [course content](index#course_organisation)
 
 ### Workshop 7  (120min)
 
-* Jupyter Notebooks and Machine Learning Introduction
-
-### Slides
-* [Jupyter Notebooks + Machine Learning](/course_content_2022/files/Workshop-Week_7.pdf)  
+* Machine Learning Introduction with Python
 
 #### Video lectures
-* [DSM Workshop 7-]()
+* [DSM Workshop 7-](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_7/Week_7_Workshop.mp4?csf=1&web=1&e=bz67sp)
 
 <p>&nbsp;</p>
 

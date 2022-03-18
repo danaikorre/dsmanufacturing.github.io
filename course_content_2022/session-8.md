@@ -30,7 +30,13 @@ back to [course content](index#course_organisation)
 #### Reading list and resources 
 
 
-* 
+* Pattern Recognition and Machine Learning by Bishop, Springer, 2006.  (On reserve in Penn library)
+Machine Learning: A Probabilistic Perspective by Kevin P. Murphy, MIT Press, 2012.  (On reserve in Penn library)
+The Elements of Statistical Learning, 2nd edition by Hastie, Tibshirani and Friedman, Springer-Verlag, 2008.  (Available online)
+Bayesian Reasoning and Machine Learning by David Barber, Cambridge University Press, 2012. (Available online)
+Convex Optimization by Stephen Boyd and Lieven Vandenberghe, Cambridge University Press, 2004. (Available online)
+Information Theory, Inference, and Learning Algorithms by David Mackay, Cambridge University Press, 2003. (Available online)
+Deep Learning by Yoshua Bengio, Ian Goodfellow, and Aaron Courville.  (Available online)
 
 
 #### Links

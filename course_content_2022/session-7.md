@@ -17,7 +17,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Machine Learning and Artificial Intelligence (ML/AI)](/course_content_2022/files/Data_Science_in_Manufacturing-Week_7.pdf)  
+* [Machine Learning and Artificial Intelligence (ML/AI)](/course_content_2022/files/Data_Science_in_Manufacturing-Week_7JC.pdf.pdf)  
 
 #### Video lectures
 * [DSM Lecture 7](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_7/Week_7_Lecture.mp4?csf=1&web=1&e=GmADB2)
@@ -74,7 +74,7 @@ back to [course content](index#course_organisation)
 * Machine Learning Introduction with Python
 
 #### Video lectures
-* [DSM Workshop 7-](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_7/Week_7_Workshop.mp4?csf=1&web=1&e=bz67sp)
+* [DSM Workshop 7](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_7/Week_7_Workshop.mp4?csf=1&web=1&e=bz67sp)
 
 <p>&nbsp;</p>
 
@@ -91,6 +91,7 @@ The workshops contain material from:
 * Split Your Dataset With scikit-learn's train_test_split() by Mirko Stojiljković 
 * How to visualize a single Decision Tree from the Random Forest in Scikit-Learn (Python)? by Piotr Płoński
 * Clustering Based Unsupervised Learning by Syed Sadat Nazrul
+* 
 
 ***
 

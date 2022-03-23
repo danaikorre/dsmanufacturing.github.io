@@ -17,7 +17,7 @@ back to [course content](index#course_organisation)
 # Lecture 
 
 ### Slides
-* [Machine Learning and Artificial Intelligence (ML/AI)](/course_content_2022/files/Data_Science_in_Manufacturing-Week_7JC.pdf.pdf)  
+* [Machine Learning and Artificial Intelligence (ML/AI)](/course_content_2022/files/Data_Science_in_Manufacturing-Week_7JC.pdf)  
 
 #### Video lectures
 * [DSM Lecture 7](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_7/Week_7_Lecture.mp4?csf=1&web=1&e=GmADB2)

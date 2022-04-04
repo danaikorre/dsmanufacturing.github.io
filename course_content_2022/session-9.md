@@ -23,14 +23,14 @@ back to [course content](index#course_organisation)
 * [EBoM / MBoM / Geometry / Time Series](/course_content_2022/files/Data_Science_in_Manufacturing-Week_9.pdf)  
 
 #### Video lectures
-* [DSM Lecture 9](https://drive.google.com/)
+* [DSM Lecture 9](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_9/Week_9_Lecture.mp4?csf=1&web=1&e=ooN3A9)
 
 <br />
 
   
 <a name = "reading"></a>
 
-#### Reading list and resources 
+<!-- #### Reading list and resources 
 
 
 * 
@@ -46,9 +46,9 @@ back to [course content](index#course_organisation)
 
 #### Video resources
 
-1. 
+1. -->
 
-<p>&nbsp;</p>
+
 
 <p>&nbsp;</p>
 
@@ -60,13 +60,7 @@ back to [course content](index#course_organisation)
 <a name = "workshop"></a>
 ### Workshop 9  (120min)
 
-* Jupyter Notebooks + Machine Learning (vision based exercise)
-
-### Slides
-* [Jupyter Notebooks + Machine Learning](/course_content_2022/files/Workshop-Week_9.pdf)  
-
-#### Video lectures
-* [DSM Workshop 9-]()
+* Jupyter Notebooks and Machine Learning clinics
 
 <p>&nbsp;</p>
 

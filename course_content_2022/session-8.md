@@ -79,8 +79,8 @@ World Economic Forum, 2021. [online] Www3.weforum.org. Available at: https://www
 * Jupyter Notebooks and Machine Learning 
  
 
-#### Video lectures
-* [DSM Workshop 8-Jupyter Notebooks and Machine Learning](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_8/Week_8_Lecture.mp4?csf=1&web=1&e=RMNkva)
+#### Video workshop
+* [DSM Workshop 8-Jupyter Notebooks and Machine Learning]https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Week_8/Week_8_Workshop.mp4?csf=1&web=1&e=vTs5V0)
 
 <p>&nbsp;</p>
 

@@ -86,7 +86,7 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 | 7 | Mar 18  | <a href="session-7#lecture">Machine Learning and Artificial Intelligence (ML/AI)</a>  | <a href="session-7#workshop">Machine Learning & prediction analytics (Supervised Learning) </a>  | A.Sherlock, D. Korre  |   
 | 8 | Mar 25  | <a href="session-8#lecture">Asset Management / IoT</a>  | <a href="session-8#workshop">Machine Learning & prediction analytics (Unupervised Learning and crossvalidation)</a>  | A.Sherlock, D. Korre   |   
 | 9 | Apr 01  | <a href="session-9#lecture">EBoM / MBoM / Geometry / Time Series</a> | <a href="session-9#workshop">Machine Learning and Visual Exercise (Data mining factory data)</a>  |  A.Sherlock, D. Korre  | 
-|  |   | <a href="session-10#lecture">Guest Lecture: Data driven Manufacturing (DDM)</a> |  <a href="session-10#workshop">Clinics</a>  | A.Sherlock, D. Korre   |   
+|  |   | <a href="guest">Guest Lecture: Data driven Manufacturing (DDM)</a> |  Clinics  | A.Sherlock, D. Korre   |   
 |  | Apr 14  |   | <a href="assessment">Assessment</a> |  A.Sherlock, D. Korre  |   
 
  <a href="guest">## Guest Lectures</a> 

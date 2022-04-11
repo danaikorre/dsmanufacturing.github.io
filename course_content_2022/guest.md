@@ -80,7 +80,6 @@ Prof Dora Scholarios is a Professor of Work Psychology with core expertise in or
 
 Andrew Hamilton is the Data Analytics Theme Lead at NMIS, working for the past 2 years on developing applied analytics solutions for manufacturing partners, alongside his team of data scientists and engineers. Prior to NMIS, Andrew was a research fellow in the Dept. Electronic & Electrical Engineering at the University of Strathclyde where he worked on industrial research and data analytics projects across the aerospace, pharma and oil & gas sectors. He obtained his PhD developing condition monitoring systems for offshore wind turbine gearboxes.
 
-# Lecture 
 
 ### Slides
 * [Data driven Manufacturing (DDM) at NMIS](/course_content_2022/files/2022-04-07--nmis-data-driven-DS-MANUFACTURING-shared)  

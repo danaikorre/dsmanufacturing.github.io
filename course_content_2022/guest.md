@@ -7,6 +7,8 @@ back to [course content](index#course_organisation)
 
 <p><br /></p>
 
+# Guest Lecture 1
+
 ### Guest speaker: Dr. James A. Bednar
 
 #### Session topics
@@ -21,7 +23,7 @@ Dr. James A. Bednar (Manager, Technical Services at Anaconda, Inc.) is the leade
 
 ***
 
-# Lecture 
+# Guest Lecture 2
 
 #### Video lectures
 * [Guest Lecture 1](https://uoe.sharepoint.com/:v:/r/sites/DS4M2022227/Shared%20Documents/General/Recordings/Guest%20Lectures/Guest%20Lecture%20with%20Dr.%20James%20A.%20Bednar-20220317_190451-Meeting%20Recording.mp4?csf=1&web=1&e=Ereu66)
@@ -54,7 +56,7 @@ Prof Dora Scholarios is a Professor of Work Psychology with core expertise in or
 
 ***
 
-# Lecture 
+# Guest Lecture 3
 
 ### Slides
 * [Can AI ethics be embedded into innovation lifecycle?](/course_content_2022/files/Data%20Science%20Lecture%20input%20I4-thical%2020220311.pptx)  

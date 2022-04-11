@@ -89,7 +89,7 @@ Please read the [guidelines](tutorials.md) before attending your first interacti
 |  |   | <a href="guest">Guest Lecture: Data driven Manufacturing (DDM)</a> |  Clinics  | A.Sherlock, D. Korre   |   
 |  | Apr 14  |   | <a href="assessment">Assessment</a> |  A.Sherlock, D. Korre  |   
 
- <a href="guest">## Guest Lectures</a> 
+ ## [Guest Lectures](guest.md)
 
 <p>&nbsp;</p>
 

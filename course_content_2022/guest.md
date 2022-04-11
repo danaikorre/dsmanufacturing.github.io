@@ -44,7 +44,7 @@ https://www.strath.ac.uk/staff/brikenkendradr/
 
 Dr Kendra Briken is a Senior lecturer at Strathclyde Business School. She is trained in industrial sociology and has been working in the field of technology and organisation for over 25 years. Since September 2021, she is Associate Fellow for the Digital Futures at Work Research Centre (Sussex & Leeds University). She has broad empirical experience in the field of digital technologies, and the impacts on organizational change on workplaces.
 
-<br></br>
+<br>
 
 Dora Scholarios
 

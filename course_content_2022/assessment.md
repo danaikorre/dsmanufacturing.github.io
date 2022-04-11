@@ -47,9 +47,9 @@ While we recommend completing quizzes on a weekly basis, you may choose to attem
    * please number figures referenced within text and further annotate sketches and any other diagrams as required
  <br />
   
- * You may submit reflection exercises using a non-traditional, visualisation-based method (rather than text-based), provided it communicates the information required effectively. -->
-
- <!-- #### Submission deadlines, grading &amp; feedback
+ * You may submit reflection exercises using a non-traditional, visualisation-based method (rather than text-based), provided it communicates the information required effectively. 
+ 
+ #### Submission deadlines, grading &amp; feedback
  * Assignments feed into completing your final project. Individual feedback will be structured to allow you to update the individual components of your final report. **You must submit assignments by the due date to receive individual feedback**. 
  * No penalty will be applied if you submit assignments after their due date. However, priority for providing feedback moves to the next assignment after each cutoff; unless you have obtained special dispensation you may not receive individual feedback in time to apply this to subsequent assignments and your final project. 
 <br />
@@ -63,9 +63,9 @@ While we recommend completing quizzes on a weekly basis, you may choose to attem
 
 The final submission will include findings and lessons learnt from exercises completed as the course progresses.  
 * [Requirements &amp; guidelines for the project report](final_project_report.md)
-* The submission link on Learn __will be available from 12:00 on May 15th__. You have __unlimited attempts to submit__ your report, up until the final deadline. The __last version submitted will be that marked__. 
+* <!-- The submission link on Learn __will be available from 12:00 on May 15th__. --> You have __unlimited attempts to submit__ your report, up until the final deadline. The __last version submitted will be that marked__. 
 
-**Your project must be submitted by 23:59 on Apr 14th.**
+**Your project must be submitted by 16:00 on Apr 14th.**
 <p>&nbsp;</p>
 
 back to main [schedule](index.md)  

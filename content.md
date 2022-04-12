@@ -59,7 +59,7 @@ Introduction and Foundations: In the first lecture will explain how the course w
 * Introduced to data carpentry
 
 The workshop we will discuss and practice with **data cleansing and data carpentry**. -->
-Data carpentry: In this lecture you will be introduced to the concepts and tools of data carpentry. The workshop we will discuss and practice with data cleansing and data carpentry.
+Data carpentry: In this lecture you will be introduced to the concepts and tools of data carpentry. In the workshop we will discuss and practice with data cleansing and data carpentry.
 
 
 ### Week 3: Product Lifecycle / Material flow  
@@ -71,53 +71,56 @@ Data carpentry: In this lecture you will be introduced to the concepts and tools
 * Review applications on industrial cases
 
 The workshop we will discuss and practice with **Python on Jupyter notebooks and Github**. -->
-Product Lifecycle / Material flow: This lecture will discuss data associated with product lifecycle and material flows in manufacturing plants. The need for manufacturing engineers to develop coding skills will be demonstrated using industrial case studies. The workshop we will discuss and practice with Python on Jupyter notebooks and Github.
+Product Lifecycle / Material flow: This lecture will discuss data associated with product lifecycle and material flows in manufacturing plants. The need for manufacturing engineers to develop coding skills will be demonstrated using industrial case studies. In the workshop we will discuss and practice with Python on Jupyter notebooks and Github.
 
 
-### Week 4: Data visualization and Exploratory Data Analysis
+### Week 4: Data visualisation and Exploratory Data Analysis
 
 <!-- This lecture overviews and introduces data visualisation formats and techniques and how to perform exploratory data analysis.
 
 The workshop we will discuss and practice with **data visualisation exploratory data analysis**. -->
-Data visualization and Exploratory Data Analysis: This lecture overviews and introduces data visualisation formats and techniques and how to perform exploratory data analysis. The workshop we will discuss and practice with data visualisation exploratory data analysis.
+Data visualisation and Exploratory Data Analysis: This lecture overviews and introduces data visualisation formats and techniques and how to perform exploratory data analysis. In the workshop we will discuss and practice with data visualisation exploratory data analysis.
 
 ### Week 5: Current Manufacturing Software / PLM / ERP /MES
 
 <!-- This lecture overviews and introduces current manufacturing software / PLM / ERP /MES.
 
 The workshop we will discuss and practice wit **data representation and relational databases**. -->
-Current Manufacturing Software / PLM / ERP /MES: This lecture overviews and introduces current manufacturing software / PLM / ERP /MES. The workshop we will discuss and practice with data representation and relational databases.
+Current Manufacturing Software / PLM / ERP /MES: This lecture overviews and introduces current manufacturing software / PLM / ERP /MES. In the workshop we will discuss and practice with data representation and relational databases.
 
+### Week 6: Guest lecture
 
-### Week 6: Machine Learning and Artificial Intelligence (ML/AI)
+This week is featuring no taught content but gives you time to work on your project. We will take a breather from taught lecture material and focus on project 1-on-1s, where we will go through projects with participants. These sessions will allow participants to discuss their ideas and work to this point with one of the organisers, and to receive interim feedback.
+
+### Week 7: Machine Learning and Artificial Intelligence (ML/AI)
 
 <!-- This lecture overviews and introduces machine learning and artificial intelligence in the context of manufacturing.
 
 The workshop we will discuss and practice with **Jupyter Notebooks + ML (vision based exercise)** with us and the peers. -->
-Machine Learning and Artificial Intelligence (ML/AI): This lecture overviews and introduces machine learning and artificial intelligence in the context of manufacturing. The workshop we will discuss and practice with Jupyter Notebooks + ML (vision-based exercise).
+Machine Learning and Artificial Intelligence (ML/AI): This lecture overviews and introduces machine learning and artificial intelligence in the context of manufacturing. In the workshop we will discuss and practice with Jupyter Notebooks and supervised machine learning approaches.
 
-### Week 7: Asset Management / internet of things (IoT)
+### Week 8: Asset Management / internet of things (IoT)
 
 <!-- This lecture overviews and introduces asset management and internet of things.
 
 In the workshop you will practice with **ML and visual exercises (Time series)** -->
-Asset Management / internet of things (IoT): This lecture overviews and introduces asset management and internet of things. In the workshop you will practice with asset data.
+Asset Management / internet of things (IoT): This lecture overviews and introduces asset management and internet of things. In the workshop you will practice and unsupervised machine learning approaches.
 
-### Week 8:  EBoM / MBoM / Geometry / Time Series 
+### Week 9:  EBoM / MBoM / Geometry / Time Series 
 
 <!-- This lecture overviews and introduces data representation / EBoM / MBoM / Geometry / Time Series 
 
 The workshop we will discuss and practice with  **data representation and relational databases** with us and the peers. -->
 EBoM / MBoM / Geometry / Time Series: This lecture overviews and introduces data representation / EBoM / MBoM / Geometry / Time Series The workshop we will discuss and practice with data representation and relational databases with us and the peers.
 
-### Week 9: Data for Industry 4 / New Business Models/Digital Twin / Thread
+### Week 10: Guest lecture: Data for Industry 4 / New Business Models/Digital Twin / Thread
 
 <!-- This lecture overviews and introduces data for the Industry 4.0, new business models, the digital twin and thread.
 
 The workshop we will discuss and practice with **presenting information** with us and the peers. -->
-Data for Industry 4 / New Business Models / Digital Twin: This lecture overviews and introduces data for the Industry 4.0, new business models, the digital twin and thread. The workshop we will discuss and practice with presenting information with us and the peers.
+This week is featuring no taught content but gives you time to work on your project. We will also host a guest lecture on one of the themes of Data for Industry 4 / New Business Models / Digital Twin. In the workshop we will discuss and practice with presenting information with us and the peers. This session will allow participants to discuss their ideas and work with one of the organisers, and to receive interim feedback.
 
-### Week 10: Assessment 
+### Week 11: Assessment 
 
 Assessment: Submitting your final project.
 [link to course catalogue entry on DPRS]

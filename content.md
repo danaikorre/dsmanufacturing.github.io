@@ -88,7 +88,7 @@ Data visualisation and Exploratory Data Analysis: This lecture overviews and int
 The workshop we will discuss and practice wit **data representation and relational databases**. -->
 Current Manufacturing Software / PLM / ERP /MES: This lecture overviews and introduces current manufacturing software / PLM / ERP /MES. In the workshop we will discuss and practice with data representation and relational databases.
 
-### Week 6: Guest lecture
+### Week 6: Guest lecture: Data Ethics 
 
 This week is featuring no taught content but gives you time to work on your project. We will take a breather from taught lecture material and focus on project 1-on-1s, where we will go through projects with participants. These sessions will allow participants to discuss their ideas and work to this point with one of the organisers, and to receive interim feedback.
 

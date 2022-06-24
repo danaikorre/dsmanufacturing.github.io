@@ -66,7 +66,7 @@ Browse further detail on the __[course structure](organisation.md)__.
 
 
 ## Course Delivery Information
-* Start Date: __04 February 2022__
+* Start Date: __00 Sept 2022__
 * Course Duration: __10 weeks__, complementing self-directed online and on site learning with one hands-on session per week via a virtual classroom, in addition to a Q&amp;A session to discuss lectures and corresponding exercises 
 * Total Hours: __50-100hrs__ (Lecture Hours 9; Workshop tutorial Hours 18; Independent Study Hours 30-73) 
 * Weekly investment: __5-10hrs__, including lectures, workshop tutorials, reading, Q&As, project work.
